@@ -1,0 +1,699 @@
+00:00:01 the following is a conversation with Roger Penrose physicist mathematician and philosopher at University of Oxford
+00:00:09 he has made fundamental contributions in many disciplines from the mathematical physics of general relativity and
+00:00:15 cosmology to the limitations of computational view of consciousness in his book the emperor's new mind roger
+00:00:23 writes that quote children are not afraid to pose basic questions that may embarrass us as adults to ask in many
+00:00:32 ways my goal with this podcast is to embrace the inner child that is not constrained by how one should behave
+00:00:40 speak and think in the adult world Roger is one of the most important minds of our time so it was truly a pleasure
+00:00:49 and an honor to talk with him was recorded before the outbreak of the pandemic for everyone feeling the
+00:00:56 medical psychological and financial burden of the crisis I'm sending love your way stay strong
+00:01:02 or in this together we'll beat this thing this is the artificial intelligence podcast if you enjoy it
+00:01:09 subscribe on YouTube review it with five stars an apple podcast supported on patreon or simply connect with me on
+00:01:17 Twitter at lex friedman spelled fri DM a.m. as usual i'll do a few minutes of ads now and never any ads in the middle
+00:01:23 that can break the flow of the conversation i hope that works for you and doesn't hurt the listening
+00:01:29 experience quick summary of the ads to sponsors expressvpn and cash app please consider supporting the podcast by
+00:01:36 getting expressvpn at expressvpn dot-com / Lex pod and downloading cash app and using code lex
+00:01:47 podcast this show is presented by cash app the number one finance app in the App Store when you get it
+00:01:54 use code lex podcast cash app lets you send money to friends buy bitcoin and invest in the stock market with as
+00:02:00 little as one dollar since cash app does fractional share trading let me mention that the order execution algorithm that
+00:02:07 works behind the scenes to create the abstraction of the fractional orders is an algorithmic marvel so big props to
+00:02:14 the cash app engineers for solving a hard problem that in the end provides an easy interface that takes a step up to
+00:02:21 the next layer of abstraction over the stock market making trading more accessible for new investors and
+00:02:27 diversification much easier so again if you get cash add from the App Store Google Play and use the code
+00:02:36 lex podcast you get $10 and cash app will also donate $10 the first an organization that is helping to advanced
+00:02:42 robotics and stem education for young people around the world this show sponsored by expressvpn get it at
+00:02:52 expressvpn comm / lex pod to get a discount and to support this podcast I've been using expressvpn for many
+00:03:01 years I love it it's easy to use press the big power on button and your privacy is protected and if you like you can
+00:03:08 make it look like your locations anywhere else in the world I might be in Boston now but I can make it look like
+00:03:16 I'm in New York London Paris or anywhere else this has a large number of obvious benefits certainly it allows you to
+00:03:23 access international versions of streaming websites like the Japanese Netflix or the UK who expressvpn works
+00:03:32 on any device you can imagine I use it on Linux shout out to a bond to Windows Android but it's available everywhere
+00:03:40 else to once again get it at expressvpn comm slash Lex odd to get a discount and to support this podcast and now here's
+00:03:51 my conversation with Roger Penrose you mentioned in conversation with Eric Weinstein on the portal podcast that
+00:03:58 2001 Space Odyssey is your favorite movie which aspect if he could mention of its representation of artificial
+00:04:06 intelligence science engineering connected with you there also seems there which is so amazing and how they
+00:04:15 science was so well done I mean people say oh no you interstellar is the this amazing movie which is the most
+00:04:22 scientific movie but I thought it's not a patch on 2001 I mean 2001 they really went into all
+00:04:30 sorts of details regarding you know getting me freefall well done and everything I thought it was extremely
+00:04:37 well done so just the details or memorizing and also things like scene where at the beginning they have these
+00:04:45 and said sort of human ancestors which is sort of right sort of Eames eggs becoming monolith
+00:04:52 yes and well it's the one where he throws the bone up into the air and then it becomes this I mean there's just an
+00:05:00 amazing sequence there what do you make of the monolith does it have any scientific or philosophical meaning to
+00:05:08 you this kind of thing marks innovation not really that comes from arthur c clarke I was a great fan of Ossie Clark so it's
+00:05:16 just a nice plot device yeah well that plot is excellent yes yeah so how nine thousand decides to get
+00:05:23 rid of the astronauts because he it she believes that they will interfere with the mission that's right no it's
+00:05:30 this view I don't know whether I disagree that question in a certain sense he was telling you it's wrong see
+00:05:38 the the machine seemed to think it was superior to the human and so it was entitled to get rid of the human beings
+00:05:47 and run the show itself what do you think how did the right thing do you think how's flawed evil or if we think
+00:05:56 about systems like how would we want how to do the same thing in the future what was the flaw there well you're basically
+00:06:02 question touching on questions you see it's just one supposed to believe that how I was actually conscious I mean it
+00:06:10 was played rather that way that's know how and was a conscious being because Hal showed some pain some
+00:06:20 cognizant the hell appeared to be cognizant of its of what it means to die yes and therefore had an inkling of
+00:06:29 cautious yeah I mean I'm not sure that aspect of it was made completely clear whether Hal was really are just a very
+00:06:37 sophisticated computer which really didn't actually have these feelings and somehow but you're right it didn't like
+00:06:46 the idea being turned off how does it change things if how was it wasn't conscious well it might say that it
+00:06:53 would be wrong to turn it off if it was actually conscious I mean these questions arise if you think I mean AI
+00:07:03 one of the ideas it's sort of a mixture in a sense you say if it's trying to do everything a human can do and if you
+00:07:11 take the view that consciousness is something which would come along when the computer is sufficiently complicated
+00:07:19 sufficiently whatever criteria you used to characterize its consciousness in terms of some can come
+00:07:29 national criterion so how does consciousness change our evaluation of the decision the hell made it's not to
+00:07:37 say that people have been confused about this because if they say these machines will become conscious but just simply
+00:07:45 because it's the degree of computation and when you get beyond that certain degree of computation it will become
+00:07:50 conscious then of course you have all these problems I mean you might say well one of the reasons you're doing AI is
+00:07:57 because you understand the device at some distant planet and you don't want to send a human out there because then
+00:08:02 you'd have to bring it back again and that's cost you far more than just sending it there and leaving it there
+00:08:08 but if this device is actually a conscious entity then you have to face up to the fact that that's immoral
+00:08:16 and so the mere fact that you're making some AI device and getting that thinking that removes your responsibility to it
+00:08:27 would be incorrect and so this is a kind of plot floor and that kind of viewpoint I'm not sure how you know people who
+00:08:35 take it very seriously I'm gonna have this curious conversation with with I'm going to forget names and I'm afraid
+00:08:42 because this is what happens to me in the wrong moment I've said I'd Douglas have said this after and he's written
+00:08:50 this book god I wish I liked I thought it was a fantastic book but I didn't agree with his conclusion from girdle's
+00:08:57 theorem I think he got it wrong is he well just tell you my story you see because I'd never met him and then I
+00:09:04 knew I was going to meet him at the occasion IRS she's coming anyone to talk to me and I said that's fine
+00:09:11 and I thought in my mind well I'm going to paint him into a corner you see use his arguments to convince him that
+00:09:19 certain numbers are conscious you know some integers large enough integers are actually conscious and this was going to
+00:09:25 be my reductio ad absurdum so i started having this argument and he simply leptin to the corner he didn't even need
+00:09:31 to be painted into it he took the view that certain numbers were conscious I thought that was a reductio ad absurdum
+00:09:37 but he seemed to think it was perfectly reasonable point of view with out the absurdum there yes interesting
+00:09:44 but the thing you mentioned about how is the intuition that a lot of the people at least in the artificial intelligence
+00:09:51 world had and have I think they don't make it explicit but that if you increase the power of computation
+00:09:59 naturally consciousness will emerge yes I think that's what they think but basically that's because they can't
+00:10:03 think of anything else well that's right and so it's a reasonable thing I mean you think what the brain do what does do
+00:10:09 a lot of computation I think most of what you actually call computation is done by the cerebellum I mean this is
+00:10:16 one of the things that people don't much mention and when I come to this subject from the outside and certain things
+00:10:23 strike me which you hardly ever hear mentioned em you hear mentioned about the left-right business they move your
+00:10:31 right arm that's you're on the left side of the brain and and so on and all that sort of stuff and it's more than that if
+00:10:39 you you have this plots of different parts of the brain they're they're two of these these things called the
+00:10:44 homunculus which you see these pictures of a distorted human figure and showing different parts of the brain controlling
+00:10:53 different parts of the body and it's not simply things like okay the right hand is controlled and since both sensory and
+00:11:03 motor on the left side left hand on the right side it's more than that vision is at the back basically your feet at the
+00:11:12 top I mean so it's about the worst organization you can imagine right yeah so it can't just be a mistake in nature
+00:11:18 there's something going on there and this is made more pronounced when you think of the cerebellum the cerebellum
+00:11:28 has when I was first thinking about these things I was told it had half as many neurons or something they're bad
+00:11:34 comparable and now they tell me it's got far more neurons in the cerebrum then cerebrum is this sort of convoluted
+00:11:41 thing at the top people always talk about cerebellum is this thing just looks a bit like a ball of wool to the
+00:11:47 back underneath it's got more neurons it's got more connections computationally it's got
+00:11:56 much more going on than this friend the cerebrum but as far as we know although it's slightly controversial the
+00:12:04 cerebellum is entirely unconscious so the actions you have a pianist who complains incredible piece of music and
+00:12:11 you think of any moves this little finger until this was key to get a hit at just the right moment does he or she
+00:12:23 consciously will that movement no ok the consciousness is coming in it's probably to do with the feeling of the piece of
+00:12:29 music that's being performed and that sort of thing which is going on but the details in what's going on are controlled
+00:12:36 I would think almost entirely by the cerebellum that's where you have this precision and they're they're really
+00:12:46 detailed once you get I mean you think of a tennis player or something does that tennis player think exactly harder
+00:12:52 which muscles should be moved in what direction and so of course not but he or she will maybe think well if the ball is
+00:12:58 angled in such a way in that corner there will be tricky for the opponent and the details of that are all done
+00:13:09 largely with the cerebellum that's where all the precise motions but it's unconscious so why is it interesting to
+00:13:16 you that so much computation is done in the cerebellum and yet is unconscious because it doesn't it's it's the view
+00:13:24 that somehow it's computation which is producing the consciousness and it's here you have an incredible amount of
+00:13:34 computation going on and as far as we know it's completely unconscious so why what's the difference and I think it's
+00:13:43 an important thing what's the difference why is the cerebrum but all this very peculiar stuff that very hard to see on
+00:13:51 a computational perspectives like having me everything have to cross over under the other size and do something which
+00:13:58 looks completely inefficient and you've got funny things like the frontal-lobe when the prett are where
+00:14:05 did we call the Louvre and the place where they come together you have the different parts the control if you
+00:14:14 wanted to do with motor and the other to do with sensory and they're sort of opposite each other rather than being
+00:14:21 connected by a nuclear pie it's not just though you've got electrical circuits there's something else going on there so
+00:14:28 it's it's just the idea that it's like a complicated computer it just seems to me to be completely missing the point there
+00:14:36 must be a lot of computation going on but the cerebellum seems to be much better at doing that then the cerebrum
+00:14:45 is so for sure I think what explains it it's as like half hope and half we don't know what's going on and therefore from
+00:14:52 the computer science perspective you hope that a Turing machine can be perfectly can achieve general
+00:14:58 intelligence well you have this wonderful thing about during and girdle and church and carry and various people
+00:15:10 particularly Turing and I guess post was the other one these people who develop the idea of what a computation is and
+00:15:19 there were different ideas of what a computer developed differently I mean church's way of doing it was very
+00:15:25 different from Turing's but then they were shown to be equivalent and so the view emerged that what we mean by a
+00:15:35 computation is a very clear concept and one of the wonderful things that during did was to show that you could have what
+00:15:43 we call the universal Turing machine it you just have to have a certain finite device okay it has to have an unlimited
+00:15:49 storage space which is accessible to it but the actual computation if you like is performed by this one universal
+00:15:57 device and so the view comes away well you have this universal Turing machine and maybe the the brain is something
+00:16:05 like that a universal Turing machine and it's got maybe not an unlimited storage with a huge storage accessible through
+00:16:14 it and this model is one which is what's used in ordinary computation it's a very powerful model
+00:16:22 and the universalness of computation it's very useful you can have some problem and you may not see immediately
+00:16:30 how to put it onto a computer but if it is something of that nature then there were all sorts of sub programs and
+00:16:37 subroutines when all the I mean I learned a little bit of computing when I was when I was a student but not very much
+00:16:44 it was enough to get the general ideas and there's something really Pleasant about a formal system like that yeah
+00:16:50 well you can start discussing about what's provable what's not these kinds of things and you've got it you know a
+00:16:55 notion which is an absolute notion this notion of computability and you really address when things what mathematical
+00:17:02 problems are computed ly solvable and what chance so and it's a very beautiful area of mathematics and it's a very
+00:17:10 powerful area of mathematics and it underlies the whole sort of once I have their principles of computing machines
+00:17:20 that we have today could you say what is Gaydos and completeness theorem and how does it maybe also say is it
+00:17:28 heartbreaking to you and how does it interfere with this notion of computation preciousness sure where the
+00:17:37 ideas basically ideas which I formulated in my first year as a graduate student in Cambridge I did my undergraduate work
+00:17:45 in mathematics in London and I had a colleague Ian Percival we used to discuss things like computational
+00:17:52 logical systems quite a lot I'd heard about girdles theorem a bit worried by the idea that it seemed to say there
+00:17:57 were things in mathematics that you could never prove and so when I went to Cambridge as a graduate student I went
+00:18:07 to various courses you see I was doing pure mathematics I was doing algebraic geometry of a sort a little bit
+00:18:14 different from my supervisor in people but it was an area and I was interested I got particularly interested in three
+00:18:25 lecture courses that were nothing to do with what I was supposed to be doing when was the course by Hermann Bondi on
+00:18:32 Einstein's general theory of relativity which was a beautiful course he was a an amazing lecturer brought these things
+00:18:40 alive absolutely and now that was a course on quantum mechanics given my great physicist Paul Dirac very
+00:18:49 beautiful course in a completely different way it was he was very kind of organized and never got excited about
+00:18:59 anything seemingly but it was extremely well-put-together and I found that amazing too third course there was
+00:19:05 nothing to do with what I should be doing was a course on mathematical logic I got I say my discussions were being
+00:19:14 Percival was incompleteness theorem already deeply within mathematical logic space was were you introduced I was
+00:19:22 introduced to it in detail by the course but Burstein and he it was two things he described which were very fundamental to
+00:19:32 my understanding one was Turing machines and the whole idea of computability and all that so that was all very much part
+00:19:39 of the course the other one was the girl of theorem and it wasn't what I was afraid it was to tell you there were
+00:19:45 things in mathematics you couldn't prove it was basically and he phrased it in a way which often people didn't and if you
+00:19:54 read Douglas Hofstadter's book he doesn't you see but Steen made it very clear and also not in a sort of public
+00:20:02 lecture that he gave to a mathematical I think it may be the atom Society one of the mathematical undergraduate societies
+00:20:08 and he made this point again very clearly that if you've got a formal system of proof so suppose what you mean
+00:20:17 by proof is something which you could check with a computer so to say whether you've got it right or not you've got a
+00:20:23 lot of steps have you carried this computational procedure well following the proof steps of the proof correctly
+00:20:34 that can be checked by an algorithm by a computer so that's the key thing now what have to now you see is this any good if
+00:20:47 you've got an algorithmic system which claims to say yes this is right this you've proved it correctly this is true
+00:20:54 if you've proved it if you made a mistake it doesn't say it's true or false but if you have if you've done it
+00:21:00 right then the conclusion you've come to is correct now you say why do you believe it's correct because you've
+00:21:05 looked at the rules and you said well okay that one's all right yeah and that one's all right what about that harm not
+00:21:10 yeah I see I see why it's all right okay you go through all the rules you say yes following those rules if it says yes
+00:21:18 it's true it is true they've got to make sure that these rules are ones that you trust is if you follow the rules and it
+00:21:26 says it's a proof is the result actually true right and that your belief that's true depends upon looking at the rules
+00:21:35 and understanding them now what girl shows that if you have such a system then you can construct a statement of
+00:21:43 the very kind that it's supposed to look at a mathematical statement and you can see by the way it's constructed and what
+00:21:54 it means that it's true but not provable by the rules that you've been given and it depends on your trust in the rules do
+00:22:02 you believe that the rules only give you truth if you believe the rules on you give you truth then you believe this
+00:22:08 other statement is also true I found this absolutely mind-blowing when I saw this it blew my mind oh my god you can
+00:22:18 see that this statement is true it's as good as any proof because it only depends on your belief in the
+00:22:24 reliability of the proof procedure that's all it is and understanding that the coding is done correctly and it
+00:22:33 enables you to transcend that system so whatever system you have as long as you can understand what it's doing and why
+00:22:41 you believe it only gives you truths then you can see beyond that system now how do you see beyond it what is it that
+00:22:50 enables you to transcend that system well it's your understanding of what the system is actually saying
+00:22:56 and what the statement and you've constructed is actually staying just this quality of understanding whatever
+00:23:05 it is which is not governed by rules it's not a computational procedure so this idea of understanding is not going
+00:23:11 to be within the rules of the sort of within the formal system yes yes rules anyway yeah because you have understood
+00:23:19 them to be rules which only give you truths they be no point in it otherwise I'm a people say well ok this is what
+00:23:27 this one said the rules as good as any other well it's not true you see you have to understand what the rules mean
+00:23:33 and why does that understanding of the mean give you something beyond the rules themselves and that's that's what it was
+00:23:40 that's what blew my mind it's somehow standing why the rules give you truths enables you to transcend the rules so
+00:23:47 that's where I mean even at that time that's already where the thought entered your mind that the idea of understanding
+00:23:55 or we can start calling it things like intelligence or even consciousness is outside the rules yes since I've always
+00:24:03 concentrated on understanding you know people say people somebody knows well we know but about creativity that's
+00:24:08 something a machine can't do is great well I don't know what is creativity and I don't know you know somebody can put
+00:24:14 some funny things on a piece of paper and say that's creative and you could make a machine do that is it really
+00:24:19 creative I don't know he said I worry about that one I sort of agree with it in a sense but it's so hard to do
+00:24:25 anything with that statement but understanding yes you can you can make go see that understanding whatever it is
+00:24:33 and it's very hard to put your finger on it that's absolutely true can you try to define or maybe dance around a
+00:24:42 definition of understanding to some degree but I don't often once it's about this but there is something there which
+00:24:51 is very slippery it's something like standing back and it's got to be something you see it's also got to be
+00:24:57 something which was of value to our remote ancestors because I sometimes there's a cartoon which I drew sometimes
+00:25:05 showing you how all these there's a in the foreground you see this mathematician just doing some mathematical theorem
+00:25:10 this little bit different job in that theorem but let's not go into that he's trying to prove some theorem and he's
+00:25:17 about to be eaten by a saber-toothed Tigers he's hiding in the in the undergrowth you see and in the distance
+00:25:26 you see his his cousins building growing crops building shelters domesticating animals and in this light foreground you
+00:25:33 see they built a mammoth trap and this poor old mammoth was falling into a pit you see and all these people around him
+00:25:40 are about to grab him you see and well you see those are the ones who the quality of understanding which goes with
+00:25:48 all the it's not just a mathematician doing some mathematics this understanding quality is something else
+00:25:57 which has been a tremendous advantage to us not just to us see I don't think consciousness is limited to humans
+00:26:05 that's the interesting question at which point if it is indeed connected to the evolutionary process yeah
+00:26:11 at which point is we pick up this very hard question it's certainly I don't think it's primates you know you see
+00:26:20 these pictures of African hunting dogs and how they they can plan amongst themselves how to catch the antelopes
+00:26:26 didn't some of these and David Attenborough films I think this probably was one of them and you can see they're
+00:26:32 hunting dogs and they divide themselves into two groups and they go in two routes two different routes one of them
+00:26:39 goes and they sort of hide next to the river and the other group goes around and they start yelping at these then
+00:26:47 embark I guess whatever noise hunting dogs do the antelopes and they sort of round them up and they chase them in the
+00:26:55 direction of the river and they're the other ones just waiting for them just to get because this when they get to the
+00:27:00 river it slows them down and so they pounce on them so they've obviously planned this all out somehow I have no
+00:27:09 idea how and there is some element of conscious planning as far as I can see I don't think it's just some kind of
+00:27:18 there's so much of AI these days they call bottom-up systems is it yeah where you have neural networks and they
+00:27:25 and they you give them a zillion different things to look at and and then they sort of you can choose one thing
+00:27:34 over another this because it's seen so many examples and picks up on the wrong signals which your mom may not even be
+00:27:42 conscious of and that doesn't feel like understanding there's no understanding and that whatsoever so well you're being
+00:27:50 a little bit human centric so well what exactly I'm not with the dogs Emma no you're not sorry I'm not human centric
+00:27:58 but I misspoke by a la biologie centric is it possible that consciousness would just look slightly different well I'm
+00:28:04 not saying it's biological because we don't know all right I think other examples of the elephants is a wonderful
+00:28:12 example to where they it's just I think this was about that's number one well they the elephants have to go from
+00:28:18 along with the troop of them have to go long distances and the leader of a troop is a female they are apparently and this
+00:28:26 female that she had to go all the way from one part of the country to another and at a certain point she made a detour
+00:28:35 and they went off in this big detour all the troop came with her and this is where her sister had died and there were
+00:28:41 her bones lying around and they go and pick up the bones and they hand it round and they caress the bones and then they
+00:28:47 put them back and they will go back again how am i doing that's so interesting I mean there's something
+00:28:56 going on there's no clear connection with natural selection there's just some deep feeling going on there we have to
+00:29:07 do with their conscious experience and I think it's something that your overall is advantageous a natural selection but
+00:29:16 not directly to do with natural selection I like that there's something going on and go on going on there yeah
+00:29:24 like I told young Russian so I tend to romanticize all things of this nature that that it's not merely cold hard
+00:29:33 computation perhaps I could just slightly answer your question you were asking me what is it
+00:29:40 there's something about sort of standing back and thinking about your own thought processes I mean there is something like
+00:29:48 that in the girdle thing because it's just you're not following the rules you're standing back and thinking about
+00:29:55 the rules and so there is something that you might say you think about you're doing something that you think what the
+00:30:00 hell am i doing and you sort of stand back and think about what it is that's making you think such a way just take a
+00:30:07 step back outside this the game you've been playing yeah you back up and you think about yeah you're just not playing
+00:30:13 the game anymore you're thinking about what the hell you're doing in playing this game and that's that's somehow it's
+00:30:20 it's not very precise descriptive but somehow feels very true that that's somehow understandings yeah this kind of
+00:30:28 reflection a reflection yes yeah there is some it's a bit hard to put your finger on but there is something there
+00:30:33 which I think maybe could be unearthed at some point and see this is really what's going on why conscious beings
+00:30:41 have this advantage what it is that gives them an advantage and I think it goes way back I don't think we're
+00:30:46 talking about the hunting dogs and the elephants that's pretty clear that octopuses have the same sort of quality
+00:30:54 and we call it consciousness yeah I think so seen enough examples of the way that
+00:31:01 they behave and the evolution route is completely different does it go way back to some common
+00:31:07 ancestor or did it come separately my hope is it something simple but the hard question if there's a hardware
+00:31:14 prerequisite you know we have to develop some kind of hardware mechanisms and our computers like basically as you suggest
+00:31:23 I'll get to in a second we kind of have to throw away the computer as we know today yeah the deterministic machines we
+00:31:29 know today is it tried to create it I mean why my hope of course is not but well I should go really back to the
+00:31:39 story which instance I'm finished because I went to these three courses you see when I was a graduate student
+00:31:45 and so I started to think I'm really I'm a pretty view what you might call a materialist in the sense of
+00:31:52 thinking that there's no kind of mystical or something around which comes in from who knows where you still that
+00:31:58 yeah you still throw your life into me I don't like the word materialist because this is just we know what material is
+00:32:05 and that's that is what is a bad word because there's no mystical it's not some mystical something which is not not
+00:32:12 treatable my science it's so beautifully put just a pause on that for a second your materialist but you acknowledge
+00:32:18 that we don't really know what the materialist that's right I mean I like to call myself a scientist that's the
+00:32:28 first but it means that yes we see the question goes on here so I began thinking okay if consciousness or
+00:32:36 understanding is something which is not a computational process what can it be and I knew enough from my undergraduate
+00:32:44 work I knew about Newtonian mechanics and I knew how basically you could put it on a computer there is a fundamental
+00:32:54 issue which is it important or not that computation depends upon discrete things so using discrete elements whereas the
+00:33:05 physical laws depend on the continuum now is this something to do with it is it the fact that we use the continuum in
+00:33:14 our physics and if we model our physical system we use discrete systems like ordinary computers I came to the view
+00:33:21 that that's probably not it I might have to retract on that someday but the view was no you can get close
+00:33:29 enough it's not altogether clear I have to say but you can get close enough and you know when to this course and I'm
+00:33:37 Bondy on general relativity and I thought well you can put that on a computer because that was a long time
+00:33:43 before people and I've sort of grown up with this how people have done better and better calculations and they could
+00:33:48 work out black about black holes and they can then work out how black holes can interact with each other spar around
+00:33:54 and what kind of gravitational waves can add and there's still a very impressive piece of computational work how you can actually
+00:34:01 work out the shapes of those signals and now we have LIGO seeing these signals and they say yeah there's this black
+00:34:07 hole spiraling through each other this is just a vindication of the power of computation in describing einstein's
+00:34:16 general as if it a so in that case we can get close we would computation we can get close to our understanding of
+00:34:24 the physics you can get very very close now is that close enough you see and then I went to this course by Dirac they
+00:34:31 see I think it was the very first lecture that he gave and he was talking about the superposition principle and he
+00:34:40 said if you have a particle you usually think of particle can be over here or over there but in quantum mechanics it
+00:34:46 can be over here and over there at the same time and you have these states which involve a superposition in some
+00:34:55 sense of it different locations for that particle and then he got out his piece of chalk some people say broke it into
+00:35:02 as a kind of illustration of how the piece of chalk might be over here and over there at the same time and he was
+00:35:09 talking about this and I my mind wandered I don't remember he what he said well I can remember he's just moved
+00:35:17 on to the next topic and something about energy he'd mentioned which I had no idea what had to do with anything
+00:35:22 and so I'd been struck with this and worried about it ever since it's probably just as well I didn't hear his
+00:35:28 explanation because it was probably one of these things to calm me down and not worry about it anymore it's in my case
+00:35:36 I've worried it about it ever since so I thought maybe that's the catch there is something in quantum mechanics where are
+00:35:43 these super positions become one or the other and that's not part of quantum mechanics there's something missing in
+00:35:51 the theory the theory is incomplete it's not just incomplete it's in a sentence that's not quite right because if you
+00:35:58 follow the equation the basic equation of quantum mechanics that's the Schrodinger equation you could put that
+00:36:03 on a computer too there are lots of difficulties about how many parameters you have to put in so on it can be very
+00:36:08 tricky but nevertheless it is a computational process modulo this question about the
+00:36:15 continuum that's before but it's not clear that makes any difference so our theories of quantum mechanics maybe
+00:36:22 missing the same element that the universal Turing machine is missing about consciousness yes yeah this is the
+00:36:28 viewer held is that you need a theory and that that what people call the reduction of the state or the collapse
+00:36:36 of the wavefunction which you have to have otherwise quantum mechanics doesn't relate to the world we see to make it
+00:36:41 relate to the world we see you've got to break the quantum you've got to break the Schrodinger equation Schroeder
+00:36:49 himself was absolutely by this idea he's owned his own equation I mean that's why he introduced this famous Schrodinger's
+00:36:56 cats as a thought experiment he's really saying look this is where my equation leads you into it there's something
+00:37:02 wrong something we haven't understood which is basically fundamental and so I was trying to put all these things
+00:37:09 together and said well it's got to be the non computability comes in there and I also can't quite remember right when I
+00:37:16 thought this but it's when gravity is involved in quantum mechanics it's the combination of those two and that's that
+00:37:24 point when we you have good good reasons to believe this this came much later but I have good reason to believe that the
+00:37:32 principles of general relativity and those of quantum mechanics most particularly it's the basic principle of
+00:37:40 equivalence which goes back to Galileo if you fall freely you eliminate the gravitational field so you're imagine
+00:37:50 Galileo drawing dropping his big rock and his little rock from the Leaning Tower whether he actually ever did that
+00:37:56 or not pretty irrelevant and as the rocks fall to the ground you'd have a little insect sitting on one of them
+00:38:02 looking at the other one and it seems to think oh there's no gravity here of course it hits ground and then realized
+00:38:08 something's difference going on but when it's in freefall the gravity has been eliminated Galileo understood that very beautifully
+00:38:17 he gives these wonderful examples of fireworks and you see the fireworks and explode and you see the sphere of
+00:38:24 sparkling fireworks this remains a sphere as it as though there were no gravity so he
+00:38:31 understood that principle but he couldn't make a theory out of it Einstein came along used exactly the
+00:38:37 same principle and that's the basis of Einstein's general theory Elizabeth II know there is a conflict this is
+00:38:45 something I did much much later so this wasn't those days that's much later you can see there is a basic conflict
+00:38:53 between the principle of superposition I think that Dirac was talking about and the principle of general Co very well
+00:39:01 principle of equivalence gravitational fields equivalent to an acceleration P pause for a second what is the principle
+00:39:07 of equivalence it's this Galileo principle that we can eliminate at least locally you have to be in a small
+00:39:15 neighborhood because you see if you have people dropping rocks all around the world somewhere you can't get rid of it
+00:39:20 all at once but in the local neighborhood you can eliminate the gravitational field by falling freely
+00:39:27 with it and we now see this with astronauts and they don't you know the earth is right there you can see the
+00:39:33 great globe of the earth right beneath them but they don't care about it they as far as they're concerned there's no
+00:39:40 gravity they fall freely within the gravitational field and that gets rid of the gravitational field and that's the
+00:39:47 principle of equivalence so what's the was the contradiction what's the tension with superposition  well what so we
+00:39:55 just a backtrack for a second just to see if we can weave a thread through it all yes so you wish she started to think
+00:40:03 about consciousness as potentially needing some of the same not mystical but some of the same imagine see this is
+00:40:11 a complicated story so you know people think oh I'm drifting away from the point of something but I think it is a
+00:40:17 complicated story so what I'm trying to say I mean I try to put it in a nutshell it's not so easy I'm trying to say that
+00:40:25 whatever consciousness is it's not a computation yes it's not a physical process which can be described by
+00:40:34 computation but it nevertheless could be so one of the interesting models the you've proposed as the orchestrated
+00:40:43 objective reduction yeah that's going from there you say so I say I have no idea so I wrote this book through my
+00:40:51 scientific career I thought you know when I'm retired I have enough time to write a sort of a popular book which I
+00:41:01 will explain my ideas and puzzles but I like beautiful things about physics and mathematics and this puzzle about
+00:41:08 computability and consciousness and so on and in the process of writing this book well I thought I'd do it when I was
+00:41:15 retired I didn't actually I would didn't wait that long because there was a radio discussion between edward fredkin and
+00:41:23 marvin minsky and they were talking about what computers could do and they were
+00:41:30 entering and entering a big room they imagined entering this big room with the other end of the room two computers were
+00:41:37 talking to each other and as you walk up to the computers they will have communicated to each other more ideas
+00:41:46 concepts things than the entire human race had ever commute so I thought well know where you're
+00:41:52 coming from but I just don't believe you there's something missing that's it's not that so I thought well I should
+00:42:01 write my book and so I did it was roughly the same time Stephen Hawking this writing his brief history of time
+00:42:11 and Hades at some point the book you're talking about the emperor's new mind that's right and both are and incredible
+00:42:17 books the brief history of time and I'm person you mind yes it was quite interesting because he got he told me
+00:42:23 he'd got some Carl Sagan I think to write that forward good gosh what am I gonna do I'm not gonna get anywhere
+00:42:31 unless I get somebody so I know I know Martin Gardner so I wonder if he'd do it so he did and it is a very nice forward
+00:42:38 so that so that's an incredible book and some of the the same people you mentioned Ed Franken which I guess of
+00:42:45 expert systems Fame and Minsky of course people know in the eye world but they represent the artificial intelligence
+00:42:52 that do hope and dream that intelligences am i thinking well you know I see where they're coming from and
+00:42:58 they're like from exercise rectus oh yeah you're right but that's not my perspective so I
+00:43:03 thought I had to say it and as I was writing my book you see I thought well I don't really know anything about
+00:43:08 neurophysiology what am i doing writing this book so I certainly reading up about neurophysiology and I rate I'm
+00:43:14 nothing I'm trying to find out well how it is the nerve signals could possibly preserve quantum coherence and all I
+00:43:20 read is that the second electrical signals which go along the nerves create some effects through the brain there's
+00:43:28 no chance you can isolate it so this is hopeless so I come to the end of the book and I'm more or less give up and just
+00:43:34 think of something which I didn't believe in this maybe this is the way around it but no and then you say I
+00:43:41 thought well maybe this book well at least stimulate young people to do science or something and I got all these
+00:43:47 letters from old people instead he's the only people who could had time to read my book so I mean except for
+00:43:55 Stuart Hameroff except for Stuart Hameroff you don't have a rough road to me and he said I think you're missing
+00:44:02 something you don't know about microtubules do you didn't put it quite like that but that was more or less it
+00:44:07 and he said this is what you really need to consider so I thought oh my god yes that's a much more promising structure
+00:44:15 so I mean fundamentally you were searching for the source of a non computable source of consciousness
+00:44:24 within the human brain yeah in the biology and so what are mark if I may ask what are microtubules well you see I
+00:44:34 I was ignorant in what address I never came across them and in in in the books I looked at that's I only read rather
+00:44:41 superficially which is true but I didn't know about microtubules Stuart I think one of the things here was impressed him
+00:44:48 about them is when you see pictures of mitosis that's a cell dividing and you see all the chromosomes and the
+00:44:55 chromosomes get their gate or gate line and then they get pulled apart and so that as the cell divides the half the
+00:45:02 chromosomes go you know how their web is divided into the two pass and they go to different ways and what
+00:45:10 is it that's pulling them apart well those are these little things called microtubules and so he starts to get
+00:45:16 interested in them and he formed the view well he was his day job or night job of where every call it is to put
+00:45:23 people to sleep except he doesn't like calling asleep because it's different general anesthetics in a reversible way
+00:45:31 so you want to make sure that they don't experience the pain that would otherwise be something that they feel and
+00:45:40 consciousness is turned off for a while and it can be turned back on again so it's crucial that you can turn it off
+00:45:46 and turn it on and what do you do when you're doing that what do general anesthetic gases do and see he formed
+00:45:55 the view that it's the microtubules that they affect and the details of why he formed that view is not wasn't clear to
+00:46:03 me but there but there's an interesting story he keeps talking about but I've found this very exciting because I
+00:46:12 thought these structures these little tubes which inhabit pretty well ourselves it's not just neurons
+00:46:20 apart from red blood cell red blood cells they inhabit pretty well all the other cells in the body but they're not
+00:46:25 all the same kind you get different kinds of microtubules and the ones that excited me the most and this is may
+00:46:34 still not be totally clear but they're ones that excited me most were the ones that the only ones that I knew but at
+00:46:41 the time because they were there very very symmetrical structures and I had reason to believe that these very
+00:46:48 symmetrical structures would be much better at preserving a quantum state quantum coherence preserving the thing
+00:46:57 without you just need to cut preserve certain degrees of freedom without them leaking into the environment once they
+00:47:03 leak into the environment your loss so you ought to preserve these quantum states at a level which the state
+00:47:13 reduction process comes in and that's where I think the non computability comes in and it's the measure
+00:47:19 process in quantum mechanics what's going on so something about the the measurement process what's going on
+00:47:25 something about the structure on the microtubules yes your intuition says maybe there's something here maybe this
+00:47:34 kind of structure allows for the the mystery the there was a moment of chance yes it just struck me that partly it was
+00:47:41 the symmetry because there is a feature of symmetry you can predict preserve quantum coherence much better with
+00:47:48 symmetrical structures there's a good reason for that and that impressed me a lot I didn't know the difference between
+00:47:55 the a lattice and B lattice at that time which could be important now that could in medicine this year which isn't talked
+00:48:02 about much but that's some in some sense details we could take a step back just to say these people are not familiar so
+00:48:10 this this this was called the orchestrated objective reduction idea or orko R which is a biological philosophy
+00:48:19 of mind the postulates that consciousness originates at the quantum level inside neuron so that has to do
+00:48:25 with your search for where where is it coming from so that's counter to the notion that consciousness may arise from
+00:48:31 the computation performed by the synapses yes the key point here sometimes people say it's because it's
+00:48:42 quantum mechanical it's not just that see it's it's it more outrageous than that you see this is one reason I think
+00:48:48 we're so far off from it because we don't even know the physics right you see it's not just quantum mechanics
+00:48:55 people say oh you know quantum systems and biological structures no well he's starting to see that some basic
+00:49:03 biological systems does depend on quantum I mean look you the first place all of chemistry is quantum mechanics
+00:49:11 people got used to that so they don't count that so you said let's not count come on chemistry we sort of got the
+00:49:19 hang of that I think but you have quantum effects which are not just chemical in photosynthesis and this is
+00:49:27 one of the striking things in the last several years that photosynthesis seems to be a basically quantum process which
+00:49:38 is not simply create chemical it's using quantum mechanics in a very basic way so you can start saying oh well with
+00:49:45 photosynthesis is based on quantum mechanics why not behave you have neurons and things like that
+00:49:52 maybe there's something which is a bit like photosynthesis in that respect but what I'm saying is even more outrageous
+00:49:59 than that because those things are talking about conventional quantum mechanics now my argument says that
+00:50:07 conventional quantum mechanics if you're just following the Schrodinger equation that's still competing well so you've
+00:50:14 got to go beyond that so you've got to go to where quantum mechanics goes wrong in a certain sense you have to a little
+00:50:24 bit careful about that because the way mixture of two different processes one of them is the Schrodinger equation
+00:50:38 which is a an equation my Schrodinger wrote down and it tells you how the system the state of a system evolves it
+00:50:44 evolves according to this equation completely deterministic but it involves in two ridiculous situations and this
+00:50:52 was much frightening it was very much pointing out with his cat he said you follow my equation that's Schrodinger's
+00:50:59 equation and you could say that you have two cat a cat which is dead and alive at the same time that would be the
+00:51:06 evolution of the Schrodinger equation would lead to a state which is the cat being dead and alive at the same time
+00:51:14 and he's more or less saying this is an absurdity people nod I say oh well Schrodinger said you couldn't have a cat
+00:51:20 with deadly it's not that you see he was saying this is an absurdity there's something missing and that the reduction
+00:51:29 of the state or the collapse of the wavefunction or whatever it is is something which is has to be understood
+00:51:36 it's not following the Schrodinger equation it's not the way we conventionally do quantum mechanics
+00:51:44 there's something more than that and it's easy to quote Authority here because Einstein at least three of the
+00:51:54 greatest physicists of 20th century who were very fundamental in developing quantum mechanics Einstein one of them
+00:52:03 Schrodinger another Dirac another you have to look carefully it directs writing because he didn't tend to say
+00:52:09 this out loud too much because he was very cautious about what he said you find the right place and you cease he
+00:52:15 says quantum mechanics is a provisional theory we need something which explains the collapse of a wavefunction we need
+00:52:27 to go beyond the theory we have now I happen to be one of the kinds of people there are many there is a whole group of
+00:52:33 people they're all considered to be a bit you know bit Mavericks who believe that quantum mechanics needs to be
+00:52:40 modified there's a small minority of those people which were really a minority who think that the way in which
+00:52:48 it's modified has to be with gravity and there is an even smaller minority of those people who think it's a particular
+00:52:55 way that I think it is you see so so those are the quantum gravity folks for what's well you see quantum gravity is
+00:53:01 already not this because when you say quantum gravity what you really mean is quantum mechanics and Clyde -
+00:53:08 gravitational Theory so you say let's take this wonderful formalism of quantum mechanics and make gravity fit into it
+00:53:17 so that is what quantum gravity is meant to be now I'm saying you've got to be more even-handed that gravity affects
+00:53:24 the structure of quantum mechanics - it's not just you quantize gravity you've got to gravity as quantum
+00:53:30 mechanics and it's it's a two-way thing but then when you even get started so that you're saying and we have to figure
+00:53:38 out totally new ideas indirectly no yes it's you were stuck I don't have a theory that's the trouble so this is a
+00:53:45 big problem if you say okay well what so there I don't know so we may be in the very early days sort of it is in the
+00:53:51 very early days and there but just making this point yes you see Stuart Hameroff to be open Rose says that it's got to be
+00:53:59 a reduction of the state and so so let's use it the trouble is Penrose doesn't say that
+00:54:05 Penrose says well I think that no no we have no experiments as yet which shows that yes there are experiments which are
+00:54:13 being thought through and which I'm hoping will be performed there is an experiment which is being developed by
+00:54:20 dirt Romney Stowe who is I've known for a long time who shares his time between Leiden in the Netherlands and Santa
+00:54:28 Barbara in the US and he's been working on an experiment which could perhaps demonstrate that quantum mechanics as we
+00:54:37 now understand it if you don't bring in the gravitational effects it has to be modified and and then there's also
+00:54:46 experiments that are underway that kind of look at the microtubule side of things to see if there's in the biology
+00:54:53 you could see something like that could you briefly mention it because that's a really sort of one of the only
+00:55:00 experimental attempts in the very early days of even yeah about I think there's there's a very serious area here which
+00:55:07 is what Stuart Hameroff is doing and I think it's very important one of the few places that you can really get a bit of
+00:55:14 a handle on what consciousness is is what turns it off and when you're thinking about general anesthetics it's
+00:55:22 very specific these things turn consciousness off what the hell do they do well Stuart and a number of people
+00:55:32 who work with him and others happen to believe that the general anesthetics directly effect microtubules and there
+00:55:39 is some evidence for this I don't know how strong it is and how watertight the cases but I think there is some evidence
+00:55:49 pointing in that kind of direction it's not just an ordinary chemical process there's something quite different about
+00:55:57 it and one of the main candidates is that these anesthetic gases do affect directly microtubules and how strong
+00:56:05 that evidence is I wouldn't position to say but I think there is fairly impressive evidence and the point
+00:56:12 is the experiments are being undertaken with yes I mean that is experimental it's a very clear direction where you
+00:56:19 can think of experiments which could indicate whether or not it's really microtubules which the anaesthetic gas
+00:56:26 is directly affect that's really exciting one of the sad things is as far as I'm for my outside perspective it's not many
+00:56:34 people are working on this so there's a very like Oh Stewart even it feels like there's very few people are carrying the
+00:56:42 flag forward on this I think it's it's not many in the sense it's a minority but it's not zero anymore
+00:56:49 you see when I were originally serious you know we were just just us and a few few of our friends they weren't many
+00:56:55 people think it but it's grown into into it one of the main viewpoints yeah there might be about four or five or six
+00:57:06 different news that which people hold and it's one of them so it's it's considered as one of the possible lines
+00:57:14 of thinking yes you describe physics theories as falling into one of three categories the superb the useful or the
+00:57:21 tentative I like those words it's a beautiful categorization do you think we'll ever have a superb theory of
+00:57:29 intelligence and of consciousness we might we're a long way from it I don't think we're even whether in the
+00:57:40 tentative scale I mean it's  you don't think we've even entered the realm of tentative probably no I think yeah
+00:57:45 that's raised you know what do you see the circle is so controversial we don't have a clear view which which is
+00:57:53 accepted by a majority I mean you say yeah people most views are computational in one form or another
+00:57:58 they think it's some but it's not very clear because even the the IIT people who I think think of them as
+00:58:07 computational but I've heard them saying they know consciousness is supposed to be not computation I say well if it's
+00:58:12 not coming in what the hell is it what's good what's going on but physical processes are going on which
+00:58:20 that what does it mean for something to be computational then so is  well there has to be a process which is it's
+00:58:31 very curious the way the history has developed in quantum mechanics because very early on people thought there was
+00:58:37 something to do with consciousness but it was almost the other way around you see you have to say the Schrodinger
+00:58:43 equations says all these different alternatives happen all at once and then when is it that only one of them happens
+00:58:50 where one of the views which was quite commonly held by a few distinguished quantum physicists this well a conscious
+00:58:57 being looks at the system what becomes aware of it and at that point it becomes one of the other that's a row where
+00:59:04 consciousness is somehow actively reducing the state my view is almost the exact opposite of that it's
+00:59:13 the state reduces itself in some way which some non computational way which we don't understand we don't have a
+00:59:21 proper theory of and that is the building block of what consciousness is so consciousness is the other way around
+00:59:29 it depends on that choice which nature makes all the time when the state becomes one of the other rather than the
+00:59:35 superposition of one and the other and when that happens there is what we're saying now an element of proto
+00:59:43 consciousness takes place proto consciousness is roughly speaking the building block out of which actual
+00:59:50 consciousness is constructed so you have these proto conscious elements which are when the state decides to won't do one
+00:59:58 thing or the other and that's the thing which when organized together that's the oh our part in orko our but the ork part
+01:00:07 that's the the Oh our part at least once can see where when driving as a theory you can say it's the quantum choice of
+01:00:15 going this way or that way but the ork part which is the orchestration of this is much more mysterious and how does the
+01:00:23 brain somehow orchestrate all these individual our processes into a genuine genuine genuine
+01:00:33 just experience and it might be something that's beautifully simple aware and completely in the dark about
+01:00:39 yeah I think at the moment it's best the thing you know we happily put the word walk down there to say orchestrated
+01:00:47 that's even more unclear what that really means just like the word material orchestrated yeah it's we know yes and
+01:00:56 we've been dancing a little bit between the word intelligence or understanding in consciousness do you kind of see
+01:01:04 those as sitting in the same space of mystery yes you see I tend to say you have understanding and intelligence and
+01:01:18 awareness and somehow understanding is in the middle of it you see it's I like to say could you say of an entity that
+01:01:28 is actually intelligent if it doesn't have the quality of understanding nice I'm using terms I don't even know how to
+01:01:35 define but who cares really there's somewhat poetic so I I somehow understand them yes I think there's not
+01:01:43 mathematical in nature yes you see as a mathematician I don't know how to define any of them but at least I can point to
+01:01:48 the connections so the idea is intelligence is something which I believe needs understanding otherwise
+01:01:56 you wouldn't say for any intelligence an understanding needs awareness otherwise you wouldn't really say it's
+01:02:03 understanding you say of an entity they understand something and it's unless it's really aware of it in our normal
+01:02:09 usage so there's a three sort of weirdness understanding and intelligence and I just tend to concentrate on
+01:02:18 understanding because that's where I can say something okay that's the kernel theorem and things like that but they
+01:02:25 what does it mean to be perceive the color blue or something I mean I guess it's much more difficult question I mean
+01:02:33 is it the same if I see a color blue and you see it if you're something with them wasn't this this condition wants to call
+01:02:41 them or were you assign a sound - yeah yeah that's right you get colors and sounds mixed up and that sort of thing I
+01:02:49 mean an interesting subject here but from the physics perspective from the fundamentals perspective we don't I
+01:02:55 think we're way off pretty much understanding what's going on there in your 2010 book cycles of time you
+01:03:03 suggest that another universe may have existed before the Big Bang can you describe this idea first of all
+01:03:10 what is the Big Bang sounds like a funny word and what may have been there before it yes just as a
+01:03:19 matter of terminology I don't like to call it another universe because when you have another universe you think of
+01:03:25 it kind of quite separate from us but these things they're not separate now the Big Bang conventional theories yeah
+01:03:34 I was actually brought up in the sense of when I started getting dressed in cosmology there was a thing called the
+01:03:39 steady-state model which was sort of philosophically very interesting and there wasn't a big bang in that theory
+01:03:45 that somehow new material was created all the time in the form of hydrogen and the universe kept on expanding expanding
+01:03:51 expanding and there was room for more hydrogen it was a rather philosophically nice picture it was disproved when the
+01:04:01 Big Bang well when I say the Big Bang this was theoretically discovered by people trying to solve Einstein's
+01:04:08 equations and apply it to cosmology Einstein didn't like the idea he liked and I a universe which was there all the
+01:04:15 time and he had a model which they wish there all the time but then there was this discovery
+01:04:21 accidental discovery a very important discovery of this microwave background and if you you know there's the crackle
+01:04:28 on your television screen which is is already sensing this microwave background which is coming at us from
+01:04:36 all directions and you can trace it back and back and back and back and it came from a very early stage of the universe
+01:04:43 well it's part of the Big Bang Theory the Big Bang Theory was when people tried to solve our science equations
+01:04:49 they really found you have to have this initial State the universe it was used to be calmly
+01:04:54 primordial Assam and things like this there's freedmen and a la Mettrie Freedman was a Russian the Metro was the
+01:05:02 Belgian and they independently were basically Friedman first the maitre talked about the initial state which is
+01:05:11 a very very concentrated initial state which seemed to be the origin of the universe from more Deol Adam that's the
+01:05:16 primordial atom is what he called it yes full term and then it became well Fred Hoyle used the term Big Bang in a kind
+01:05:23 of derogatory sense just like it was a Schrodinger in the cat's right yeah it's this like sort of geek tick got picked
+01:05:29 up on whereas it wasn't his intention originally but did then the evidence piled up and piled up and my one of my
+01:05:36 friends and I learned a lot from him when I was in Cambridge just any Xiaomei usually a proponent of steady state and
+01:05:42 then he got to convert it just said no I'm sorry I had a great respect for him he went around lecturing said I was
+01:05:47 wrong the steady-state model doesn't work there was this big bang and this microwave background that you see okay
+01:05:55 it's not actually quite the Big Bang when I said not quiet it's about 380,000 years after the Big
+01:06:01 Bang but that's what you see but then you have to have had this Big Bang before it's in order to make the
+01:06:07 equations work and it works beautifully except for one little thing which is this thing called inflation which people
+01:06:14 had to put into it to make it work when I first heard of it I didn't like it at all what's inflation inflation is it in
+01:06:21 the first I'm gonna give you a very tiny number think of a second that's not very long now I'm going to give you a
+01:06:28 fraction of a second one over a number this number has 32 digits between well it's it between 36 and 32 digits tiny
+01:06:41 tiny time between those two tiny ridiculous seconds fraction of a second the universe was supposed to have
+01:06:48 expanded in this exponential way an enormous way for no Patera parent reason you had to invent a particular thing
+01:06:55 called the in photon field to make it do it and I thought this is completely crazy there are reasons why people stuck
+01:07:03 with this idea you see the thing is that I formed my model for reasons which are very fundamental if
+01:07:08 you like it has to do this very fundamental principle which is known as the second law of thermodynamics the
+01:07:15 second law of thermodynamics says more or less things get more and more random as time goes on now another way of
+01:07:22 saying exactly the same thing is things get less and less random as things go back if you go back in time they get
+01:07:28 less and less random let me go back and back and back and back and the earliest thing you can directly see is this
+01:07:35 microwave background what's one of the most striking features of it is that it's random it has this what you call
+01:07:44 this spectrum of which is what's called the Planck spectrum of frequencies different intensities for different
+01:07:50 frequencies and it's this wonderful curve due to Max Planck and what's there telling you it's telling you that the
+01:07:58 entropy is a maximum start is often maximum and it's going up over since I call that a mammoth in the room paradox
+01:08:08 and mother yes it is so people why don't cosmologists worry about this so I'm worried about it and then I thought well
+01:08:16 it's not really a paradox because you're looking at matter and radiation at a maximum entropy state what you're not
+01:08:23 seeing directly in that is the gravitation its gravitation which is not thermalized the gravitation was very
+01:08:33 very low entropy and it's low entropy by the uniformity and you see that in the microwave - it's very uniform over the
+01:08:39 whole sky I'm compressing a long story into a very short sentence and doing a great job yet so what I'm saying is that
+01:08:47 there's a huge puzzle why it was gravity in this very low entropy state very high organized state everything else was all
+01:08:57 random and that to me was the biggest problem in cosmology the biggest problem nobody seemed worried about it people
+01:09:04 say they solved all the problems and they don't even worry about it they think inflation sources it doesn't I
+01:09:12 can't because it's it's just just to clarify that was your problem with the inflation describing some ass
+01:09:20 but those yes moments right after the Big Bang inflation we're supposed to stretch it out make it all uniform you
+01:09:24 see it doesn't do it because you can only do it if it's uniform already at the beginning it's it's you just have a
+01:09:30 look I can't go into the details but it doesn't solve this and it was completely clear to me it doesn't solve well word
+01:09:36 is the conformal cyclic cosmology of yeah we're starting to talk about something before
+01:09:42 yes that's singular I began I was just thinking of myself how boring this universe is going to be you've got this
+01:09:49 exponential expansion this was discovered early in the in this century 20th 21st century people discovered that
+01:10:01 these supernovae exploding stars showed that the universe is actually undergoing this exponential expansion so it's a
+01:10:11 self-similar expansion and it seems to be a feature of this term that Einstein introduced into his cosmology for the
+01:10:19 wrong reason he wanted a universe that was static he put this new term into his cosmology and to make it make sense it's
+01:10:26 called the cosmological constant and then when he got convinced that the universe had the Big Bang he retracted
+01:10:32 it complaining this was his greatest blunder the trouble is it wasn't a blunder it was actually right very
+01:10:39 ironic and so the universe seems to be behaving with this cosmological constant okay so this universe is expanding and
+01:10:45 expanding what's going to happen in the future well it gets more and more boring from well what's the most interesting
+01:10:51 thing in the universe well there's black holes the black holes more or less gulped down the entire clusters of
+01:10:58 galaxies the class it'll swallow up most of our galaxy we will run into Andromeda galaxies black hole that black hole will
+01:11:04 swallow em they will get bigger and bigger and they'll basically swallow up the whole cluster of galaxies golf it
+01:11:11 all down pretty well all most of it maybe not all most of it okay that'll happen too there'll be just
+01:11:17 these black holes around pretty boring but still not as boring as it's going to get it's going to get more boring
+01:11:22 because these black holes you wait you wait and you wait and you wait and wait and unbelievable length of time and
+01:11:29 Hawking's black hole evaporation starts to come in and the black holes you just it's a clarity Deus
+01:11:36 finally evaporate away each one goes away it disappears with the pop at the end what could be more boring that it
+01:11:43 was boring then now this is really boring there's nothing not even black holes universe gets colder and colder
+01:11:50 and colder and colder and ever this is very very boring now that's not science is it but it's it's emotional so I
+01:11:58 thought who's going to be bored by this universe not us we won't be around it'll be mostly photons running around and
+01:12:05 what the photons do they don't get bored because it's a part of relativity you see it's not really that they don't
+01:12:11 experience anything that's not the point the photons get right out to infinity without experience anytime it's the way
+01:12:21 for them where your relativity works and this was part of what I used to do in my old days when I was looking
+01:12:25 gravitational radiation and how things behaved infinity infinity is just like another place you can squash it down as
+01:12:33 long as you don't have any mass in the world infinity is just another place the photons get there the gravitons get
+01:12:41 there what do they get they've run to infinity they say well now I'm here what way there's something on the other side is
+01:12:47 there the usual view it's just a mathematical notion there's nothing on the other side that's just the boundary
+01:12:53 of it a nice example is this beautiful series of pictures by the Dutch artist MC Escher you may know them the ones
+01:13:00 called circle limits they're very famous one with the angels and the Devils and you can see them crowding and crowding
+01:13:06 and crowding up to the edge now the kind of geometry that these angels and devils and habits that's their infinity but
+01:13:14 from our perspective infinity is just a point is a place ok there it is I can you just take a brief pause yes and the
+01:13:23 in just the word you're saying infinity is just a place so I have for the most part infinity sort of even just going
+01:13:30 back yeah infinity is a mathematical concept I think this is what I think there's an actual physical manifestation
+01:13:36 in which way does infinity ever manifests itself in our physical universe what it does in various places
+01:13:42 you see it's the thing that we're if you're not a mathematician you think aren't
+01:13:46 finished yeah I can't think about that mathematicians think about affinity all the time they get used to the idea and
+01:13:51 they just play around with different kinds of infinities and it becomes no problem but yeah you just have to take
+01:13:58 my word for it now one of the things is you see you have taken Euclidian geometry well it just keeps on keeps on
+01:14:03 keeps on going and it goes out to infinity now there are other kinds of geometry and this is a what's called
+01:14:09 hyperbolic geometry it's a bit like Euclidean geometry so it'll be different it's like what Asia was trying to
+01:14:17 describe in his angels and devils and he learned about this from coxeter and he think that's a very nice thing I try to
+01:14:25 represent this infinity to this kind of geometry so it's not quite Euclidean John which is a bit like it that the
+01:14:32 angels and the Devils inhabit and their infinity mind this nice transformation you squash the other infinity down so
+01:14:39 you can draw it as this nice circle boundary to their universe now from our outside perspective we can see their
+01:14:50 infinity as this boundary now what I'm saying is that it's very like that the infinity that we might experience like
+01:14:59 the angels and devils in their world can be thought of as a boundary now I found this a very useful way of talking about
+01:15:08 radiation gravitational radiation and things like that it was a trick mathematical trick so no what I'm saying
+01:15:16 is that that mathematical trick becomes real that somehow the photons they need to go somewhere because for their from
+01:15:26 their perspective infinity it's just another place now this is a difficult idea to get your mind around so that's
+01:15:33 why Kozma one of the reasons because mom's just are finding a lot of trouble taking me seriously
+01:15:39 but to me it's not not such a wild idea what's on the other side of that infinity you have to think why am I
+01:15:46 allowed to think of this because photons don't have any mass and we in physics have beautiful ways of measuring time
+01:15:55 there are incredibly precise clocks atomic and nuclear clocks unbelievably precise while they be so precise because
+01:16:05 of the two most famous equations of 20th century physics one of them is Einsteins e equals mc-squared what's that tell us
+01:16:15 energy and mass are equivalent the other one is even older than that still 20th century only just Max Planck e equals H
+01:16:24 nu nu is a frequency H is a constant again Lexie E is energy energy and frequency are equivalent put the two
+01:16:34 together energy and mass equivalent Einstein and in frequency equivalent Max Planck put the D together mass and
+01:16:42 frequency are equivalent absolutely basic physical principle if you have a massive entity a massive particle it is
+01:16:50 a clock with a very very precise frequency it's not you can't directly use it you have to scale it down so your
+01:16:58 atomic and nuclear clocks but that's the basic principle you scale it down to something you can actually perceive but
+01:17:04 it's the same principle if you have mass you have beautiful clocks but the other side of that coin is if you don't have
+01:17:15 mass you don't have clocks if you don't have clocks you don't have rulers you don't have scale so you don't have space
+01:17:23 and time you don't have a measure of the scale of space and all scale you have if that you do have the structure that
+01:17:30 what's called the conformal structure you see it's what the angels levels have if you look at the eye of the devil no
+01:17:36 matter how close to the boundary it is it has the same shape but it has a different size so you can scale up and
+01:17:43 you can scale down but you mustn't change the shape so it's basically the same idea but applied to space-time now
+01:17:52 in the very remote future you have things which don't measure the scale but the shape if you like is still there now
+01:18:00 that's in the remote future now I'm going to do the exact opposite now I'm going to go way back into the Big Bang
+01:18:07 now as you get there things go hotter and hotter denser and denser what the universe dominated by particles
+01:18:15 moving around almost with the speed of light when they get almost with the speed of light okay they begin to lose
+01:18:22 the mass to therefore a completely opposite reason they lose the sense of scale as well so my crazy idea is the
+01:18:32 Big Bang and a remote future they seem completely different one is extremely dense extremely hot the other is very
+01:18:40 very rarefied and very very cold but if you squash one down by this conformal scale and you get the other so although
+01:18:47 they look and feel very different they're really almost the same the remote future on the other side and
+01:18:54 claiming is that one of the photons go they go into the next Big Bang you've got to get your mind around that crazy
+01:19:03 idea taking a step on the other side of the place that is infinity yes but I'm saying the other side of our Big Bang
+01:19:10 now I'm going back into the Big Bang that was the remote future of a previously on previously on and what I'm
+01:19:17 saying is that previously on there are signals coming through to us which we can see and which we do see and these
+01:19:26 are both signals the two main signals are to do with black holes one of them is the collisions between black holes
+01:19:35 and as they spiral into each other they release a lot of energy in the form of gravitational waves those gravitational
+01:19:43 waves get through in a certain form into the next DM that's fascinating that there's some I mean maybe I'm maybe you
+01:19:49 can correct me if I'm wrong but that means that some information can travel yes from another eon exactly that that
+01:20:00 is fascinating I mean I've seen somewhere described sort of the discussion of the Fermi paradox you know
+01:20:08 that if there's intelligent life yes being you know communication me immediately takes you there so we have a
+01:20:16 paper I have my my colleague waha Gossage on who I work with this on these ideas for a while we have a crazy paper
+01:20:21 on that yes so the family paradoxes right so so if the universe is just cycling over and
+01:20:29 over and over punctuated by have the punctuated the singularity of the Big Bang and then intelligent or any kind of
+01:20:37 intelligent systems can communicate through from e on T on why haven't we heard anything from our alien friends
+01:20:47 because we don't know how to look that's fundamentally the reason is we I don't know you see it's it's speculation I
+01:20:54 mean the SETI program was a reasonable thing to do but still speculation it's trying to say ok maybe not too far away
+01:21:03 with a civilization which got there first before us early enough that they could send our signals but how far away
+01:21:11 would you need to go before I mean I don't know we with so little knowledge about that we haven't seen any signals
+01:21:17 yet but it's worth looking it's worth looking and what I'm trying to say here's another possible place we might
+01:21:23 look now you're not looking at civilizations which got there first you're looking at those civilizations
+01:21:30 which were so successful probably a lot more successful more likely to be man looks of things which knew how to handle
+01:21:38 their own global warming or whatever it is and to get through it all and to live to a ripe old age in the sense of a
+01:21:46 civilization to the extent that they could harness signals that they could propagate through for some reason of
+01:21:54 their own desires whatever we wouldn't know to to other civilizations which might be able to pick up the signals but
+01:22:01 what kind of signals would they be I have a foggiest let me ask the question yes what to you is the most beautiful
+01:22:11 idea in physics or mathematics or the art at the intersection of the two I'm going to have to say complex analysis I
+01:22:20 might have said infinities and one of the most single most beautiful idea I think was the fact that you can even
+01:22:26 infinities of different sizes and so on but that's anyway I think complex analysis this goes it's got so much
+01:22:35 magic in it it's a very simple idea you take these you guys hope you do you take numbers you take the integers and
+01:22:43 then you fill them up into the fractions and the real numbers you imagine you're trying to measure a continuous line and
+01:22:49 then you think of how you can solve equations then what about x squared equals minus 1 well there's no real
+01:22:57 number which has to satisfies that so you have to think of well there's a number called I you think you invent it
+01:23:03 well in a certain sense it's there already but this number when you add that square root of minus 1 to it you
+01:23:10 have what's called the complex numbers and they're an incredible system if you like you put one little thing in you put
+01:23:18 square root of -1 in and you get how much benefit out of it all sorts of things that you'd never imagined before
+01:23:27 and it's that amazing or hiding there in putting that square root of -1 in so in the sense that's the most magical thing
+01:23:34 I've seen in mathematics or physics and it's in quantum mechanics and in quantum mechanics for there already you might
+01:23:40 think what's it doing there ok just a nice beautiful piece of mathematics and then suddenly we say nope it's the very
+01:23:47 crucial basis of quantum mechanics so on there and the way the world works so on the question of whether math is
+01:23:53 discovered or invented it sounds like you may be suggesting that partially as possible the math is indeed discovered
+01:24:00 oh absolutely yes no it's more like archeology than you might think so let me ask the most ridiculous maybe
+01:24:09 the most important question what is the meaning of life what gives your life fulfillment purpose happiness and
+01:24:17 meaning why do you think we're here on this given all the Big Bang and the infinities of photons that we've told I
+01:24:23 would say I think it's not a stupid question I mean there are some people you know many of my colleagues new
+01:24:30 scientists they say well that's a stupid question meaning yeah well we just hear because things came together and produce
+01:24:38 life and so what I think there's more to it but what there is that's more to it really much idea it might be somehow
+01:24:45 connected to the mechanisms of consciousness though we're talking about the mystery there
+01:24:50 it's connected with all sortsa yeah I think these things are tied up in ways which er you see I tend to think the
+01:24:57 mystery of consciousness is tied up with the mystery of quantum mechanics and how it fits in with the classical world and
+01:25:05 that's all to do with the mystery of quantum of complex numbers and there are mysteries there which I look like
+01:25:15 mathematical mysteries but they seem to have a bearing on the way the physical world operates we're scratching the
+01:25:22 surface we have a long huge way to go before we really understand that and it's a beautiful idea that the the the
+01:25:29 depth the mathematical depth could be discovered and then there's tragedies of Gaydos and completeness along the way
+01:25:35 they will have to somehow figure our ways around yeah so Roger as a huge honour to talk to you thank you so much
+01:25:43 for your time today everything my pleasure thank you thanks for listening to this
+01:25:48 conversation with roger penrose and thank you to a presenting sponsor at Cash app please consider supporting this
+01:25:55 podcast by getting expressvpn and expressvpn comm / flex pod and downloading cash app and using collects
+01:26:04 podcast if you enjoy this podcast subscribe I need to review it with five stars and napa podcasts supported on
+01:26:11 patreon or simply connect with me on Twitter at lex friedman and now let me leave you with some words of wisdom that
+01:26:19 roger penrose wrote in his book the emperor's new mind beneath all this technicality is the feeling that it is
+01:26:28 indeed quote unquote obvious that the conscious mind cannot work like a computer even though much of what is
+01:26:34 involved in mental activity might do so this is the kind of obvious that a child can see though the child may later in
+01:26:43 life become browbeaten into believing that the obvious problems are quote unquote non problems to be argued into
+01:26:50 non-existence by careful reasoning and clever choices of definition children sometimes see things clearly that are
+01:26:59 obscured in later life we often forget the wonder that we felt as children on the cares of the quote unquote
+01:27:06 real world have begun to settle on our shoulders children are not afraid to post basic questions that might
+01:27:13 embarrass us as adults to ask what happens to each of our streams of consciousness after who died where was
+01:27:18 it before we were born might we become or have been someone else why do we perceive at all why are
+01:27:28 we here why is there a universe here at all in which we can actually be these are puzzles that tend to come with the
+01:27:35 awakenings of awareness in any of us and no doubt will the awakening of self-awareness within which ever

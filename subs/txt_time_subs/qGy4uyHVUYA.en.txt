@@ -1,0 +1,56 @@
+00:00:04 Triton is an exceptionally unusual, although often forgotten, moon. It has so many unique characteristics, it makes it one of the most interesting objects in the Solar System. But
+00:00:19 because it is the largest moon of Neptune, the planet furthest away from us, it also means that we have only visited it once, very briefly, as Voyager 2 flew by all the way
+00:00:31 back in 1989, 30 years ago. But what did this visit reveal? And what have we found out about it since? I’m Alex McColgan, and you’re watching
+00:00:44 Astrum, and together we will find out everything there is to know about the fascinating world of Triton. First of all, let’s discuss where Triton fits in to our solar system and its
+00:00:57 local system. Triton is one of 14 known moons of Neptune. 7 of these moons are regular moons, or in other words, moons that orbit along Neptune’s ecliptic with very circular orbits,
+00:01:13 or orbits with very low eccentricity. After these inner, regular moons, we get to the irregular moons, the first of which is Triton. An irregular moon is a moon that follows an
+00:01:28 inclined, eccentric and often retrograde orbit. This by itself is already where Triton is set apart from any other spherical moon in the solar system, it has an irregular orbit.
+00:01:42 Triton orbits clockwise around Neptune as Neptune rotates counterclockwise, and Triton orbits at a 130° angle to the ecliptic of the planet, although it should be noted that
+00:01:57 its orbital eccentricity is close to zero, its orbit is almost perfectly circular. All other large moons in the solar system are regular moons, orbiting the same direction
+00:02:10 as the rotation of their parent planet. What this heavily implies is that Triton did not form alongside Neptune, but it is in fact a captured object, specifically a captured
+00:02:24 dwarf planet. No wonder then that it is by far the biggest of Neptune’s fourteen moons, comprising 99.5% of the mass found in Neptune’s orbit. But how big is that in scales we can
+00:02:39 relate to? Well, it is the second largest moon in relation to its parent planet, second only to Earth and its moon. While it is smaller than our moon, it orbits closer to Neptune
+00:02:53 than our moon orbits Earth, which means it appears around the same size in the sky. It is the 7th largest moon in the entire solar system, and most interestingly, it is bigger
+00:03:05 than Pluto. Pluto is often considered the king of the Kuiper Belt, the biggest object that we know of that formed there… until we consider that Triton once ruled that area
+00:03:18 before Neptune captured it. So, although Triton is a moon of Neptune, it could also be said that it is the biggest and most massive Kuiper Belt object! Further evidence for this was
+00:03:32 found as New Horizons passed Pluto in 2015, suggesting Triton and Pluto share a near identical composition, which supports the theory that they share a common origin. Beyond Triton
+00:03:45 are six other irregular moons, found much further out. They are almost certainly captured objects too, with unusually eccentric orbits that take years to complete. They were probably
+00:03:57 perturbed into these weird orbits by the gravity of Triton. So, if Triton was a captured object, how did that happen? Objects need to lose momentum to be captured, otherwise they would
+00:04:10 have enough momentum to escape. Well we can’t know for sure, but the leading theory right now is that Triton was once part of a binary system, perhaps like Pluto and Charon. As
+00:04:26 Neptune approached Triton and its moon, the gravity from the encounter would have caused the binary system to fall apart, with Triton’s moon being slingshot away and Triton losing
+00:04:36 enough momentum to be captured in orbit around Neptune. I mentioned that Triton shares some similar characteristics with Pluto. What exactly does that entail? Well, they both have a predominantly
+00:04:50 nitrogen ice surface with other ices mixed in, like water and carbon dioxide. It has quite a flat terrain, its topography never varies by more than a kilometre, although
+00:05:04 Voyager 2 did see ridges and troughs, plateaus and ice plains. What you may find unusual though is that it has very little in the way of craters, this implies its surface is very
+00:05:19 young and is constantly being renewed. Like Pluto, it also has some reddish patches, which is thought to be methane ice having reacted to UV light from the Sun, producing what is
+00:05:31 known as tholins, an organic compound that has a supposedly tar like consistency. While organic compounds do not mean life is present there, organic compounds are the basic chemicals
+00:05:43 from which life forms. Life likely couldn’t exist on the surface of Triton anyway, as its far too cold and the Sun far to dim to support any lifeform that we can imagine,
+00:05:55 but what’s interesting is what could be found under Triton’s crust. Under Triton’s surface is thought to be a rocky and metallic interior, which gives Triton a reasonably
+00:06:07 high density for a moon, at 2 g/cm³. Because of this, and also due to the big step up in size from the next biggest moon in the solar system, Titania, it has more mass than all
+00:06:20 moons smaller than it in the whole solar system combined. The radioactive decay from the rocky core could be enough to heat and power convection in a subsurface ocean of water, much like
+00:06:32 what is thought to be under the surfaces of Europa, Enceladus and some other large moons in the solar system. And just like Europa and Enceladus, cryovolcanism is an active
+00:06:44 process today on Triton. Liquid water in the mantle erupts onto the surface like lava on Earth. This is the main reason why the surface is so young, it is being actively renewed
+00:06:57 by liquid water erupting, and then freezing on Triton’s surface. Some very young lava plains have been identified, sparse and flat regions, yet interestingly with a wall that
+00:07:10 surrounds the plain. We call this a planitia, or in other words, a solidified lava lake. We also can see caldera, which is the collapse found at the centre of a cryovolcano, where
+00:07:23 lava plains formed from. It is thought that the water from these eruptions would have also brought minerals from the underground oceans onto the surface, perhaps even being
+00:07:33 the source of the tholins and organic matter I mentioned earlier. If this is the case and organic compounds are found in the subsurface ocean, it means that there’s a possibility
+00:07:45 that conditions are right for life to have been able to form there. We also see long lines permeating over the surface, these are likely faults caused either by tectonic activity,
+00:07:57 or freeze-thaw weathering processes. If we look at some more of the Voyager 2 images of Triton, we can see the results of some recent eruptions. You’ll notice what looks
+00:08:09 to be dark deposits on the surface, in cone or funnel like shapes up to 150km long. However, these smaller eruptions may not originate from the mantle itself. Voyager 2 spotted
+00:08:24 some plumes reaching 8km high, but these are thought to because of a solid greenhouse effect within the moon’s icy crust. Imagine the surface of Triton consisting of a clear
+00:08:37 ice which has settled on dark deposits like tholins. The Sun shines through the ice, warming the darker, more absorbent tholins beneath, which sublimes a pocket of ice under the surface.
+00:08:50 As the ices sublime, the pressure builds in the air pocket until the surface above the pocket gives way, causing an eruption. This eruption also takes the darker deposits with
+00:09:01 it, spreading them out on the surface again. If this is the case, a very similar process has been seen on Mars’ poles with carbon dioxide ices and darker deposits under the
+00:09:14 ice layer. This process can only exist because of one thing, Triton has an atmosphere, although not as thick as scientists were initially expecting. Triton’s atmosphere is thin,
+00:09:30 only 0.014 mbar, about the equivalent of 80km up on Earth, although like Pluto, this density varies through seasonal changes. Since Voyager 2’s observations, Triton’s atmosphere
+00:09:44 has become denser, as the surface has warmed, evaporating a little of the nitrogen ices on the surface. However, when Voyager 2 passed, Triton’s atmosphere was still dense enough
+00:09:56 to support weather up to 8km above its surface. In this image, you can actually see clouds on Triton, and going back to the image of the plumes, you can see the deposits from
+00:10:08 the eruptions all end up facing the same direction, due to a prevailing wind in that region of the moon. Like Pluto, Triton’s atmosphere is hazy, the cause of which is thought to
+00:10:22 be hydrocarbons in the atmosphere not yet broken down into tholins by UV light from the Sun. The constant depositing of organic compounds through cryovolcanism, ices evaporating
+00:10:34 and freezing again through seasonal variations, and a weather rich, active atmosphere makes Triton a very dynamic world, unlike most other moons in the solar system. It is more a dwarf
+00:10:47 planet than a moon, likely a sibling of the more famous Pluto in the Kuiper belt. All these factors combined make it one exceptionally unusual moon. And there we have it! Everything
+00:11:02 you could want to know about Triton. Did you enjoy learning about Triton today, and would like to further your understanding about the universe and world around us? Brilliant have
+00:11:14 got an amazing interactive course that uses engaging puzzles to help you learn about physics. And this is what I really like about it, each quiz focuses on solving puzzles that relate
+00:11:24 to a topic in the natural world, for instance you can explore the physics of mirror reflections, laser tag, and how to make the perfect shot in a game of pool. With Brilliant, you’ll
+00:11:35 unravel concepts bit by bit and discover deep truths in unexpected places. So, give it a go! If you want to support Astrum and get unlimited access to all of Brilliant's interactive
+00:11:46 math, science and computer science courses, you can use the link brilliant.org/astrum/ and can get 20% off their annual Premium subscription. Thanks for watching! If you liked this video,
+00:11:58 be sure to check out my other videos on the moons and planets in our solar system. And a big thanks to those that support the channel, either through Patreon or YouTube membership.

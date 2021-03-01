@@ -1,0 +1,813 @@
+00:00:01 the following is a conversation with jitendra malik a professor at berkeley and one of the
+00:00:07 seminal figures in the field of computer vision the kind before the deep learning revolution and
+00:00:14 the kind after he has been cited over 180 thousand times and has mentored many world-class researchers in computer science
+00:00:25 quick summary of the ads two sponsors one new one which is better help and an old goody
+00:00:32 expressvpn please consider supporting this podcast by going to betterhelp.com lex and signing up at expressvpn.com
+00:00:42 lexpod click the links buy the stuff it really is the best way to support this podcast and the journey i'm on
+00:00:49 if you enjoy this thing subscribe on youtube review it with 5 stars on apple podcast support it on patreon or connect with me
+00:00:55 on twitter at lex friedman however the heck you spell that
+00:01:00 as usual i'll do a few minutes of ads now and never neons in the middle that can break the flow of the conversation
+00:01:07 this show is sponsored by better help spelled h-e-l-p help check it out at betterhelp.com lex
+00:01:16 they figure out what you need and match you with a licensed professional therapist in under 48 hours it's not a crisis line
+00:01:25 it's not self-help it's professional counseling done securely online i'm a bit from the david goggins
+00:01:30 line of creatures as you may know and so have some demons to contend with
+00:01:37 usually on long runs or all nights working forever and possibly full of self-doubt it may be because i'm russian
+00:01:45 but i think suffering is essential for creation but i also think you can suffer beautifully in a way that doesn't
+00:01:51 destroy you for most people i think a good therapist can help in this
+00:01:57 so it's at least worth a try check out their reviews they're good it's easy private affordable
+00:02:03 available worldwide you can communicate by text anytime and schedule weekly audio and video sessions
+00:02:11 i highly recommend that you check them out at betterhelp.com lex this show is also sponsored by
+00:02:22 expressvpn get it at expressvpn.com to support this podcast and to get an extra three months
+00:02:28 free on a one-year package i've been using expressvpn for many years i love it i think expressvpn is the best
+00:02:37 vpn out there they told me to say it but it happens to be true it doesn't log your data
+00:02:43 it's crazy fast and it's easy to use literally just one big sexy power on button
+00:02:49 again for obvious reasons it's really important that they don't log your data it works on linux and everywhere else
+00:02:55 too but really why use anything else shout out to my favorite flavor of linux ubuntu mate
+00:03:04 2004 once again get it at expressvpn.comlexpod to support this podcast and to get an extra three months free and a one year package
+00:03:15 and now here's my conversation with jitendra in 1966 seymour papper at mit wrote up a proposal called the
+00:03:27 summer vision project to be given as far as we know to 10 students to work on and solve that summer
+00:03:33 so that proposal outlined many of the computer vision tasks we still work on today why do you think we underestimate and
+00:03:41 perhaps we did underestimate and perhaps still underestimate how hard computer vision is because
+00:03:48 most of what we do in vision we do unconsciously or subconsciously in human vision in human vision so that
+00:03:54 gives us this that effortlessness gives us the sense that oh
+00:04:00 this must be very easy to implement on a computer now this is why the early researchers in ai got it so wrong
+00:04:13 however if you go into neuroscience or psychology of human vision then the complexity becomes very clear
+00:04:21 the fact is that a very large part of the the cerebral cortex is devoted to visual processing i mean and this is true in other
+00:04:29 primates as well so once we looked at it from a neuroscience or psychology perspective
+00:04:36 it it becomes quite clear that the problem is very challenging and it will take some time
+00:04:42 you said the higher level parts are the harder parts i think vision appears to to be easy because
+00:04:51  most of what visual processing is subconscious or unconscious right so we underestimate the difficulty whereas
+00:05:04 like proving a mathematical theorem or playing chess the difficulty is much more evident so
+00:05:10 because it is your conscious brain which is processing  various aspects of the problem-solving
+00:05:19 behavior whereas in vision all this is happening but it's not in your awareness it's in your it's operating
+00:05:25 below that but it's it still seems strange yes that's true but it seems strange that
+00:05:33 as computer vision researchers for example the community broadly is time and time again makes the mistake of um
+00:05:41 thinking the problem is easier than it is or maybe it's not a mistake we'll talk a little bit about autonomous
+00:05:47 driving for example how hard of a vision task that is it do do you think i mean what
+00:05:55 is it just human nature or is there something fundamental to the vision problem that we we underestimate
+00:06:03 we're still not able to be cognizant of how hard the problem is yeah i think in the early days it could
+00:06:10 have been excused because in the early days all aspects of ai were regarded as too easy
+00:06:18 but i think today it is much less excusable and i think why people fall for this is because of what i call
+00:06:28 the fallacy of the successful first step there are many problems in vision where getting 50
+00:06:36 of the solution you can get in one minute getting to 90 percent can take you a day getting to 99 percent
+00:06:46 may take you five years and 99.99 may be not in your lifetime i wonder if that's a unique division
+00:06:54 that it seems that language people are not so confident about so natural language
+00:06:58 processing people are a little bit more cautious about our ability to to solve that problem
+00:07:06 i think for language people intuit that we have to be able to do natural language understanding for vision
+00:07:16 it seems that we're not cognizant or we don't think about how much understanding is required it's probably
+00:07:21 still an open problem but in your sense how much understanding is required to solve vision like
+00:07:30 this put another way how much something called common sense reasoning is required to really be able to interpret
+00:07:40 even static scenes yeah so vision operates at  at all levels and there are parts
+00:07:45 which are which can be solved with what we could call maybe peripheral processing
+00:07:53 so in the in the human vision literature there used to be these terms sensation perception and cognition
+00:08:01 which roughly speaking referred to like the front end of processing middle stages of processing and higher
+00:08:07 level of processing and i think they made a big deal out of out of this and they wanted to just
+00:08:14 study only perception and then dismiss certain certain problems as being quote cognitive
+00:08:21 but really i think these are artificial divides the problem is continuous at all level and there are challenges at all levels
+00:08:30 the techniques that we have today they work better at the lower and mid levels of the problem
+00:08:36 i think the higher levels of the problem quote the cognitive levels of the problem are there and we
+00:08:45 in many real applications we have to confront them now how much that is necessary will
+00:08:51 depend on the application for some problems it doesn't matter for some problems it matters a lot
+00:08:58 so i am for example a pessimist on fully autonomous driving in the near future
+00:09:06 and the reason is because i think there will be that 0.01 percent of the cases
+00:09:14 where quite sophisticated cognitive reasoning is called for however there are tasks where you can
+00:09:23 first of all they are much more they are robust so in the sense that error rates error is not so much of a problem
+00:09:31 for example   let's say we are you're doing  image search you're trying to get images
+00:09:36 based on some some some description some visual description we are very tolerant of errors there
+00:09:45 right i mean when google image search gives you some images back and a few of them are
+00:09:51 wrong it's okay it doesn't hurt anybody there's no there's not a matter of life and death but
+00:09:58 making mistakes when you're driving at 60 miles per hour and you could potentially kill somebody
+00:10:07 is much more important so just for the for the fun of it since you mentioned let's go there briefly
+00:10:13 about autonomous vehicles so one of the companies in the space tesla is work with andre karpathy and elon
+00:10:19 musk are working on a system called autopilot which is primarily a vision-based system with
+00:10:25 eight cameras and  basically a single neural network a multi-task neural network
+00:10:32 they they call it hydro net multiple heads so it does multiple tasks but is forming the same representation
+00:10:40 at the core do you think driving can be converted in this way to  purely a vision problem and then solved within you with learning
+00:10:51 or even more specifically in the current approach what do you think about what tesla autopilot team is doing
+00:10:59 so the way i think about it is that there are certainly subset subsets of the visual based
+00:11:05 driving problem which are quite solvable so for example driving in freeway conditions is quite a solvable problem i think
+00:11:14 there were demonstrations of that going back to the 1980s by someone called ernst stickmans in munich
+00:11:24 in the 90s there were approaches from carnegie mellon there were approaches from our team at berkeley in the 2000s there
+00:11:31 were approaches from stanford and so on so autonomous driving in certain settings is very doable
+00:11:41 the challenge is to have an autopilot work under all kinds of driving conditions at that point it's not just a question
+00:11:48 of vision or perception but really also of control and dealing with all the edge cases
+00:11:55 so where do you think most of the difficult cases to me even the highway driving is an
+00:12:00 open problem because  it applies the same 50 90 95 99 rule or the first step the fallacy of the
+00:12:09 first step i forget how you put it we fall victim to i think even highway driving has a lot of elements
+00:12:17 because to solve autonomous driving you have to completely relinquish the the fat help of a human being
+00:12:24 you're always in control so that you're really going to feel the edge cases so i i think even highway driving is
+00:12:29 really difficult but in terms of the general driving task do you think
+00:12:35 vision is the fundamental problem or is it also your action the the interaction with the environment
+00:12:45 the ability to  and then like the middle ground i don't know if you put that under vision which is
+00:12:51 trying to predict the behavior of others which is a little bit in the world of understanding the scene
+00:12:58 but it's also trying to form a model of the actors in the scene and predict their behavior yeah i
+00:13:04 include that in vision because to me perception blends into cognition and building predictive models of other
+00:13:11 agents in the world which could be other agents could be people other agents could be other cars
+00:13:18 that is part of the task of perception because perception always has to  not tell us what is now but what will happen
+00:13:26 because what's now is boring it's done it's over with okay yeah we care about the future
+00:13:31 because we act in the future and we care about the past and as much as it informs what's going
+00:13:38 to happen in the future so i think we have to build predictive models of of
+00:13:45 of behaviors of people and and those can get quite complicated so  
+00:13:53 i mean  i i've seen examples of this in  actually i mean i own a tesla and it has various safety features built in
+00:14:04 and  what i see are these examples where let's say there is some  skateboarder i mean
+00:14:11 this i and i i don't want to be too critical because obviously this is these are the systems
+00:14:16 are always being improved and any specific criticism i have maybe the system six months from now
+00:14:22 will not have that that that particular failure mode so  it
+00:14:31 it had it it had the wrong response and it's because it couldn't predict what what this skateboarder was going to do
+00:14:41 okay and because it really required that higher level cognitive understanding of what skateboarders typically do as
+00:14:48 opposed to a normal pedestrian so what might have been the correct behavior for a pedestrian
+00:14:53 a typical behavior for pedestrian was not the typical behavior for a skateboarder right yeah
+00:15:03 and  so so therefore to do a good job there you need to have enough data where
+00:15:08 you have pedestrians you also have skateboarders you've seen enough skateboarders to see what  what kinds of patterns or behavior
+00:15:16 they have so it is it is in principle with enough data that problem could be solved
+00:15:25 but  i think our current systems computer vision systems they need far
+00:15:31 far more data than humans do for learning those same capabilities so say that there is
+00:15:36 going to be a system that solves autonomous driving do you think it will look similar to
+00:15:41 what we have today but have a lot more data perhaps more compute but the fundamental
+00:15:47 architectures involved like neuro well in the case of tesla autopilot is
+00:15:53 neural networks do you think it will look similar in that regard and we'll just have more
+00:15:57 data that's a scientific hypothesis as which way is it going to go
+00:16:04  i will tell you what i would bet on  so and this is at my general philosophical position on how these
+00:16:13  learning systems have been  what we have found currently very effective in
+00:16:19 computer vision  with in in the deep learning paradigm is sort of tabula rasa learning and tabular
+00:16:25 us are learning in a supervised way with lots and lots of what's going on
+00:16:32 in the sense that blank slate we just have the system which is given a series of experiences in this
+00:16:39 setting and then it learns there now if let's think about human driving it is not tabular assad learning
+00:16:48 so at the age of 16 in high school  a teenager goes into  goes into driver ed class right and now
+00:16:58 at that point they learn but at the age of 16 they are already visual geniuses because from 0 to 16 they have built a
+00:17:07 certain repertoire of vision in fact most of it has probably been achieved by
+00:17:14 age 2 right in in this period of age up to age 2 they know that the world is three-dimensional they know how
+00:17:21 objects look like from different perspectives they know about occlusion they know about common dynamics of humans and
+00:17:29 other bodies they have some notion of intuitive physics so they
+00:17:34 they built that up from their observations and interactions in early childhood and of course
+00:17:41 reinforced through their their growing up to age 16. so then at age 16 when they go into driver ed
+00:17:49 what are they learning they're not learning afresh the visual world they have a mastery of the visual world
+00:17:55 what they are learning is control okay they are learning how to be smooth
+00:18:02 about control about steering and brakes and so forth they're learning a sense of typical
+00:18:07 traffic situations now the the that education process can be quite short because they are
+00:18:17 coming in as visual geniuses and of course in their future they're going to encounter situations which are
+00:18:23 very novel right so during my driver ed class that i may not have had to deal with a
+00:18:30 skateboarder i may not have had to deal with a truck driving in front of me who's from
+00:18:37 who's where the back opens up and some junk gets dropped from the truck and i have to deal with it right but i
+00:18:43 can deal with this as a driver even though i did not encounter this in my driver at
+00:18:49 class and the reason i can deal with it is because i have all this general visual knowledge and expertise
+00:18:57 and  do you think the learning mechanisms we have today can do that kind of long-term
+00:19:03 accumulation of knowledge or do we have to  do some kind of you know in the the the work that led up
+00:19:11 to expert systems with knowledge representation you know the broader field of what of artificial intelligence
+00:19:18  worked on this kind of accumulation of knowledge do you think neural networks can do the
+00:19:24 same i think  i don't see any in principle problem with neural networks doing it
+00:19:30 but i think the learning techniques would need to evolve significantly so the current  the current
+00:19:40 learning techniques that we have yeah is our supervised learning you're given lots of examples
+00:19:46 xiy pairs and you you learn the functional mapping between them i think that human learning is far
+00:19:52 richer than that it includes many different components there are
+00:19:59 there is a a child explores the world and sees as for example a child takes an object and manipulates it
+00:20:09 in his or her hand and therefore gets to see the object from different points of view and the child has commanded the movement
+00:20:16 so that's a kind of learning data but the learning data has been arranged by the child and this is a very rich
+00:20:25 kind of data the child can do various so there are many aspects of sort of human learning and these have been
+00:20:36 studied in in child development by psychologists and they what they tell us is that
+00:20:44 supervised learning is a very small part of it there are many different aspects of learning
+00:20:51 and what we would need to do is to develop models of all of these and then
+00:20:59 train our systems in that with that kind of  protocol so new new methods of learning yes some of which might imitate the
+00:21:09 human brain but you also in your talks have mentioned some of the compute side of things
+00:21:13 the in terms of the difference in the human brain or referencing marvik hans marvel the so
+00:21:22 do you do you think there's something interesting valuable to consider about the difference
+00:21:28 in the computational power of the human brain versus the computers of today in terms of instructions
+00:21:36 per second yes so if we go back  so so this is a point i've been making for 20 years now
+00:21:44 and i think once upon a time the way i used to argue this was that we just didn't have
+00:21:48 the computing power of the human brain our computers were  were not quite there and i mean there is a
+00:21:59 well well-known trade-off which we know that the that neurons are slow compared to transistors but  but we have a lot of
+00:22:08 them and they have a very high connectivity whereas in silicon you have much faster devices transistors switch at
+00:22:18 on the order of nanoseconds but the connectivity is usually smaller right at this point in time i mean we
+00:22:24 are now talking about 2020 we do have if you consider the latest gpus and so on
+00:22:32 amazing computing power and if we look back at enhanced modex type of calculations which he did in the 1990s
+00:22:41 we may be there today in terms of computing power comparable to the brain but it's not in the of the same style
+00:22:52 so i mean for example the the style of computing that we have in our gpus is far far more power hungry than
+00:23:00 the style of computing that is there in the human brain or other biological  entities
+00:23:08 yeah and that the efficiency part is  we're gonna have to solve that in order to build actual real world systems
+00:23:15 of large scale let me ask sort of the high level question step taking a step back
+00:23:21 how would you articulate the general problem of computer vision does such a thing exist so if you look
+00:23:27 at the computer vision conferences and the work that's been going on it's often separated into different
+00:23:34 little segments breaking the problem of vision apart into whether segmentation
+00:23:42 3d reconstruction object detection i don't know image capturing whatever  there's benchmarks for each
+00:23:48 but if you were to sort of philosophically say what is the big problem of computer vision does
+00:23:54 such a thing exist yes but it's not in isolation so if we have to so for all
+00:24:03 intelligence tasks i always go back to sort of biology or humans and if we think about
+00:24:14 vision or perception in that setting we realize that perception is always to guide action perception
+00:24:21 in a for a biological system does not give any benefits unless it is coupled with action so we
+00:24:26 can go back and think about the first multicellular animals which arose in the cambrian era you know
+00:24:34 500 million years ago and  these animals could move and they could see in some ways and
+00:24:41 their two activities helped each other because   how does movement help movement
+00:24:50 helps that because you can get food in different places but you need to know where to go and
+00:24:56 that's really about perception or seeing i mean i mean vision is
+00:25:02 perhaps the single most perception sense but all the others are equally are also important so
+00:25:08  so perception and action kind of grow go together so earlier it was in these very simple
+00:25:13 feedback loops which were about  finding food or avoiding becoming food if there's a
+00:25:20 predator running  trying to you know eat you up and and so forth so so we must at the
+00:25:27 fundamental level connect perception to action then as we evolved  perception became more
+00:25:36 and more sophisticated because it served many more purposes and  so today we have what seems like a
+00:25:45 fairly general purpose capability which can look at the external world and build and
+00:25:51 a model of the external world inside the head we do have that capability that model is not perfect
+00:25:58 and psychologists have great fun in pointing out the ways in which the model in your head is not a perfect
+00:26:04 model of the external world and they have create various illusions to show the ways in which it is imperfect but
+00:26:15 it's amazing how far it has come from a very simple perception action loop that you exists
+00:26:21 in you know an animal 500 million years ago once we have this
+00:26:27 these very sophisticated visual systems we can then impose a structure on them it's we as
+00:26:33 scientists who are imposing that structure where we have chosen to characterize this part of the system as this
+00:26:42 code module of object detection or quote this module of 3d reconstruction what's going on is really all of these
+00:26:49 processes are running and and they are running simultaneously because originally their purpose was
+00:27:01 in fact to help guide action so as a guiding general statement of a problem do you think
+00:27:08 we can say that the the general problem of computer vision you said in humans it was tied to action
+00:27:16 do you think we should also say that ultimately the the goal the problem of computer vision is to
+00:27:22 sense the world in the way that helps you act in the world yes i think that's the most fundamental 
+00:27:33 that's the most fundamental purpose we have by now hyper evolved so we have this visual system which can
+00:27:41 be used for other things for example judging the aesthetic value of a painting
+00:27:49 and this is not guiding action maybe it's guiding action in terms of how much money you will put in your auction bid
+00:27:55 but that's a bit stretched but the basics are in fact in terms of action but we have we've evolved
+00:28:06 really this hyper  we have hyper evolved our visual system actually just too  sorry to interrupt
+00:28:11 but perhaps it is fundamentally about action you kind of jokingly said about spending
+00:28:19 but perhaps the capitalistic  drive that drives a lot of the development in this world
+00:28:24 is is about to exchange your money and the fundamental action is money if you watch netflix if you enjoy watching movies
+00:28:30 you're using your perception system to interpret the movie ultimately your enjoyment of that movie
+00:28:36 means you'll subscribe to netflix so the action is this  this extra layer that we've developed in
+00:28:43 modern society perhaps this is fundamentally tied to the action of spending money
+00:28:51 well certainly with respect to  you know interactions with firms so so in this homo economics role
+00:28:59 when you're interacting with firms it does become  it does become that that's what else
+00:29:07  that was a rhetorical question okay so to to linger on the division between the static and the dynamic
+00:29:16 so much of the work in computer vision so many of the breakthroughs that you've been a part of
+00:29:22 have been in the static world in looking at static images and then you've also worked on starting but it's a much
+00:29:29 smaller degree the community is looking at dynamic and video at dynamic scenes and then there is
+00:29:35 robotic vision which is dynamic but also where you actually have a robot in the physical world
+00:29:43 interacting based on that vision which problem is harder the the the intuit sort of the the
+00:29:51 trivial first answers well of course one image is harder but so if you look at a deeper question there
+00:30:01 are we what's the term cutting ourselves cutting ourselves at the knees or like making the problem harder by focusing on
+00:30:09 the images that's a fair question i think sometimes we we can simplify our problem so much
+00:30:20 that we essentially lose part of the juice that could enable us to solve the problem
+00:30:27 and one could reasonably argue that to some extent this happens when we go from video to single images
+00:30:34 now historically  you have to consider the limits of imposed by the competition capabilities
+00:30:40 we had so if we many of the choices made in the computer vision community
+00:30:50  through the 70s 80s 90s can be understood as choices which were forced upon us by
+00:31:00 the fact that we just didn't have access to compute enough compute not enough memory none of
+00:31:04 hard drives not exactly not enough not enough compute not enough storage
+00:31:09 so so think of these choices so one of the choices is focusing on single images rather than
+00:31:15 video okay clear questions storage and compute we had to focus on we did we
+00:31:24 used to detect edges and throw away the image right so you have an image which i say 256 by 256 pixels and
+00:31:32 instead of keeping around the grayscale value what we did was we detected edges find the places where the brightness
+00:31:38 changes a lot so now that and now and then throw away the rest
+00:31:44 so this was a major compression device and the hope was that this makes it that you can still work with it and the
+00:31:51 logic was humans can interpret a line drawing and  and yes and this will save us a competition so many of the choices were
+00:32:00 dictated by that i think  today we are no longer detecting edges right we
+00:32:10 process images with convnets because we don't need to we don't have that those compute restrictions anymore now
+00:32:15 video is still under studied because video compute is still quite challenging
+00:32:22 if you are a university researcher i think video computing is not so challenging if you are at
+00:32:29 google or facebook or amazon still super challenging i've just spoke with the vp of engineering
+00:32:33 google head of the youtube search and discovery and they still struggle doing stuff on
+00:32:40 video it's very difficult except doing except using techniques that are essentially the techniques you used in
+00:32:47 in the 90s some very basic computer vision techniques no that's when you want to do things at
+00:32:52 scale so if you want to operate at the scale of all the content of youtube it's very
+00:32:58 challenging and there's similar issues in facebook but as a researcher you you have you have more  you know opportunities
+00:33:07 you can train large you know that works with relatively large  video data sets yeah yes so i think that
+00:33:14 this is part of the reason why we have so emphasized static images i think that this is changing and over
+00:33:20 the next few years i see a lot more progress happening in in video so i have this generic
+00:33:29 statement that to me video recognition feels like 10 years behind
+00:33:35 object recognition and you can quantify that because you can take some of the challenging
+00:33:39 video data sets and their performance on action classification is like say 30
+00:33:47 which is kind of what we used to have around 2009 in object detection you know so it's like about 10 years behind
+00:33:57 and  whether it'll take 10 years to catch up is a different question hopefully it will take less than that
+00:34:03 let me ask a similar question i've already asked but once again so for dynamic scenes
+00:34:11 do you think do you think some kind of injection of knowledge basis and reasoning is required to help improve like action recognition
+00:34:24 like if if if if we solve the general action recognition problem
+00:34:28 what do you think the solution would look like it's another way yeah so i i completely
+00:34:37 agree that knowledge is called for and that knowledge can be quite sophisticated so the way i would
+00:34:41 say it is that perception blends into cognition and cognition brings in
+00:34:49 issues of memory and this notion of a schema from psychology which is
+00:34:55  let me use the classic example which is you go to a restaurant right now the things that
+00:35:02 happen in a certain order you walk in somebody takes you to a table a waiter comes gives you a menu
+00:35:11 takes the order food arrives eventually bill arrives etc etc this is a classic example of ai from the 1970s
+00:35:21  it was called there was the term frames and scripts and schemas these are all quite
+00:35:26 similar ideas okay in the 70s the way the ai of the time dealt with it was by
+00:35:34 build hand coding this so they hand coded in this notion of a script and the various
+00:35:40 stages and the actors and so on and so forth and use that to interpret for example language i mean if there's a description of a of
+00:35:50 a story involving some people eating at a restaurant there are way all these
+00:35:57 inferences you can make because you know what happens typically at a restaurant so i think this kind of 
+00:36:04 this kind of knowledge is absolutely essential so i think that when we are going to do long-form
+00:36:11 video understanding we are going to need to do this i think the kinds of technology that we have
+00:36:16 right now with 3d convolutions over a couple of seconds of clip or video
+00:36:23 it's very much tailored towards short-term video understanding not that long-term understanding
+00:36:29 long-term understanding requires a notion of this notion of schemas that i talked
+00:36:36 about perhaps some notions of goals intentionality functionality and so on and so forth now
+00:36:46 how will we bring that in so we could either revert back to the 70s and say okay i'm going to hand code in
+00:36:54 a script or we might try to learn it so i tend to believe that we have to find
+00:37:02 learning ways of doing this because i think learning ways to land up being more robust
+00:37:08 and there must be a learning version of the story because  children acquire a lot of this knowledge
+00:37:17 by  sort of just observation so at no moment in a child's life there's a it's possible but i think it's not so
+00:37:24 typical that somebody that a mother coaches a child through all the stages of what happens
+00:37:30 in a restaurant they just go as a family they they they go to the restaurant they eat come
+00:37:37 back and the child goes through 10 such experiences and the child has has got a schema of what happens when you go to a restaurant
+00:37:45 so we somehow need to we need to provide that capability to our systems you mentioned the following line from
+00:37:52 the end of the alan turing paper  computing machinery and intelligence that many people
+00:37:59 like you said many people know and very few have read where he proposes the turing test this
+00:38:04 is this is how you know because it's towards the end of the paper instead of trying to produce a program
+00:38:09 to simulate the adult mind why not rather try to produce one which simulates the child's
+00:38:17 so that's a really interesting point if i think about the benchmarks we have before us the the tests
+00:38:24 of our computer vision systems they're often kind of trying to get to the adult so what kind of
+00:38:30 benchmarks should we have what kind of tests for computer vision do you think we should have
+00:38:37 that mimic the child's in computer vision yeah i think we should have those and we
+00:38:42 don't have those today and i think  the part of that the challenge is that we should really
+00:38:49 be collecting data of the type that a child  that the child experiences
+00:38:56 right so that gets into issues of you know privacy and so on and so forth but there are attempts in this direction to
+00:39:04 sort of try to collect the kind of data that a child encounters growing up so what's the
+00:39:10 child's linguistic environment what's the child's visual environment so if we could collect that kind of data
+00:39:20 and then develop learning schemes based on that data that would be one way to do it i
+00:39:27 i think that's a very promising direction myself there might be people who would argue
+00:39:32 that we could just short circuit this in some way and  sometimes we have
+00:39:41 imitated  we have not we have had success by not imitating nature in detail so
+00:39:47 the usual example is airplanes right we don't build flapping winds flapping wings so 
+00:39:55 yes that's  that's one of the points of debate  in my mind i i i would i would bet on
+00:40:04 this this learning like a child approach so one of the fundamental aspects of learning like a child is the interactivity
+00:40:13 so the child gets to play with the data set it's learning from yes it's against the select i mean you
+00:40:18 can call that active learning you can you know in the machine learning world you can call it a lot of terms
+00:40:25 what are your thoughts about this whole space of being able to play with the data set or select what you're learning
+00:40:32 yeah so i think that  i i believe in that and i think that we could achieve it in in two ways and i
+00:40:40 think we should use both so one is  actually real robotics right so real 
+00:40:50 you know physical embodiments of agents who are interacting with the world and they have a physical body with
+00:40:57 dynamics and mass and moment of inertia and friction and all the rest and you learn your body the robot learns its
+00:41:03 body by doing a series of actions the second is that simulation environments
+00:41:14 so i think simulation environments are getting much much better in my in my life in
+00:41:22 facebook ai research our group has worked on something called habitat which is a simulation environment
+00:41:30 which is a visually photorealistic environment of you know places like houses or interiors of
+00:41:39 various urban spaces and so forth and as you move you get a picture which is a pretty
+00:41:44 accurate picture so  i i can now  you can imagine that subsequent generations of these
+00:41:54 simulators will be accurate not just visually but with respect to you know forces and masses and
+00:42:03 haptic interactions and so on and  then then we have that environment to play with
+00:42:11 i think that let me state one reason why i think this active being able to act in the
+00:42:15 world is important i think that this is one way to break
+00:42:22 the correlation versus causation barrier so this is something which is of a great deal of interest these days i mean
+00:42:29 people like judea pearl have talked a lot about  why that we are neglecting causality and he
+00:42:38 describes the entire set of successes of deep learning as just curve fitting right because it's  but i i don't
+00:42:44 quite agree about as a troublemaker he is but  causality is important but causality is not
+00:42:54 is not like a single silver bullet it's not like one single principle there are many different aspects here
+00:43:01 and one of the ways in which  one of our most reliable ways of establishing causal links and this is
+00:43:06 the way for example the the medical community does this is
+00:43:13 randomized control trials so you have you you pick some situation and now in some situation you perform an action and
+00:43:21 for certain others you don't right so so you have a control experiment well the child is in fact
+00:43:27 performing controlled experiments all the time right right right okay small scale and
+00:43:32 in a small scale and but but that is a way that the child gets to
+00:43:39 build and refine its causal models of the world and my colleague alison gopnik has
+00:43:46 together with a couple of authors co-authors has this book called the scientist in the crib
+00:43:52 referring to children so i like the part that i like about that is the scientist wants to do wants to build
+00:43:58 causal models and the scientist does control experiments and i think the child is
+00:44:03 doing that so to enable that we will need to have these these active experiments
+00:44:12 and i think this could be done some in the real world and some in simulation so you have hope for simulation
+00:44:18 i have a hopeless solution that's an exciting possibility if we can get to not just photo realistic but what's that called
+00:44:27 life realistic yeah  simulation so you don't see any fundamental blocks to why we can't eventually simulate
+00:44:36 the the principles of what it means to exist in the world as a physical i i don't see any
+00:44:41 fundamental problems there i mean and look the computer graphics community has come a long way
+00:44:46 right so the in the early days back going back to the 80s and 90s they were they were focusing on visual realism
+00:44:54 right and then they could do the easy stuff but they couldn't do stuff like hair or fur and so on
+00:45:01 okay well they managed to do that then they couldn't do physical actions right like there's a bowl of
+00:45:08 glass and it falls down and it shatters but then they could start to do pretty realistic models of that
+00:45:14 and so on and so forth so the graphics people have shown that they can do this forward direction not just for
+00:45:21 optical interactions but also for physical interactions so i think  of course some of that is
+00:45:28 very computer intensive but i think by and by we will find ways of making our models ever more realistic
+00:45:38 you break vision apart into in one of your presentations early vision static scene understanding
+00:45:42 dynamics and understanding and raise a few interesting questions i thought i could just throw some
+00:45:48 some at you just to see if you want to talk about them so early vision so it's what is it
+00:45:56 you said sensation perception and cognition so is this a sensation yes
+00:46:03 what can we learn from image statistics that we don't already know so at the lowest level what um
+00:46:12 what can we make from just this the the statistic the basics so there were the variations in the rock pixels the
+00:46:18 textures and so on yeah so what we seem to have learned is    is that there's a lot of
+00:46:28 redundancy in these images and as a result we are able to do a lot of compression and and this compression is very
+00:46:36 important in biological settings right so you might have ten to the eight photoreceptors and only ten to the six
+00:46:42 fibers in the optic nerve so you have to do this compression by a factor of hundreds to one and
+00:46:50  and  so there are analogs of that which are happening in in our neural net artificial neural
+00:46:56 network that's the early layer so you think there's a lot of compression that can be done in the beginning
+00:47:03 yeah just just the statistics yeah how much how much well so i mean the the way to
+00:47:10 think about it is just how successful is image compression right and we we and there are and that's
+00:47:18 been done with older technologies but it can be done with there are
+00:47:25 several companies which are trying to use sort of these more advanced neural network type techniques for compression
+00:47:33 both for static images as well as for for video one of my former students has a company
+00:47:39 which is trying to do stuff like this and i think i think that they are showing quite
+00:47:47 interesting results and i think that that's all the success of that's really about image
+00:47:53 statistics and video statistics but that's still not doing compression of the kind when i see a
+00:47:58 picture of a cat all i have to say is it's a cat that's another semantic kind of complication
+00:48:04 yeah so this is this is at the lower level right so we are we are we as i said yeah
+00:48:10 that's focusing on low level statistics so to linger on that for a little bit  you mentioned how far can bottom-up
+00:48:18 image segmentation go and in general what you mentioned that the central question for scene
+00:48:24 understanding is the interplay of bottom-up and top-down information maybe this is a good time
+00:48:30 to elaborate on that maybe define what is what is up what is top down in the comments yes the computer vision
+00:48:39  right that's  so today what we have are a are very interesting systems because they work
+00:48:45 completely bottom up how are they what does bottom bottom-up mean sorry so bottom-up means in this
+00:48:50 case means a feed-forward net neural network so starting from the raw pixels yeah they start from the raw pixels and they
+00:48:58 they end up with some something like cat or not a cat right so our our systems are running
+00:49:04 totally feed forward they're trained in a very top-down way so they're trained by saying okay this
+00:49:11 is a cat there's a cat there's a dog there's a zebra etc and i'm not happy with either of these
+00:49:18 choices fully we have gone into  because we have completely separated these processes
+00:49:28 right so there is a so i would like the  the process  so what do we know compared to biology
+00:49:36 so in biology what we know is that the processes in at test time at run time those processes are not purely feed
+00:49:46 forward but they involve feedback so and they involve much shallower neural networks
+00:49:51 so the kinds of neural networks we are using in computer vision say a resnet 50 has 50 layers
+00:49:58 well in in the brain in the visual cortex going from the retina to it maybe we have like seven
+00:50:06 right so they're far shallower but we have the possibility of feedback so there are backward connections
+00:50:13 and this might enable us to  to deal with the more ambiguous stimuli for example
+00:50:21 so the the biological solution seems to involve feedback the solution in in artificial
+00:50:28 vision seems to be just feed forward but with a much deeper network and the two are functionally equivalent
+00:50:34 because if you have a feedback network which just has like three rounds of feedback you can just unroll it and make it three
+00:50:40 times the depth and create it in a totally feed forward way so this is something which i mean we
+00:50:48 have written some papers on this theme but i really feel that this should this theme should be pursued further
+00:50:57 have some kind of recurrence mechanism yeah okay the other  so that so that's  so i
+00:51:03 so i want to have a little bit more top down in the at test time okay then at training time
+00:51:11 we make use of a lot of top-down knowledge right now so basically to learn to segment an
+00:51:17 object we have to have all these examples of this is the boundary of a cat and this is the boundary of a chair
+00:51:23 and this is the boundary of a horse and so on and this is too much top-down knowledge how do
+00:51:32 humans do this we manage to we manage with far less supervision and we do it in a sort of bottom-up way
+00:51:37 because for example we're looking at a video stream and the horse moves
+00:51:45 and that enables me to say that all these pixels are together yeah so the gestural psychologists used
+00:51:50 to call this the principle of common fate so there was a bottom-up
+00:51:56 process by which we were able to segment out these objects and we have totally focused on this
+00:52:04 top-down training signal so in my view we have currently solved it in machine vision this top-down
+00:52:12 bottom-up interaction but i don't find the solution fully satisfactory and i would rather have a bit of both in
+00:52:19 at both stages for all computer vision problems which is not just segmentation
+00:52:26 and and and and the question that you can ask is so for me i'm inspired a lot by human
+00:52:31 vision and i care about that you could be a just a hard-boiled engineer not give a damn
+00:52:38 so to you i would then argue that  you would need far less training data if you could make my  research agenda
+00:52:48 you know fruitful okay so maybe taking a step into  segmentation static scene understanding
+00:52:55 what is the interaction between segmentation and recognition you mentioned the movement of objects
+00:53:02 so for people who don't know computer vision segmentation is this weird activity that we that computer vision folks have all
+00:53:10 agreed is very important  of drawing outlines around objects versus a bounding box or
+00:53:21 and then classifying that object what's what's the value of segmentation what is it
+00:53:27 as a problem in computer vision how is it fundamentally different from detection recognition any other problems
+00:53:32 yeah so i think  so so segmentation enables us to say that
+00:53:42 some set of pixels are an object without necessarily even being able to name that object or knowing properties of that object
+00:53:51 oh so you mean segmentation purely as as as the act of separating an object from its background a blob of 
+00:54:00 of that's united in some way from his background yeah so identification if you were making an entity out of it and
+00:54:07 justification yeah beautifully so so i think that we have that capability and that is that enables us
+00:54:18 to  as we are growing up to acquire  names of objects with very little supervision so suppose
+00:54:24 the child lets posit that the child has this ability to separate out
+00:54:31 objects in the world then when the there's a the mother says pick up your bottle or
+00:54:38 the cat's behaving funny today the word cat suggests some object and then the child sort of does the mapping
+00:54:48 right right the mother doesn't have to teach a specific object labels by pointing to them weak supervision works in the context
+00:54:58 that you have the ability to create objects so i think that  so to me that's that's a
+00:55:07 very fundamental capability  there are applications where this is very important 
+00:55:13 for example medical diagnosis so in medical diagnosis  you have some  brain scan i mean some
+00:55:20 this is some work that we did in my group where you have ct scans of people who have
+00:55:26 had traumatic brain injury and what  what the radiologist needs to do is to precisely delineate various
+00:55:34 places where there might be bleeds for example and there's there are clear needs like that so they're certainly very practical
+00:55:44 applications of computer vision where segmentation is necessary but philosophically segmentation
+00:55:52 enables the task of recognition to proceed with much weaker supervision than we require today
+00:55:59 and you think of segmentation as this kind of task that takes on a visual scene and breaks it apart
+00:56:08 into into interesting entities yeah that might be useful for whatever the task is yeah
+00:56:14 and and it is not semantics free so i think i i mean it it blends into it involves
+00:56:23 perception and cognition it is not it is not i i think the mistake that we used to make in the early days of computer vision
+00:56:31 was to treat it as a purely bottom-up perceptual task it is not just that because we do revise our notion of
+00:56:41 segmentation with more experience right because for example there are objects which are non-rigid like animals
+00:56:49 or humans and  i think understanding that all the pixels of a human are one entity is actually quite a challenge
+00:56:57 because the parts of the human they can move independently and the human wears clothes so they
+00:57:02 might be differently colored so it's all sort of a challenge you mentioned the three hours of computer vision
+00:57:10 are recognition reconstruction reorganization can you describe these three r's sure how they interact
+00:57:19 yeah so  so recognition is the easiest one because that's  what i think people generally think of as computer vision
+00:57:30 achieving these days which is  labels so is this a cat is this a dog is this a chihuahua i mean you know it could be
+00:57:38 very fine grain like you know specific breed of a dog or a specific species or bird
+00:57:46 or it could be very abstract like animal but given a part of an image or a whole image say
+00:57:53 put a label on that yeah so that's that's recognition reconstruction is 
+00:58:01 essentially it you can think of it as inverse graphics i mean that's one way to think about it so graphics is your
+00:58:10 you have some internal computer representation and  you have a computer representation of some objects arranged
+00:58:17 in a scene and what you do is you produce a picture you produce the pixels corresponding to
+00:58:24 a rendering of that scene so  so let's do the inverse of this we are given an
+00:58:31 image and we try to we we we say oh this image arises from some objects in a scene
+00:58:41 looked at with a camera from this viewpoint and we might have more information about the objects like their
+00:58:48 shape maybe their textures maybe you know color et cetera et cetera so that's the reconstruction problem in a way
+00:58:57 that you are in your head creating a model of the external world okay reorganization is to do with
+00:59:08 essentially finding these entities so  so it's  organization or the word organization implies structure
+00:59:18 so  that in in  perception in psychology we use the term perceptual organization that  the the world is not just
+00:59:29 an image is not just seen as is not internally represented as just a collection of pixels but we
+00:59:36 make these entities we create these entities objects whatever you want to call in the relationship between the entities as
+00:59:42 well or is it purely about the entities it could be about the relationships but mainly we focus on the fact that there
+00:59:47 are entities sometimes i'm trying to pinpoint what the organization means
+00:59:54 so organization is that instead of like uniform grid we have the structure of objects so segmentation is a small part of that
+01:00:07 so segmentation gets us going towards that yeah and you kind of have this triangle where they all interact together
+01:00:17 yes so how do you see that interaction in  sort of  reorganization is yes defining the
+01:00:25 entities in the world the recognition is labeling those entities and then reconstruction is what filling
+01:00:33 in the gaps well to for example see impute some 3d objects corresponding to
+01:00:41 each of these entities that would be part of adding more information that's not
+01:00:49 there in the raw data correct i mean i started pushing this kind of a view in the around 2010 or something
+01:00:57 like that because at that time in computer vision the distinction that
+01:01:05 people were were just working on many different problems but they treated each of them as a separate
+01:01:13 isolated problem with each with its own data set and then you try to solve that and get good numbers on it
+01:01:19 so i wasn't i didn't like that approach because i wanted to see the connection between these and
+01:01:28 if people divided up vision into into various modules the way they would do it is as low level mid-level and
+01:01:34 high-level vision corresponding roughly to the psychologist's notion of sensation
+01:01:39 perception and cognition and i didn't that didn't map to tasks that people cared about
+01:01:48 okay so therefore i tried to promote this particular framework as a way of considering the problems
+01:01:53 that people in computer vision were actually working on and trying to be more explicit about the
+01:01:59 fact that they actually are connected to each other and i was at that time
+01:02:06 just doing this on the basis of information flow now it turns out in the last five years
+01:02:13 or so in the post the deep learning revolution that this this architecture has turned
+01:02:21 out to be very conducive to that because basically in these neural
+01:02:28 networks we are trying to there can be multiple output heads sharing common representations
+01:02:40 so in a certain sense today given the reality of what solutions people have to these i i i i do not need to preach this anymore
+01:02:51 it is it is just there it's part of the solution space so speaking of neural networks how much of
+01:03:00 this  problem of computer vision of the organization recognition can be reconstruction
+01:03:11 how much of it can be learned end to end do you think instead of  set it and forget it just
+01:03:18 plug and play have a giant data set multiple perhaps multi-modal and then just learn the entirety of it
+01:03:28 well so i i think that currently what that end-to-end learning means nowadays is end-to-end supervised learning
+01:03:36 and and that i would argue is too narrow a view of the problem i would i like this child development view
+01:03:45 this lifelong learning view one where there are certain capabilities that are built up and then there are certain
+01:03:51 capabilities which are built up on top of that so  that's that's what i i believe in
+01:04:02 so i think  end-to-end learning in the supervised setting for a very precise task to me is
+01:04:13 a kind of is  it's sort of a limited view of the of the learning process
+01:04:21 got it so if we think about beyond purely supervised look at back to children you mentioned six lessons
+01:04:29 that we can learn from children  of be multimodal be incremental be physical explore be social use language can you
+01:04:39 speak to these perhaps picking one that you find most fundamental toward yeah time today
+01:04:45 yeah so i mean i should say to give due credit this is from a paper by smith and gasser and it reflects
+01:04:55 essentially i would say common wisdom among child development people it's just that these are this is not common wisdom
+01:05:04 among people in computer vision and ai and machine learning so
+01:05:12 i view my role as  trying to bridge the worlds bridge the two worlds so  so let's take an example of a
+01:05:19 multi-modal i like that so multi-modal canonical example is  a child interacting with  with an object
+01:05:30 so then the child so the child holds a ball and plays with it so at that point it's getting a touch signal
+01:05:38 so the touch signal is is getting as the notion of 3d shape but it is sparse
+01:05:45 and then the child is also seeing a visual signal right and and these two so imagine these are
+01:05:52 two in totally different spaces right so one is the space of receptors on the skin
+01:05:57 of the fingers and the thumb and the palm right and then these map on to these neuronal fibers are
+01:06:06 getting activated somewhere right these lead to some activation in somatosensory cortex i mean a similar thing will happen if we
+01:06:14 have a robot hand okay and then we have the pixels corresponding to the
+01:06:20 visual view but we know that they correspond to the same object right so that's
+01:06:27 a very very strong cross calibration signal and it is self-supervisory which is beautiful right
+01:06:34 there's nobody assigning a label the mother doesn't have to come and assign a label the child
+01:06:39 doesn't even have to know that this object is called a ball okay but the obj the child is learning
+01:06:45 something about the three-dimensional world from this signal  i think tactile and visual there is some
+01:06:53 work on there is a lot of work currently on audio and visual
+01:06:59 okay an audio visual so there is some event that happens in the world and that event has a visual signature
+01:07:05 and it has a auditory signature so there is this glass bowl on the table and it falls and
+01:07:11 breaks and i hear the smashing sound and i see the pieces of glass okay i've built that connection between
+01:07:18 the two right we have people  i mean this has become a hot topic in computer vision in
+01:07:25 the last couple of years there is there are problems like  separating out multiple speakers right
+01:07:34 which was a classic problem in in audition they call this the problem of source separation or the
+01:07:41 cocktail party effect and so on but just try to do it visually when you also have it becomes so much
+01:07:50 easier and so much more useful so the the multimodal i mean there's so much more
+01:07:56 signal with multimodal and you can use that for some kind of weak supervision as well yes
+01:08:01 because they are occurring at the same time in time yeah so you have time which links the two right so at a
+01:08:08 certain moment t1 you've got a certain signal in the auditory domain and a certain signal in
+01:08:12 the visual domain but they must be causally related yeah it's an exciting area not well studied yet
+01:08:19 not yeah i mean we have a little bit of work at this but  but but so much more needs to be done yeah
+01:08:25 so so so so this this is this is a good example be physical
+01:08:31 that's to do with  like the one thing we talked about earlier that that there's a embodied world
+01:08:39 to mention language use language so no chomsky believes that language may be at the core of cognition at the core of
+01:08:46 everything in the human mind what is the connection between language and vision to you
+01:08:52 like what's more fundamental are they neighbors is one the parent and the child the chicken and the egg
+01:08:59 oh it's very clear it is vision which is the appearance the fundament the permission is the fundamental
+01:09:06 ability okay well so  it comes before you think vision is more fundamental than language
+01:09:14 correct and and and it and yeah you can think of it either in phylogeny or in ontogeny
+01:09:19 so phylogeny means if you look at evolutionary time right so you we have vision that
+01:09:26 developed 500 million years ago okay then something like when we get to maybe like
+01:09:32 five million years ago you have the first bipedal primate so when we started to walk then the hands became free and so then
+01:09:41 manipulation the ability to manipulate objects and build tools and so on and so forth so you said 500 000
+01:09:47 years ago no no sorry the the first multicellular animals which you can say
+01:09:56 had some intelligence arose 500 million years ago okay and now let's fast forward to say
+01:10:01 the last seven million years which is the development of the hominid line right
+01:10:09 where from the other primates we have the branch which leads on to modern humans now there are many of these hominids
+01:10:22 you know people talk about lucy because that's like a skeleton from three million years ago and we know that lucy
+01:10:30 walked okay so at this stage you have that the hand is free for manipulating objects and then the ability to manipulate
+01:10:36 objects build tools and the brain size grew in this era so okay so now you have manipulation
+01:10:48 now we don't know exactly when language arrows but after that but after that because no apes have i mean so i mean chomsky is
+01:10:57 correct in that that it is a uniquely human capability and we primates
+01:11:04 other primaries don't have that but so it developed somewhere in this era but it developed i would
+01:11:12 i mean  argue that it probably developed after we had this stage of   humans or i mean the
+01:11:21 human species already able to manipulate and a hands-free much bigger brain size and for that there's a lot of vision
+01:11:31 has already had had to have developed yeah so the sensation and the perception may be
+01:11:35 some of the cognition yeah so we we so those so so that so the world so there
+01:11:46 so so these ancestors of us you know three four million years ago they had
+01:11:53  they had spatial intelligence so they knew that the world consists of objects they knew that the objects were in
+01:11:59 certain relationships to each other they had observed causal interactions among objects they could
+01:12:07 move in space so they had space and time and all of that so language
+01:12:14 builds on that substrate so language has a lot of i mean i mean the all human languages
+01:12:20 have constructs which depend on a notion of space and time where did that notion of space and time come from
+01:12:29 it had to come from perception and action in the world we live in yeah what you refer to as the spatial
+01:12:35 intelligence yeah yeah to linger a little bit we mentioned touring and his  mention of
+01:12:44 we should learn from children nevertheless language is the fundamental piece of the test of
+01:12:50 intelligence that touring proposed what do you think is a good test of intelligence are you
+01:12:56 what would impress the heck out of you is it fundamentally natural language or is there something
+01:13:02 in vision i i think  i i wouldn't i i don't think we should have created a
+01:13:09 single test of intelligence so just like i don't believe in iq as a single number
+01:13:17 i think generally there can be many capabilities so i think that there will be  there will be accomplishments which
+01:13:28 are visual accomplishments accomplishments which are  accomplishments in manipulation or
+01:13:36 robotics and then accomplishments in language i do believe that language will be the hardest not to crack
+01:13:42 really yeah so what's what's harder to pass the spirit of the touring test or like whatever formulation will make it
+01:13:50 natural language convincingly in natural language like somebody you would want to have a beer with hang out and have a chat with
+01:13:57 or the general natural scene understanding you think language is the type i think i'm not a fan of the
+01:14:08 i think i think turing test that turing as he proposed the test in 1950 was trying to solve a certain problem
+01:14:14 yeah imitation yeah and and i think it made a lot of sense then
+01:14:21 where we are today 70 years later i think i think we we should not worry about that i mean i
+01:14:27 think the turing test is no longer the right way to  to to channel research in in ai because
+01:14:36 that it takes us down this path of this chat bot which can fool us for five minutes or whatever
+01:14:42 okay i think i would rather have a list of 10 different tasks i mean i think their tasks which their tasks in the
+01:14:51 manipulation domain tasks and navigation tasks and visual scene understanding tasks in under reading a story and
+01:14:59 answering questions based on that i mean so my favorite language understanding task would be
+01:15:05 you know reading a novel and being able to answer arbitrary questions from it okay right i i think that to me
+01:15:14  and this is not an exhausted list by any means so i would  i think that that's what we
+01:15:21 where we need to be going to and each of these on each of these axes there's a fair amount of work to be done
+01:15:28 so on the visual understanding side in this intelligence olympics that we've set up yeah what's a good
+01:15:35 test for one of many of visual scene understanding  do you think such benchmarks exist
+01:15:42 sorry to interrupt no there there aren't any i i think i think essentially to me a really  good
+01:15:51 aid to the blind so suppose there was a blind person and i needed to assist the blind person
+01:15:59 so ultimately like we said vision that aids in the action in the survival in this world yeah
+01:16:08 maybe in a simulated world maybe easier to to measure performance in a simulated world
+01:16:14 what we are ultimately after is performance in the real world so david hilbert in 1900 proposed 23
+01:16:23 open problems in mathematics some of which are still unsolved most important famous of which is
+01:16:29 probably the riemann hypothesis you've thought about and presented about the hilbert problems of computer vision
+01:16:36 so let me ask what to you today i don't know when the last year you presented that 2015 but versions of it
+01:16:42 yeah you're kind of the the face and the spokesperson for computer vision yeah it's your job to just to state what
+01:16:49 the problem the open problems are for the field so what today
+01:16:54 are the hilbert problems of computer vision do you think let me pick pick one to which i regard as
+01:17:04  clearly clearly unsolved which is what i would call long-form video understanding
+01:17:11 so so we have a video clip and we want to understand the behavior in there in terms of
+01:17:21 agents their goals intentionality and  make predictions about what might happen
+01:17:32 you know so so that that kind of understanding which goes away from atomic visual action so
+01:17:39 so in the short range the question is are you sitting are you standing are you catching a ball
+01:17:46 right that we can do now or we even if we can't do it fully accurately if we can do it at 50 percent maybe next
+01:17:53 year we'll do it at 65 and so forth but i think the long range video understanding i don't think we we we can do today well
+01:18:03 today and that means so long and it blends into cognition that's the reason why it's challenging
+01:18:08 and so you have to track you have to understand the entities you have to understand the sds you have
+01:18:13 to track them and you have to have some kind of model of their behavior
+01:18:19 correct and their and if their behavior might be these are these are agents so they are
+01:18:23 not just like passive objects but the agent so therefore we they might they would exhibit gold
+01:18:30 directed behavior okay so this is this is one area then i will talk about
+01:18:36 say understanding the world in 3d now this may seem paradoxical because in a way we have
+01:18:43 been able to do 3d understanding even like 30 years ago right but i don't think we currently have the richness of
+01:18:51 3d understanding in our computer vision system that we would like because ah so let me elaborate on that a bit
+01:19:00 so currently we have two kinds of techniques which are not fully unified so there are the kinds
+01:19:05 of techniques from multi-view geometry that you have multiple pictures of a scene and you do
+01:19:12 reconstruction using stereoscopic vision or structure from motion but these techniques do not
+01:19:19 they totally fail if you just have a single view because they are relying on this this multiple geometry
+01:19:28 okay then we have some techniques that we have developed in the computer vision community which try to
+01:19:34 guess 3d from single views and these techniques are based on on supervised learning
+01:19:41 and they are based on having a training time 3d models of objects available and this is completely unnatural supervision
+01:19:52 right that's not cad models are not injected into your brain okay so what would i like what i would
+01:19:58 like would be a kind of  learning as you move around the world  notion of 3d
+01:20:10 so so we we have our succession of visual experiences and from those we
+01:20:19 so in as part of that i might see a chair from different viewpoints or a table from viewpoint different
+01:20:24 viewpoints and so on now as part that enables me to build some internal representation and then
+01:20:33 next time i just see a single photograph and it may not even be of that chair it's of some other chair
+01:20:41 and i have a guess of what its 3d shape is like so you're almost learning the cad model
+01:20:45 kind of yeah implicitly i mean implicitly i mean the cad model need not be in the same
+01:20:50 form as used by computer graphics hidden in the representation it's hidden in the representation the
+01:20:57 ability to predict new views and what i would see if i went to such and such position by the
+01:21:04 way and on a small tangent on that are you uncomforta are you
+01:21:13 okay or comfortable with neural networks that do achieve visual understanding that do for example
+01:21:19 achieve this kind of 3d understanding and you don't know how they you don't know the rep you're not able to interest but
+01:21:26 you're not able to visualize or understand or interact with the representation
+01:21:33 so the fact that they're not or may not be explainable yeah i think that's fine i to me that is 
+01:21:44 so so let me put some caveats on that so it depends on the setting so first of all i think
+01:21:51   the  humans are not explainable so yeah that's a really good point yeah
+01:21:59 so we we one human to another human is not fully explainable i think there are settings where
+01:22:06 explainability matters and these might these are these might be for example questions on medical diagnosis
+01:22:16 so i'm in a setting where maybe the doctor maybe a computer program has made a certain diagnosis
+01:22:23 and then depending on the diagnosis perhaps i should have treatment day or treatment b
+01:22:31 right so now is the computer programs diagnosis based on data which was data collected of
+01:22:40 for american males who are in their 30s and 40s and maybe not so relevant to me
+01:22:47 maybe it is relevant you know et cetera et cetera and we i mean in medical diagnosis we have major issues
+01:22:53 to do with the reference class so we may have acquired statistics from one group of people and applying it to
+01:23:00 a different group of people who may not share all the same characteristics the data might have there might be error
+01:23:07 bars in the prediction so that prediction should really be taken with
+01:23:14 a huge grain of salt and but this has an impact on what treatments should be picked right so
+01:23:22 so there are settings where i want to know more than just this is the answer but what i
+01:23:29 acknowledge is that so so so so i in that sense explainability and interpretability may matter
+01:23:37 it's about giving error bounds and a better sense of the quality of the decision where what i where i'm willing to
+01:23:47 sacrifice interpretability is that i believe that there can be systems which can be highly performant but which
+01:23:53 are internally black boxes and and that seems to be words headed some of the best performing
+01:24:01 systems are essentially black boxes yeah  fundamentally by their construction you and i are
+01:24:07 black boxes to each other yeah so the nice thing about the black boxes we are is so we ourselves are black boxes
+01:24:16 but we're also those of us who are charming are able to convince others like explain the black
+01:24:23 what's going on inside the black box with narratives with stories so in some sense  neural networks
+01:24:28 don't have to actually explain what's going on inside they just have to come up with stories real or fake
+01:24:37 that convince you that they know what's going on and i'm sure we can do that we can
+01:24:41 create those nearer those stories neural networks can create and the transformer will be involved do
+01:24:52 you think we will ever build a system of human level or superhuman level intelligence
+01:24:58 we've kind of defined what it takes to try to approach that but do you think we'll do you think that's within our reach the
+01:25:04 thing that we thought we could do what touring thought actually we could do by a year 2000
+01:25:10 right what do you think we'll ever be able to do so i think there are two answers here one
+01:25:14 question one answer is in principle can we do this at some time and my answer is yes the second
+01:25:23 answer is a pragmatic one do you think we will be able to do it in the next 20 years or whatever and to that man says no
+01:25:33 so and of course that's a wild guess i i i i think that you know donald trump's felt is not a
+01:25:40 favorite person of mine but one of his lines is very good which is about known knowns known unknowns and unknown unknowns
+01:25:51 so in the business we are in there are known unknowns and we have unknown unknowns
+01:25:57 so i think with respect to a lot of what the case in vision and robotics i feel like
+01:26:07 we have known unknowns so i have a sense of where we need to go and what the problems that need to be
+01:26:13 solved are i feel with respect to natural language understanding and high level cognition
+01:26:22 it's not just known unknowns but also unknown unknowns so it is very difficult to put any kind
+01:26:27 of  time frame to that  do you think some of the
+01:26:35 unknown unknowns might be positive in that they'll surprise us and make the job much easier
+01:26:40 so fundamental breakthroughs i think that is possible because certainly i have been very positively surprised by how
+01:26:49 effective these deep learning systems have been because i certainly would not have believed that in
+01:27:02 what we knew from the mathematical theory was that convex optimization works when there's a single global optima then
+01:27:10 these gradient descent techniques would work now these are non-linear systems with non-convex systems
+01:27:17 huge number of variables so over-parametrized over-parameterized and the people who used to play with
+01:27:24 them a lot the ones who are totally immersed in the lore and the
+01:27:31 black magic they knew that they worked  well even though they were really i thought like everybody no the claim that
+01:27:40 i hear from my friends like yan lacoon and so forth now yeah that they feel that they were
+01:27:45 comfortable with them well he says but the community as a whole was certainly not and i think 
+01:27:55 we were to me that was the surprise that they actually worked robustly for a wide range of problems from a wide
+01:28:04 range of initializations and so on and  so that was that that was certainly more rapid progress than  we expected
+01:28:15 but then there are certainly lots of times in fact most of the history and fear is when we
+01:28:20 have made less pro progress at a slower rate than we expected so  we just keep going
+01:28:31 i think  what i regard as  really unwarranted are these these fears of  you know agi in 10
+01:28:40 years and 20 years and that kind of stuff because that's based on completely unrealistic models of how
+01:28:47 rapidly we will make progress in this field so i agree with you but i've also gotten a chance to interact with very
+01:28:55 smart people who really worry about the existential threats of ai and i as an open-minded person and sort
+01:29:01 of taking and taking it in do you think if ai systems in some way the unknown unknowns
+01:29:13 not super intelligent ai but in ways we don't quite understand  the nature of superintelligence will
+01:29:20 have a detrimental effect on society do you think this is something we should be worried about
+01:29:26 or we need to first allow the unknown our nose to become known unknowns i think we need to be
+01:29:32 worried about ai today i think that it is not just a worry we need to have when we get that
+01:29:40 agi i think that ai is being used in many systems today and there might be settings for example
+01:29:46 when it causes biases or decisions which could be harmful i mean decisions which could
+01:29:53 be unfair to some people or it could be a self-driving cars which kills a pedestrian
+01:30:01 so ai systems are being deployed today right and they're being deployed in many different settings maybe in medical
+01:30:06 diagnosis maybe in a self-driving car maybe in selecting applicants for an interview so i would argue that when these systems
+01:30:17 make mistakes there are consequences and we are in a certain sense responsible for those consequences
+01:30:24 so i would argue that this is a continuous effort it is we and and this is something that
+01:30:32 in a way is not so surprising it's about all engineering and scientific progress which 
+01:30:39 great power comes great responsibility so as these systems are deployed we have to worry about them and
+01:30:45 it's a continuous problem i don't think of it as something which will suddenly happen on some day
+01:30:51 in 2079 for which i need to design some clever trick i'm saying that these problems exist
+01:30:58 today yeah and we need to be continuously on the lookout for
+01:31:06 worrying about safety biases risks right i mean the self-driving car kills are pedestrian
+01:31:13 and they have right i mean the this uber incident in arizona yeah right it has happened right this is not about agi it in fact
+01:31:22 it's about a very dumb intelligence which is also killing people the worry people have with agi
+01:31:28 is the scale and i but i think you're 100 right is like the thing that worries me about ai
+01:31:35 today and it's happening in a huge skills recommend recommender systems recommendation
+01:31:40 systems so if you look at twitter or facebook or youtube their controlling the ideas that we have
+01:31:48 access to the news and so on and that's a fundamentally machine learning algorithm
+01:31:55 behind each of these recommendations and they i mean my life would not be the same without
+01:32:01 these sources of information i'm a totally new human being and the ideas that i know are very much
+01:32:06 because of the internet because of the algorithm that i recommend those ideas and so
+01:32:12 as they get smarter and smarter i mean that is the agi yeah is that's the the algorithm that's recommending
+01:32:21 the next youtube video you should watch has control of millions of billions of people that that algorithm is already super
+01:32:29 intelligent and has complete control of the population not a complete but
+01:32:35 very strong control for now we can turn off youtube we can just go have a normal life outside of that
+01:32:41 but the more and more that gets into our life it's that algorithm we start
+01:32:47 depending on it in the different companies that are working on the algorithm so i think it's
+01:32:52 you're right it's already it's already there and youtube in particular is using computer vision
+01:32:59 doing their hardest to try to understand the content of videos so they could be able to connect videos with the
+01:33:06 people who would benefit from those videos the most and so that development could go in a bunch of different
+01:33:13 directions some of which might be harmful so yeah you're right the the the threats of ai are here already we should be
+01:33:20 thinking about them on a philosophical notion if you could personal perhaps
+01:33:29 if you could relive a moment in your life outside of family because it made you truly happy or was a
+01:33:37 profound moment that impacted the direction of your life i don't think of single moments but i
+01:33:49 look over the long haul i feel that i've been very lucky because i feel that i think that in
+01:34:00 scientific research a lot of it is about being at the right place at the right time and you can you can work on problems at
+01:34:08 a time when they're just too premature you know you butt your head
+01:34:14 against them and and nothing happens because it's the prerequisites for success are not
+01:34:20 there and then there are times when you are in a field which is all pretty mature and you can only
+01:34:30 solve curricules upon colloquius i've been lucky to have been in this field which for 34 years 35 well actually 34 years
+01:34:38 as a professor at berkeley so longer than that  which when i started in it was just
+01:34:48 like some little crazy absolutely useless field which couldn't really do anything to a time when it's really really
+01:34:59 solving a lot of practical problems has a lot has offered a lot of tools for
+01:35:04 scientific research right because computer vision is impactful for
+01:35:10 images in biology or astronomy and and so on and so forth and we have so we have made great
+01:35:16 scientific progress which has had real practical impact in the world and i feel lucky that
+01:35:26 i i got in at a time when the field was very young and at a time when it is it's now mature but not fully mature
+01:35:35 it's mature but not done i mean it's really in still in a in a productive phase yes
+01:35:41 yeah yeah i think people 500 years from now would laugh are you calling this field mature
+01:35:47 yeah that is very possible yeah so but you're also lest i forget to mention you've also mentored
+01:35:54 some of the biggest names of computer vision computer science and ai today  there's so many questions i
+01:36:01 could ask but really is what what is it how did you do it what does it take to be
+01:36:07 a good mentor what does it take to be a good guide yeah i i think what i feel i've been
+01:36:14 lucky to have had very very smart and hardworking and creative students i think
+01:36:23 some part of the credit just belongs to being at berkeley i think those of us who are at top universities
+01:36:31 are blessed because we have very very smart and capable students coming on
+01:36:37 knocking on our door so so i have to be humble enough to acknowledge that but what have i added i think i have
+01:36:43 added something what i have added is  i think what i've always tried to teach them is
+01:36:54 a sense of picking the right problems so i think that in science in the short run success is always based on technical competence
+01:37:07 your you know you're quick with math or you are whatever i mean there's certain
+01:37:12 technical capabilities which make for short-range progress long-range progress is really determined by asking the right questions and
+01:37:22 focusing on the right problems and i feel that what i've been able to bring to the
+01:37:29 table in terms of advising these students is some sense of taste of what are good problems
+01:37:38 what are problems that are worth attacking now as opposed to waiting 10 years what's a good problem if you
+01:37:44 could summarize if is that possible to even summarize like what what's your sense of a good problem
+01:37:51 i i think  i think  i have a sense of what is a good problem which is  there is a british scientist 
+01:37:58 in fact he won a nobel prize peter medover who has a a book on on this and  basically he calls
+01:38:06 it the research is the art of the soluble so we need to sort of find problems which are
+01:38:16 which are not yet solved but which are approachable and he sort of refers to this sense that there is this problem which
+01:38:25 isn't quite solved yet but it has a soft underbelly there is some place where you can you know spear the beast yes and having that
+01:38:37 intuition that this problem is ripe is is a good thing because otherwise you can just beat your head and not make progress
+01:38:45 so i think that is that is important so if if i have that and if i can convey that to students
+01:38:52 it's not just that they do great research while they're working with me but that they continue to do great
+01:38:57 research so in a sense i'm proud of my students and their achievements and their great research even
+01:39:04 20 years after they've seized being my student so it's in part developing helping them develop that sense that a problem
+01:39:12 is not yet solved but it's solvable correct the other thing which i have which i i think i bring to the table
+01:39:20  is i is a certain intellectual breadth i i've spent a fair amount of time studying psychology
+01:39:29 neuroscience relevant areas of applied math and so forth so i can probably help them see some connections
+01:39:42 they might not have otherwise so so the smart students coming into berkeley can be
+01:39:49 very  deep in the sense they can think very deeply meaning very hard down one particular path but
+01:39:58 where i could help them is the the shallow breadth but  whereas they would have the
+01:40:06 the narrow depth and  but that's that's of some value well it was beautifully refreshing just to hear you
+01:40:14 naturally jump to psychology back to computer science and this conversation back and forth
+01:40:19 i mean that that's  that's actually a rare quality and i think it's certainly for students empowering to
+01:40:25 think about problems in a new way so for that and for many other reasons i really enjoyed this conversation thank
+01:40:30 you so much it was a huge honor thanks for talking today it's been my pleasure thanks for
+01:40:36 listening to this conversation with jitendra malik and thank you to our sponsors betterhelp and expressvpn
+01:40:45 please consider supporting this podcast by going to betterhelp.com lex and signing up at expressvpn.com
+01:40:55 lexpod click the links buy the stuff it's how they know i sent you and it really is the best way to support this podcast
+01:41:02 and the journey i'm on if you enjoy this thing subscribe on youtube review 5 stars on apple podcast
+01:41:09 support it on patreon or connect with me on twitter at lex friedman don't ask me how to
+01:41:14 spell that i don't remember myself and now let me leave you with some words from prince mishkin

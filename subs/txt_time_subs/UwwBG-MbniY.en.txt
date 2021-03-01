@@ -1,0 +1,519 @@
+00:00:01 the following is a conversation with Daniel Kahneman winner of the Nobel Prize in Economics for his integration
+00:00:09 of economic science with a psychology of human behavior judgment and decision-making he's the author of the
+00:00:16 popular book Thinking Fast and Slow that summarizes in an accessible way his research of several decades often in
+00:00:23 collaboration with Amos Tversky a cognitive biases prospect theory and happiness the central thesis of this
+00:00:31 work is the dichotomy between two modes of thought what he calls system one is fast instinctive and emotional system
+00:00:39 two is slower more deliberative and more logical the book delineates cognitive biases associated with each of these two
+00:00:48 types of thinking his study of the human mind and his peculiar and fascinating limitations are both instructive and
+00:00:55 inspiring for those of us seeking to engineer intelligent systems this is the artificial intelligence podcast if you
+00:01:03 enjoy it subscribe on YouTube give it five stars an Apple podcast follow on Spotify supported on patreon or simply
+00:01:10 connect with me on Twitter Alex Friedman spelled Fri D ma a.m. I recently started doing ads at the end of the introduction
+00:01:18 I'll do one or two minutes after introducing the episode and never any ads in the middle that can break the
+00:01:24 flow of the conversation I hope that works for you and doesn't hurt the listening experience this show is
+00:01:31 presented by cash app the number one finance app in the App Store I personally use cash app to send money to
+00:01:37 friends but you can also use it to buy sell and deposit Bitcoin in just seconds cash app also has a new investing
+00:01:44 feature you can buy fractions of a stock say $1 worth no matter what the stock price is brokerage services are provided
+00:01:51 by cash app investing a subsidiary of square and member si PC I'm excited to be working with cash app to support one
+00:01:58 of my favorite organizations called first best known for their first robotics and Lego competitions they
+00:02:05 educate and inspire hundreds of thousands of students in over 110 countries and have a perfect rating a
+00:02:11 charity navigator which means that donated money is used to maximum effectiveness when you get cash app from
+00:02:18 the App Store Google Play and use code Lex podcast you'll get ten dollars in cash up will also donate ten dollars to
+00:02:26 the first which again is an organization that I've personally seen inspire girls and boys the dream of engineering a
+00:02:33 better world and now here's my conversation with Daniel Kahneman you tell a story of an SS soldier early in
+00:02:42 the war world war two in nazi-occupied France and Paris where you grew up he picked you up and hugged you and
+00:02:51 showed you a picture of a boy maybe not realizing that you were Jewish not maybe certainly not so I told you
+00:02:59 I'm from the Soviet Union that was significantly impacted by the words well and I'm Jewish as well what do you think
+00:03:06 World War two taught us about human psychology broadly well I think the the only big surprise is the extermination
+00:03:19 policy genocide by the German people that's when you look back on it and you know I think that's a major surprise
+00:03:29 it's a surprise because it's a surprise that they could do it it's a surprise that they that enough people willingly
+00:03:38 participated in that this is this is a surprise now it's no longer a surprise but it's changed many people's views I think
+00:03:49 about about human beings certainly for me the Ackman trial in a teaches you something because it's very clear that
+00:04:00 if it could happen in Germany it could happen anywhere it's not that the Germans were special this could happen
+00:04:08 anyway so what do you think that is do you think we're all capable of evil we're all capable of cruelty I don't
+00:04:18 think in those terms I think that what is certainly possible is you can dehumanize people so that
+00:04:25 there you treat them not as people anymore but as animals and and the same way that you can slaughter
+00:04:35 animals without feeling much of anything it can the same and when you feel that the I think the combination of
+00:04:46 dehumanizing the other side and and having uncontrolled power over other people I think that doesn't bring out
+00:04:54 our the most generous aspect of human nature so that Nazi soldier you know he he was a good man I mean you know and he
+00:05:07 was perfectly capable of killing a lot of people and I'm sure he did but what what did the Jewish people mean
+00:05:17 to Nazis so what the dismissal of Jewish as well worthy of again this is surprising that it was so extreme but
+00:05:29 it's not one thing in human nature I don't want to call it evil but the distinction between the in-group and the
+00:05:36 out-group that is very basic so that's built in the the loyalty and affection towards in-group and the
+00:05:45 willingness to dehumanize the out-group that's that is in human nature and that's that's what I think probably
+00:05:56 didn't need the Holocaust to teach us that but the Holocaust is a very sharp lesson of you know what can happen to
+00:06:06 people and when the people can do so the effect of the in-group and the out-group you know that it's clear that those were
+00:06:14 people you know you could you could shoot them you could you know they were not human they were not there was no
+00:06:22 empathy or very very little empathy left so occasionally you know they might have been and and very quickly by the way the
+00:06:33 empathy disappeared if there was initially and the fact that everybody around you was doing it
+00:06:42 that that completely the group doing it and everybody shooting Jews I think that that makes it permissible now how much
+00:06:56 you know whether it would it could happen or in every culture or whether the Germans were just particularly
+00:07:05 efficient and and disciplined so they could get away with it that is a question it's an interesting question
+00:07:12 are these artifacts of history or is it human nature I think that's really human nature you know you put some people in a
+00:07:21 position of power relative to other people and and then they become as human become different but in general and war
+00:07:32 outside of concentration camps in World War two it seems that war brings out darker
+00:07:39 sides of human nature but also the beautiful things about human nature well no I mean but it what it brings out is
+00:07:49 the loyalty among soldiers I mean it brings out the bonding male bonding I think is a very real thing that and that
+00:07:57 happens and so and and there is a student of thrill to friendship and there is certainly a certain thrill to
+00:08:05 friendship under risk and to shared risk and so people have very profound emotions up to the point where it gets
+00:08:16 so traumatic that that little is left but so let's talk about psychology a little bit in your book Thinking Fast
+00:08:27 and Slow you described two modes of thoughts as the one the fast instinctive an emotional one is system to the slower
+00:08:36 deliberate logical one at the risk of asking Darwin to discuss a theory of evolution can you describe distinguishing
+00:08:46 characteristics for people who have not read your book of the two systems well I mean the mood
+00:08:55 system is a bit misleading but it's at the same time it's misleading it's also very useful but what I call system one
+00:09:04 it's easier to think of it as as a family of activities and primarily the way I describe it is there are different
+00:09:14 ways for ideas to come to my mind and some ideas come to mind automatically and the example a standard example is
+00:09:23 two plus two and then something happens to you and and in other cases you've got to do something you got to work in order
+00:09:32 to produce the idea and my example I always give the same pair of numbers is 27 times 14 I think you have to perform
+00:09:40 some algorithm in your heads and yes and and it takes time it's a very difference nothing comes to mind except something
+00:09:49 comes to mind which is the algorithm I mean that you've got to perform and then it's work and it engages short-term
+00:09:57 memory and thing ages executive function and it makes you incapable of doing other things at the same time so the the
+00:10:06 main characteristic of system 2 is that there is mental effort involved and there is a limited capacity for mental
+00:10:12 effort where a system one is effortless essentially that's the major distinction so you talk about there you know it's
+00:10:20 really convenient to talk about two systems but you also mentioned just now and in general that there's no distinct
+00:10:29 two systems in the brain from a neurobiological even from psychology perspective but why does it seem to from
+00:10:38 the experiments you've conducted there does seem to be kind of emergent two modes of thinking so at some point these
+00:10:53 kinds of systems came into a brain architecture maybe ma'am will share it but the or do you not think of it at all in those
+00:11:00 terms that it's all on mush and these two things just emerge you know evolutionary theory saying about this is
+00:11:11 cheap and easier so it's the way I think about it is that it's very clear that animals have a perceptual system and
+00:11:21 that includes an ability to understand the world at least to the extent that they can predict they can't explain
+00:11:29 anything but they can anticipate what's going to happen and that's the key form of understanding the world and my crude
+00:11:40 idea is that we would I call system - well system - grew out of this and you know there is language and there is the
+00:11:50 capacity of manipulating our ideas and the capacity of imagining futures and of imagining counterfactuals thing that
+00:11:59 haven't happened and and to do conditional thinking and there are really a lot of abilities that without
+00:12:07 language and without the the very large brain that we have compared to others it would be impossible now
+00:12:16 system one is more like what the animals are but system one also can talk I mean it has language it understands language
+00:12:26 indeed it speaks for us I mean you know I'm not choosing every word you know as a deliberate process the words I have
+00:12:33 some idea and then the words come out and that's automatic and effortless and many of experiments you've done is to
+00:12:42 show that listen system won't exist and it does speak for us and we should be careful about it's the voice it provides
+00:12:50 well it's I mean you know we have to trust it because it's the speed at which it acts a system is usable if we if we
+00:13:02 depend on one system to for survival we wouldn't survive very long because it's very slow yeah crossing the street
+00:13:08 crossing a street I mean many things depend on there being automatic one very important aspect of system one is that
+00:13:15 it's not instinct you use the word instinct that it contains skills that clearly have been
+00:13:24 learned so that skilled behavior like driving a car or speaking in fact skilled behavior has to be learned and
+00:13:34 so it doesn't you know you don't come equipped with with driving you have to learn how to drive and and you have to
+00:13:41 go through a period where driving is not automatic before it becomes automatic so yeah you construct I mean this is
+00:13:49 where you talk about heuristic and biases you to make it automatic you create a pattern and then system one
+00:14:00 essentially matches a new experience against a previously seen pattern and when that match is not a good one that's
+00:14:06 when the cognate all of them all the mess happens but it's most of the time it works and so it's pretty most of the
+00:14:13 time the anticipation of what's going to happen next is correct and and most of the time the plan about what you have to
+00:14:22 do is correct and so most of the time everything works just fine what's interesting actually is that in some
+00:14:31 sense system one is much better at what it does and system tool is at what it does that
+00:14:38 is there is that quality of effortlessly solving enormous ly complicated problems which clearly exists so that the chess
+00:14:49 player a very good chess player all the moves that come to their mind are strong moves so all the selection of strong
+00:14:57 moves happens unconsciously and automatically and very very fast and and all that is in system one so you a
+00:15:08 system two verifies so along this line of thinking really what we are our machines that construct a pretty
+00:15:16 effective system one you could think of it that way so so we're now talking about humans but if we think about
+00:15:23 building artificial intelligence systems robots do you think all the features in bug that you have highlighted in human
+00:15:33 beings are useful for constructing AI systems so both systems are useful for perhaps while instilling in robots what
+00:15:45 is happening these days is that actually what is happening in deep learning is is more like a system one product than like
+00:15:54 a system to product I mean deep learning mattress patterns and anticipate what's going to happen so it's highly
+00:16:04 predictive what's right what deep learning doesn't have and you know many people think that this is the critical
+00:16:12 it it doesn't have the ability to reason so it it does and there is no system to bear but I think very importantly it
+00:16:20 doesn't have any causality or any way to represent meaning and to represent real interaction so until that is solved the
+00:16:32 you know what can be accomplished is marvelous and very exciting but limited that's actually really nice to think of
+00:16:40 current advances in machine learning is essentially system one advances so how far can we get with just system one if
+00:16:47 we think of learning and artificial systems and we know it's very clear that deep mind is already gone we're way
+00:16:56 beyond what people thought was possible I think I think the thing that has impressed me most about the developments
+00:17:05 in AI is the speed it's that things at least in the context of deep learning and maybe this is about to slow down but
+00:17:13 things moved a lot faster than anticipated the transition from solving solving chess to solving go was I mean
+00:17:24 that's the world rain how quickly it went the move from alphago to alpha 0 is sort of bewildering the speed at which
+00:17:32 they accomplish that now clearly there they're eight so there are many problems that you can solve
+00:17:41 that way but there's some problem for which who needs something else something like a reasoning where
+00:17:49 reasoning and also you know that one of the real mysteries psychologist there Gary Marcus who is also a critic of AI I
+00:18:02 mean he what he points out and I think he has a point is that humans learn quickly children don't need million
+00:18:14 examples they need two or three examples so clearly there is a fundamental difference and what enables what enable
+00:18:25 the machine to to learn quickly what you have to build into the machine because it's that you have to build some
+00:18:32 expectations or something in the machine to make it ready to learn quickly that's that at the moment seems to be
+00:18:41 unsolved I'm pretty sure that the mind is working on it but yeah there if they have solved it I haven't heard yet
+00:18:50 they're trying to actually them an open they are trying to start to get to use neural networks to reason so assemble
+00:19:00 knowledge of course causality is temporal causality is out of reach to most everybody you mentioned the
+00:19:08 benefits of system one is essentially that it's fast allows us to function in the world now some skilled you know its
+00:19:15 skill and it has a model of the world you know in a sense I mean there was the earlier phase of a I attempted to moral
+00:19:27 reasoning and they were moderately successful but you know reasoning by itself doesn't get you much deep
+00:19:35 learning has been much more successful in terms of you know what they can do but now it's an interesting question
+00:19:44 whether its approaching its limits what do you think I think absolutely so I just talked to John laocoon he mentioned
+00:19:52 you know I know him so he thinks that the limits were not going to hit the limits with you all
+00:19:59 networks that ultimately this kind of system on pattern matching will start to start to look like system two with
+00:20:08 without significant transformation of the architecture so I'm more with the but the majority of the people who think
+00:20:15 that yes new all networks will hit a limit in their capability he on the one hand I have heard him tell the missus
+00:20:23 obvious essentially that you know what they have accomplished it's not a big deal that they have just touched that
+00:20:30 basically you know they can't do unsupervised learning in in an effective way and but you're telling me that he
+00:20:38 thinks that the current within the current architecture you can do causality and reasoning so he's very
+00:20:46 much a pragmatist in a sense that saying that were very far away that they're still yeah I think there's this idea
+00:20:54 that he says is  we can only see one or two mountain peaks ahead and there might be either a few more after or
+00:21:01 thousands more after yeah so that kind of idea right but nevertheless it doesn't see a the final answer not
+00:21:13 fundamentally looking like one that we currently have so neural networks being a huge part
+00:21:20 that you know I mean that's very likely because because pattern matching is so much of what's going on and you can
+00:21:29 think of neural networks as processing information sequentially yeah I mean you know there is there is an important
+00:21:38 aspect to for example you get systems that translate and they do a very good job but they really don't know what
+00:21:47 they're talking about and and and for that I'm really quite surprised for that you would need you would need an AI that
+00:21:57 has sensation an AI that is in touch with the world awareness and maybe even something resembles consciousness kind
+00:22:06 of ideas li awareness of you know awareness of what's going on so that the the words have meaning who can
+00:22:15 get are in touch with some perception or some action yeah so that's a big thing for yarn and as well here first is
+00:22:24 grounding to the physical space so so that's what we're talking about the same yeah so but so how you ground I mean the
+00:22:33 grounding without grounding then you get you get a machine that doesn't know what it's talking about because it is talking
+00:22:40 about the world ultimately the question open question is what it means to ground I mean we're very human centric in our
+00:22:48 thinking but what does it mean for a machine to understand what it means to be in this world does it need to have a
+00:22:56 body does he need to have a finiteness like we humans have all of these elements it's very nice to know I'm you
+00:23:04 know I'm not sure about having a body but having a perceptual system having a body would be very helpful to me if if
+00:23:12 you think about human mimicking human ooh but having a perception that seems to be central so that you can build you
+00:23:22 can accumulate knowledge about the world so if you can you can imagine a human completely paralyzed and there's a lot
+00:23:31 that the human brain could learn you know with a paralyzed body so if we got a machine that could do that it would be
+00:23:41 a big deal and then the flip side of that something you see in children and something in machine learning world is
+00:23:48 called active learning maybe it is is being able to play with the world how important for developing system owners
+00:23:58 or system to do you think it is to play with the world be able to interact with me a lot a lot of what you learn as you
+00:24:08 learn to anticipate the outcomes of your actions I mean you can see that how babies learn it you know with their
+00:24:15 hands they are they learn you know to connect you know the movement so their hands with something that clearly is
+00:24:21 something that happens in the brain and and and the ability of the brain to learn new patterns so you
+00:24:29 know it's the kind of thing that you get with artificial limbs that you connect it and then people learn to operate the
+00:24:38 artificial limb you know really impressively quickly at least from from what I hear so and we have a system that
+00:24:48 is ready to learn the world's reaction at the risk of going into way too mysterious of land what do you think it
+00:24:57 takes to build a system like that obviously we're very far from understanding how the brain works but
+00:25:07 how difficult is it to build this mind of ours you know I mean I think that yonder Coons answer that we don't know
+00:25:14 how many mountains there are I think that's a very good answer I think that you know if you if you look at what cool
+00:25:22 Ray Kurzweil is saying that strikes me as of the war but but I think people are much more realistic than that were
+00:25:32 actually they Mesa sabe is and Yanis and so the people are actually doing the work fairly realistic I think - maybe
+00:25:42 phrase it another way from a perspective not of building it but from understanding it how complicated are
+00:25:52 human beings in the following sense you know I work with autonomous vehicles and pedestrians so we tried to model
+00:25:59 pedestrians how difficult is it to model a human being their perception of the world the two systems they operate under
+00:26:08 sufficiently to be able to predict whether the pedestrians gonna cross the road or not I'm you know I'm fairly
+00:26:15 optimistic about that actually because what we're talking about is a huge amount of information that every vehicle
+00:26:27 has and that feeds into one system into one gigantic system and so anything that any vehicle learns becomes part of what
+00:26:34 the whole system knows and with a sister multiplier like that there is a lot that you can do so human
+00:26:44 beings are very complicated but and and you know system is going to make mistakes but human makes mistakes I
+00:26:53 think that they'll be able to I think they are able to anticipate pedestrians otherwise a lot would happen they're
+00:27:02 able to you know they're able to get into a roundabout and into the end to traffic so they must know both to expect
+00:27:13 though to anticipate how people will react when they're sneaking in and there's a lot of learning that's
+00:27:21 involved in that currently the pedestrians are treated as things that cannot be hid and not treated as agents
+00:27:32 with whom you interact in a game theoretic way so I mean it's not it's a totally open problem and every time
+00:27:40 somebody tries to solve it it seems to be harder than we think and nobody's really tried to seriously solve the
+00:27:48 problem of that dance because I'm not sure if you've thought about the problem of pedestrians but you're really putting
+00:27:55 your life in the hands of the driver you know there is a dance as part of the dance that would be quite complicated but for
+00:28:03 example when I cross the street and there is vehicle approaching I look the driver in the eye and I think many
+00:28:09 people do that and you know that's a signal that that I'm sending and I would be sending that
+00:28:17 machine to an autonomous vehicle and it had better understand it because it means I'm crossing so and there's
+00:28:25 another thing you do that actually so I'll tell you what you do because we watch I've watched hundreds of hours of
+00:28:32 video on this is when you step in the street you do that before you step on the street and when you step in the
+00:28:37 street you actually look awake away yeah yeah now what what is it what the saying is mean you're trusting that the car who
+00:28:48 hasn't slowed down yet will slow down and you're telling him yeah I'm committed yeah I mean this is like in a
+00:28:55 game of chicken so I'm committed and if I'm committed I'm looking away so there is you you just have to stop so the
+00:29:03 question is whether a machine that observes that needs to understand mortality here I'm not sure that it's
+00:29:13 got to understand so much it's got to anticipate so and here but you know you're surprising me because here I
+00:29:24 would think that maybe you can anticipate without understanding because I think this is clearly what's happening
+00:29:32 in playing go or in playing trace there's a lot of anticipation and there is zero understanding so I thought that
+00:29:43 you didn't need a model of the human yes and the model of the human mind to avoid hitting pedestrians but you are
+00:29:53 suggesting that I do yeah you do as and then it's then it's a lot harder so this is all and I have a follow-up question
+00:30:01 to see where your intuition lies is it seems that almost every robot human collaboration system is a lot harder
+00:30:11 than people realize so do you think it's possible for robots and humans to collaborate successfully if we talked a
+00:30:18 little bit about semi autonomous vehicles like in the Tesla autopilot but just in tasks in general if you think we
+00:30:28 talked about current you'll know where it's being kind of system one do you think those same systems can borrow
+00:30:39 humans for system to type tasks and collaborate successfully well I think that in any system where humans and the
+00:30:49 Machine interact that the human will be superfluous within a fairly short time and that is if the Machine has advanced
+00:30:58 enough so that it can really help the human then it may not need the human for a long
+00:31:06 now it would be very interesting if if there are problems that for some reason the machine doesn't you're not so but
+00:31:13 that people could solve then you would have to build into the machine and ability to recognize that it is in that
+00:31:22 kind of problematic situation and and to call the human that that cannot be easy without understanding that is its it
+00:31:33 must be very difficult to to program a recognition that you are in a problematic situation without
+00:31:41 understanding the problem but that's very true in order to understand the full scope of situations that are
+00:31:49 problematic you almost need to be smart enough to solve all those problems it's not clear to me how much the machine
+00:32:00 will need the human I think the example of chess is very instructive I mean there was a time at which Kasparov was
+00:32:07 saying that human machine combinations will beat everybody even stockfish doesn't need people yeah and alpha zero
+00:32:16 certainly doesn't need people the question is just like you said how many problems are like chess and how many
+00:32:23 problems are the ones where are not like chess where even well every problem probably in the end is like chess the
+00:32:29 question is how long is that transition period I mean you know that that's a question I would ask you in terms of men
+00:32:37 autonomous vehicle just driving is probably a lot more complicated than go to solve that yes and that's surprising
+00:32:46 because it's open no I mean you know I couldn't that's not surprising to me because the because that there is a
+00:32:56 hierarchical aspect to this which is recognizing a situation and then within the situation bringing bringing up the
+00:33:08 relevant knowledge and and for that hierarchical type of system to work you need a more complicated system
+00:33:18 currently a lot of people think because as human beings this is probably the the cognitive biases they think of driving
+00:33:26 is pretty simple because they think of their own experience this is actually a big problem for aai researchers or
+00:33:35 people thinking about AI because they evaluate how hard a particular problem is based on very limited knowledge but
+00:33:44 basically how hard it is for them to do the task yeah and then they take for granted I mean maybe you can speak to
+00:33:52 that because most people tell me driving is trivial and and humans in fact are terrible at driving is what people tell
+00:34:00 me and I see humans and humans are actually incredible at driving and driving is really terribly difficult
+00:34:07 yeah so is that just another element of the effects that you've described in your work on the psychology side oh no I
+00:34:18 mean I haven't really you know I I would say that my research has contributed nothing to understanding the ecology
+00:34:25 into understanding the structure of situations yeah and the complexity of problems so all all we know is very
+00:34:37 clear that that go it's endlessly complicated but it's very constrained so and in the real world there are far
+00:34:47 fewer constraints and and many more potential surprises so so that's obviously because it's not always
+00:34:54 obvious to people right so when you think about well I mean you know people thought that reasoning was hard and
+00:35:04 perceiving was easy but you know they quickly learned that actually modeling vision was tremendously complicated and
+00:35:13 modelling even proving theorems was relatively straightforward to push back in and out a little bit on the quickly
+00:35:21 part they haven't it took several decades to learn that and most people still haven't learned that I mean our
+00:35:28 intuition of course AI researchers have but you drift a little bit outside the specific a I feel the intuition is
+00:35:36 still perceptible yes all no I mean that's true I mean intuitions the intuitions of the public haven't changed
+00:35:45 radically and they are there as you said they're evaluating the complexity of problems by how difficult it is for them
+00:35:54 to solve the problems and that's got very little to do with the complexities of solving them in AI how do you think
+00:36:03 from the perspective of AI researcher do we deal with the intuitions of the public so in trying to think me arguably
+00:36:14 the combination of hype investment and the public intuition is what led to the AI winters I'm sure that same can be
+00:36:24 applied to tech or that the intuition of the public leads to media hype these two companies investing in the tech and then
+00:36:33 the text doesn't make the company's money and then there's a crash is there a way to educate people is there to
+00:36:41 fight the let's call it system 1 thinking in general no I think that's the simple answer and it's going to take
+00:36:57 a long time before the understanding of where those systems can do becomes you know button becomes public knowledge I
+00:37:11 and and then and the expectations you know there are several aspects that are the fact that you have a device that
+00:37:26 cannot explain itself is a major major difficulty and and we're already seeing that I mean this is this is really
+00:37:35 something that is happening so it's happening in the judicial system so you have you have system that are clearly better
+00:37:45 at predicting parole violations then than judges but but they can't explain their reasoning and so people don't want
+00:37:58 to trust them we are seem to you in system one even use cues to make judgments about our environment so this
+00:38:08 explain ability point do you think humans can explain stuff no but so I mean there is a very interesting aspect
+00:38:20 of that humans think they can explain themselves right so when you say something and I ask you why do you
+00:38:28 believe that then reasons will occur to you and you were but actually my own belief is that in most cases the reasons
+00:38:37 are very little to do with why you believe what you believe so that the reasons are a story that that comes to
+00:38:44 your mind when you need to explain yourself but but but people traffic in those explanations I mean the human
+00:38:53 interaction depends on those shared fictions and and the stories that people tell themselves you just made me
+00:39:01 actually realize and we'll talk about stories in a second that not to be cynical about it but perhaps there's a
+00:39:10 whole movement of people trying to do explainable AI and really we don't necessarily need to explain hey I just
+00:39:19 need to explain itself it just needs to tell a convincing story yeah it doesn't missus the story doesn't necessarily
+00:39:29 need to reflect the truth is it just needs to be convincing there's something you can say exactly the same thing in a
+00:39:38 way that's sound cynical abysm sounds in a grave and so but but the objective brilliant of having an explanation is is
+00:39:47 to tell a story that would be acceptable to people and and and for it to be acceptable and to be a
+00:39:56 robustly acceptable it has to have some elements of truth but but the objective is for people to accept it it's quite
+00:40:09 brilliant actually but so on the and the stories that we tell sorry to ask me to ask you the question that most people
+00:40:17 know the answer to but you talk about two cells in terms of how life has lived the experience self and remembering self
+00:40:26 and you describe the distinction between the two well sure I mean the there is an aspect of of life that occasionally you
+00:40:35 know most of the time we just live and web experiences and they're better and they are worse and it goes on over time
+00:40:43 and mostly we forget everything happens we forget most of what happens then occasionally you when something ends or
+00:40:56 different points you evaluate the past and you form a memory and the memory is schematic it's not that you can roll a
+00:41:05 film of an interaction you construct in effect the elements of a story about it about an episode so there is the
+00:41:15 experience and there is a story that is created about the experience and that's what I call the remember II so I had the
+00:41:24 image of two selves so there is a self that lives and there is a self that evaluates life now the paradox and the
+00:41:35 deep paradox in that is that we have one system or one self that does the living but the other system the remembering
+00:41:46 self is all we get to keep and basically decision-making and and everything that we do is governed by our memories not by
+00:41:54 what actually happened it's it's governed by by the story that we told ourselves or by the story that we're
+00:42:03 keeping so that that's the distinction I mean there's a lot of ideas about the pursuit of happiness
+00:42:09 that come out of that what are the properties of happiness which emerge from yourself there are there are
+00:42:17 properties of how we construct stories that are really important so that I studied a few but but a couple are
+00:42:29 really very striking and one is that in stories time doesn't matter there's a sequence of events so there are
+00:42:40 highlight those not and and how long it took you know they lived happily ever after and three years later something it time
+00:42:50 really doesn't matter and in stories events matter but time doesn't that that leads to a very interesting set of
+00:43:03 problems because time is all we got to live I mean you know time is the currency of life and yet time is not
+00:43:12 represented basically in evaluative memories so that that creates a lot of paradoxes that I've thought about yeah
+00:43:21 they're fascinating but if you were to give advice on how one lives a happy life well this and such properties what's the
+00:43:35 optimal you know I give up I abandoned happiness research because I couldn't solve that problem I couldn't I couldn't
+00:43:43 see and in the first place it's very clear that if you do talk in terms of those two selves then that what makes
+00:43:51 the remembering self happy and what makes the experiencing self happy are different things and I I asked the
+00:44:00 question of suppose you're planning a vacation and you're just told that at the end of the vacation you'll get an
+00:44:07 amnesic drugs who remember nothing and they'll also destroy your your photos so there'll be nothing would you still go
+00:44:16 to the same vacation and and it's it turns out we go to vacations in large part to construct
+00:44:26 memories not to have experiences but to construct memories and it turns out that the vacation that you would want for
+00:44:34 yourself if you knew you would not remember is probably not the same vacation that you will want for yourself
+00:44:43 if you will remember so I have no solution to these problems but clearly those are big issues and you've thought
+00:44:50 about issues you've talked about sort of how many minutes or hours you spend about the vacation it's an interesting
+00:44:57 way to think about it because that's how you really experience the vacation outside the being in it but there's also
+00:45:04 a modern I don't know if you think about this or interact with it there's a modern way to magnify the remembering
+00:45:14 self which is by posting an Instagram on Twitter on social networks a lot of people live life for the picture that
+00:45:23 you take that you post somewhere and now thousands of people sharing and potentially petitioning millions and
+00:45:29 then you can relive it even much more than just those minutes do you think about that i magnification much you know
+00:45:37 I'm too old for social networks I you know I've never seen Instagram so I cannot really speak intelligently about
+00:45:46 those things I'm just too old but it's interesting to watch the exact times you describe I make a very big difference I
+00:45:54 mean and it will make it will also make a difference and that I don't know whether it's clear that in some ways
+00:46:08 the devices that serve us supplants function so you don't have to remember phone numbers you don't have you really
+00:46:15 don't have to know facts I mean the number of conversations I'm involved with when somebody says well let's look
+00:46:25 it up so it's it's in a way it's made conversations well it's it means that it's much less important to know things
+00:46:33 you know it used to be very important to know things this is changing so the requirements of that that we have for
+00:46:46 ourselves and for other people are changing because of all those supports and because and I have no idea but
+00:46:55 Instagram does connected so well I'll tell you train you I mean I wish I could just have the my remembering self could
+00:47:03 enjoy this conversation but I'll get to enjoy it even more by having watched by watching it and then talking to others
+00:47:09 will be about a hundred thousand people scary's is this to say well listen or watch this right it changes things
+00:47:17 it changes the experience of the world that you seek out experiences which could be shared in that way it's in and
+00:47:25 I haven't seen it's it's the same effects that you described and I don't think the psychology of that
+00:47:31 magnification has been described yet because in your world the sharing then was appear there was a
+00:47:43 time when people read books and you could assume that your friends had read the same books that you read so there
+00:47:54 was kind of invisible sharing a year it was a lot of sharing going on and there was a lot of assumed common knowledge
+00:48:03 and you know that was built in I mean it was obvious that you had read the New York Times it was obvious that you'd
+00:48:10 read the reviews I mean so a lot was taken for granted that was shared and you know when they were when there
+00:48:19 were three television channels it was obvious that you'd seen one of them probably the same so sharing sharing
+00:48:29 he's always been always was always there it was just different at the risk of inviting mockery from you let me say
+00:48:41 there that I'm also a fan of Sartre and Camus and existentialist philosophers and I'm joking of course about mockery
+00:48:49 but from the perspective of the two selves what do you think of the existentialist philosophy of life so
+00:48:57 trying to really emphasize the experiencing self as the proper way to or the best way to live life I don't
+00:49:08 know enough philosophy to and so that but it's not a you know the emphasis on an experience is also the emphasis in
+00:49:20 Buddhism right it's so that you just have got to to experience things and and and not to evaluate and not to pass
+00:49:31 judgment and not to score not to keep score so if when you look at the the grand picture of experience you think
+00:49:40 there's something to that that one one of the ways to achieve contentment and maybe even happiness is letting go of
+00:49:50 any of the things any of the procedures of the remembering self well yeah I mean I think you know if one could imagine a
+00:49:58 life in which people don't score themselves it it feels as if that would be a better life as if the self scoring
+00:50:09 and you know how am i doing a kind of question is not is not a very happy thing to have but I got out of that
+00:50:23 field because I couldn't solve that and and that was because my intuition was that the experiencing self that's
+00:50:33 reality but then it turns out that what people want for themselves there's not experience that they want
+00:50:38 memories and they want a good story about their life and so you cannot have a theory of happiness that doesn't
+00:50:44 correspond to what people want for themselves and when I when I realized that this this was where things were
+00:50:53 going I really sort of left the field of research do you think there's something instructive about this emphasis of
+00:51:02 reliving memories in building AI systems so currently artificial intelligence systems are more like experiencing self
+00:51:12 in that they react to the environment there's some pattern formation like learning so on but you really don't
+00:51:22 construct memories except in reinforcement learning everyone swather you replay over and over yeah but you
+00:51:28 know that would in principle would not be you know yes useful do you think it's a feature a bug of human beings that we
+00:51:37 that we look back oh I think that's definitely a feature that's not a bug I mean you you have to look back in order
+00:51:47 to look forward so without without looking back you couldn't you couldn't really intelligently look forward you're
+00:51:54 looking for the echoes of the same kind of experience in order to predict what the future holds yeah though Viktor
+00:52:02 Frankl in his book man's search for meaning I'm not sure if you've read describes his experience at the
+00:52:09 consecration a concentration camps during World War two as a way to describe that finding identifying a
+00:52:17 purpose in life a positive purpose in life can say one from suffering first of all do you connect with the philosophy
+00:52:29 they he describes they're not really I mean the so I can I can really see that somebody who has that feeling of
+00:52:39 per person meaning and so on that that could sustain you I in general don't have that feeling and I'm pretty sure
+00:52:49 that if I were in a concentration camp and give up and die you know so he talks he is he's a survivor yeah and you know
+00:53:01 he survived with that and I'm and I'm not sure how I central to survival the same years yeah I do know when I think
+00:53:10 about myself that I would have given up at oh yeah this isn't going anywhere and there is there is a sort of character
+00:53:21 that that that manages to survive in conditions like that and then because they survive they tell stories and it
+00:53:28 sounds as if they survived because of what they were doing we have no idea they survived because the kind of people
+00:53:35 that they are and the other kind of people survives them to tell them such stories of a particular guy so I'm not
+00:53:43 so that you don't think seeking purpose is a significant driver and are the units it's a very interesting question
+00:53:52 because when you ask people whether it's very important to add meaning in their life that's oh yes that's the most
+00:53:58 important thing but when you ask people what kind of a day did you have and and you know what were the experiences that
+00:54:08 you remember you don't get much meaning you get social experiences then and and some people say that for example in in
+00:54:22 in child you know in taking care of children the fact that they're your children and you're taking care of them
+00:54:30 makes a very big difference I think that's entirely true but it's more because the story that we are telling
+00:54:40 ourselves which is a very different story when we're taking care of our children or when we're taking here other
+00:54:46 thing jumping around a little bit in doing a lot of experiments let me ask a question most of the work I do for example is in
+00:54:55 the wall in the real world but most of the clean good-sized that you can do is in the lab so that distinction do you
+00:55:05 think we can understand the fundamentals of human behavior through controlled experiments in the lab if we talk about
+00:55:15 pupil diameter for example it's much easier to do when you can control lighting conditions yeah thanks
+00:55:24 so when we look at driving lighting variation destroys yeah absolutely your ability to use pupil diameter but in the
+00:55:34 lab for as I mentioned semi autonomous autonomous vehicles in driving simulators we can't we don't capture
+00:55:44 true honest human behavior in that particular domain so your what's your intuition how much of human behavior can
+00:55:52 we study in this controlled environment of the lab a lot but you'd have to verify it you know that you'll your
+00:56:01 conclusions are basically limited to the situation to the experimental situation then you have to jump the big inductive
+00:56:12 leap to the real world so and and that's the Flair that's where the difference I think between the good psychologist and
+00:56:23 others of the mediocre is in the sense of that your experiment captures something that's important and something
+00:56:32 that's real and others are just running experiments so what is that like the birth of an idea to his development in
+00:56:39 your mind to something that leads to an experiment is that similar to maybe like what I Steiner good physicists do is
+00:56:47 your intuition you basically use your intuition to build up but I mean you know it's it's very skilled intuition
+00:56:54 right I mean I just had that experience actually I had an idea that's turned out to be very good idea
+00:57:04 a couple of days ago and and you and you have a sense of that building up so I'm working with a collaborator and he
+00:57:10 essentially was saying you know what what are you doing what's what's going on and I was I really I couldn't exactly
+00:57:19 explain it but I knew this is going somewhere but you know I've been around that game for a very long time and so I
+00:57:27 can you you develop that anticipation that yes this this is worth following now that he's here that's part of the
+00:57:36 skill is that something you can reduce two words in describing a process in in the form of advice to others know follow
+00:57:46 your heart essentially you know it's it's like trying to explain what it's like to drive it's not you've got to
+00:57:54 break it apart and it's not and then you lose and then you lose the experience them you mentioned collaboration you've
+00:58:02 written about your collaboration with Amos Tversky that this is you writing the twelve or thirteen years in which
+00:58:10 most of our work was joint four years of interpersonal and intellectual bliss everything was interesting almost
+00:58:17 everything was funny and that was a current joy of seeing an idea take shape so many times in those
+00:58:24 years we shared the magical experience of one of us saying something which the other one would understand more deeply
+00:58:31 than a speaker had done contrary to the old laws of information theory it was common for us to find that more
+00:58:38 information was received than had been sent I have almost never had the experience with anyone else if you have not had it
+00:58:46 you don't know how marvelous collaboration can be so let me ask a bird perhaps a silly question how does
+00:58:57 one find in create such a collaboration that may be asking like how does one find love but yeah yeah to be you have
+00:59:08 to be lucky and and I think you have to have the character for that because I've had many collaborate
+00:59:15 I mean none worth as exciting as with almost be but Fahad and I'm having it was very so it's a skill I think I'm
+00:59:25 good at it not everybody is good at it and then it's the luck of finding people who are
+00:59:33 also good at it is there advice in a forum for a young scientist who also seeks to violate this law of information dairy
+00:59:50 I really think it's so much luck is involved and you know in in those really serious collaborations at least in my
+01:00:02 experience are a very personal experience and and I have to like the person I'm working with otherwise you
+01:00:10 know I mean there is that kind of collaboration which is like an exchange a commercial exchange of giving this you
+01:00:22 give me that but the the real ones are interpersonal they're between people like each other and and who like making
+01:00:29 each other think and who like the way that the other person responds to your thoughts you have to be lucky yeah I
+01:00:39 mean but I already noticed if I even just me showing up here evil you've quickly started to digging in a
+01:00:46 particular problem I'm working on and already new information started to emerge is that a process you just the
+01:00:54 process of curiosity of talking to people about problems and seeing I'm curious about anything to do with AI and
+01:01:02 robotics and on so and I knew that you were dealing with that so it was curious just follow your curiosity jumping
+01:01:10 around and a psychology front the dramatic sounding terminology of replication crisis but really just the
+01:01:24 at times this this effect at a time studies do not are not fully generalizable they don't you have being
+01:01:34 polite is it so I'm actually not fully familiar well the memory how bad it is right so what do you think is the source
+01:01:42 where do you think I think I know what's going on actually I mean I have a theory about what's going on and what's going
+01:01:53 on is that there is first of all a very important distinction between two types of experiments
+01:02:00 and one type is within subject so it's the same person has two experimental conditions and the other type is between
+01:02:09 subjects where some people have this condition are the people in that condition they're different world and
+01:02:16 between subject experiments are much harder to predict and much harder to anticipate and the reason and they're
+01:02:27 also more expensive because you need more people and it's just so between subject experiments is where the problem
+01:02:38 is it's not so much and within subject experiments it's really between and there is a very good reason why the
+01:02:47 intuitions of researchers about between subject experiments are wrong and that's because when you are a researcher you're
+01:02:57 in a within subject situation and it is you are imagining the two conditions and you see the causality and you feel it
+01:03:05 and but in the between subjects condition they don't like they see they live in one condition and the other one
+01:03:13 is just nowhere so our intuitions are very weak about between subject experiments and that I
+01:03:23 think is something that people haven't realized and and in addition because of that we have no idea about the power of
+01:03:35 manipulations of experimental manipulations because the same manipulation it's much more powerful
+01:03:43 when when you are in the two conditions then when you live in only one condition and so the experimenters have very poor
+01:03:51 intuitions about between subject experiments and and there is something else which is very important I think
+01:04:01 which is that almost all psychological hypotheses are true that is in the sense that you know directionally if you have
+01:04:11 a hypothesis that a really causes B that that it's not true that is causes the opposite of B
+01:04:21 maybe a just and very little effect but hypotheses are true mostly except mostly they're very weak
+01:04:30 they're much weaker than you think when you are having images of so the reason I'm excited about that is that I
+01:04:43 recently heard about some some friends of mine who they essentially funded 53 studies of behavioral change by 20
+01:04:55 different teams of people with a very precise objective of changing the number of time that people go to the gym but
+01:05:08 you know and and the success rate was zero the knocks one of the 53 studies work now what's interesting about that
+01:05:17 is those are the best people in the field and they have no idea what's going on so they are not calibrated they think
+01:05:25 that it's going to be powerful because they can imagine it but actually it's just weak because the and you are
+01:05:34 focusing on on your manipulation and it feels powerful to you there's a thing that I've written about that's called
+01:05:42 the focusing illusion that is that when you think about something it looks very important more important than it really
+01:05:49 is more important than it really is but if you don't see that effect the 53 studies doesn't I mean you just report
+01:05:58 that so what was I guess the solution to that well I mean the the solution is for people to trust their intuitions less
+01:06:10 all to try out their intuitions before I mean experiments have to be pre-registered and by the time you run
+01:06:17 an experiment you have to be committed to it and you have to run the experiment seriously enough
+01:06:25 and in a public and so this is happening and the interesting thing is what what happens before and how do people prepare
+01:06:36 themselves and how they run pilot experiments it's going to train the way psychologies done and it's already happening
+01:06:44 do you ever hope for as my connect to the this study sample size yeah I do ever hope for the internet or do you
+01:06:54 know this is really happening MTurk yeah everybody is running experiments on him to look and and it's
+01:07:04 very cheap and very effective do you think that changes psychology essentially because you're think you can
+01:07:11 object it then truly it will I mean I you know I can't put my finger on how exactly but it that's been true in
+01:07:22 psychology with whenever an important new method came in it changes the feel so and an M torque is really a method
+01:07:31 because exact it makes it very much easier to do something to do some things is there are undergrad students will ask
+01:07:40 me you know how big a neural network should be for a particular problem so let me ask you an equivalent equivalent
+01:07:49 question how big how many subjects they study have for it to have a conclusive result well depends on the strength of
+01:07:58 the effect so if you're studying visual perception the perception of color many other are the classic results in in
+01:08:08 visual in color perception we've done on three or four people and I think and one of them was called a blind but or they'd
+01:08:17 partly colorblind but on vision you know you belong many people don't need a lot of replications for some type of
+01:08:31 neurological experiment neuro when you're studying weaker phenomena and especially when you're studying them
+01:08:40 between subjects then you need a lot more subjects than people have been running and that is that's one of the
+01:08:47 things that are happening in psychology now is that the power is a statistical power the experiment is increasing
+01:08:55 rapidly does that between subjects as the number of subjects goes to infinity approach well I mean you know goes to
+01:09:04 infinity is exaggerated but people the standard number of subjects for an experiment psychology with 30 or 40 and
+01:09:15 for a weak effect that's simply not enough and you may need a couple of hundred I mean it's that that sort of
+01:09:30 order of magnitude what are the major disagreements in theories and effects that you've observed throughout your career
+01:09:39 that's the stand today well you work on several fields yeah but what still is out there as major disagreement offs in
+01:09:49 your mind and I've had one extreme experience of you know controversy with somebody who really doesn't like the
+01:09:58 work that they must risky and I did and he's been after us for 30 years or more at least when I talk about it well I
+01:10:06 mean his name is good Giga answer he's a well-known German psychologist and that's the one controversy I have which
+01:10:18 I it's been unpleasant and no I don't particularly want to talk about it but it's there is their open questions even
+01:10:24 in your own mind every once in a while you know we talked about semi autonomous vehicles in my own mind I see what the
+01:10:34 data says but I also constantly torn do you have things where you or your studies have found something but you're
+01:10:40 also intellectually torn about what it means and there's been maybe disagreement you within your own mind about
+01:10:48 particularly I mean it's you know one of the things that are interesting is how difficult it is for people to change
+01:10:58 their mind essentially you know once they're committed people just don't change their mind about anything that
+01:11:05 matters and that is surprisingly but it's true about scientists so the controversy that I described in other
+01:11:13 it's been going on like thirty years and it's never going to be resolved and you build a system and you live within that
+01:11:22 system and other other systems of ideas look foreign to you and there is very little contact and very little mutual
+01:11:32 influence that happens a fair amount do you ever hopeful advice or message on that we think about science thinking
+01:11:44 about politics thinking about things that have impact on this world how can we change your mind I think that I mean
+01:11:55 on things that matter or a political or a little religious and people just don't don't change their mind and by and large
+01:12:05 and there is very little that you can do about it the what does happen is that if leaders change their mind so for example
+01:12:18 the public the American public doesn't really believe in climate change doesn't take it very seriously but if some
+01:12:27 religious leaders decided this is a major threat to humanity that would have a big effect so that we
+01:12:35 we have the opinions that we have not because we know why we have them but because we trust some people and we
+01:12:44 don't trust other people and so it's much less about evidence than it is about stories so the way one way to
+01:12:52 change your mind isn't at the individual level is that the leaders of the communities you look up with the stories change
+01:12:59 and therefore your mind changes with them so there's a guy named Alan Turing came up with a touring test yeah
+01:13:09 what what do you think is a good test of intelligence perhaps we're drifting in a topic that were maybe philosophizing
+01:13:20 about but what do you think is a good test for intelligence for an artificial intelligence system well the standard
+01:13:29 definition of you know official general intelligence is that it can do anything that people can do and it can do them
+01:13:37 better yes what what we are seeing is that in many domains you have domain-specific and you know devices or
+01:13:49 programs or software and they beat people easily in specified way but we are very far from is either generally
+01:13:59 ability a general-purpose intelligence so we in in machine learning people are approaching something more general I
+01:14:11 mean for alpha 0 ISM was much more general than than alphago and but it's still extraordinarily narrow and
+01:14:22 specific in what it can do so we're quite far from from something that can in every domain think like a human
+01:14:32 except better what aspects of the Turing test has been criticized its natural language conversation you know that it's
+01:14:39 too simplistic guys it's easy to quote unquote pass under under constraints specified it what aspect of conversation
+01:14:47 would impress you if you heard it is it humor is it what what would impress the heck out of you if if you saw it in
+01:14:56 conversation yeah I mean suddenly wit would yeah which would be impressive and and humor would be more impressive than
+01:15:08 just factual conversation which i think is is easy and illusions would be interesting and metaphors would be
+01:15:21 interesting I mean but new metaphors not practice metaphors so there's a lot that you know would be sort of impressive and
+01:15:31 that it's completely natural in conversation but that you really wouldn't expect there's the possibility
+01:15:37 of creating and a human level intelligence or super human level intelligence system excite you scare you
+01:15:46 well I mean how does it make you feel I find the whole thing fascinating absolutely fascinating exciting I think
+01:15:55 and exciting it's also terrifying you know but but I'm not going to be around to see it and so I'm curious about what
+01:16:06 is happening now but I also know that that predictions about it are silly we really have no idea but it will look
+01:16:15 like 30 years from now no idea speaking of silly bordering and the profound they may ask the question
+01:16:27 of in your view what is the meaning of it all the meaning of life he's a descendant of great apes that we
+01:16:36 are why what drives us as a civilization as a human being as a force behind everything that you've observed and
+01:16:46 studied is there any answer or is it all just a beautiful mess there is no answer that that I can understand and I'm not
+01:17:00 and I'm not actively looking for one do you think an answer exists no there is no answer that we can understand I'm not
+01:17:08 qualified to speak about what we cannot understand but there is I know that we cannot understand reality you know
+01:17:18 and I mean there's other thing that we can do I mean you know gravity waves and that's a big moment for Humanity and
+01:17:27 when you imagine that eeep you know being able to to go back to the Big Bang that's that but but the y-yeah the
+01:17:37 warrior than us the why is hopeless really day thank you so much it was an honor thank you for
+01:17:44 speaking thank you thanks for listening to this conversation and thank you to our
+01:17:50 presenting sponsor cash app downloaded use code Lex podcast you'll get ten dollars and ten dollars will go to first
+01:17:57 a stem education nonprofit that inspires hundreds of thousands of young minds to become future leaders and innovators if
+01:18:05 you enjoy this podcast subscribe on YouTube get five stars an apple podcast follow on Spotify supported on patreon
+01:18:13 or simply connect with me on Twitter and now let me leave you with some words of wisdom from Danielle Cartman
+01:18:20 intelligence is not only the ability to reason it is also the ability to find relevant material and memory and to

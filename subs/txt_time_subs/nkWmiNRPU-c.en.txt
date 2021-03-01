@@ -1,0 +1,690 @@
+00:00:01 the following is a conversation with Christos Kudrow vice president of engineering at Google and head of search
+00:00:09 and discovery at YouTube also known as the YouTube algorithm YouTube has approximately 1.9 billion users and
+00:00:18 every day people watch over 1 billion hours of YouTube video it is the second most popular search engine behind Google
+00:00:26 itself for many people it is not only a source of entertainment but also how we learn new ideas from math and physics
+00:00:33 videos to podcasts to debates opinions ideas from out-of-the-box thinkers and activists some of the most tense
+00:00:41 challenging and impactful topics in the world today YouTube and other content platforms receive criticism from both
+00:00:48 viewers and creators as they should because the engineering task before them is hard and they don't always succeed
+00:00:56 and the impact of their work is truly world-changing to me YouTube has been an incredible wellspring of knowledge I've
+00:01:04 watched hundreds if not thousands of lectures that changed the way I see many fun about those ideas in math science
+00:01:13 engineering and philosophy but it does put a mirror to ourselves and keeps the responsibility of the steps we take in
+00:01:19 each of our online educational journeys into the hands of each of us the YouTube algorithm has an important role in that
+00:01:27 journey of helping us find new exciting ideas to learn about that's a difficult and an exciting problem for an
+00:01:34 artificial intelligence system as I've said in lectures and other forums recommendation systems will be one of
+00:01:41 the most impactful areas of AI in the 21st century and YouTube is one of the biggest
+00:01:47 recommendation systems in the world this is the artificial intelligence podcast if you enjoy it subscribe on YouTube
+00:01:54 give it five stars an Apple podcast follow on Spotify supported on patreon or simply connect with me on Twitter
+00:02:02 Alex Friedman spelled Fri D ma a.m. I recently started doing ads at the end of the introduction I'll do one or two
+00:02:09 minutes after introducing the episode and never any ads in the middle that can break the flow of the conversation
+00:02:15 I hope that works for you and doesn't hurt the listening experience this show is presented by cash app the number one
+00:02:22 finance app in the App Store I personally use cash app to send money to friends but you can also use it to buy
+00:02:29 sell and deposit Bitcoin in just seconds cash app also has a new investing feature you can buy fractions of a stock
+00:02:36 say $1 worth no matter what the stock price is brokerage services are provided by cash app investing a subsidiary of
+00:02:44 square and member si PC I'm excited to be working with cash app to support one of my favorite organizations called
+00:02:50 first best known for their first robotics and Lego competitions they educate and inspire hundreds of
+00:02:57 thousands of students in over 110 countries and have a perfect rating and Charity Navigator
+00:03:02 which means that donated money is used to maximum effectiveness when you get cash app from the App Store Google Play
+00:03:10 and use code Lex podcast you'll get ten dollars in cash app will also donate ten dollars to the first which again is an
+00:03:17 organization that I've personally seen inspire girls and boys the dream of engineering a better world and now
+00:03:24 here's my conversation with Christos Gaudreau YouTube is the world's second most popular search engine behind Google
+00:03:32 of course we watch more than 1 billion hours of YouTube videos a day more than Netflix and facebook video combined
+00:03:40 YouTube creators upload over 500 thousand hours of video every day average lifespan of a human being just
+00:03:50 for comparison is about 700,000 hours so what's uploaded every single day is just enough for a human to watch in a
+00:03:57 lifetime so let me ask an absurd philosophical question if from birth when I was born and there's many people
+00:04:05 born today with the internet I watched YouTube videos non-stop do you think there are trajectories through YouTube
+00:04:14 video space that can maximize my average happiness or maybe education or my growth as a human being I think there
+00:04:21 are some great trajectories through YouTube videos but I wouldn't recommend that anyone
+00:04:28 and all of their waking hours or all of their hours watching YouTube I mean I think about the fact that YouTube has
+00:04:34 been really great for my kids for instance my oldest daughter you know she's been watching YouTube for several
+00:04:45 years she watches Tyler Oakley and the vlogbrothers and I know that it's had a very profound and positive impact on her
+00:04:52 character and my younger daughter she's a ballerina and her teachers tell her that YouTube is a huge advantage for her
+00:05:00 because she can practice a routine and watch like professional dancers do that same routine and stop it and back it up
+00:05:08 and rewind and all that stuff right so it's been really good for them and then even my son is a sophomore in college he
+00:05:17 he got through his linear algebra class because of a channel called three blue one brown which you know helps you
+00:05:24 understand linear algebra but in a way that would be very hard for anyone to do on a whiteboard or a chalkboard and so I
+00:05:33 think that those experiences from my point of view were very good and and so I can imagine really good trajectories
+00:05:39 through YouTube yes have you looked at do you think of broadly about that trajectory over a period cuz YouTube was
+00:05:46 growing up now so over a period of years you just kind of gave a few anecdotal examples but you know I used to watch
+00:05:55 certain shows on YouTube I don't anymore I've moved on to other shows and ultimately you want people to from
+00:06:01 YouTube's perspective to stay on YouTube to grow as human beings on YouTube so you have to think not just what makes
+00:06:11 them engage today or this month but also over a period of years absolutely that's right I mean if YouTube is going to
+00:06:18 continue to enrich people's lives then you know then it has to grow with them and and people's interests change over
+00:06:28 time and so I think we've we've been working on this problem and I'll just say it broadly is like how to introduce
+00:06:37 diversity and introduce people who are watching one thing to something else they might like
+00:06:41 we've been working on that problem all the eight years I've been at YouTube it's a hard problem because I mean of
+00:06:50 course it's trivial to introduce diversity that doesn't help a random video I could just randomly select a
+00:06:57 video from the billions that we have it's likely not to even be in your language so haha the likelihood that you
+00:07:05 would watch it and develop a new interest is very very low and so what you want to do when you're trying to
+00:07:13 increase diversity is find something that is not too similar to the things that you've watched but also something
+00:07:23 that you might be likely to watch and that balance finding that spot between those two things is quite challenging so
+00:07:32 the diversity of content diversity of ideas it's  it's a really difficult it's the thing like that's almost
+00:07:39 impossible to define alright like what's different so how do you think about that so two examples is a I'm a huge fan of
+00:07:50 three blue one Brown say and then one diversity I wasn't even aware of a channel called veritasium width which is
+00:07:57 a great science physics whatever channel so one version of diversity is showing me Derek's veritasium channel which I
+00:08:05 was really excited to discover actually now watch a lot of his videos okay so you're a person who's watching some math
+00:08:12 channels and you might be interested in some other science or math channels so like you mentioned the first kind of
+00:08:20 diversity is just show you some some things from other channels that are related but not just you know not all
+00:08:28 the three blue one Brown Channel throw in a couple others so so that's the maybe the first kind of diversity that
+00:08:35 we started with many many years ago taking a bigger leap is is about I mean the mechanisms we do we use for that is
+00:08:46 is we basically cluster videos and channels together mostly videos we do every almost everything at the video
+00:08:52 level and so we'll we'll make some kind of a cluster some embedding process and then and then
+00:08:59 measure you know what is the likelihood that a that users who watch one cluster might also watch another cluster that's
+00:09:08 very distinct so we may come to find that that people who watch science videos also like jazz this is possible
+00:09:19 right and so and so because of that relationship that we've identified through the through the embeddings and
+00:09:27 then the measurement of the people who watch both we might recommend a jazz video once in a while so there's this
+00:09:34 clustering the embedding space of jazz videos and science videos and so you kind of try to look at aggregate
+00:09:42 statistics where if a lot of people that jump from science cluster to the jazz cluster tend to remain as engaged or
+00:09:52 become more engaged then that's that means those two are they should hop back and forth and they'll be happy right
+00:09:59 there's a higher likelihood that a person from who's watching science would like jazz then the person watching
+00:10:06 science would like I don't know backyard railroads or something else right and so we can try to measure these likelihoods
+00:10:14 and use that to make the best recommendation we can so okay so we'll talk about the machine learning of that
+00:10:21 but I have to linger on things that neither you or anyone have an answer to there's gray areas of truth which is for
+00:10:31 example now I can't believe I'm going there but politics it it happens so that the certain people believe certain
+00:10:38 things and they're very certain about them let's move outside the red versus blue politics of today's world but there's
+00:10:46 different ideologies for example in college I read quite a lot of iron rand i studied and that's a particular
+00:10:53 philosophical ideologies I find I found it interesting to explore okay so that was that kind of space I've kind of
+00:10:58 moved on from that cluster intellectually but it nevertheless is an interesting cluster there's I was born
+00:11:05 in Soviet Union socialism communism is a certain kind of political idea that's really interesting to explore
+00:11:12 again objectively just there's a set of beliefs about how the economy should work and so on and so it's hard to know
+00:11:19 what's true or not in terms of people within those communities they're often advocating that this is how we achieve
+00:11:25 utopia in this world and they're pretty certain about it so how do you try to manage politics in this chaotic divisive
+00:11:36 world not positively any kind of ideas in terms of filtering what people should watch next and in terms of also not
+00:11:45 letting certain things be on YouTube this is exceptionally difficult responsibility right well the
+00:11:53 responsibility to get this right is our top priority and and the first comes down to making sure that we have good
+00:12:03 clear rules of the road right like just because we have freedom of speech doesn't mean that you can literally say
+00:12:09 anything right like we as a society have accepted certain restrictions on our freedom of speech there are things like
+00:12:18 libel laws and things like that and so where we can draw a clear line we do and we continue to evolve that line over
+00:12:28 time however as you point it out wherever you draw the line there's going to be a border line and in that border
+00:12:37 line area we are going to maybe not remove videos but we will try to reduce the recommendations of them or the
+00:12:46 proliferation of them by demoting them and then alternatively in those situations try to raise what we would
+00:12:54 call Thorat ativ or credible sources of information so we're not trying to I mean you mentioned Iran and communism
+00:13:04 you know those are those are two like valid points of view that people are going to debate and discuss and and of
+00:13:11 course people who believe and one of the other of those things are going to try to persuade other people to their point
+00:13:19 of view and so we're not trying to settle that choose a side or anything like that what
+00:13:24 we're trying to do is make sure that the the people who are expressing those point of view and and offering those
+00:13:33 positions are authoritative and credible so let me ask a question about people I don't like personally you
+00:13:40 heard me I don't care if you leave comments on this is  and but sometimes there's brilliantly funny which is
+00:13:52 trolls so it's people who kind of mock I mean the Internet is full the reddit of mock style comedy where people just kind
+00:14:00 of make fun of point out that the emperor has no clothes and there's brilliant comedy and that but sometimes
+00:14:08 it can get cruel and mean so on that on the mean point and sorry to linger on these things that have no good answers
+00:14:16 but it actually is I totally hear you that this is really important you're trying to solve it but how do you reduce
+00:14:26 the meanness of people on YouTube I understand that anyone who uploads YouTube videos has to become resilient
+00:14:35 to a certain amount of meanness like I've heard that from many creators and we would we are trying in various ways
+00:14:47 comment ranking allowing certain features to block people to reduce or or make that that meanness or that trolling
+00:14:56 behavior less effective on YouTube yeah and so I mean it's it's very important but it's something that we're we're
+00:15:07 gonna keep having to work on and and you know as we improve it maybe we'll get to a point where where people don't have to
+00:15:15 suffer this sort of meanness when they upload YouTube videos I hope we do but you know but it just does seem to be
+00:15:23 something that you have to be able to deal with as a YouTube creator now it is do you have a hope that he mentioned two
+00:15:30 things that can I agree was so there's a machine-learning approach of ranking comments based on whatever based on how
+00:15:39 much they contribute to the healthy conversation let's put it that way then the other is almost an interface
+00:15:47 question of how do you how does the Creator filter so block or how does how do humans themselves the users of
+00:15:57 YouTube manage their own conversation do you have hope that these two tools will create a better society without limiting
+00:16:05 freedom of speech too much without sort of Antonin even like saying that people what do you mean limiting sort of
+00:16:14 curating speech I mean I think that that overall is our whole project here at YouTube right like yeah we fundamentally
+00:16:21 believe and I personally believe very much that YouTube can be great it's been great for my kids I think it can be
+00:16:30 great for society but it's absolutely critical that we get this responsibility part right and that's why it's our top
+00:16:38 priority Susan Wojcicki who's the CEO of YouTube she says something that I personally find very inspiring which is
+00:16:48 that we want to do our jobs today in a manner so that people 20 and 30 years from now will look back and say you know
+00:16:54 YouTube they they really figured this out they really found a way to strike the right balance between the openness
+00:17:02 and the value that the openness has and also making sure that we are meeting our responsibilities to users in society so
+00:17:11 the burden on YouTube actually is quite incredible and the one thing that people don't I don't give enough credit to the
+00:17:18 seriousness and the magnitude of the problem I think so I I personally hope that you do solve it because a lot is in
+00:17:27 your hand a lot is riding on your success or failure so it's besides of course running a successful company
+00:17:35 you're also curating the content of the internet and the conversation the internet that's a powerful thing so one
+00:17:46 thing that people wander about is how much of it can be solved with pure machine learning
+00:17:51 so looking at the data studying the data and creating algorithms that curate the comments curate the content and how much
+00:18:01 of it needs human intervention meaning people here YouTube in a room sitting and thinking about what is the nature of
+00:18:13 truth what is what are the ideals that we should be promoting that kind of thing so algorithm versus human input
+00:18:20 what's your sense I mean my own experience has demonstrated that you need both of those things algorithms I
+00:18:29 mean you're familiar with machine learning algorithm and the thing they need most is data and the data is
+00:18:37 generated by humans and so for instance when we're building a system to try to figure out which are the videos that are
+00:18:47 misinformation or borderline policy violations well the first thing we need to do is get human beings to make
+00:18:55 decisions about which which of those videos are in which category and then we use that data and and basically you know
+00:19:04 take that information that's that's determined and governed by humans and and extrapolated or apply it to the
+00:19:13 entire set of billions of YouTube videos and we couldn't we we couldn't get to all the videos on YouTube well without
+00:19:22 the humans and we we couldn't use the humans to get to all the videos of YouTube so there's no world in which you
+00:19:28 have only one or the other of these things and just as you said a lot of it comes down to people at YouTube spending
+00:19:41 a lot of time trying to figure out what are the right policies you know what are the outcomes based on those policies are
+00:19:48 they the kinds of things we want to see and then once we kind of get a get an agreement or or build some consensus
+00:19:57 around around what the policies are well then we've got to find a way to implement those policies across all of
+00:20:04 YouTube and that's where both the human beings we call them evaluators or reviewers come into play to help us with
+00:20:11 that and then and then once we get a lot of training data from them then we apply the machine learning
+00:20:17 techniques to take it even further do you have a sense that these human beings have a bias in some kind of direction
+00:20:27 sort of I mean that's the interesting question we do sort of in autonomous vehicles and computer vision in general
+00:20:34 a lot of annotation and we rarely ask what bias do the annotators have you know the it even in the sense that
+00:20:45 they're better than they're better anting certain things and others for example people are much better at
+00:20:53 annotating segmentation at segmenting cars in a scene versus segmenting bushes or trees you know there's specific
+00:21:01 mechanical reasons for that but also because the cement its semantics gray area and and just for a lot of reasons
+00:21:08 people are just terrible at annotating trees okay so in the same kind of sense do you think of in terms of people
+00:21:15 reviewing videos or annotating the content of videos is there some kind of bias that you're aware of or seek out in
+00:21:25 that human input well we take steps to try to overcome these kinds of biases or biases that we think would be
+00:21:34 problematic so for instance like we asked people to have a bias towards scientific consensus that's something
+00:21:43 that we we instruct them to do we ask them to have a bias towards demonstration of expertise or
+00:21:50 credibility or authoritative nests but there are other biases that we that we want to make sure to try to remove and
+00:21:57 there's many techniques for doing this one of them is you send the same thing to be reviewed to many people and so you
+00:22:06 know that's one technique another is that you make sure that the people that are doing these sorts of tasks are from
+00:22:13 different backgrounds and different areas of the United States of the world but then even with all of
+00:22:21 that it's possible for certain kinds of what we would call unfair biases to creep into machine learning systems
+00:22:30 primarily as you said because maybe the training data itself comes in in in a biased way and so we also have worked
+00:22:39 very hard on the improving the machine learning systems to remove and reduce unfair biases when it's when it goes
+00:22:48 against or or has involved some protected class for instance thank you for exploring with me some of the more
+00:22:56 challenging things I'm sure there's a few more that we'll jump back to but let me jump into the fun part which is maybe
+00:23:05 the basics of the quote-unquote YouTube algorithm what is the YouTube algorithm look at to make recommendation for what
+00:23:13 to watch next was from a machine learning perspective or when you search for a particular term how does it know
+00:23:20 what to show you next because it seems to at least for me do an incredible job both well that's kind of you to say it
+00:23:30 didn't used to do a very good job but it's gotten better over the years even even I observed that it's improved quite
+00:23:35 a bit those are two different situations like when you search for something YouTube
+00:23:44 uses the best technology we can get from Google to make sure that that the YouTube search system finds what
+00:23:52 someone's looking for and of course the very first things that one thinks about is okay well does the word occur in the
+00:24:01 title for instance you know but there but there are much more sophisticated things where we're mostly trying to do
+00:24:09 some syntactic match or or maybe a semantic match based on words that we can add to the document itself for
+00:24:20 instance you know maybe is is this video watched a lot after this query right that's something that
+00:24:29 we can observe and then as a result make sure that that that document would be retrieved for that query now when you
+00:24:38 talk about what kind of videos would be recommended to watch next that's something again we've been working on
+00:24:52 the first real attempt to do that well was to use collaborative filtering so you can't describe what collaborative
+00:25:01 filtering is sure it's just basically what we do is we observe which videos get watched close together by the same
+00:25:13 person and if you observe that and if you can imagine creating a graph where the videos that get watched close
+00:25:20 together by the most people are sort of very close to one another in this graph and videos that don't frequently get
+00:25:26 watch close too close together by the same person or the same people are far apart then you end up with this graph
+00:25:35 that we call the related graph that basically represents videos that are very similar or related in some way and
+00:25:45 what's amazing about that is that it puts all the videos that are in the same language together for instance and we
+00:25:52 didn't even have to think about language just does it yeah I didn't it puts all the videos that are about sports
+00:25:59 together and it puts most of the music videos together and it puts all of these sorts of videos together just because
+00:26:06 that's sort of the way the people using YouTube behave so that already cleans up a lot of the problem it takes care of
+00:26:16 the lowest hanging fruit which happens to be a huge one of just managing these millions of videos that's right I
+00:26:24 remember a few years ago I was talking to someone who was trying to propose that we do a research project concerning
+00:26:37 people who who are bilingual and this person was making this proposal based on the idea that YouTube could not possibly be
+00:26:48 good at recommending videos well to people who are bilingual and so she was telling me about this and I said well
+00:26:56 can you give me an example of what problem do you think we have on YouTube with the recommendations and so she said
+00:27:05 well I'm a researcher in in the US and and when I'm looking for academic topics I want to look I want to see them in
+00:27:11 English and so she searched for one found a video and then looked at the watch next suggestions and they were all
+00:27:17 in in English and so she said oh I see YouTube must think that I speak only English and so she said now I'm actually
+00:27:24 originally from Turkey and sometimes when I'm cooking let's say I want to make some baklava I really like to watch
+00:27:31 videos that are in Turkish and so she searched for a video about making the baklava and then and then selected it it
+00:27:36 was in Turkish and the watch next recommendations were in Turkish and she just couldn't believe how this was
+00:27:43 possible and how is it that you know that I speak both these two languages and put all the videos together and it's
+00:27:50 just as a route come of this related graph that's created through collaborative filtering so for me one of
+00:27:56 my huge interest is just human psychology right and and that's such a powerful platform on which to utilize
+00:28:04 human psychology to discover what people individual people want to watch next but it's also be just fascinating to me
+00:28:14 you know I've Google search has ability to look at your own history and I've done that before
+00:28:21 just just what I've searched three years for many many years and it's fascinating picture of Who I am actually and I don't
+00:28:29 think anyone's ever summarized that I personally would love that a summary of who I am as a person on the Internet to
+00:28:38 me because I think it reveals I I think it puts a mirror to me or to others you know that's actually quite revealing and
+00:28:48 interesting you know just maybe in the number of it's a joke but not really is the of cat videos I've watched videos of
+00:28:56 people falling you know stuff that's absurd that kind of stuff it's really interesting and of course it's really
+00:29:03 good for the machine learning aspect to to show to figure out what to show next but it's interesting hey have you just
+00:29:11 as a tangent played around with the idea of giving a map to people sort of as opposed to just using this information
+00:29:22 to show us next showing them here are the clusters you've loved over the years kind of thing well we do provide the
+00:29:28 history of all the videos that you've watched yes so you can definitely search through that and look through it and
+00:29:33 search through it to see what it is that you've been watching on YouTube we have actually in various times experimented
+00:29:44 with this sort of cluster idea finding ways to demonstrate or show people what topics they've been interested in or
+00:29:51 what what clusters they've watched from it's interesting that you bring this up because in some sense the way the
+00:30:00 recommendation system of YouTube sees a user is exactly as the history of all the videos they've watched on YouTube
+00:30:11 and so you can think of yourself or any user on YouTube as kind of like a DNA strand of all your videos right that
+00:30:23 sort of represents you you can also think of it as maybe a vector in the space of all the videos on YouTube and
+00:30:30 so you know now once you think of it as a vector in the space of all the videos on YouTube then you can start to say
+00:30:36 okay well you know which videos which which other vectors are close to me and to my vector and and that's one of the
+00:30:44 ways that we generate some diverse recommendations is because you're like okay well you know these these people
+00:30:51 seem to be closed with respect to the videos they've watched on YouTube but you know here's a topic or a video that
+00:30:57 one of them has watched and enjoyed but the other one hasn't that could be an opportunity to make a good
+00:31:03 recommendation I gotta tell you I mean I know for things that are impossible but I would love to cluster than human beings
+00:31:11 like I would love to know who has similar trajectories as me you probably would want to hang out alright there's a
+00:31:18 social aspect there like actually finding some of the most fascinating people I find out in YouTube but have
+00:31:23 like no followers and I start following them and they create incredible content and you know and on that topic I just
+00:31:30 love to ask there's some videos just blow my mind in terms of quality and depth and just in every regard are
+00:31:40 amazing videos and they have like 57 views okay how do you get videos of quality to be seen by many eyes so the
+00:31:52 measure of quality is it just something yeah how do you know that something is good well I mean I think it depends
+00:31:59 initially on what sort of video we're talking about so in the realm of let's say you mentioned politics and news in
+00:32:11 that realm you know quality news or quality journalism relies on having a journalism department right like you you
+00:32:20 have to have actual journalists and fact-checkers and people like that and so in that situation and in others maybe
+00:32:30 science or in medicine quality has a lot to do with the authoritative nough sand the credibility and the expertise of the
+00:32:37 people who make the video now if you're thinking about the other end of the spectrum you know what is the highest
+00:32:44 quality prank video for what is the highest quality minecraft video yeah right that might be the one that people
+00:32:53 enjoy watching the most and watch to the end or it might be the one that when we ask people the next day after they
+00:33:03 watched it were they satisfied with it and so we in in especially in the realm of entertainment have been trying to get
+00:33:13 at better and better measures of quality or satisfaction or enrichment since I came to YouTube and we started
+00:33:22 with well you know the first approximation is the one that gets more views but but you know we both know that
+00:33:31 things can get a lot of views and not really be that high quality especially if people are clicking on something and
+00:33:38 then immediately realizing that it's not that great and abandoning it and that's why we move from views to thinking about
+00:33:45 the amount of time people spend watching it what the premise that like you know in some sense the time that someone
+00:33:54 spends watching a video is related to the value that they get from that video it may not be perfectly related but it
+00:34:01 has something to say about how much value they get but even that's not good enough right because I myself have spent time
+00:34:10 clicking through channels on television late at night and ended up watching under siege - for some reason I don't
+00:34:17 know and if you were to ask me the next day are you glad that you watched that show on TV last night I'd say yeah I
+00:34:24 wish I would have gone to bed or read a book or almost anything else really and so that's why some people got the idea a
+00:34:34 few years ago to try to serve at users afterwards and so so we get feedback data from those surveys and then use
+00:34:44 that in the machine learning system to try to not just predict what you're gonna click on right now what you might
+00:34:50 watch for a while but what when we ask you tomorrow you'll give four or five stars - so just to summarize what are
+00:34:58 the signals from a machine learning perspective the user can provide he mentions just clicking on the video
+00:35:05 views the time watch maybe the relative time watched the clicking like and dislike on the video maybe commenting on
+00:35:14 the video and those things all of those things and then though the one I wasn't actually quite aware of even though I
+00:35:22 might have engaged in it is a survey afterwards which is a brilliant idea is there other signals all right I mean
+00:35:29 that's already a really rich space of signals to learn from is something else well you mentioned
+00:35:36 commenting also sharing the video if you if you think it's worthy to be shared with someone else you know within
+00:35:41 YouTube or outside of YouTube as well either let's see you mentioned like dislike yeah like and dislike how important is
+00:35:48 that it's very important right we want its predictive of satisfaction but it's not it's not perfectly predictive
+00:35:59 subscribe if you subscribe to the channel of the person who made the video then that also is a piece of information
+00:36:09 and signals satisfaction although over the years we've learned that people have a wide range of attitudes about what it
+00:36:17 means to subscribe we would ask some users who didn't subscribe very much why but they watched a lot from a few
+00:36:25 channels we'd say well why didn't you subscribe and they would say well I I can't afford to pay for anything and you
+00:36:33 know we tried to let them understand like actually it doesn't cost anything it's free it just helps us know that you
+00:36:41 are very interested in this creator but then we've asked other people who subscribed to many things and and don't
+00:36:48 really watch any of the videos from those channels and we say well well why did you subscribe to this if you weren't
+00:36:55 really interested in any more videos from that channel and they might tell us why just you know I thought the person
+00:37:00 did a great job and I just want to kind of give him a high five yeah yeah and so yeah that's where I I said I should
+00:37:09 subscribe to channels where I just this person is amazing I like this person but then I like this person I really want to
+00:37:18 support them that that's how I click Subscribe right even though I may never actually want to click on their videos
+00:37:24 when they're releasing it I just love what they're doing and it's maybe outside of my interest area and so on
+00:37:30 which is probably the wrong way to use the subscribe button but I just want to say congrats this is a great work well
+00:37:37 so you have to deal with all the space of people that see the subscribe button it's totally different that's right and
+00:37:44 so you know we we can't just close our eyes and say sorry you're using it wrong you know and
+00:37:48 we're not gonna pay attention to what you've done we need to embrace all the ways in which all the different people
+00:37:55 in the world use the subscribe button or the like in the dislike button so in terms of signals of machine learning
+00:38:04 using for the search and for the recommendation you've mentioned title so like metadata like text data that people provide
+00:38:12 description and title and maybe keywords so maybe you can speak to the value of those things in search and also this
+00:38:21 incredible fascinating area of the content itself so the video content itself trying to understand what's
+00:38:27 happening in the video so YouTube would release a dataset that you know the in the machine learning and computer vision
+00:38:33 world this is just an exciting space how much is that currently how much he playing with that currently how much is
+00:38:39 your hope for the future of being able to analyze the content of the video itself well we have been working on that
+00:38:46 also since I came to YouTube analyzing the content analyzing the content while video right
+00:38:54 and what I can tell you is that our ability to do it well is still somewhat crude we can we can tell if it's a music video
+00:39:04 we can tell if it's a sports video we can probably tell you that people are playing soccer we probably can't tell
+00:39:13 whether it's Manchester United or my daughter's soccer team so these things are kind of difficult and and using them
+00:39:21 we can use them in some ways so for instance we use that kind of information to understand and inform these clusters
+00:39:30 that I talked about and also maybe to add some words like soccer for instance to the video if if it doesn't occur in
+00:39:37 the title or the description which is remarkable that often it doesn't I one of the things that I ask creators to do
+00:39:45 is is please help us out with the title in the description for instance we were a a few years ago having a live stream
+00:39:56 of some competition for World of Warcraft on YouTube and it was a very important competition
+00:40:03 but if you typed World of Warcraft in search you wouldn't find it well the Warcraft wasn't in the title
+00:40:09 World of Warcraft wasn't in the title it was match four seven eight you know a team versus B team and World of Warcraft
+00:40:16 wasn't the title yes like come on give me being literal being literal on the Internet is actually very uncool
+00:40:23 which is the problem oh is that right well I mean in some sense well some of the greatest videos I mean there's a
+00:40:30 humor to just being indirect being witty and so on and actually being you know machine learning algorithms want you to
+00:40:38 be you know literal right usually want to say what's in the thing be very very simple and in in some sense that gets
+00:40:46 away from wit and humor so you have to play with both right so but you're saying that for now sort of the content
+00:40:53 of the title the content of the description the actual text is is one of the best ways to  for the for the
+00:41:01 algorithm to find your video and put them in the right cluster that's right and and I would go further and say that
+00:41:08 if you want people human beings to select your video in search then it helps to have let's say World of
+00:41:16 Warcraft in the title because why would a person's you know if they're looking at a bunch they type World of Warcraft
+00:41:21 and they have a bunch of videos all of whom say World of Warcraft except the one that you uploaded well even the
+00:41:27 person is gonna think well maybe this isn't some house search made a mistake this isn't really about World of
+00:41:33 Warcraft so it's important not just for the machine learning systems but also for the people who might be looking for
+00:41:39 this sort of thing they get a clue that it's what they're looking for by seeing that same thing prominently in the title
+00:41:47 of the video okay let me push back on that so I think from the algorithmic perspective yes but if they typed in
+00:41:54 World of Warcraft and saw a video that with the title simply winning and and and the thumbnail has like a sad orc or
+00:42:05 something I don't know right like I think that's much it's Iraq it gets your curiosity up
+00:42:13 and then if they could trust that the algorithm was smart enough to figure out somehow that this is indeed a World of
+00:42:19 Warcraft video that would have created the most beautiful experience I think in terms of just the wit and the humor and
+00:42:25 the curiosity that we human beings actually have but you're saying I mean realistically speaking is really hard
+00:42:31 for the algorithm to figure out that the content of that video will be a world of warcraft and you have to accept that
+00:42:36 some people are gonna skip it yeah right I mean and so you're right the people who don't skip it and select
+00:42:46 it are gonna be delighted yeah but other people say might say but yeah this is not what I was looking for and making
+00:42:52 stuff discoverable I think is what you're really working on and hoping so yeah so from your perspective to put
+00:43:00 stuff in the description and remember the collaborative filtering part of the system it starts by the same user
+00:43:10 watching videos together right so the way that they're probably going to do that is by searching for them that's a
+00:43:15 fascinating aspect it's like ant colonies that's how they find stuff is so I mean you would agree for
+00:43:24 collaborative filtering in general is one curious ant one curious user essential sort of just
+00:43:31 a person who is more willing to click on random videos and sort of explore these cluster spaces in your sense how many
+00:43:38 people are just like watching the same thing over and over and over and over and how many are just like the explorers
+00:43:44 I just kind of like click on stuff and then help help the other ant and the ants colony discover the cool stuff do
+00:43:51 you have a sense of that or no I really don't think I have a sense me OK relative sizes of those groups but I but
+00:43:58 I would say that you know people come to YouTube with some certain amount of intent and as long as they to the extent
+00:44:06 to which they they try to satisfy that intent that certainly helps our systems right because our systems rely on on
+00:44:14 kind of a faithful amount of behavior the right like and there are people who try to trick us right there are people
+00:44:23 and machines that try to associate videos together that really don't belong together but they're
+00:44:28 trying to get that Association made because it's profitable for them and so we have to always be resilient to that
+00:44:37 sort of attempt at gaming the system so speaking to that there's a lot of people that in a positive way perhaps I don't
+00:44:44 know I I don't like it but I like to gain want to try to gain the system to get more attention and everybody
+00:44:50 creators in a positive sense want to get attention right so how do you how do you work in this space when people create
+00:44:59 more and more sort of click Beatty titles and thumbnails sort of a very tasking derek has made a video it
+00:45:08 basically describes that it seems what works is to create a high quality video really good video what people would want
+00:45:14 to watch and wants to click on it but have clicked BT titles and thumbnails to get him to click on it in
+00:45:20 the first place and he's saying I'm embracing this bactrim just gonna keep doing it and I hope you forgive me for
+00:45:27 doing it and you will enjoy my videos once you click on them so in what sense do you see this kind of clickbait style
+00:45:38 attempt to manipulate to get people in the door to manipulate the algorithm or play with the algorithmic game the
+00:45:44 algorithm I think that that you can look at it as an attempt to game the algorithm but even if you were to take
+00:45:52 the algorithm out of it and just say ok well all these videos happen to be lined up which the algorithm didn't make any
+00:45:58 decision about which one to put at the top or the bottom but they're all lined up there which one are the people going
+00:46:05 to choose and and I'll tell you the same thing that I told Derek is you know I have a bookshelf and they have two kinds
+00:46:13 of books on them science books I have my math books from when I was a student and they all look identical except for the
+00:46:21 titles on the covers they're all yellow they're all from Springer and they're every single one of them the cover is
+00:46:29 totally the same yes right yeah on the other hand I have other more pop science type books and they all have very
+00:46:36 interesting covers right and they have provocative titles and things like that I mean I wouldn't say that they're clickbait II
+00:46:45 because they are indeed good books and I don't think that they cross any line but but you know the that's just a decision
+00:46:53 you have to make right like the people who who write classical recursion theory by pure OD Freddie he was fine with the
+00:47:02 yellow title and the and nothing more whereas I think other people who who wrote a more popular type book
+00:47:10 understand that they need to have a compelling cover and a compelling title and and you know I don't think there's
+00:47:19 anything really wrong with that we do we do take steps to make sure that there is a line that you don't cross and if you
+00:47:27 go too far maybe your thumbnails especially racy or or you know it's all cats with too many exclamation points we
+00:47:40 observe that users are kind of you know sometimes offended by that and so so for the users who were offended by that we
+00:47:48 will then depress or suppress those videos and which reminds me that there's also another signal where users can say
+00:47:56 I don't know if was recently added but I really enjoy it just saying I don't I didn't something like I I don't want to
+00:48:03 see this video anymore or something like like this is a like there's certain videos just cut me the wrong way like
+00:48:10 just just jump out at music I don't wanna I don't want this and it feels really good to clean that out to be like
+00:48:17 I don't that's not that's not for me I don't know I think that might have been recently added by this that's also a
+00:48:23 really strong signal yes absolutely right we don't want to make a recommendation that people are unhappy
+00:48:30 with and that makes me that particular one makes me feel good as a user in general and as a machine learning person
+00:48:36 because I feel like I'm helping the algorithm my interaction I need you don't always feel like I'm helping the
+00:48:42 algorithm like I'm not reminded of that fact like for example Tesla and Otto Pollan you know on musk create a feeling for
+00:48:51 their customers for people their own test is that there helping the algorithm of testify like
+00:48:55 they're all like a really proud they're helping nicely learn I think YouTube doesn't always remind people that you're
+00:49:02 helping the algorithm get smarter and for me I love that idea like we're all collaboratively like Wikipedia gives
+00:49:08 that sense they were all together creating a beautiful thing YouTube is  doesn't always remind me
+00:49:15 of that it's  this conversation is Right any of that but well that's a good tip we should
+00:49:21 keep that fact in mind when we design these features well I I'm not sure I I really thought about it that way but
+00:49:26 that's a very interesting perspective it's an interesting question of personalization that I feel like when I
+00:49:35 click like on a video I'm just improving my experience it would be great it would make me personally people are different
+00:49:44 but make me feel great if I was helping also the YouTube algorithm broadly say something you know saying like there's a
+00:49:50 that I don't know if that's human nature we you want the products you love and I certainly love YouTube like you want to
+00:49:58 help it get smarter and smarter smarter because there's some kind of coupling between our lives together being better
+00:50:06 if if YouTube was better than I will my life will be better and that's that kind of reasoning I'm not sure what that is
+00:50:10 and I'm not sure how many people share that feeling it could be just a machine learning feeling but at that point how
+00:50:19 much personalization is there in terms of next video recommendations so is it kind of all really boiling down to a
+00:50:29 clustering like you find in ears clusters to me and so on and that kind of thing or how much is person s to me
+00:50:37 the individual completely it's very very personalized so your experience will be quite a bit different from anybody
+00:50:46 else's who's watching that same video at least when they're logged in and the reason is is that we found that that
+00:50:55 users often want two different kinds of things when they're watching a video sometimes they want to keep watching
+00:51:03 more on that topic or more in that genre and other times they just are done and they're ready to move on to
+00:51:10 something else and so the question is well what is this something else and one of the first things one can imagine is
+00:51:19 well maybe something else is the latest video from some channel to which you've subscribed and that's gonna be very
+00:51:25 different from for you than it is for me right and and even if it's not something that you subscribe to it's something
+00:51:31 that you watch a lot and again that'll be very different on a person-by-person basis and so even the watch next as well
+00:51:41 as the homepage of course is quite personalized so what we met some of the signals but what a success look like
+00:51:49 what a success look like in terms of the algorithm creating a great long-term experience for a user or put another way
+00:51:57 if you look at the videos I've watched this month how do you know the algorithm succeeded for me I think first of all if
+00:52:07 you come back and watch more YouTube then that's one indication that you've found some value from it so just the
+00:52:13 number of hours is a powerful indicator well I mean not the hours themselves but the fact that you return on another day
+00:52:24 so that's probably the most simple indicator people don't come back to things that they don't find value in
+00:52:30 right there's a lot of other things that they could do but like I said I mean ideally we would like everybody to feel
+00:52:38 that YouTube enriches their lives and that every video they watched is the best one they've ever watched since
+00:52:45 they've started watching YouTube and so that's why we survey them and ask them like is this one to five stars and so
+00:52:56 our version of success is every time someone takes that survey they say it's five stars and if we ask them is this
+00:53:03 the best video you've ever seen on YouTube they say yes every single time so it's hard to imagine that we would
+00:53:09 actually achieve that maybe asymptotically we would get there but but that would be what we think success
+00:53:19 is it's funny have recently said some way I don't know maybe tweeted but that Ray Dalio has this video on the economic
+00:53:27 machine I forget what it's called but it's a 30-minute video and I said it's the the greatest video I've ever watched
+00:53:33 on YouTube it's it's like I watched the whole thing and my mind was blown is a very crisp clean description of how the
+00:53:40 at least the American economic system works it's a beautiful video and I was just I wanted to click on something to say this
+00:53:48 is the best thing this is the best thing ever please let me I can't believe I discovered it I mean the the views and
+00:53:56 the likes reflect its quality but I was almost upset that I haven't found it earlier and wanted to find other things
+00:54:02 like it I don't think I've ever felt that this is the best video ever and that was that and to me the ultimate
+00:54:10 utopia the best experiences were every single video where I don't see any of the videos I regret in every single
+00:54:16 video I watch is one that actually helps me grow helps me enjoy life be happy and so on well so that's that's that's a
+00:54:29 heck of  the thought that's one of the most beautiful and ambitious I think machine learning tasks so when you look
+00:54:34 at a society as opposed to any individual user do you think of how YouTube is changing
+00:54:41 society when you have these millions of people watching videos growing learning changing having debates do you have a
+00:54:50 sense of yeah what the big impact on society is because I think it's huge but you have a sense of what direction we're
+00:54:56 taking this world well I mean I think you know openness has had an impact on society already there's a lot of what do
+00:55:07 you mean by openness well the fact that unlike other mediums there's not someone sitting at YouTube who decides before
+00:55:17 you can upload your video whether it's worth having you uploaded or worth anybody seeing it really right
+00:55:25 and so you know there are some creators who say like I I wouldn't have this opportunity to
+00:55:35 to reach an audience Tyler Oakley often said that you know he wouldn't have had this opportunity to reach this audience
+00:55:44 if it weren't for YouTube and and so I think that's one way in which YouTube has changed Society I know that there
+00:55:53 are people that I work with from outside the United States especially from places where literacy is low and they think
+00:56:03 that YouTube can help in those places because you don't need to be able to read and write in order to learn
+00:56:10 something important for your life maybe you know how to do some job or how to fix something and so that's another way
+00:56:19 in which I think YouTube is possibly changing society so I've worked at YouTube for eight almost nine years now
+00:56:28 and it's fun because I meet people and you know you tell them where they where you work you say you work on YouTube and
+00:56:35 they immediately say I love you too Yeah right which is great makes me feel great but then of course when I ask them well
+00:56:42 what is it that you love about YouTube not one time ever has anybody said that the search works outstanding or that the
+00:56:52 recommendations are great what they always say when I ask them what do you love about
+00:56:58 YouTube is they immediately start talking about some channel or some creator or some topic or some community
+00:57:05 that they found on YouTube and that they just loved yeah and so that has made me realize that YouTube is really about the
+00:57:18 video and connecting the people with the videos and then everything else kind of gets out of the way so beyond the video
+00:57:25 it's an interesting because you kind of mentioned creator what about the connection with just the individual
+00:57:34 creators as opposed to just individual video so like I gave the example of Ray Dalio video that the video itself is
+00:57:43 incredible but there's some people or just creators that I love that they're one of the cool
+00:57:49 things about people who call themselves youtubers or whatever is they have a journey they usually almost all of them
+00:57:56 are hurt they suck horribly in the beginning and then they kind of grow you know and then there's that genuineness
+00:58:04 in their growth so you know YouTube clearly wants to help creators connect with their audience in this kind of way
+00:58:09 so how do you think about that process of helping creators grow helping the connect with their audience develop not
+00:58:16 just individual videos but the entirety of a creators life on YouTube well I mean we're trying to help creators find
+00:58:24 the biggest audience that they can find and the reason why that's you you brought up creator versus video the
+00:58:31 reason why creator channel is so important is because if we have a hope of of people coming back to YouTube well
+00:58:43 they have to have in their minds some sense of what they're gonna find when they come back to YouTube if YouTube
+00:58:52 were just the next viral video and I have no concept of what the next viral video could be one time it's a cat
+00:58:58 playing a piano and the next day it's some children interrupting a reporter and the next day it's you know some
+00:59:06 other thing happening then then it's hard for me to to when I'm not watching YouTube say gosh I really you know would
+00:59:15 like to see something from someone or about something right and so that's why I think this connection between fans and
+00:59:25 creators so important for both because it's it's a way of a sort of fostering a relationship that can play out into the
+00:59:36 future let me talk about kind of a dark and interesting question in general and again a topic that you or nobody has an
+00:59:44 answer to but social media has a sense of you know it gives us highs and gives us lows in the sense that so creators
+00:59:54 often speak about having sort of burn burn out and having psychological ups and and challenges mentally in terms of
+01:00:02 continuing the creation process there's a momentum there's a huge excited audience that makes everybody feel that
+01:00:09 makes creators feel great and I think it's more than just financial I think it's literally just they love
+01:00:16 that sense of community it's part of the reason I upload to YouTube I don't care about money never well what I care about
+01:00:23 is the community but some people feel like this momentum and even when there's times in their life when they don't feel
+01:00:31 you know the for some reason don't feel like creating so how do you think about burnout this mental exhaustion that some
+01:00:38 YouTube creators go through that's something we have an answer for is that something how do we even think about
+01:00:43 that well the first thing is we want to make sure that the YouTube systems are not contributing to this sense right and
+01:00:52 so we've done a fair amount of research to demonstrate that you can absolutely take a break if you are a creator and
+01:01:01 you've been uploading a lot we have just as many examples of people who took a break and came back more popular than
+01:01:08 they were before as we have examples of going the other way yeah can we pause on that for a second
+01:01:12 so the feeling that people have I think is if I take a break everybody well the party will leave right so if you can
+01:01:22 just linger on that so in your sense that taking a break is okay yes taking a break is absolutely okay and the reason
+01:01:31 I say that is because we have we can observe many examples of being of creators coming back very strong and
+01:01:40 even stronger after they have taken some sort of break and so I just want to dispel the myth that this somehow
+01:01:50 necessarily means that your channel is gonna go down or lose views that is not the case we know for sure that this is
+01:02:00 not a necessary outcome and so we we want to encourage people to make sure that they take care of themselves that
+01:02:06 is job one right you you have to look after yourself and your mental health and you know I think that
+01:02:15 it probably in some of these cases contributes to better videos once they come back right because a lot of people
+01:02:23 I mean I know myself if I'm burn out on something that I'm probably not doing my best work even though I can keep working
+01:02:32 until I pass out and so I think that the the taking a break may even improve the creative ideas that someone has okay I
+01:02:41 think it's a really important thing to sort of to dispel I think it applies to all of social media like literally I've
+01:02:48 taken a break for a day every once in a while sorry sorry that sounds like a short time but even like sorry email
+01:02:58 just taking a break from email or only checking email once a day especially when you're going through something
+01:03:03 psychologically in your personal life or so on or really not sleeping much because it work deadlines it can refresh
+01:03:10 you in a way that's that's profound and so the same applies there when you came back right it's there and it looks
+01:03:17 different actually when you come back you sort of brighter I'd some coffee everything the world looks better so
+01:03:24 it's important to take a break when you need it so you've mentioned kind of the the YouTube algorithm isn't you know e
+01:03:33 equals MC squared is that's a single equation it's it's potentially sort of more than a million lines of code sort
+01:03:44 of is it more akin to what autonomous successful autonomous vehicles today are which is they're just basically patches
+01:03:51 on top of patches of heuristics and human experts really tuning the algorithm and have some machine learning
+01:04:00 modules or is it becoming more and more a giant machine learning system with humans just doing a little bit of
+01:04:06 tweaking here and there what's your sense first of all do you even have a sense of what is the YouTube algorithm
+01:04:12 at this point and whichever however much you do have a sense what does it look like well we don't usually think about
+01:04:20 it as the algorithm because it's a bunch of systems that work on different services the other
+01:04:27 that I think people don't understand is that what you might refer to as the YouTube algorithm from outside of
+01:04:36 YouTube is actually a you know a bunch of code and machine learning systems and heuristics but that's married with the
+01:04:43 behavior of all the people who come to YouTube every day so the people part of the code Accession exactly right like if
+01:04:49 there were no people who came to youtube tomorrow then there the algorithm wouldn't work anymore right so that's a
+01:04:55 critical part of the algorithm and so when people talk about well the algorithm does this the algorithm does
+01:05:00 that it's sometimes hard to understand well you know it could be the the viewers are doing that and the algorithm
+01:05:07 is mostly just keeping track of what the viewers do and then reacting to those things in in sort of more fine-grained
+01:05:16 situations and I and I think that this is the way that the recommendation system and the search system and and
+01:05:23 probably many machine learning systems evolve is you know you start trying to solve a problem and the first way to
+01:05:32 solve a problem is often with a simple heuristic right and and you know you want to say what are the videos we're
+01:05:38 gonna recommend well how about the most popular ones weighted that's where you start and and over time you collect some
+01:05:48 data and you refine your situations so that you're making less heuristics and you're you're building a system that can
+01:05:54 actually learn what to do in different situations based on some observations of those situations in the past and and you
+01:06:02 keep chipping away at these heuristics over time and so I think that just like with diversity you know I think the
+01:06:11 first diversity measure we took was okay not more than three videos in a row from the same Channel right it's a pretty
+01:06:18 simple heuristic to encourage diversity it worked right you needs to see four or five six videos in a row from the same
+01:06:27 Channel and over time we try to chip away at that it and make it more fine-grain and basically have it
+01:06:35 remove the heuristics in favor of something that can react to individuals and individual situations so
+01:06:44 how do you you mentioned you know we we know that something worked how do you get a sense when decisions of a kind of
+01:06:52 a be testing that this idea was a good one this was not so good what's how do you measure that
+01:06:59 and across which time scale across how many users that kind of that kind of thing well you mentioned that a B
+01:07:06 experiments and so just about every single change we make to YouTube we do it only after we've run a a B experiment
+01:07:16 and so in those experiments which run from one week to months we measure hundreds literally hundreds of different
+01:07:29 variables and and measure changes with confidence intervals in all of them because we really are trying to get a
+01:07:36 sense for ultimately does this improve the experience for viewers that's the question we're trying to answer and an
+01:07:43 experiment is one way because we can see certain things go up and down so for instance if we noticed in the experiment
+01:07:51 people are dismissing videos less frequently or they're saying that they're more satisfied they're giving
+01:07:59 more videos five stars after they watch them then those would be indications of that the experiment is successful that
+01:08:07 it's improving the situation for viewers but we can also look at other things like we might do user studies where we
+01:08:14 invite some people in and ask them like what do you think about this what do you think about that how do you feel about
+01:08:21 this and other various kinds of user research but ultimately before we launch something we're gonna want to run an
+01:08:27 experiment so we get a sense for what the impact is going to be not just to the viewers but also to the different
+01:08:37 channels and all of them an absurd question nobody know what actually is interesting maybe there's an answer but
+01:08:43 if I want to make a viral video how do I do it I don't know how you make a viral video I
+01:08:51 I know that we have in the past tried to figure out if we could detect when a video video was going to go viral you
+01:08:59 know and those were you take the first and second derivatives of the view count and maybe use that to do some prediction
+01:09:09 but but I can't say we ever got very good at that oftentimes we look at where the traffic
+01:09:14 was coming from you know if it's if it's a lot of the viewership is coming from something like Twitter then then maybe
+01:09:22 it has a higher chance of becoming viral than maybe if then if it were coming from search or something but that was
+01:09:29 just trying to detect a video that might be viral how to make one like I have no idea so yeah you get your kids to
+01:09:36 interrupt you while you're on the news on the news absolutely as but after the fact on a one individual video so the
+01:09:44 head of time predicting is a really hard task but after the video went viral in analysis can you sometimes understand
+01:09:54 why I went viral from the perspective of YouTube broadly first I was even interesting for YouTube that a
+01:10:01 particular videos viral or is does that not matter for the individual for the experience of people well I think people
+01:10:08 expect that if a video video is going viral and it's something they would be interested in then I wouldn't I think
+01:10:15 they would expect YouTube to recommend it to them right so someone's going viral it's good to just let the wave
+01:10:23 ride the wave of its violence well I mean we want to meet people's expectations in that way of course so
+01:10:29 like like I mentioned I hung out with Derek Muller a while ago a couple of months back he's actually the person who
+01:10:37 suggested I talk to you on this podcast all right well thank you Derek at that time he just recently posted an awesome
+01:10:47 science video titled why are ninety-six million black balls on this reservoir and in a matter of I don't know how long
+01:10:54 but like a few days he got thirty million views and it's still growing is this something you can analyze and
+01:11:03 understand why it happened this video and you won't particularly like it I mean we can surely see where
+01:11:11 it was recommended where it was found who watched it and those sorts of things so it's actually sorry to interrupt it
+01:11:19 is the video which helped me discover who Derek is I didn't know who he is before so I remember you know usually I
+01:11:26 just have all of these technical boring MIT Stanford talks in my recommendation because that's how I watch and then all
+01:11:33 sudden there's this black balls in reservoir video with like an excited nerd in the would like just and why is
+01:11:41 this being recommended to me so I close down and watch the whole thing it was awesome but and a lot of people had that
+01:11:47 experience like why was I recommend this but they all of course watched it and enjoyed it which is what's your sense of
+01:11:54 this just wave of recommendation and that comes with this viral video that ultimately people get enjoy after they
+01:12:01 click on it well I think it's the system you know basically doing what anybody who's recommending something would do
+01:12:08 which is you show it to some people and if they like it you say okay well can I find some more people who are a little
+01:12:13 bit like them okay I'm gonna try it with them oh they like it too let me expand the circle some more find some more people
+01:12:19 oh it turns out they like it too so can you just keep going until you get some feedback that says no now you've gone
+01:12:24 too far these people don't like it anymore and so I think that's basically what happened now
+01:12:31 you asked me about how to make a video go viral or make a viral video I don't think that if you or I decided to make a
+01:12:41 video about 96 million balls that it would also go viral it's possible that Derek made like the canonical video
+01:12:50 about those black balls yeah lake and so he did actually right and and so I don't know whether or not just following along
+01:13:00 is the secret yeah but it's fascinating I mean just like you said the algorithm sort of expanding that circle and then
+01:13:05 figuring out that more and more people did enjoy and that sort of phase shift of just a huge number of people enjoying
+01:13:13 in the algorithm quickly automatically I assume figuring that out that's a I don't know
+01:13:19 the dynamics in psychology that is a beautiful thing and so what do you think about the idea of of clipping like and
+01:13:27 too many people annoyed me into doing it which is they were requesting it I said very beneficial to add clips in like the
+01:13:36 the coolest points and actually have explicit videos like I'm reapplying a video like a short clip which is what
+01:13:44 the the podcasts are doing yeah do you see as opposed to like I also add time stamps for the topics no people want the
+01:13:51 clip do you see YouTube somehow helping creators with that process or helping connect clips to the original videos
+01:13:58 what is that just in a long list of amazing things to work towards yeah I mean it's not something that I think
+01:14:05 we've we've done yet but I can tell you that I think clipping is great and I think it's actually great for you as a
+01:14:15 creator and here's the reason if you think about I mean let's let's say the NBA is uploading videos of of its games
+01:14:26 well people might search for warriors vs. rockets or they might search for Steph Curry and so a highlight from the
+01:14:34 game in which Steph Curry makes an amazing shot is an opportunity for someone to find a portion of that video
+01:14:44 and so I think that you never know how people are gonna search for something that you've created and so you wanna I
+01:14:52 would say you want to make clips and and add titles and things like that so that they can find it as easily as possible
+01:15:00 do you have a dream of a future perhaps a distant future when the YouTube algorithm figures that out sort of
+01:15:09 automatically detects the parts of the video that are really interesting exciting potentially exciting for people
+01:15:15 and sort of clip them out in this incredibly rich space if you talk about if you thought even just this
+01:15:22 conversation we probably covered 30 40 little topics and there's a huge space of users that would find you know 30
+01:15:30 percent of those topics interesting and that's is very different it's something that's beyond my ability to clip out right but
+01:15:39 the algorithm might be able to figure all that out sort of expand into clips do you ever you think about this kind of
+01:15:47 thing do you have a hope a dream that one day the album will be able to do that kind of deep content analysis well
+01:15:53 we've actually had projects that attempt to achieve this but it really does depend on understanding the video well
+01:16:01 and our understanding of the video right now is quite crude and so I think it would be especially hard to do it with a
+01:16:11 conversation like this one might be able to do it with let's say a soccer match more easily right you could probably
+01:16:20 find out where the goals were scored and then of course you you need to figure out who it was that scored the goal and
+01:16:27 and that might require human to do some annotation but I think that trying to identify coherent topics in a transcript
+01:16:38 like like the one of our conversation is is not something that we're gonna be very good at right away and I was
+01:16:44 speaking more to the general problem actually of being able to do both a soccer match and our conversation
+01:16:51 without explicit sort of almost my hope was that there exists an algorithm that's able to find exciting things in
+01:17:03 video so Google now on Google search will help you find the segment of the video that you're interested in so if
+01:17:10 you search for something like how to change the filter in my dishwasher then if there's a long video about your
+01:17:16 dishwasher and this is the part where the person shows you how to change the filter then then it will highlight that
+01:17:23 area and provide a link directly to it and you know if from your recollection do you know if the thumbnail reflects
+01:17:30 like what's the difference between showing the full video and the shorter clip do you know what how its presented
+01:17:35 in search results don't remember how its presented and the other thing I would say is that right now it's based on
+01:17:43 creator annotations got it so it's not the thing I'm talking about but there but but folks are working on
+01:17:49 the more automatic version it's interesting people might not imagine this but a lot of our systems start by
+01:17:58 using almost entirely the audience behavior and then as they get better the refinement comes from using the content
+01:18:09 and I wish and I know there's privacy concerns but I wish YouTube explored the space which is sort of putting a camera
+01:18:18 on the user's if they allowed it right to study there like I did a lot of emotion recognition work and so on to
+01:18:27 study actual sort of rich or signal one of the cool things when you upload 360 like VR video to YouTube and I've done
+01:18:34 this a few times so I've uploaded myself it's a horrible idea some people enjoyed it but whatever the
+01:18:41 video of me giving a lecture in 360 over 360 camera it's cool because YouTube allows you to then watch where did
+01:18:48 people look at there's a heat map of where you know avoid the center of the VR experience was and it's interesting
+01:18:56 because that reveals to you like what people looked at and it's it's very not always what you were though it's not in
+01:19:02 the case of the lecture is pretty boring it is what we're expecting but we did a few funny videos where there's a bunch
+01:19:08 of people doing things and they everybody tracks those people you know in the beginning they all look at the
+01:19:13 main person and they start spreading around and looking into other people it's fascinating so that kind of that's
+01:19:19 a really strong signal of what people found exciting in the video I don't know how you get that from people just
+01:19:26 watching except they tuned out at this point like it's hard to measure this moment was super exciting for people I don't
+01:19:34 know how you get that signal maybe comment is there a way to get that signal where this was like this is when
+01:19:40 their eyes opened up they're like like for me with the Ray Dalio video right like first I was like okay this is
+01:19:46 another one of these like dumb it down for you videos and then you like start watching it's like okay there's really
+01:19:52 crisp clean deep explanation of how the economy works that's where I like set up and started watch right at that moment
+01:19:58 is there a way to detect that the only way I can think of is by asking people to just label it yeah you
+01:20:07 mentioned that we're quite far away in terms of doing video analysis deep video analysis ago of course Google YouTube
+01:20:16 you know we're quite far away from solving autonomous driving problem - yes I don't know I think we're closer to
+01:20:24 that what the you know you never know and the Wright brothers thought they're never they're not gonna five fifty years
+01:20:32 three years before they flew so what are the biggest challenges would you say is it the broad challenge of understanding
+01:20:39 video understanding natural language understanding the the challenge before the entire machine learning community or
+01:20:45 just being able to understand data is there something specific to video that's even more challenging than an
+01:20:51 understanding natural language understanding what's your sense of what the biggest video is just so much
+01:20:58 information and so precision becomes a real problem it's like a you know you're trying to classify something and you've
+01:21:10 got a million classes and you the distinctions among them at least from a from a machine learning perspective are
+01:21:22 often pretty small right like you know you need to see this person's number in order to know which player it is and and
+01:21:31 there's a lot of players or you need to see you know the logo on their chest in order to know like which which team they
+01:21:40 play for and so and that's just figuring out who's who right and then you go further and saying okay well you know
+01:21:46 was that a goal was it not a goal like is that an interesting moment as you said or is that not an interesting
+01:21:52 moment these things can be pretty hard so okay so yawn laocoön I'm not sure if you're familiar sort of with his current
+01:22:01 thinking and work so he believes that self what is referring to self supervised learning will be the solution
+01:22:08 sort of to achieving this kind of greater level of intelligence in fact the thing he's focusing on
+01:22:14 is watching video and predicting the next frame so predicting the future of video right so for now we're very far
+01:22:22 from that but his thought is because it's unsupervised or is it here first to a self supervise you know if
+01:22:29 you watch enough video essentially if you watch YouTube you'll be able to learn about the nature of reality the
+01:22:35 physics the common sense reasoning required by just teaching a system to predict the next frame so he's confident
+01:22:43 this is the way to go so see you from the perspective of just working with this video how do you think an algorithm
+01:22:53 that just watches all of YouTube stays up all day and night watching YouTube will be able to understand enough of the
+01:23:01 physics of the world about the way this world works failed to do common-sense reasoning and so on well I mean we have
+01:23:09 systems that already watch all the videos on YouTube right but they're just looking for very specific things right
+01:23:15 they're supervised learning systems that are trying to identify something or classify something and I don't know if I
+01:23:24 don't know if predicting the next frame is really gonna get there because I don't I'm not an expert on compression
+01:23:32 algorithms but I understand that that's kind of what compression video compression algorithms do is they
+01:23:37 basically try to predict the next frame and and and then fix up the places where they got it wrong and that leads to
+01:23:44 higher compression and if you actually put all the bits for the next frame there so so I I don't know if I believe
+01:23:51 that just being able to predict the next frame is gonna be enough because because there's so many frames and even a tiny
+01:24:00 bit of error on a per frame basis can lead wildly different videos so the thing is the idea of compression is one
+01:24:08 way to do compression is to describe through text with containing the video that's the ultimate high level of
+01:24:14 compression so the idea is tradition when you think of video image compression you're trying to maintain
+01:24:21 the same visual quality while reducing the size but if you think of deep learning from a bigger perspective
+01:24:27 what compression is is you're trying to summarize the video and the idea there is if you have a big enough neural
+01:24:35 network this by watching the next bit trying to predict the next frame you'll be able to form a compression of
+01:24:41 actually understanding what's going on in the scene if there's two people talking you can just reduce that entire
+01:24:47 video and into the fact that two people are talking and maybe the content of what they're saying and so on that
+01:24:54 that's kind of the the open-ended dream so I just wanted to sort of express it because it's interesting compelling
+01:25:03 notion but it is nevertheless true that video our world is a lot more complicated than we getting credit for I
+01:25:09 mean in terms of search and discovery we have been working on trying to summarize videos in text or or with some kind of
+01:25:25 we're kind of so so so and so if you would say it's the problem is a hundred percent solved and eight years ago was
+01:25:35 zero percent solved how where are we on that timeline would you say yeah to summarize a video well maybe less than a
+01:25:46 quarter of the way so on that topic what does YouTube look like ten twenty thirty years from now I mean I think
+01:25:55 that YouTube is evolving to take the place of TV you know I grew up as a kid in the 70s and I watched a tremendous
+01:26:05 amount of television and I feel sorry for my poor mom because people told her at the time that it was going to rot my
+01:26:11 brain and that she should kill her television but anyway I mean I think that YouTube is at least for my family a
+01:26:22 better version of television right it's one that is on demand it's more tailored to the things that my kids want to watch
+01:26:32 and also they can find things that they would never have found on television and so I think that at least from just
+01:26:39 observing my own family that's where we're headed is that people watch YouTube kind of in the same way
+01:26:45 that I watch television when I was younger so from a search and discovery perspective what do you what are you
+01:26:53 excited about and then the 5 10 20 30 years like what kind of things it's already really good I think it's
+01:27:00 achieved a lot of of course we don't know what's possible so it's a it's the the task of search of typing in the text
+01:27:08 or discovering new videos by the next recommendation I personally I'm really happy with the experience that
+01:27:14 continuously I rarely watch a video that's not awesome from my own perspective but what's what's else is
+01:27:21 possible what are you excited about well I think introducing people to more of what's available on YouTube is not only
+01:27:30 very important to YouTube in to creators but I think it will help enrich people's lives because there's a lot that I'm
+01:27:37 still finding out is available on YouTube that I didn't even know I've been working YouTube eight years and it
+01:27:44 wasn't until last year that I learned that that I could watch USC football games from the 1970s
+01:27:53 no like I didn't even know that was possible last year and I've been working there quite some time so you know what
+01:27:59 was broken about about that but it took me seven years to learn that this stuff was already on YouTube even when I got
+01:28:05 here so I think there's a big opportunity there and then as I said before you know we want to make sure
+01:28:16 that YouTube finds a way to ensure that it's acting responsibly with respect to society and enriching people's lives so
+01:28:25 we want to take all of the great things that it does and make sure that we are eliminating the negative consequences
+01:28:33 that might happen and then lastly if we could get to a point where all the videos people watch are the best ones
+01:28:39 they've ever watched that would be outstanding to do you see in many senses becoming a window into the world for
+01:28:47 people and it's especially with live video you get to watch events I mean it's really it's the way you experience
+01:28:54 a lot of the world that's out there is better than TV in many many ways so do you see becoming more than just video do
+01:29:02 you see creators creating visual experiences and virtual worlds so if I'm talking crazy now but sort of virtual
+01:29:09 reality and entering that space there's that at least for now totally outside of what YouTube is thinking about I mean I
+01:29:16 think Google is thinking about virtual reality I don't think about virtual reality too much I know that we would want to
+01:29:27 make sure that YouTube is there when virtual reality becomes something or if virtual reality becomes something that a
+01:29:34 lot of people are interested in but I haven't seen it really take off yet take off well the the future is wide open
+01:29:42 christos I've been really looking forward to this conversation has been a huge honor thank you for answering some
+01:29:48 of the more difficult questions I've asked I'm really excited about what YouTube has in store for us it's one of
+01:29:54 the greatest products of ever use and continues so thank you so much for talking it it's my pleasure thanks for
+01:29:59 asking me thanks for listening to this conversation and thank you to our
+01:30:05 presenting sponsor cash app downloaded use code Lex podcast you'll get ten dollars and ten dollars will go to first
+01:30:12 a stem education nonprofit that inspires hundreds of thousands of young minds to become future leaders and innovators if
+01:30:19 you enjoy this podcast subscribe on YouTube give it five stars an apple podcast follow on Spotify supported on patreon
+01:30:28 or simply connect with me on Twitter now let me leave you with some words of wisdom from Marcel Proust the real

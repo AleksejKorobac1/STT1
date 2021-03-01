@@ -1,0 +1,508 @@
+00:00:01 the following is a conversation with Richard Dawkins an evolutionary biologist and author of The Selfish Gene
+00:00:09 the blind watchmaker The God Delusion the magic of reality and the greatest show of Earth and his latest Isle
+00:00:17 growing God he is the originator and popularizer of a lot of fascinating ideas in evolutionary biology and
+00:00:24 science in general including funny enough the introduction of the word meme in his 1976 book The Selfish Gene which
+00:00:32 in the context of a gene-centred view of evolution is an exceptionally powerful idea he's outspoken bold and often fearless
+00:00:40 in the defense of science and reason and in this way is one of the most influential thinkers of our time this
+00:00:48 conversation was recorded before the outbreak of the pandemic for everyone feeling the medical psychological and
+00:00:54 financial burden of this crisis I'm sending wealth your way stay strong we're in this together we'll beat this
+00:01:02 thing this is the artificial intelligence podcast if you enjoy it subscribe on YouTube review it with five
+00:01:08 stars on a podcast supported on patreon or simply connect with me on Twitter and lex Friedman spelled Fri D ma n as usual
+00:01:16 I'll do a few minutes of ads now and never any ads in the middle that can break the flow of the conversation I
+00:01:22 hope that works for you and doesn't hurt the listening experience this show is presented by cash app the
+00:01:29 number one finance app in the App Store when you get it you just collects podcast cash app lets you send money to
+00:01:36 friends buy Bitcoin and invest in the stock market with as little as one dollar since cash app allows you to send
+00:01:42 and receive money digitally peer-to-peer security in all digital transactions is very important let me mention the PCI
+00:01:50 data security standard a cash app is compliant with I'm a big fan of standards for safety and security PCI
+00:01:58 DSS is a good example of that or a bunch of competitors got together and agreed that there needs to be a global standard
+00:02:04 around the security of transactions now we just need to do the same for autonomous vehicles and artificial
+00:02:10 intelligence systems in general so again if you get cash app from the App Store Google Play and use the collects podcast
+00:02:17 you get ten dollars in cash up will also donate ten dollars the first an organization that is helping to advance
+00:02:23 robotics and STEM education for young people around the world and now here's my conversation with Richard Dawkins
+00:02:32 do you think there's intelligent life out there in the universe well if we accept that intelligent life here and
+00:02:40 reassess the number of planets in the universe is gigantic I mean 10 to 22 stars has been estimated it seems to me
+00:02:46 highly likely that there is not only life in the universe elsewhere but also intelligent life if you deny that then
+00:02:54 you're committed to the view that the things that happened on this planet are staggeringly improbable I mean
+00:02:59 ludicrously off-the-charts improbable and I don't think it's that improbable certainly the origin of life itself
+00:03:06 they're really two steps the origin of life which is probably fairly improbable and then the subsequent evolution to
+00:03:13 intelligent life which is also fairly a problem so the juxtaposition of those two you could say is pretty improbable
+00:03:20 but not 10 to the 22 in problem it's an interesting question maybe you're coming on to it how we would recognize
+00:03:25 intelligence from outer space if we if we encountered it the most likely way we would come across them would be by radio
+00:03:32 it's highly unlikely they'd ever visit us but it's not it's not that unlikely that we would pick up radio
+00:03:40 signals and then we would have to have some means of deciding as it was intelligent people have people involved
+00:03:48 in the SETI program discuss how they would do it and things like prime numbers would be an obvious thing to and
+00:03:54 always an obvious way for them to broadcast to say we are intelligent we are here I suspect it probably would be
+00:04:02 obvious actually that's interesting prime number so the mathematical patterns it's an open question whether
+00:04:09 mathematics is the same for us and as it would be for aliens I suppose we could assume that ultimately if we were
+00:04:16 governed by the same laws of physics and we should be governed by the same laws of mathematics I think so
+00:04:22 I suspect that they will have Pythagoras theorem etc and I don't think that mathematics will be that different do
+00:04:28 you think evolution would also be a force on the alien planets I stuck my neck out and said that if we do if ever
+00:04:35 that we do discover life elsewhere it will be Darwinian life in the sense that it will but it will work by some kind of
+00:04:42 natural selection the non-random survival of non of Rann the regenerated codes it doesn't mean it
+00:04:49 that the genera have to have some kind of genetics but it doesn't have to be DNA genetics probably wouldn't be
+00:04:55 actually but it would I think it would have to be Darwinian yes there's some kind of selection process yes in the
+00:05:03 general sense it will be Darwinian so let me ask kind of artificial intelligence engineering questions so
+00:05:10 you've been an outspoken critic of I guess what could be called intelligent design which is an attempt to describe
+00:05:17 the creation of a human mind a body by some religious folks that really just folks used to describe so broadly
+00:05:24 speaking evolution is as far as I know again you can correct me is the only scientific theory we have for the
+00:05:30 development of intelligent life like there's no alternative theory as far as as far as I understand none has ever
+00:05:36 been suggested and I suspect it never will be well of course one of the somebody says
+00:05:46 that a hundred years later I know but that I mean not what he would look sorry yes they would probably look very
+00:05:52 similar but it'd be it's almost like Einstein's general relativity versus Newtonian physics it'll be maybe an
+00:06:00 alteration of the theory or something like that but it won't be fundamentally different but okay it so so now for the
+00:06:09 past 70 years even before the a a committee has been trying to engineer intelligence in a sense to do what
+00:06:17 intelligent design says the you know was done here on earth what's your intuition do you think it's possible to build
+00:06:26 intelligence to build computers that are intelligent or do we need to do something like the evolutionary process
+00:06:32 like there's there's no shortcuts here that's an interesting question i I'm committed to the belief that is
+00:06:39 ultimately possible because I think there's nothing normal in our brains I think how our brains work by by the laws
+00:06:47 of physics and so it must in principle it be possible to replicate that in practice though it might be very
+00:06:53 difficult and as you suggest it might it may be the only way to do it is by something like an evolutionary process
+00:06:59 I'd be surprised I suspect that it will come but it's certainly been slower incoming than some of the early pioneers
+00:07:07 I thought I thought it would be yeah but in your sense is the evolutionary process efficient so you can see it as
+00:07:13 exceptionally wasteful in one perspective but at the same time maybe that is the only path it's a paradox
+00:07:19 isn't it I mean on the one side it is deplorable it wasteful yeah it's fundamentally based on waste on the
+00:07:26 other hand it does produce magnificent results when the the the design of a soaring bird an albatross has David and
+00:07:38 a vulture an eagle is superb an engineer would be proud to have done it on the other hand an engineer would not be
+00:07:41 proud to have done some of the other things that evolution has served up some of the sort of botched jobs that you can
+00:07:50 easily understand because of their historical origins but they don't look well designed your examples well bad
+00:07:56 design my favorite example is there a current laryngeal nerve I've used this many times this is a nerve it's one of
+00:08:02 the cranial nerves it goes from the brain and the end organ is that it supplies is the Voicebox
+00:08:09 theme the larynx but it doesn't go straight to the layers it goes right in done to the chest and then loops around
+00:08:15 an artery in the chest and then come straight back up again to the larynx and I've assisted in the dissection of a
+00:08:22 giraffe's neck which happened to have died in a zoo and we watched the we saw the recurrent laryngeal nerve going
+00:08:30 whizzing straight past the larynx within an inch of the larynx down into the chest and then back up again which is a
+00:08:40 detour of many feet very very inefficient the reason is historical the ancestors are fish ancestors the
+00:08:49 ancestors of all mammals and fish the most direct pathway of that of the equivalent of that nerve there wasn't
+00:08:56 the larynx in those days but it did innovated part of the gills the most direct pathway was behind that artery
+00:09:04 and then when the mammal when the tetrapods were in the land vertebra started ever evolving and then the next
+00:09:11 started to stretch the marginal cost of changing the embryo logical design to jump that nerve over the artery was too
+00:09:20 great a rather was was each step of the way was of was a very small cost but the marginal but the cost of actually
+00:09:25 jumping it over would have been very large as the neck lengthened it was a negligible change to just increase the
+00:09:32 length the length of the detour tiny bit a tiny bit a tiny bit each millimeter time didn't make any difference
+00:09:37 and so but finally when you get towards araf it's a huge detour and no doubt is very inefficient now that's bad design
+00:09:46 any engineer would reject that piece of jade design is ridiculous and there are quite a number of examples as you'd
+00:09:52 expect it's not surprising that we find examples of that sort in a way what's surprising is there aren't more of them
+00:09:57 in a way what's surprising is that the design of living things is so good so natural selection manages to achieve
+00:10:05 excellent results partly by tinkering partly by coming along and cleaning up initial mistakes and in as it were
+00:10:14 making the best of a bad job that's an interesting I mean it's it is surprising and beautiful and it's a it's a mystery
+00:10:21 from an engineering perspective that so many things are well designed I suppose the thing we're forgetting is how many
+00:10:30 generations have to die oh yeah for that's the inefficiency of it yes that's the horrible wastefulness of it so yeah
+00:10:36 we we marvel at the final product but yeah the process is painful he almost describes human beings as
+00:10:44 potentially the well he calls the biological bootloader for artificial intelligence or artificial general
+00:10:50 intelligence is used as the term is kind of like super intelligence do you see super human level intelligence that's
+00:10:57 potentially the next step in the evolutionary process yes I think that if superhuman intelligence is to be found
+00:11:04 it will be artificial I don't have any hope that we ourselves our brains will go on in go on getting larger in
+00:11:13 ordinary biological evolution I think that's probably coming to an end it is the dominant trend or one of the
+00:11:20 dominant trends in our fossil history for the last two or three million years raised eyes yes
+00:11:27 so it's been it's been swelling rather dramatically over the last two or three million years that is unlikely to
+00:11:33 continue that the only way that that's that happens is because natural selection favors those individuals with
+00:11:40 the biggest brains and that's not happening anymore right there so in general in humans the the selection
+00:11:48 pressures are not I mean are they active in any form well in order for them to be active it would be necessary that the
+00:11:58 most intelligent intelligence not that intelligence is simply correlation with brain size but let's let's talk about
+00:12:05 intelligence in order for that to evolve it's necessary that the most intelligent beings have the most individuals have
+00:12:14 the most children and so intelligence may buy you money it may buy you worldly success it may buy you a nice house and
+00:12:22 a nice car and things like that if you successful career it may buy you the admiration of your fellow people but it
+00:12:30 doesn't increase the number of offspring that you have it doesn't increase your genetic legacy to the next generation
+00:12:37 well on the other hand artificial intelligence I mean computers and technology generally is evolving by a
+00:12:46 non genetic means by leaps and bounds of course and so what do you think I don't know if you're familiar there's a
+00:12:51 company called neural link but there's a general effort of brain computer interfaces which is to try to build a
+00:12:58 connection between the computer and the brains with their scent signals both directions and the long-term dream there
+00:13:06 is to do exactly that which is expand I guess expand the size of the brain expand the capabilities of the brain do
+00:13:14 you do you see this is interesting and do you see this is the promising possible technology or is the interface
+00:13:19 you see in the computer in the brain like the brain is this wet messy thing that's just impossible to interface with
+00:13:25 well of course it's interesting whether it's promising I'm really not qualified to say what I do find puzzling is that
+00:13:33 the brain being as small as it is compared to a computer Andy the individual components being as slow
+00:13:40 as they are compared to our electronic components it is astonishing or it can do I mean
+00:13:48 imagine building a computer that that fits into the size of a human skull and with the equivalent of transistors or
+00:13:58 integrated circuits which work as slowly as neurons do it something mysterious about that something something must be
+00:14:08 going on that we don't understand so I have I just talked to Roger Penrose I'm not sure he's familiar with this work
+00:14:17 and he also describes this kind of mystery in in the mind in the brain that is receives a materialist so there's not
+00:14:26 there's no sort of mystical thing going on but there's so much about the material of the brain that we don't
+00:14:32 understand at the that might be quantum mechanical nature so on so they're the ideas about consciousness do you have
+00:14:39 any have you ever thought about do you ever think about ideas of consciousness or a little bit more about the mystery
+00:14:45 of intelligence and consciousness that seems to pop up just like you're saying from our brain I agree with Roger
+00:14:53 Penrose that there's a mystery there I I even he's one of the world's greatest physicists III can't possibly argue with
+00:15:01 his but nobody knows anything about consciousness and in fact you know if we talk about religion and so on some of
+00:15:10 the mystery of consciousness is so awe-inspiring and we know so little about it that the leap to sort of
+00:15:17 religious or mystical explanations is too easy to make i I think that it's just an act of cowardice to lead to
+00:15:23 religious explanations and what it doesn't do that of course but I I accept that there may be something we don't
+00:15:32 understand about it so correct me if I'm wrong but in your book Selfish Gene the the gene-centred view of evolution Allah
+00:15:39 allows us to think of the physical organisms as just the medium through which the software of our genetics and
+00:15:49 the ideas sort of propagate so maybe can we start just with a little basics what in this
+00:15:56 context as the word meme mean it would mean the cultural equivalent of a gene cultural equivalent in the sense of that
+00:16:04 which plays the same role as the gene in the transmission of culture and the transmission of ideas in the broadest
+00:16:11 sense and it's only a useful word if there's something Darwinian going on obviously culture is transmitted but is
+00:16:19 there anything Darwinian going on and if there is that means there has to be something like a gene which it which
+00:16:25 becomes more numerous or less numerous in the population so it can replicate it can replicate well it clearly does
+00:16:33 replicate there's no question about that the question is does it replicate in a sort of differential way in a Darwinian
+00:16:40 fashion could you say that certain ideas propagate because they're successful in the meme pool and it's not a trivial
+00:16:48 sense you can would you wish to say though that in the same way as a animal body is modified adapted to serve as a
+00:16:59 machine for propagating genes is it also machined for propagating memes could you actually say that something about the
+00:17:12 for the function of beam propagation there are such a fascinating possibility if that's true if the that it's not just
+00:17:19 about the genes which seems somehow more come from comprehensible so that these things of biology the the the the idea
+00:17:28 that culture or maybe ideas you can really broadly define it yes operations of these mechanism II it does does
+00:17:39 evolve by pneumatic means I mean things like hairstyles styles of makeup circumcision these things are actual
+00:17:49 changes in the body form yes which are non genetic and which get passed on from generation to generation
+00:17:57 or sideways like a virus in in a quasi genetic way but the moment you start drifting away from the physical a big
+00:18:06 interesting is a space of ideas ideologies political system of course yes so what's what in your what's your
+00:18:18 sense is our memes are metaphor more or they really is there something fundamental almost physical presence of
+00:18:25 memes well I think they're a bit more than a metaphor and and I think that and I mentioned that physical bodily
+00:18:32 characteristics which are a bit trivial in a way but when things like the propagation of religious ideas both
+00:18:40 longitudinally down generations and transversely as in a sort of Epidemiology of ideas when of
+00:18:51 charismatic preacher converts people that that's that resembles viral transmission whereas the the
+00:18:59 longitudinal transmission from grandparent to parent a child etc is is more like conventional genetic
+00:19:08 transmission this is such a beautiful expression especially in the modern day idea do you think about this implication
+00:19:14 social networks where the propagation of ideas the viral propagation of ideas enhancing the new use of the word meme
+00:19:22 the describe the the the Internet of course provides extremely rapid method of travel ambition and before when I
+00:19:30 first coined the word the internet didn't exist and so I was thinking that in terms of books newspapers broader
+00:19:39 radio television and that kind of thing now an idea can just leap around the world in in all directions instantly and
+00:19:50 so the Internet provides a step change in the facility of propagation of memes how does that make you feel isn't it
+00:19:59 fascinating that sort of ideas it's like you haven't go up against islands or something is the 70s and the internet
+00:20:06 allowed all these species is just like global eyes and and in a matter of seconds you could spread a message to
+00:20:15 millions of people and these ideas these memes can breed can evolve can mutate and there's a
+00:20:23 selection and there's like different I guess groups that of all like there's a dynamics it's fascinating here do you
+00:20:30 think yes basically do you think your work in this direction while fundamentally was focused on life on
+00:20:37 Earth do you think it should continue like to be well yeah I do think it would probably be a good idea to think in a
+00:20:44 Darwinian way about this sort of thing we could mention you think of the transmission of ideas from in
+00:20:51 evolutionary context just being limited to I mean in our ancestors people living in villages living in small bands where
+00:21:00 everybody knew each other and ideas could propagate within the village and they might hop to a neighboring village
+00:21:08 occasionally and maybe able to a neighboring continent eventually and that was a slow process nowadays
+00:21:16 villages are international I mean you have people it's been called echo chambers where people are in a sort of
+00:21:25 Internet village where the other members of the village may be geographically distributed all over the world whether
+00:21:30 they just happen to be interested in the same things use the same terminology the same jargon have the same enthusiasm
+00:21:40 so people like the Flat Earth Society they don't all live in one place they find each other and they talk the same
+00:21:45 language to each other they talk the same nonsense to each other and they but so this is a kind of
+00:21:52 distributed version of the primitive idea of of people living in in villages and propagating their ideas in in a
+00:22:00 local way is there is there a Darwinist parallel parallel here so is their evolutionary purpose of villages or is
+00:22:07 that just the I wouldn't use the word like evolutionary purpose in that play at that case but vient villages or
+00:22:13 religious will be something that just emerged that's the way people happen to live and in it just the same kind of way
+00:22:21 the Flat Earth Society societies of ideas emerge in the same kind of way in this digital space yes yes is there
+00:22:30 something interesting to say about the I guess from a perspective of Darwin could we fully interpret the dynamics of
+00:22:41 social interaction and these social networks or is there or some much more complicated thing need to be developed
+00:22:50 like what's your sense well a Darwinian selection idea would involve investigating which ideas spread in
+00:23:00 which which don't so in some ideas don't have the ability to spread in the flat earth flatter earth ism is is there are
+00:23:06 a few people believe in it but it's not going to spread because it's obvious nonsense but other ideas even if they
+00:23:14 are wrong can spread because they are attractive in some sense so the the spreading in the selection and in the
+00:23:23 Darwinian context is it just has to be attractive in some sense like we don't have to define like it doesn't have to
+00:23:28 be attractive in the way that animals attract each other it could be attractive and some other
+00:23:34 one yes it's it's all that matters is all it's needed easily to spread and it doesn't have to be true to spread
+00:23:41 increases one criterion which might help an idea to spread but there are other criteria which might help it to spread
+00:23:49 as you say attraction in animals is not necessarily available for survival the celebrated of the famous Peacocks tail
+00:23:57 doesn't help the peacock to survive it helps it to pass on its genes similarly an idea which is actually rubbish but
+00:24:04 which people don't know is robbed we shouldn't think is very attractive will spread in the same way as a peacocks
+00:24:11 gene spread it's a small sidestep I remember reading somewhere I think recently that in some species of birds
+00:24:20 sort of the idea that beauty may have its own purpose and the idea that some some birds I'm being in eloquent here
+00:24:30 but there is some aspects of their feathers and so on that serve no evolutionary purpose whatsoever there's
+00:24:37 somebody making an argument that there are some things about beauty that animals do that may be its own purpose that
+00:24:45 does that ring a bell for you it sound ridiculous he's rather distorted Bell okay Darwin when he coined the phrase
+00:24:57 sexual selection yes didn't feel the need to suggest that what was attractive to females usually as males attracting
+00:25:06 females the what females found attractive had to be useful he said it didn't have to be useful it was enough
+00:25:12 that females found it attractive and so it could be completely useless probably was completely useless in the
+00:25:18 conventional sense but was not at all useless in the sense of passing on don't augment in column genes but essentially
+00:25:27 reproducing others starting with Wallace the co-discoverer of natural selection didn't like that idea and they wanted
+00:25:36 sexually selected characteristics like peacock tails to be in some sense useful it's a bit of a stretch to think of a
+00:25:42 peacock say was being useful but in the in the in the sense of survival but others have run with that idea and have
+00:25:49 brought it up to date and so there's a kind of there are two schools of thought on sexual selection which are still
+00:25:55 active and about equally supported now those who follow Darwin in thinking that is just enough to say it's attractive
+00:26:03 and those who follow Wallace and say that it has to be in some sense useful do you fall into one category or the
+00:26:11 other no I mean you're into minded I think they both could be correct in different cases well I mean they've both
+00:26:17 been made sophisticated in a mathematical sense more so than when Darwin and Wallace first started talking
+00:26:22 about it I'm Russian I read a romanticized thing so I prefer the former yes with it or
+00:26:31 the beauty in itself as a powerful so the attraction is a powerful force in evolution on religion do you think there
+00:26:42 will ever be a time in our future where almost nobody believes in God or God is not a part of the moral fabric of our
+00:26:52 society yes I do I think it may happen I'll for very long time it may take a long time for that to happen so do you
+00:26:57 think ultimately for everybody on earth religion the other forms of doctrines ideas could do better job than
+00:27:08 what religion does yes I mean following in truth at least what truth is a funny funny word and reason
+00:27:22 to theirs yeah it's a it's a difficult idea now with truth on the Internet right and fake news and so on I suppose when you
+00:27:31 say reason you mean the very basic sort of inarguable conclusions of science versus which political system is better
+00:27:41 yeah yes yes I mean truth about the real world which is ascertainable by not just by the more rigorous methods of science
+00:27:52 but by just ordinary sensory observation so do you think there will ever be a time when we move past it like I guess
+00:28:02 another way to ask it are we hopelessly fundamentally tied to religion in the way our society functions well clearly
+00:28:12 all individuals are not hopelessly tied to it because many individuals don't believe you could mean something like
+00:28:20 society needs religion in order to function properly or something like that and some people have suggested that some
+00:28:27 what's your intuition on there well I've read books on it and they're persuasive I don't think they're that persuasive
+00:28:35 though I mean I've some people suggested that society needs a sort of figurehead which can be a non-existent figurehead
+00:28:44 in order to function properly I know there's something rather patronizing about the idea that well you and I are
+00:28:51 intelligent enough not to believe in God but the plebs needed sort of thing and I think that's patronizing and I'd like to
+00:28:59 think that that that was not the right way to proceed but at the individual level do you think there's some value of
+00:29:11 spirituality sort of if I think as a scientist the amount of things we actually know about our universe is a
+00:29:18 tiny tiny tiny percentage of what we could possibly know so just from everything even the certainty we have
+00:29:24 about the laws of physics it seems to be that there's yet a huge amount to discover and therefore we're sitting
+00:29:32 where 99.999% of things is just still shrouded in mystery do you think there's a role in a kind of spiritual view of
+00:29:40 that sort of a humbled spiritual I think it's right to be humble I think it's right to admit that there's
+00:29:44 a lot we don't know a lot that we don't understand a lot but we still need to work on we're working on it what I don't
+00:29:51 think is that it helps to invoke supernatural explanations what we found if our current scientific explanations
+00:30:00 aren't adequate to do the job then we need better ones we need to work more and of course the history of science
+00:30:07 shows just that that as science goes on problems get solved one after another and the science advances as science gets
+00:30:16 better but to invoke an non-scientific non-physical explanation is simply to lie down in a cowardly way and say we
+00:30:23 can't solve it so again to invoke magic don't let's do that let's say we need better science we need more science it
+00:30:30 may be that the science will never do it it may be that we will never actually understand everything and that's okay
+00:30:38 but let's keep working on it a challenging question there is do you think science can lead us astray in
+00:30:45 terms of the humbleness so there's some aspect of science maybe it's the aspect of scientists in
+00:30:54 that science but of sort of a mix of ego and confidence that can lead us astray in terms of discovering them you know
+00:31:03 some of the big open questions about yes about the universe I think that's right I mean there are there are arrogant
+00:31:09 people in any walk of life and scientists an exception to that and so there are arrogant scientists who think
+00:31:14 we've sold everything of course we haven't so humility is a proper stance for a scientist and when it's a proper
+00:31:21 working stance because it encourages further work but in a way to resort to a supernatural explanation is a kind of
+00:31:30 arrogance because it's saying well we don't understand it scientifically therefore the non-scientific religious
+00:31:39 supernatural explanation must be the right one that's arrogant what is what is humble is to say we don't know and we
+00:31:45 need to work further on it so maybe if I could psychoanalyze you for a second you have at times been just
+00:31:55 slightly frustrated with people who have supernet you know have a supernatural has that changed over the years have you
+00:32:04 become like how do people that kind of have to seek supernatural explanations how do you see those people as human
+00:32:12 beings as it's like do you see them as dishonest do you see them as sort of ignorant do you see them as I don't know
+00:32:23 is it like well I mean how do you think of certainly not not not dishonest and I mean obviously many of them are very
+00:32:29 nice people so I don't I don't sort of despise them in that sense I think it's often a misunderstanding that that
+00:32:41 people will jump from the admission that we don't understand something they will jump straight to what they think of as
+00:32:48 an alternative explanation which is the supernatural one which is not an alternative it's a known explanation
+00:32:54 instead of jumping to the conclusion that science needs more work that we need to actually get do some better
+00:33:05 better science so I I don't have I mean personal antipathy towards such people I just think they're they're misguided so
+00:33:12 what about this really interesting space that I have trouble with so religion ever but a grasp on but there's a large
+00:33:20 communities like you said flat earth a community that I've recently because I've made a few jokes about it I saw
+00:33:29 that there's I've noticed that there's people that to take it quite seriously so there's this bigger world of
+00:33:36 conspiracy theorists which is the kind of I mean there's elements of it there are religious as
+00:33:45 well but I think they're also scientific so the the basic credo of a conspiracy theorist is to question everything which
+00:33:56 is also the cradle of a good scientist I would say so what do you make of this I mean I think it's probably too easy to
+00:34:05 say that by labeling something conspiracy you therefore dismiss it I mean occasionally conspiracies are right
+00:34:13 and so we shouldn't dismiss conspiracy theories out of hand we should examine them on their own merits Flat Earth is
+00:34:19 amiss obvious nonsense we don't have to examine that much further but I mean there may be other conspiracy theories
+00:34:28 which are actually right so I've go a grew up in the Soviet Union as I you know the space race was very influential
+00:34:35 for me and both sides of the coin you know there's a conspiracy theory that we never went to the moon right and it's
+00:34:45 it's like I can understand it and it's very difficult to rigorously scientifically show one way or the other
+00:34:51 it's just you have to use some of the human intuition about who would have to lie who would have to work together and
+00:34:59 it's clear that very unlikely good behind that is my general intuition that most people in this world are good you
+00:35:05 know in order to really put together some conspiracy theories there has to be a large number of people working
+00:35:13 together and essentially being dishonest yes which is improbable it the sheer number who would have to be in on this
+00:35:20 conspiracy and the sheer detail the attention to detail they'd have had to have had and so on I'd also can worry
+00:35:26 about the motive and why would anyone want to suggest that it but it didn't happen what's the what's the why is it
+00:35:33 so hard to believe I mean the the physics of it the mathematics of it the the idea of computing orbits and
+00:35:41 trajectories and things it all works mathematically well I like wouldn't you believe it
+00:35:45 it's a psychology question because you know pointing out that the emperor has no clothes when everybody like you
+00:35:57 know thinking outside the box and coming up with the chewy answer where everybody else is deluded there's something yeah I
+00:36:03 mean I have that for science right you want to prove the entire scientific community wrong that's the whole now
+00:36:07 that that's that's right and of course historically loan geniuses have come out right sometimes yes but often people
+00:36:15 with who think they're alone genius and from much more often turn out not to so you have to judge each case on its
+00:36:21 merits then the mere fact that you're a maverick the mere fact that you you you're going against the current tide
+00:36:27 doesn't make you right you've got a FRU show you're right by looking at the evidence so because you focus so much on religion
+00:36:34 and disassembled a lot of ideas there and I just I was wondering if you have ideas about conspiracy theory groups
+00:36:42 because there's such a prevalent even reaching into presidential politics and so on it seems like it's a very large
+00:36:49 communities that believe different kinds of conspiracy theories is there some connection there to your thinking on
+00:36:56 religion and here is it's a matter it's an obviously difficult thing IIIi don't understand why people believe things
+00:37:05 that are clearly nonsense like well Flat Earth and also the conspiracy about not landing on the moon or that the that the
+00:37:14 United States engineer 9/11 that that kind of thing so it's not clearly nonsense it's extremely unlikely though
+00:37:24 a it's extremely unlikely the religion is a bit different because it's passed down from generation to generation and
+00:37:30 so many of the people who are religious got it from their parents who got it from their parents got it from their
+00:37:35 parents and childhood indoctrination is a very powerful force but these things like the 9/11 conspiracy theory the
+00:37:47 Kennedy assassination conspiracy theory the man on the moon conspiracy theory these are not childhood indoctrination
+00:37:56 these are presumably dreamed up by somebody who then tells somebody else who then wants to believe it and I don't
+00:38:03 know why people so eager to fall in line with some just some person that they happen to read or
+00:38:12 meet who spin some yarn I can kind of understand why they believe what their parents and teachers told them when they
+00:38:19 were very tiny and not capable of critical thinking for themselves so I sort of get why the great religions of
+00:38:27 the world like Catholicism and Islam go on for as persisting is because of childhood indoctrination but that's not
+00:38:34 true of Flat Earth ISM and sure enough flat earth ISM is a very minority cult way larger than I ever realized well yes
+00:38:42 I know but so that's a really clean idea you've articulate in your new book and and and I'll groan God and then God Delusion
+00:38:49 is the early indoctrination that's really interesting you can get away with a lot of out there ideas in terms of
+00:38:59 religious texts if the age which you convey those ideas at first is a young age so indoctrination is sort of an
+00:39:07 essential element of propagation of religion so let me ask on the morality side in the books that I mentioned God
+00:39:16 Delusion I'll go on God you describe the human beings don't need religion to be moral so from an engineering perspective
+00:39:24 we want to engineer morality into AI systems so in general where do you think morals come from in humans a very
+00:39:35 complicated and interesting question it's clear to me that the moral standards the moral values of our
+00:39:49 civilization changes as the decades go by certainly as the centuries go by even as the decades go by and we in the 21st
+00:39:59 century are quite clearly labeled 21st century people in terms of our moral values we there's a spread I mean some
+00:40:08 of us are a little bit more ruthless somewhat more conservative some of us more more liberal and so on but we all
+00:40:15 subscribe to pretty much the same views when you compare with say 18th century 17th century
+00:40:22 people even 19th century 20th century people so we're much less racist or a much less sexist and so on than we used
+00:40:32 to be some some people are still racist in some are still sexist but the the spread has shifted that the Gaussian
+00:40:38 distribution has moved and moves steadily as the centuries go by and that is the most powerful influence I can see
+00:40:51 on our moral values and that doesn't have anything to do with religion I mean the religion of the these are the morals
+00:41:00 of the Old Testament Bronze Age models morals they're deplorable and they are to be understood in terms
+00:41:09 of the people in in the desert who made them up at the time and so human sacrifice an eye for an eye a tooth for
+00:41:18 a tooth petty revenge killing people for breaking the Sabbath all that kind of thing inconceivable No so at some point
+00:41:26 religious texts may have in part reflected that Gaussian distribution at that time I did I'm sure they always
+00:41:33 reflect that yes and then now but the the sort of almost like the meme as you describe it of ideas most much faster
+00:41:43 than religious annual is yes so basing your morals on on religious texts which were written millennia ago it is not
+00:41:52 a great way to proceed I think that's pretty clear so not only should we not get our morals from such text but we
+00:42:01 don't we quite clearly don't if we did then we would be discriminating against women and we'd be we'd be racist
+00:42:11 we'd be killing homosexuals and so on so so we don't and we shouldn't now of course it's possible to buy the to use
+00:42:20 the 21st century standards of morality and you can look at the Bible and you can cherry-pick particular verses which
+00:42:27 conform to our modern morality and you'll find that Jesus has a pretty nice thing which is great but you're using your
+00:42:36 21st century morality to decide which verses to pick which verses to reject and so why not cut out the middleman of
+00:42:45 the Bible and go straight to the 21st century morality which is where that comes from is a much more complicated
+00:42:53 question why is it that morality moral values change as the centuries go by they undoubtedly do and is a very
+00:43:01 interesting question to ask why it's another example of cultural evolution just as technology progresses so moral
+00:43:09 values progress for probably very different reasons but it's a it's interesting if the direction in which
+00:43:14 that progress is happening has some evolutionary value or if it's merely a drift that can go into any direction no
+00:43:21 choice any direction and I'm not sure evolutionarily valuable what it is is progressive in the sense that each step
+00:43:28 is a step in the same direction as the previous step so it becomes more gentle more decent as by modern standards more
+00:43:38 liberal less violent see but more decent I think you're using terms and interpreting everything in the context
+00:43:43 of the 21st century yeah because Genghis Khan will probably say that this is not more decent because
+00:43:51 we're now you know there's a lot of weak members of society we're not murdering yes I was careful to say bye-bye the
+00:43:57 stands the 21st century by up by our standards if we with hindsight look back at history what we see is a trend in the
+00:44:04 direction towards us towards our present right a present value for us we see progress but it's it's an open question
+00:44:13 whether that won't you know I don't see necessarily why we can never return to Genghis Khan test we could I suspect we
+00:44:22 weren't but it but if you look at the history of moral values over the centuries it is in a progressive I use
+00:44:30 the word progressive not in a value judgment sense in the sense of of a transitive sense each step is the same
+00:44:36 in the same direction of the previous step so things like we don't derive entertainment for
+00:44:46 torturing cats we don't drive entertainment from from like the Romans did in the Coliseum from from that state
+00:44:56 rather or rather we suppress the desire to get I mean to have play it's probably in us somewhere so there's a bunch of
+00:45:03 parts of our brain one that probably you know limbic system that wants certain pleasures and that's this I didn't I
+00:45:10 mean I I wouldn't have said that but your Liberty to think that like well there's a there's a den Carlin of
+00:45:18 hardcore history there's a really nice explanation of how we've enjoyed watching the torture of people the
+00:45:23 fighting of people just the torture the suffering of people throughout history as entertainment until quite recently
+00:45:32 and now everything we do with sports or kind of channeling that feeling into something else so I mean there's some
+00:45:39 dark aspects of human nature there are underneath everything and I do hope this like higher level software we've built
+00:45:48 will keep us at bay yes I'm also Jewish and have history with the Soviet Union in the Holocaust and I clearly remember
+00:45:58 that some of the darker aspects of human nature creeped out there they do that there have been they have been steps
+00:46:03 back was 200 admittedly and and the Holocaust is obvious one but if you take a broad view of history it's it's in the
+00:46:13 same direction so Pamela McCord ik in machines who think has written that AI began with the ancient wish to forge the
+00:46:21 gods do you see it's it's a poetic description I suppose but DC connection between our civilizations historic
+00:46:29 desire to create gods to create religions and our modern desire to create technology in intelligent
+00:46:36 technology I suppose there's a link between an ancient desire explain away mystery and and science but what
+00:46:49 elegance artificial intelligence creating gods creating new gods and I forget I read somewhere somewhat
+00:46:57 facetious some paper which said that we have a new goddess called Google and and we pray to
+00:47:04 it and we worship it and we ask its advice like an Oracle and so on that's fun and we you don't see that you see that
+00:47:11 as a fun statement of a seizure statement you don't see that as a kind of truth of us creating things that are
+00:47:17 more powerful than ourselves and naturally it has a kind of poetic resonance to it which I get but I
+00:47:26 wouldn't but now I wouldn't have bothered to make the point myself put it that way
+00:47:31 all right so you don't think AI will become our new got a new religion and you gods a Google well yes I mean like I
+00:47:40 can see that the future of intelligent machines or indeed intelligent aliens from outer space might yield beings that
+00:47:48 we would regard as gods in the sense that they are so superior to ask that we might as well worship them that's highly
+00:47:58 possible I think but I see a very fundamental distinction between a God who is simply defined as something very
+00:48:05 very powerful and intelligent on the one hand and a God who doesn't need explaining by a progressive step-by-step
+00:48:15 process let's like evolution or like or like engineering design so the difference of suppose we did meet an
+00:48:24 alien from outer space who was mm-hmm marvelously magnificently more intelligent than us and we would sort of
+00:48:29 worship it and for that reason nevertheless it would not be a god in the very important sense that it did not
+00:48:39 just happen by to be to be there like God is supposed to it must have come about by a gradual step-by-step
+00:48:46 incremental progressive process presumably like Darwinian evolution is that there's all the difference in the
+00:48:54 world between those two intelligence design comes into the universe late as a product of a progressive evolutionary
+00:49:04 process or a progressive engineering design process so most of the work is done through this slow-moving exactly
+00:49:18 exactly yeah yeah it's but there's still this desire to get answers to the why question that if we're if the world is a
+00:49:25 simulation if we're living in a simulation that there's a programmer like creature that we can ask questions
+00:49:32 over then let's put let's pursue the idea that we're living in a simulation which is not not totally ridiculous by
+00:49:40 the way there we go then you still need to explain the programmer the programmer had to come into existence by
+00:49:48 some the even if we're innocent in a simulation the the programmer must have evolved or if if he's in a sort of more
+00:49:58 she or she she she had a meta simulation then the the meta meta programmer must have evolved by a gradual process you
+00:50:06 can't escape that fundamentally you've got to come back to a gradual incremental process of explanation to
+00:50:14 start with there's no shortcuts in this world but maybe to linger on that point about the simulation do you think it's an
+00:50:25 interesting basically talked to board the the heck out of everybody asking this question but whether you live in a
+00:50:32 simulation do you think first do you think we live in a simulation second do you think it's an interesting thought
+00:50:38 experiment it's certainly an interesting thought experiment i first met it in a science fiction novel by daniel gal I
+00:50:51 called counterfeit world in which it's all about I mean III our heroes are running a gigantic computer which which
+00:50:59 simulates the world and and something goes wrong and so one of them has to go down into the simulated world in order
+00:51:05 to fix it and then the the the Dynamo of the thing the climate so novel is that they discover themselves in another
+00:51:12 simulation at a high level so I was intrigued by this and I love others of Daniel gallows science-fiction novels
+00:51:21 then it was revived seriously by Nick Bostrom boss from talking to in an hour okay and he goes further not
+00:51:31 just treated as a science fiction speculation he actually thinks it's positively likely yeah I mean it's very
+00:51:38 likely actually well he's he makes like a probabilistic argument which you can use to come up with very interesting
+00:51:43 conclusions about the nature of this universe I mean he think he thinks that that that we are in a simulation done by
+00:51:50 it so to speak are descendants of a future that the products but it's still a product of evolution it's still
+00:51:56 ultimately going to be a product of evolution even though the super intelligent people of the future have
+00:52:05 created our world and you and I are just a simulation in this table is a simulation and so on I don't actually in
+00:52:13 my heart of hearts believe it but that I like his argument well so the interesting thing is that I agree with
+00:52:21 you but the interesting thing to me if I would say if we're living in a simulation that in that simulation to
+00:52:27 make it work you still have to do everything gradually just like you said that even though it's program I don't
+00:52:33 think there could be miracles otherwise we'll know I mean the the programmer the higher up the upper ones have to have
+00:52:40 evolved gradually however the simulation they create could be instantaneous I mean it could be switched on and we come
+00:52:47 into the world with fabricated memories true but what I'm what I'm trying to convey so you're saying the the broader
+00:52:54 statement but I'm saying from an engineering perspective both the programmer has to be slowly evolved and
+00:53:01 the simulation because it's like yeah I'm an engineering perspective yeah it takes a long time to write a program no
+00:53:07 like just I don't think you can create the universe in a snap I think you have to grow it ok well that's and that's a
+00:53:15 good point that's an arguable point by the way I I have thought about using the Nick Bostrom
+00:53:26 eye idea to solve the riddle of how we were talking we were talking earlier about why the human brain can achieve so
+00:53:34 much I thought of this when my then hundred year old mother was marveling at what I could do with it with us
+00:53:40 Bart phone and and I could you know Koren look up anything in the encyclopedia I could play her music that
+00:53:45 she liked and so on Jen please it's all left in that tiny little firm no it's it's out there it's in it's in the cloud
+00:53:51 it's and maybe what most of what we do is in a cloud so maybe if if we're if we are a simulation yeah then all the power
+00:54:00 that we think is in our skull it actually may be like the power that we think is in the iPhone but is that
+00:54:07 actually out there it's an interface to something else yeah I mean that's what beautiful including Roger Penrose with
+00:54:13 Penn psychism that consciousness is somehow a fundamental part of physics that it doesn't have to actually all
+00:54:19 reside inside network but Roger thinks it does reside in in the skull whereas I'm suggesting that it doesn't that it's
+00:54:28 that there's a cloud that'd be a fascinating fascinating notion and a small tangent are you familiar with the
+00:54:38 work of Donald Hoffman I guess maybe nothing is named correctly but just to forget the name the idea that there's a
+00:54:45 difference between reality and perception so like we biological organisms perceive the world in order
+00:54:54 for the natural selection process to be able to survive and so on but that doesn't mean that our perception
+00:55:01 actually reflects the fundamental reality the physical reality or in you well I do think that although it
+00:55:10 reflects the fundamental reality I do believe there is a fundamental reality I do think that what the perception is
+00:55:19 constructive in the sense that we construct in our minds a model of what we're seeing and so and this is really
+00:55:28 the view of people who work on visual illusions like Richard Gregory who point out other things like an echo cube which
+00:55:37 flipped from a two-dimensional picture of a cube on on on sheet of paper but we see it as a three-dimensional cube and
+00:55:45 it flips from one orientation to another at regular intervals what's going on is that the brain is is constructing a cube but
+00:55:55 the sense-data are compatible with two alternative cubes and so rather than stick with one of them it alternates
+00:56:02 between them I think that's just a a model for what we do all the time when we see a table when we see a person when
+00:56:10 we see a let me see anything we're using the sense data to construct or or make use of a preps previously constructed
+00:56:20 model I noticed this when when I meet somebody who actually is say a friend of mine but I until I kind of realized that
+00:56:29 that is him he looks different and then when I finally o'clock that it's him his features switch like a neck and cube
+00:56:37 just into the familiar form as it were I've taken his face out of the filing cabinet inside and grafted it onto or
+00:56:46 used used the sense data to to to you to in to invoke it yeah we do some kind of miraculous compression on this whole
+00:56:53 thing to be able to filter out most of the sense data it makes it make sense of it that's just a magical thing that we
+00:57:02 do so you've written several many amazing books but let me ask what books technical or fiction of philosophical
+00:57:12 had a big impact on your own life what what books would you recommend people consider reading in their own
+00:57:21 intellectual journey darling of course and the original I've actually ashamed to say I've never read Darwin he's
+00:57:31 nearly prescient because considering he was writing in the middle of the 19th century Michael Uslan said he's working
+00:57:38 a hundred years ahead of his time everything except genetics is that amazingly right and amazingly far ahead
+00:57:48 of his time and of course you need to read the the up datings that have happened since his time as well and he
+00:57:59 would be astonished by well let alone Watson and Crick of course but he Brist honest by Mendelian genetics as well and
+00:58:06 fascinated to see what he thought about the he would think about oh I mean yes it would because in many ways it it clears
+00:58:15 up what appeared in his time to be a riddle in the digital nature of genetics clears up what what was a problem of the
+00:58:26 big problem gosh there's so much that I could think of I can't I can't really advise there so is there something
+00:58:32 outside sort of more fiction is there when you think young was there books it just kind of outside of kind of the
+00:58:39 realm of science yeah Jim they just kind of sparked your yes well actually I have I suppose I could say that I've learned
+00:58:47 some some science from science fiction I may I meant I mentioned Daniel gallo but and that's one example which
+00:58:57 another of his novels called dark universe which is not terribly well known but it's a very very nice science
+00:59:03 fiction story it's about a world of Perpetual darkness and we don't we're not told a beginning the but why these
+00:59:10 people are in darkness they stumble around in some kind of underground world of caverns and passages using
+00:59:19 echolocation like bats and whales to get around and they've adapted presumably by Darwinian means to survive in perpetual
+00:59:29 total darkness but what's interesting is that their mythology their religion has echoes of Christianity but is based on
+00:59:40 light and so there's been a fall from a from a paradise world that once existed where light reigned supreme and because
+00:59:51 of the sin of mankind light banished them so then they no longer are in lights presence but but light survives
+00:59:58 in the form of mythology and in the form of sayings like their great light or mightier other lights sake don't do that
+01:00:06 and I and I I hear what you mean rather than I see what you don't want you mean so there's some of the same religious
+01:00:10 elements are present in this other totally kind of absurd different form yes there's a wonderful I wouldn't call
+01:00:17 it set up because it's too good-natured for that I mean there were a wonderful power all about Christianity and the doctrine
+01:00:27 the theological doctrine of the fall so I find that that kind of science fiction immensely stimulating Fred Hoyles the
+01:00:34 black cloud oh by the way anything by arthur c clarke i find very very wonderful - fred horns the black cloud
+01:00:44 his first science fiction novel where he well I learned I learned a lot of science from that it has it suffers from
+01:00:51 an obnoxious hero unfortunately but apart from that he couldn't learn a lot of science from it another of his novels
+01:01:00 the a for Andromeda which by the way the the theme of that is taken up by Carl Sagan science fiction novel another
+01:01:09 wonderful writer Carl Sagan contact where the idea is again we will not be visited from outer space by physical
+01:01:19 bodies we will be visited possibly we might be visited by radio but the the radio signals could manipulate us and
+01:01:29 actually have a concrete influence on the world if they make us or persuade us to build a computer which which runs
+01:01:38 their software so that they can then transmit their software by radio and then the computer takes over the world
+01:01:46 and this is the same theme in both Hoyles book and Sagan spoke I presume them I don't want to say canoe but halls
+01:01:55 book probably did and and but it's a clever idea that the that we will never be invaded by physical bodies the War of
+01:02:05 the Worlds of HG Wells will never happen but we could be invaded by radio signals if code coded information which is sort
+01:02:16 of like DNA and and you know we are we are we are I call them we are survival machines of our of our DNA so it has
+01:02:23 great resonance from for me because I think of us I think of bodies physical bodies biological bodies as being
+01:02:33 manipulated by information in DNA which has come down through generations and in the space of
+01:02:39 memes it doesn't have to be physical it can be transmitted yeah this information yes that's the fascinating possibility
+01:02:47 that from outer space who can be infiltrated by other memes by other ideas and thereby controlled in that way
+01:02:56 let me ask the last the silliest there may be the most important question what is the meaning of life what gives your
+01:03:05 life fulfillment perfect a weapon is me from a scientific point of view the meaning of life is the propagation of
+01:03:11 DNA but that's not what I feel that's not the meaning of my life so the meaning of my life is something which is
+01:03:17 probably different from yours and different of other peoples but we we each make our own meaning so we we have
+01:03:26 we set up goals we want to achieve we want to write a book we want to do whatever it is we do writer quartet we
+01:03:36 want to win a football match and these are these are short-term girls won't me begin quite long term goals which are
+01:03:43 set up by our brains which have goal seeking machinery built into them but what we feel we don't feel motivated by
+01:03:53 the desire to pass on our DNA mostly we have other other girls which can be very moving very important they could even be
+01:04:01 called as called spiritual in some cases we want to understand the riddle of the universe we want to understand
+01:04:08 consciousness if you want to understand how the brain works these are all noble goals some of them can be noble goals
+01:04:18 anyway and they are a far cry from the fundamental biological girl which is the propagation of DNA but the machinery
+01:04:25 that enables us to set up these higher-level goals is originally programmed into us by natural selection
+01:04:37 of DNA the propagation of DNA but what do you make of this unfortunate fact that we are mortal do you ponder your
+01:04:46 mortality does it make you sad the I I ponder it it would it makes me sad that I shall have to leave and not see
+01:04:57 what's going to happen next if there's something frightening about mortality apart from sort of missing as I've said
+01:05:07 something more deeply darkly frightening it's the idea of eternity but eternity is only frightening you feel their
+01:05:13 eternity but before we were born billions of years before we were born and we were effectively dead before we
+01:05:20 were born as I think was Mark Twain said I was dead for billions of years before I was born and never suffered the
+01:05:26 smallest inconvenience that's how is going to be afterward after we leave so I think of it as really it eternity is a
+01:05:34 frightening prospect and so the best way to spend it is under a general anesthetic which is what it'll be
+01:05:42 beautifully put Richard there's a huge honor to meet you to talk to you thank you so much for your time thank you very much
+01:05:48 thanks for listening to this conversation with Richard Dawkins and thank you to our presenting sponsor cash
+01:05:54 app please consider supporting the podcast by downloading cash app and using colex podcast if you enjoy this
+01:06:01 podcast subscribe on youtube review with five stars an apple podcast supported on patreon or simply connect with me on
+01:06:09 Twitter Alex Friedman and now let me leave you with some words of wisdom from Richard Dawkins we are going to die and
+01:06:18 that makes us the lucky ones most people are never going to die because they are never going to be born the potential
+01:06:24 people who could have been here in my place but who will in fact never see the light of day outnumber the sand grains
+01:06:33 of Arabia certainly those unborn ghosts include greater poets than Keats scientists greater than Newton
+01:06:40 we know this because the set of possible people allowed by our DNA so massively exceeds the set of actual people in the
+01:06:50 teeth of these stupefying odds it is you and I in our ordinariness there here we privileged few who won the lottery of
+01:06:59 births against all odds' how dare we whine at our inevitable return to that prior state from which

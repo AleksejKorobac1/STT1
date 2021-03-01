@@ -1,0 +1,903 @@
+00:00:01 the following is a conversation with elias discover co-founder and chief scientist of open
+00:00:07 ai one of the most cited computer scientists in history with over 165 000 citations
+00:00:15 and to me one of the most brilliant and insightful minds ever in the field of deep learning there
+00:00:21 are very few people in this world who i would rather talk to and brainstorm with about deep learning
+00:00:27 intelligence and life in general than ilia on and off the mic this was an honor and a pleasure this conversation was
+00:00:36 recorded before the outbreak of the pandemic for everyone feeling the medical psychological and financial burden of
+00:00:41 this crisis i'm sending love your way stay strong we're in this together
+00:00:47 we'll beat this thing this is the artificial intelligence podcast if you enjoy it subscribe on youtube
+00:00:53 review it with five stars and have a podcast support it on patreon or simply connect with me on twitter
+00:01:00 at lex friedman spelled f-r-i-d-m-a-n as usual i'll do a few minutes of as now and never any ads in the middle that can
+00:01:06 break the flow of the conversation i hope that works for you and doesn't hurt the listening experience
+00:01:13 this show is presented by cash app the number one finance app in the app store when you get it use code lex podcast
+00:01:20 cash app lets you send money to friends buy bitcoin invest in the stock market with as
+00:01:25 little as one dollar since cash app allows you to buy bitcoin let me mention that cryptocurrency in
+00:01:31 the context of the history of money is fascinating i recommend ascent of money as a great book on this history
+00:01:39 both the book and audiobook are great debits and credits on ledgers started around 30 000 years ago the us dollar
+00:01:47 created over 200 years ago and bitcoin the first decentralized cryptocurrency released just over 10 years ago
+00:01:54 so given that history cryptocurrency is still very much in its early days of development but it's still aiming to and just might redefine
+00:02:02 the nature of money so again if you get cash out from the app store google play and use the code lex podcast you get ten dollars
+00:02:11 and cash up will also donate ten dollars to first an organization that is helping advance
+00:02:15 robotics and stem education for young people around the world and now you were one of the three authors with
+00:02:26 alex kaczowski jeff hinton of the famed alex ned paper that is arguably the paper that marked
+00:02:34 the big catalytic moment that launched the deep learning revolution
+00:02:39 at that time take us back to that time what was your intuition about neural networks about the
+00:02:44 representational power of neural networks and maybe you could mention how did that evolve over
+00:02:51 the next few years up to today over the 10 years yeah i can answer that question at some
+00:02:59 point in about 2010 or 2011 i connected two facts in my mind basically the realization was this at some point
+00:03:09 we realized that we can train very large i shouldn't say very you know they're tiny by today's standards but
+00:03:16 large and deep neural networks end to end with back propagation at some point different people obtained
+00:03:23 this result i obtained this result the first the first moment in which i realized that
+00:03:29 deep neural networks are powerful was when james martens invented the hessian-free optimizer
+00:03:35 in 2010 and he trained a 10-layer neural network end-to-end without pre-training from scratch and when that happened i
+00:03:43 thought this is it because if you can train a big neural network a big neural network can represent
+00:03:49 very complicated function because if you have a neural network with 10 layers it's as though you allow the human brain
+00:03:56 to run for some number of milliseconds neuron firings are slow
+00:04:03 and so in maybe 100 milliseconds your neurons only fire 10 times so it's also kind of like 10 layers
+00:04:08 and in 100 milliseconds you can perfectly recognize any object so i thought so i already had the idea
+00:04:14 then that we need to train a very big neural network on lots of supervised data and then it
+00:04:20 must succeed because we can find the best neural network and then there's also theory that if you
+00:04:24 have more data than parameters you won't overfit today we know that actually this theory is very incomplete
+00:04:29 and you want overfitting when you have less data than parameters but definitely if you have more data than parameters
+00:04:34 you want overfit so the fact that neural networks were heavily over parametrized wasn't discouraging to you
+00:04:40 so you you were thinking about the theory that the number of parameters the fact there's a huge number of
+00:04:45 parameters is okay it's gonna be okay i mean there was some evidence before that it was okayish but the theory was most
+00:04:50 the theory was that if you had a big data set and a big neural net it was going to work
+00:04:54 the over parameterization just didn't really figure much as a problem i thought well with images you're just
+00:04:59 going to add some data augmentation it's going to be okay so where was any doubt coming from the
+00:05:04 main doubt was can we train a bigger will we have enough computer trainer big enough neural net with back propagation
+00:05:09 back propagation i thought would work this image wasn't clear would was whether there would be enough compute
+00:05:14 to get a very convincing result and then at some point alex krajewski wrote these insanely fast gooda kernels for
+00:05:19 training convolutional neural nets and that was bam let's do this let's get imaging that and it's going to be the
+00:05:23 greatest thing was your intuition most of your intuition from empirical results
+00:05:30 by you and by others so like just actually demonstrating that a piece of program can train a 10-layer neural network
+00:05:37 or was there some pen and paper or marker and white board thinking intuition like because you just
+00:05:43 connected a 10 layer large neural network to the brain so you just mentioned the brain so
+00:05:49 in your intuition about neural networks does the human brain come into play as a intuition builder definitely
+00:05:56 i mean you you know you got to be precise with these analogies between neural artificial neural networks in the brain
+00:06:02 but there is no question that the brain is a huge source of intuition and inspiration for deep
+00:06:07 learning researchers since all the way from rosenblatt in the 60s like if you look at the the whole idea of a
+00:06:14 neural network is directly inspired by the brain you had people like mccollum and pitts
+00:06:20 who were saying hey you got this these neurons in the brain and hey we recently learned about the computer and automata
+00:06:25 can we use some ideas from the computer and automata to design some kind of computational object that's
+00:06:30 going to be simple computational and kind of like the brain and they invented the neuron
+00:06:35 so they were inspired by it back then then you had the convolutional neural network from fukushima
+00:06:40 and then later yeah khan who said hey if you limit the receptive fields of a neural network it's going to be especially
+00:06:46 suitable for images as it turned out to be true so there was there was a very small number of
+00:06:50 examples where analogies to the brain were successful and i thought well probably an artificial
+00:06:55 neuron is not that different from the brain if it's queen hard enough so let's just
+00:07:01 assume it is and roll with it so no we're now at a time where deep learning is very successful
+00:07:07 so let us squint less and say let's  open our eyes and say what to use an interesting
+00:07:13 difference between the human brain now i know you're probably not an expert neither in your scientist and your
+00:07:19 biologist but loosely speaking what's the difference between the human brain and artificial neural networks
+00:07:23 that's interesting to you for the next decade or two that's a good question to ask what is in what is an
+00:07:29 interesting difference between the neurons between the brain and our artificial neural
+00:07:34 networks so i feel like today artificial neural networks so we all agree that there are certain
+00:07:40 dimensions in which the human brain vastly outperforms our models but i also think that there are
+00:07:45 some ways in which artificial neural networks have a number of very important advantages over the brain
+00:07:51 look looking at the advantages versus disadvantages is a good way to figure out what is the important difference
+00:07:58 so the brain uses spikes which may or may not be important yeah that's a really interesting
+00:08:02 question do you think it's important or not that's one big architectural difference between artificial neural networks and
+00:08:10 it's hard to tell but my prior is not very high and i can i can say why you know there are people
+00:08:14 who are interested in spiking neural networks and basically what they figured out is that they need
+00:08:19 to simulate the non-spiking neural networks in spikes and that's how they're gonna make them
+00:08:25 work if you don't simulate the non-spike in neural networks in spikes it's not going to work because the question is
+00:08:29 why should it work and that connects to questions around back propagation and questions around
+00:08:35 deep learning you got this giant neural network why should it work at all it's not a self-evident question
+00:08:46 especially if you let's say if you were just starting in the field and you read the very early papers
+00:08:51 you can say hey people are saying let's build neural networks that's a great idea because the brain is
+00:08:56 a neural network so it would be useful to build neural networks now let's figure out how to train them
+00:09:01 it should be possible to train them properly but how and so the big idea is the cost function
+00:09:10 that's the big idea the cost function is a way of measuring the performance of the system according to some
+00:09:16 measure by the way that is a big actually let me think is that is that  one a difficult idea to
+00:09:21 arrive at and how big of an idea is that that let me sorry let me take a pause is
+00:09:30 supervised learning a difficult concept to come to i don't know all concepts are very easy in retrospect
+00:09:37 yeah that's what it seems trivial now but i so because because the reason i asked
+00:09:41 that and we'll talk about it because is there other things is there things that don't
+00:09:46 necessarily have a cost function maybe have many cost functions or maybe have
+00:09:51 dynamic cost functions or maybe a totally different kind of architectures because we have to think like that in
+00:09:57 order to arrive at something new right so the only so the good examples of things which don't have clear cost
+00:10:04 functions are gans again you have a game so instead of thinking of a cost function
+00:10:09 where you want to optimize where you know that you have an algorithm gradient descent which will optimize the cost function
+00:10:15 and then you can reason about the behavior of your system in terms of what it optimizes
+00:10:20 with again you say i have a game and i'll reason about the behavior of the system in
+00:10:24 terms of the equilibrium of the game but it's all about coming up with these mathematical objects that help us reason about
+00:10:30 the behavior of our system right that's really interesting yes again is the only one it's kind of a com
+00:10:35 the cost function is emergent from the comparison it's i don't i don't know if it has a cost function i don't know if it's
+00:10:40 meaningful to talk about the cost function of again it's kind of like the cost function of
+00:10:44 biological evolution or the cost function of the economy it's you can talk about
+00:10:51 regions to which it will go towards but i don't think the cost function analogy is the most useful so if evolution doesn't
+00:11:00 that's really interesting so if evolution doesn't really have a cost function something akin to our mathematical
+00:11:11 conception of a cost function then do you think cost functions in deep learning are holding us back
+00:11:17 yeah i so you just kind of mentioned that cost function is a nice first profound idea do you think that's a good idea
+00:11:26 do you think it's an idea will go past so self-play starts to touch on that a little bit  in reinforcement learning
+00:11:33 systems that's right self-play and also ideas around exploration where you're trying to
+00:11:38 take action that surprise a predictor i'm a big fan of cos functions i think cost functions are great and they serve
+00:11:43 us really well and i think that whenever we can do things because with cost functions we should
+00:11:48 and you know maybe there is a chance that we will come up with some yet another profound way of looking at
+00:11:54 things that will involve cost functions in a less central way but i don't know i think cost functions
+00:12:01 i would not better guess against cost functions is there other things about the brain that pop into your mind
+00:12:09 that might be different and interesting for us to consider in designing artificial neural networks
+00:12:16 so we talked about spiking a little bit i mean one one thing which may potentially be useful i think people
+00:12:20 neuroscientists figured out something about the learning rule of the brain or i'm talking about spike time independent
+00:12:25 elasticity and it would be nice if some people were to study that in simulation wait sorry spike time independent
+00:12:31 plasticity yeah what's that std it's a particular learning rule that uses spike timing to figure out how to
+00:12:38 to determine how to update the synapses so it's kind of like if the synapse fires into the neuron before the
+00:12:44 neuron fires then it strengthens the synapse and if the synapse fires into the neurons
+00:12:49 shortly after the neuron fire then it weakens the synapse something along this line i'm 90 sure it's right so if i said
+00:12:56 something wrong here don't don't get too angry but you sounded brilliant while saying
+00:13:02 it but the timing that's one thing that's missing the the temporal dynamics is not captured
+00:13:08 i think that's like a fundamental property of the brain is the timing of this of the signals well your recurrent
+00:13:15 neural networks but you you think of that as i mean that's a very crude simplified
+00:13:24  what's that called  there's a clock i guess to  recurring neural networks it's this it seems like the brain is the
+00:13:31 general the continuous version of that the the generalization where all possible timings are possible and then within
+00:13:38 those timings this contains some information you think recurrent neural networks the recurrence in recurrent neural networks can capture
+00:13:48 the same kind of phenomena as the timing that seems to be important for the brain
+00:13:55 in the in the firing of neurons in the brain i i mean i think i think regarding neurons recurrent neural networks are amazing
+00:14:02 and they can do i think they can do anything we'd want them to if we'd want a system to do
+00:14:09 right now recurrent neural networks have been superseded by transformers but maybe one day they'll make a comeback maybe
+00:14:15 they'll be back we'll see let me  in a small tangent say do you think they'll be back
+00:14:21 so so much of the breakthroughs recently that we'll talk about on  natural language processing and
+00:14:26 language modeling has been with transformers that don't emphasize your currents do you think recurrence will make a
+00:14:34 comeback well some kind of recurrence i think very likely recurrent neural networks for pros
+00:14:41 as they're typically thought of for processing sequences i think it's also possible what is to you a recurrent neural
+00:14:49 network and generally speaking i guess what is a recurrent neural network you have a neural network which
+00:14:53 maintains a high dimensional hidden state and then when an observation arrives it updates its high dimensional hidden
+00:14:59 state through its connections in some way so do you think you know that's what
+00:15:07 like expert systems did right symbolic ai  the knowledge based growing a knowledge base is is
+00:15:15 maintaining a hidden state which is its knowledge base and is growing it by sequential
+00:15:21 processing do you think of it more generally in that way or is it simply is it the more constrained form that of
+00:15:30 of a hidden state with certain kind of gating units that we think of as today with lstms and that
+00:15:36 i mean the hidden state is technically what you described there the hidden state that goes inside the lstm or the
+00:15:41 rnn or something like this but then what should be contained you know if you want to make the expert system
+00:15:48 analogy i'm not i mean you could say that the knowledge is stored in the connections and then the short term
+00:15:54 processing is done in the in the hidden state yes could you say that yeah so sort of do
+00:16:01 you think there's a future of building large scale knowledge bases within the neural networks definitely
+00:16:10 so we're going to pause on that confidence because i want to explore that back to the history of imagenet neural
+00:16:20 networks have been around for many decades as you mentioned what do you think were the key ideas
+00:16:26 that led to their success that image in that moment and beyond the success in the past 10 years
+00:16:33 okay so the question is to make sure i didn't miss anything the key ideas that led to the success of deep learning over
+00:16:39 the past 10 years exactly even though the fundamental thing behind deep learning has been
+00:16:47 around for much longer so the key idea about deep learning or rather the key fact about deep
+00:16:55 learning before deep learning started to be successful is that it was underestimated
+00:17:02 people who worked in machine learning simply didn't think that neural networks could do much
+00:17:08 people didn't believe that large neural networks could be trained people thought that well there was lots
+00:17:14 of there was a lot of debate going on in machine learning about what are the right methods and so on and
+00:17:19 people were arguing because there were no there were there were no there was no way to get hard facts
+00:17:24 and by that i mean there were no benchmarks which were truly hard that if you do really well in them then
+00:17:30 you can say look here is my system that's when you switch from that's when this field becomes a little
+00:17:38 bit more of an engineering field so in terms of deep learning to answer the question directly the ideas were all there the
+00:17:45 thing that was missing was a lot of supervised data and a lot of compute once you have a lot of supervised data
+00:17:52 and a lot of compute then there is a third thing which is needed as well and that is conviction conviction that
+00:17:58 if you take the right stuff which already exists and apply and mix it with a lot of data and
+00:18:03 a lot of compute that it will in fact work and so that was the
+00:18:08 missing piece it was you had the you need the data you needed the compute which showed up
+00:18:13 in terms of gpus and you needed the conviction to realize that you need to mix them together
+00:18:21 so that's really interesting so  i i guess the presence of compute and the present
+00:18:26 supervised data allowed the empirical evidence to do the convincing of the majority of the
+00:18:31 computer science community so i guess there was a key moment with  jitendra malik and  alex
+00:18:41 alyosha afros who were very skeptical right and then there's a jeffrey hinton that was
+00:18:46 the opposite of skeptical and there was a convincing moment and i think emission had served as that moment
+00:18:51 that's right and they represented this kind of were the big pillars of computer vision community
+00:18:57 kind of the the wizards got together and then all of a sudden there was a shift
+00:19:04 and it's not enough for the ideas to all be there and the computer to be there it's for it to convince the cynicism that
+00:19:11 existed that it's interesting that people just didn't believe for a couple of decades
+00:19:18 yeah well but it's more than that it's kind of been put this way it sounds like well
+00:19:23 you know those silly people who didn't believe what were they what were they missing but in reality things were confusing
+00:19:28 because neural networks really did not work on anything and they were not the best method on
+00:19:33 pretty much anything as well and it was pretty rational to say yeah this stuff doesn't have any traction
+00:19:41 and that's why you need to have these very hard tasks which are which produce undeniable evidence and that's how we
+00:19:46 make progress and that's why the field is making progress today because we have these
+00:19:50 hard benchmarks which represent true progress and so and this is why we are able to avoid
+00:19:58 endless debate so incredibly you've contributed some of the biggest recent ideas in ai
+00:20:05 in in computer vision language natural language processing reinforcement learning sort of
+00:20:11 everything in between maybe not gans is there there may not be a topic you haven't
+00:20:16 touched and of course the the fundamental science of deep learning what is the difference to you between vision
+00:20:25 language and as in reinforcement learning action as learning problems and what are the
+00:20:30 commonalities do you see them as all interconnected are they fundamentally different domains that require
+00:20:38 different approaches okay that's a good question machine learning is a field with a lot of unity
+00:20:44 a huge amount of unity what do you mean by unity like overlap of ideas overlap of ideas
+00:20:50 overlap of principles in fact there is only one or two or three principles which are very very simple
+00:20:56 and then they apply in almost the same way in almost the same way to the different
+00:21:01 modalities to the different problems and that's why today when someone writes a paper on improving optimization
+00:21:07 of deep learning and vision it improves the different nlp applications and it improves the different reinforcement
+00:21:12 learning applications reinforcement learn so i would say that computer vision
+00:21:18 and nlp are very similar to each other today they differ in that they have slightly different architectures we use
+00:21:24 transformers in nlp and use convolutional neural networks in vision but it's also possible that
+00:21:29 one day this will change and everything will be unified with a single architecture because if you go back a
+00:21:33 few years ago in natural language processing there were a huge number of architectures for every
+00:21:41 different tiny problem had its own architecture today this is just one transformer for all those different tasks
+00:21:49 and if you go back in time even more you had even more and more fragmentation and every little problem
+00:21:54 in ai had its own little sub specialization and sub you know little set of collection of
+00:21:59 skills people who would know how to engineer the features now it's all been subsumed by deep
+00:22:04 learning we have this unification and so i expect vision to become unified with natural language as well or rather i
+00:22:09 shouldn't say expect i think it's possible i don't want to be too sure because i think on the commercial neural net is
+00:22:15 very computationally efficient rl is different rl does require slightly different techniques because you really
+00:22:20 do need to take action you really do need to do something about exploration your variance is much higher
+00:22:27 but i think there is a lot of unity even there and i would expect for example that at some point there will be some
+00:22:34 broader unification between rl and supervised learning where somehow the rl will be making decisions to make the
+00:22:38 supervised learning go better and it will be i imagine one big black box and you just
+00:22:43 throw every you know you shovel travel things into it and it just figures out what to do with whatever you
+00:22:47 shovel it i mean reinforcement learning has some aspects of
+00:22:54 language and vision combined almost there's elements of a long-term memory that you should be utilizing and
+00:23:00 there's elements of a really rich sensory space so it seems like the
+00:23:06 it's like the union of the two or something like that i'd say something slightly differently
+00:23:11 i'd say that reinforcement learning is neither but it naturally interfaces and integrates with the two of them
+00:23:18 do you think action is fundamentally different so yeah what is interesting about what is unique about policy of
+00:23:27 learning to act well so one example for instance is that when you learn to act you are
+00:23:33 fundamentally in a non-stationary world because as your actions change the things you see
+00:23:40 start changing you you experience the world in a different way and this is not the case for
+00:23:44 the more traditional static problem where you have at least some distribution and you just apply a model
+00:23:49 to that distribution do you think it's a fundamentally different problem or is it just a more difficult
+00:23:55 general it's a generalization of the problem of understanding i mean it's it's it's a question of
+00:24:00 definitions almost there is a huge you know there's a huge amount of commonality for sure you take gradients
+00:24:03 you try you take gradients we try to approximate gradients in both cases in some get in
+00:24:08 the case of reinforcement learning you have some tools to reduce the variance of the gradients you do that
+00:24:14 there's lots of commonality use the same neural net in both cases you compute the gradient you apply atom
+00:24:23 so i mean there's lots in common for sure but there are some small differences which
+00:24:27 are not completely insignificant it's really just a matter of your point of view what
+00:24:33 frame of reference you what how much do you want to zoom in or out as you look at these problems which
+00:24:38 problem do you think is harder so people like no chomsky believe that language is fundamental to everything
+00:24:46 so it underlies everything do you think language understanding is harder than visual scene understanding or vice versa
+00:24:54 i think that asking if a problem is hard is slightly wrong i think the question is a little bit
+00:24:59 wrong and i want to explain why so what does it mean for a problem to be hard okay the non-interesting dumb answer to
+00:25:07 that is there's this there's a benchmark and there's a human level performance on
+00:25:15 that benchmark and how there's the effort required to reach the human level okay benchmark so from the
+00:25:21 perspective of how much until we get to human level on a very good benchmark yeah like some i i understand what you
+00:25:29 mean by that so what i was going i'm going to say that a lot of it depends on you know once you solve a problem it
+00:25:35 stops being hard and that's all that's always true and so whether something is hard or not depends
+00:25:39 on what our tools can do today so you know you say today true human level language understanding
+00:25:46 and visual perception are hard in the sense that there is no way of solving the problem completely in
+00:25:51 the next three months right so i agree with that statement beyond that i'm just i'll be my my guess would
+00:25:57 be as good as yours i don't know oh okay so you don't have a fundamental intuition about
+00:26:02 how hard language understanding is i think i i know i changed my mind let's say language is probably going to be
+00:26:07 harder i mean it depends on how you define it like if you mean absolute top-notch 100 language
+00:26:15 understanding i'll go with language so but then if i show you a piece of paper with letters on it
+00:26:21 is that you see what i mean it's  you have a vision system you say it's the best human level vision system i show you i
+00:26:26 open a book and i show you letters will it understand how these letters form into
+00:26:32 words and sentences and meaning is this part of the vision problem where does vision end and language begin
+00:26:37 yeah so chomsky would say it starts at language so vision is just a little example of the kind of
+00:26:45  structure and you know fundamental hierarchy of ideas that's already represented in our brain somehow
+00:26:52 that's represented through language but where does vision stop and language begin question
+00:27:09 it so one possibility is that it's impossible to achieve really deep understanding in either images
+00:27:16 or language without basically using the same kind of system so you're going to get the other for free
+00:27:22 i think i think it's pretty likely that yes if we can get one we prob our machine learning is probably that good
+00:27:28 that we can get the other but it's not 100 i'm not 100 sure and also i think a lot a lot of it really does
+00:27:36 depend on your definitions definitions of like perfect vision because really you know reading is
+00:27:44 vision but should it count yeah to me so my definition is if a system looked at an image
+00:27:51 and then the system looked at a piece of text and then told me something about that and i was really impressed that's relative
+00:28:01 you'll be impressed for half an hour and then you're gonna say well i mean all the systems do that but here's the thing
+00:28:05 they don't do yeah but i don't have that with humans humans continue to impress me
+00:28:12 is that true well the ones okay so i'm a fan of monogamy so i like the idea of marrying somebody being with them for
+00:28:17 several decades so i i believe in the fact that yes it's possible to have somebody
+00:28:25 continuously giving you  pleasurable interesting witty new ideas friends yeah i think i think so they continue to
+00:28:33 surprise you the surprise it's you know that injection of randomness seems to be  it seems to be a nice
+00:28:45 source of yeah continued  inspiration like the the wit the humor i think
+00:28:53 yeah that that the that would be a it's a very subjective test but i think if you have enough humans
+00:29:00 in the room yeah i i understand what you mean yeah i feel like i i misunderstood what you meant by impressing you i thought
+00:29:05 you meant to impress you with its intelligence with how how with how good well it understands an image
+00:29:11 i thought you meant something like i'm going to show it a really complicated image and it's going to get it right and
+00:29:14 you're going to say wow that's really cool systems of you know january 2020 have not been doing that
+00:29:22 yeah no i i think it all boils down to like the reason people click like on stuff on the internet which is like it makes them
+00:29:30 laugh so it's like humor or wit yeah or insight i'm sure we'll get it as get that as well
+00:29:39 so forgive the romanticized question but looking back to you what is the most beautiful or surprising idea in deep learning
+00:29:46 or ai in general you've come across so i think the most beautiful thing about deep learning is that it actually works
+00:29:52 and i mean it because you got these ideas you got the little neural network and then you got some theories as to you
+00:30:02 know this is kind of like the brain so maybe if you make it large if you make the neural network lodge and
+00:30:07 you train it a lot of data then it will do the same function of the brain does and it turns out to be true that's crazy
+00:30:13 and now we just train these neural networks and you make them larger and they keep getting better
+00:30:18 and i find it unbelievable i find it unbelievable that this whole ai stuff with neural networks works
+00:30:24 have you built up an intuition of why are there little bits and pieces of intuitions of
+00:30:29 insights of why this whole thing works i mean sums definitely while we know that
+00:30:36 optimization we now have good you know we've take we've had lots of empirical you know huge amounts of
+00:30:42 empirical reasons to believe that optimization should work on all most problems we care about
+00:30:48 did you have insights of what so you just said empirical evidence sort of empirical evidence kind of
+00:30:58 convinces you it's like evolution is empirical it shows you that look this
+00:31:03 evolutionary process seems to be a good way to design organisms that survive in their
+00:31:10 environment but it doesn't really get you to the insides of how the whole thing works
+00:31:16 i think it's a good analogy is physics you know how you say hey let's do some physics calculation and come up with
+00:31:20 some new physics theory and make some prediction but then you gotta run the experiment you know you gotta run the experiment
+00:31:25 it's important so it's a bit the same here except that maybe some sometimes
+00:31:30 the experiment came before the theory but it still is the case you know you have some
+00:31:34 data and you come up with some prediction you say yeah let's make a big neural network let's train it and it's
+00:31:38 going to work much better than anything before it and it will in fact continue to get better
+00:31:42 as you make it larger and it turns out to be true that's that's amazing when a theory is
+00:31:47 validated like this you know it's not a mathematical theory it's more of a biological theory almost
+00:31:53 so i think there are not terrible analogies between deep learning and biology i would say it's like the geometric mean
+00:31:59 of biology and physics that's deep learning the geometric meaning of biology and physics i think i'm going to need a few hours to
+00:32:07 wrap my head around that because just to find the geometric just to find 
+00:32:16 the set of what biology represents well biology in biology things are really complicated theories are really really
+00:32:22 it's really hard to have good predictive theory and if in physics the theories are too good
+00:32:26 in theory in physics people make these super precise theories which make these amazing predictions
+00:32:30 and in machine learning mechanics in between kind of in between but it'd be nice if machine learning somehow
+00:32:37 helped us discover the unification of the two as opposed to some of the in-between but you're right that's you're you're
+00:32:44 kind of trying to juggle both so do you think there's still beautiful and mysterious properties in your
+00:32:50 networks that are yet to be discovered definitely i think that we are still massively underestimating deep learning
+00:32:56 what do you think it will look like like what if i knew i would have done it yeah so 
+00:33:04 but if you look at all the progress from the past 10 years i would say most of it i would say there have been a few cases
+00:33:10 where some were things that felt like really new ideas showed up but by and large it was
+00:33:16 every year we thought okay deep learning goes this far nope it actually goes further and then the next year okay now you now
+00:33:22 this is this is peak deep learning we are really done nope goes further it just keeps going further
+00:33:26 each year so that means that we keep underestimating we keep not understanding it
+00:33:31 as surprising properties all the time do you think it's getting harder and harder to make progress need to make progress
+00:33:37 it depends on what we mean i think the field will continue to make very robust progress for quite a while
+00:33:42 i think for individual researchers especially people who are doing research it can be harder because
+00:33:48 there is a very large number of researchers right now i think that if you have a lot of
+00:33:53 compute then you can make a lot of very interesting discoveries but then you have to deal with
+00:34:00 the challenge of managing a huge compute a huge classic compute cluster trying to experiment so it's a little bit harder
+00:34:04 so i'm asking all these questions that nobody knows the answer to but you're one of the smartest people i
+00:34:09 know so i'm going to keep asking the so let's imagine all the breakthroughs that happen in the next 30
+00:34:15 years in deep learning do you think most of those breakthroughs can be done by one person
+00:34:22 with one computer sort of in the space of breakthroughs do you think compute will be compute
+00:34:32 and large efforts will be necessary i mean i can't be sure when you say one computer you mean
+00:34:38 how large  you're  you're clever i mean one can one gpu
+00:34:47 i see i think it's pretty unlikely i think it's pretty unlikely i think that there are many
+00:34:52 the stack of deep learning is starting to be quite deep if you look at it you've got all the way from
+00:35:01 the ideas the systems to build the data sets the distributed programming the building the actual cluster
+00:35:08 the gpu programming putting it all together so now the stack is getting really deep and i think it becomes
+00:35:13 it can be quite hard for a single person to become to be world class in every single layer of the stack
+00:35:21 what about the what like vladimir vapnik really insist on is taking mnist and trying to learn from very few examples
+00:35:29 so being able to learn more efficiently do you think that's there'll be breakthroughs in that space that would
+00:35:35 may not need the huge compute i think it will be a very i think there will be a large number of
+00:35:38 breakthroughs in general that will not need a huge amount of compute so maybe i should clarify that i think
+00:35:43 that some breakthroughs will require a lot of compute and i think building systems which
+00:35:49 actually do things will require a huge amount of compute that one is pretty obvious if you want
+00:35:53 to do x right an x requires a huge neural net you got to get a huge neural net
+00:35:59 but i think there will be lots of i think there is lots of room for very important work being done by small
+00:36:05 groups and individuals you may be sort of on the topic of the the science of deep learning
+00:36:12 talk about one of the recent papers that you released sure that deep double descent where
+00:36:16 bigger models and more data hurt i think it's really interesting paper can you can you
+00:36:22 describe the main idea and yeah definitely so what happened is that some over over the years some small number of
+00:36:29 researchers noticed that it is kind of weird that when you make the neural network larger it works
+00:36:32 better and it seems to go in contradiction with statistical ideas and then some people made an analysis
+00:36:37 showing that actually you got this double descent bump and what we've done was to show that
+00:36:42 double descent occurs for all for pretty much all practical deep learning systems
+00:36:49 and that it'll be also so can you step back  what's the x-axis and the y-axis of a double descent plot
+00:36:59 okay great so you can you can look you can do things like you can take a neural network and you can start increasing its size
+00:37:09 slowly while keeping your data set fixed so if you increase the size of the neural network slowly
+00:37:16 and if you don't do early stopping that's a pretty important detail then
+00:37:22 when the neural network is really small you make it larger you get a very rapid increase in performance
+00:37:27 then you continue to make it large and at some point performance will get worse and it gets and and it gets the worst
+00:37:34 exactly at the point at which it achieves zero training error precisely zero training loss
+00:37:39 and then as you make it large it starts to get better again and it's kind of counter-intuitive because you'd expect
+00:37:45 deep learning phenomena to be monotonic and it's hard to be sure what it means but
+00:37:52 it also occurs in in the case of linear classifiers and the intuition basically boils down to the following
+00:37:59 when you when you have a lot when you have a large data set and a small model then small tiny random so basically what
+00:38:07 is overfitting overfitting is when your model is somehow very sensitive to the small random
+00:38:16 unimportant stuff in your data set in a training day in the training data set precisely so if you have a small model and you
+00:38:23 have a big data set and there may be some random thing you know some training cases are randomly in
+00:38:28 the data set and others may not be there but the small mod but the small model is kind of insensitive to this randomness because
+00:38:35 it's the same you there is pretty much no uncertainty about the model when it is that it's large so okay so at
+00:38:41 the very basic level to me it is the most surprising thing that neural networks don't overfit every time
+00:38:51 very quickly  before ever being able to learn anything the huge number of parameters
+00:38:57 so here so there is one way okay so maybe so let me try to give the explanation maybe that will be that will work so you
+00:39:03 got a huge neural network let's suppose you've got a you are you have a huge neural network
+00:39:09 you have a huge number of parameters and now let's pretend everything is linear which is not let's just pretend
+00:39:15 then there is this big subspace where a neural network achieves zero error and sdgt is going to find approximately
+00:39:21 the point that's right approximately the point with the smallest norm in that subspace
+00:39:29 okay and that can also be proven to be insensitive to the small randomness in the data when
+00:39:35 the dimensionality is high but when the dimensionality of the data is equal to the dimensionality of the model
+00:39:40 then there is a one-to-one correspondence between all the data sets and the models so small changes in the
+00:39:46 data set actually lead to large changes in the model and that's why performance gets worse
+00:39:50 so this is the best explanation more or less so then it would be good for the model to have more parameters
+00:39:58 so to be bigger than the data that's right but only if you don't really stop if you
+00:40:01 introduce early stop in your regularization you can make the double asset descent bump
+00:40:06 almost completely disappear what is early stop early stopping is when you train your model and you monitor
+00:40:13 your test your validation performance and then if at some point validation performance starts to get worse you say
+00:40:17 okay let's stop training if you're good you're good you're good enough so the
+00:40:22 the magic happens after after that moment so you don't want to do the early stopping well if you don't do the early stop and
+00:40:27 you get this very you get a very pronounced double descent do you have any intuition why this
+00:40:34 happens double descent oh sorry are you stopping you no the double descend so that oh yeah so i try
+00:40:40 let's see the intuition is basically is this that when the data set has as many degrees of freedom
+00:40:48 as the model then there is a one-to-one correspondence between them and so small changes to the data set
+00:40:53 lead to noticeable changes in the model so your model is very sensitive to all the randomness it is
+00:40:59 unable to discard it whereas it turns out that when you have a lot more data than parameters or a lot
+00:41:06 more parameters than data the resulting solution will be insensitive to small changes in the data set
+00:41:13 so it's able to that's nicely put discard the small changes the the randomness exactly the
+00:41:19 the the spurious correlation which you don't want jeff hinton suggested we need to throw
+00:41:23 back propagation we already kind of talked about this a little bit but he suggested that we just throw away
+00:41:29 back propagation and start over i mean of course some of that is a little bit um
+00:41:36 and humor but what do you think what could be an alternative method of training neural networks
+00:41:41 well the thing that he said precisely is that to the extent you can't find back propagation in the brain
+00:41:47 it's worth seeing if we can learn something from how the brain learns but back propagation is very
+00:41:52 useful and we should keep using it oh you're saying that once we discover the mechanism of learning in the brain
+00:41:58 or any aspects of that mechanism we should also try to implement that in neural networks if it turns out that we can't
+00:42:03 find back propagation in the brain if we can't find bad propagation in the brain well so i guess your answer to that is
+00:42:13 back propagation is pretty damn useful so why are we complaining i mean i i personally am a big fan of back
+00:42:18 propagation i think it's a great algorithm because it solves an extremely fundamental problem which is
+00:42:26 finding a neural circuit subject to some constraints and i don't see that problem going away so that's
+00:42:32 why i i really i think it's pretty unlikely that we'll have anything which is going
+00:42:37 to be dramatically different it could happen but i wouldn't bet on it right now
+00:42:46 so let me ask a sort of big picture question do you think can do you think neural networks can be made to reason
+00:42:54 why not well if you look for example at alphago or alpha zero the neural network of alpha zero plays go
+00:43:03 which which we all agree is a game that requires reasoning better than 99.9 of all humans
+00:43:09 just the neural network without this search just the neural network itself doesn't that give us an existence proof
+00:43:17 that neural networks can reason to push back and disagree a little bit we all agree that
+00:43:23 go is reasoning i think i i agree i don't think it's a trivial so obviously reasoning like intelligence
+00:43:31 is  is a loose gray area term a little bit maybe you disagree with that but
+00:43:37 yes i think it has some of the same elements of reasoning reasoning is almost like akin
+00:43:42 to search right there's a sequential element of stepwise consideration of possibilities
+00:43:53 and sort of building on top of those possibilities in a sequential manner until you arrive at some insight
+00:43:59 so yeah i guess playing go is kind of like that and when you have a single neural network doing that without search
+00:44:05 that's kind of like that so there's an existent proof in a particular constrained environment
+00:44:11 that a process akin to what many people call reasoning exist but more general kind of reasoning so off
+00:44:20 the board there is one other existence oh boy which one us humans yes okay all right so
+00:44:29 do you think the architecture that will allow neural networks to reason will look similar to the neural network
+00:44:38 architectures we have today i think it will i think well i don't want to make two
+00:44:44 overly definitive statements i think it's definitely possible that the neural networks that will produce
+00:44:49 the reasoning breakthroughs of the future will be very similar to the architectures that
+00:44:54 exist today maybe a little bit more current maybe a little but these these new lines are so
+00:45:02 insanely powerful why wouldn't they be able to learn to reason humans can reason
+00:45:09 so why can't neural networks so do you think the kind of stuff we've seen neural networks do is a kind of just
+00:45:14 weak reasoning so it's not a fundamentally different process again this is stuff we don't nobody
+00:45:19 knows the answer to so when it comes to our neural networks i would
+00:45:24 think which i would say is that neural networks are capable of reasoning but if you train a neural network on a
+00:45:32 task which doesn't require reasoning it's not going to reason this is a well-known effect where the neural
+00:45:37 network will solve exactly the it will solve the problem that you pose in front of it
+00:45:44 in the easiest way possible right that takes us to the to one of the brilliant sort of ways you
+00:45:54 describe neural networks which is  you refer to neural networks as the search for small circuits
+00:46:01 and maybe general intelligence as the search for small programs which i found is a metaphor very
+00:46:08 compelling can you elaborate on that difference yeah so the thing which i said precisely was that
+00:46:17 if you can find the shortest program that outputs the data in you at your disposal then you will be able to use it to make
+00:46:25 the best prediction possible and that's a theoretical statement which can be proven mathematically
+00:46:31 now you can also prove mathematically that it is that finding the shortest program which
+00:46:35 generates some data is not it's not a computable operation no a finite amount of compute can do this
+00:46:45 so then with neural networks neural networks are the next best stain that actually works in practice
+00:46:52 we are not able to find the best the shortest program which generates our data but we are able to find you know a small
+00:46:59 but now now that statement should be amended even a large circuit
+00:47:05 which fits our data in some way well i think what you meant by this small circuit is the smallest
+00:47:11 needed circuit well i see the thing the thing which i would change now back back then i really have i haven't fully
+00:47:15 internalized the over parameter the over parameterized results the the things we know about over parameters
+00:47:20 neural nets now i would phrase it as a large circuit that con whose weights contain a small
+00:47:27 amount of information which i think is what's going on if you imagine the training process of a neural
+00:47:33 network as you slowly transmit entropy from the data set to the parameters then somehow the amount of information
+00:47:40 in the weights ends up being not very large which would explain why they generalized so well
+00:47:47 so that's that the large circuit might be one that's helpful for the regulation for the
+00:47:58 but do you see their do you see it important to be able to try to learn something like programs
+00:48:05 i mean if you can definitely i think it's kind of the answer is kind of yes if we can do it we should do
+00:48:11 things that we can do it it's it's the reason we are pushing on deep learning
+00:48:17 the fundamental reason the cause the the root cause is that we are able to train them so in
+00:48:23 other words training comes first we've got our pillar which is the training pillar
+00:48:29 and now we are trying to contort our neural networks around the training pillar we got to stay trainable this is an
+00:48:35 invo this is an invariant we cannot violate and so being trainable means starting from scratch knowing nothing
+00:48:43 you can actually pretty quickly converge towards knowing a lot or even slowly but it means that given
+00:48:50 the resources at your disposal you can train the neural net and get it to achieve
+00:48:56 useful performance yeah that's a pillar we can't move away from that's right because if you can whereas if you say
+00:49:01 hey let's find the shortest program but we can't do that so it doesn't matter how useful
+00:49:08 that would be we can't do it so we want so do you think you kind of mentioned that the neural networks are good at
+00:49:14 finding small circuits or large circuits do you think then the matter of finding small programs
+00:49:20 is just the data no so the sorry not not the size or character the qual
+00:49:27 the the type of data sort of ask giving it programs well i think the thing is that right now
+00:49:34 finding there are no good precedence of people successfully finding programs really well and so the way
+00:49:41 you'd find programs is you'd train a deep neural network to do it basically right
+00:49:47 which is which is the right way to go about it but there's not good  illustrations that it has hasn't been
+00:49:52 done yet but can you elaborate in a little bit you what's your insight in principle
+00:50:02 and put another way you don't see why it's not possible well it's kind of like more
+00:50:09 it's more a statement of i think that it's i think that it's unwise to bet against deep learning and
+00:50:16 if it's a if it's a cognitive function that humans seem to be able to do then it doesn't take too long for
+00:50:23 some deep neural net to pop up that can do it too yeah i'm i'm i'm there with you i can i've
+00:50:31 i've stopped betting against neural networks at this point because they continue to surprise us
+00:50:37 what about long-term memory can neural networks have long-term memory or something like
+00:50:43 knowledge bases so being able to aggregate important information over long periods of time
+00:50:51 that would then serve as useful sort of representations of state that  you can make decisions by so
+00:50:59 have a long-term context based on what you make in the decision so in some sense the parameters already
+00:51:05 do that the parameters are an aggregation of the day of the neural
+00:51:10 of the entirety of the neural nets experience and so they count as the long as long form long-term knowledge
+00:51:17 and people have trained various neural nets to act as knowledge bases and you know investigated with invest people
+00:51:22 have investigated language tomorrow's knowledge basis so there is work there is work there yeah
+00:51:28 but in some sense do you think in every sense do you think there's a
+00:51:35 it's it's all just a a matter of coming up with a better mechanism of forgetting the useless stuff
+00:51:40 and remembering the useful stuff because right now i mean there's not been mechanisms that do remember really
+00:51:46 long-term information what do you mean by that precisely i'm thinking of the kind of compression
+00:51:59 of information the knowledge bases represent sort of creating a now i apologize for my sort of
+00:52:07 human-centric thinking about what knowledge is because neural networks aren't
+00:52:13 interpretable necessarily with the kind of knowledge they have discovered but a good example for me is knowledge
+00:52:20 bases being able to build up over time something like the knowledge that wikipedia represents
+00:52:25 it's a really compressed structured knowledge base obviously not the actual wikipedia or the language
+00:52:36 but like a semantic web the dream that semantic web represented so it's a really nice compressed
+00:52:41 knowledge base or something akin to that in the non-interpretable sense as
+00:52:47 neural networks would have well the neural networks would be non-interpretable if you look at their
+00:52:50 weights but their outputs should be very interpretable okay so yeah how do
+00:52:55 you make very smart neural networks like language models interpretable well you ask them to generate some text
+00:53:01 then the text will generally be interpretable do you find that the epitome of interpretability like
+00:53:07 can you do better like can you  because you can't okay i'd like to know what does it know and what doesn't know
+00:53:12 i would like the neural network to come up with examples where it
+00:53:18 it's completely dumb and examples where it's completely brilliant and the only way i know how to do that
+00:53:24 now is to generate a lot of examples and use my human judgment but it would be nice if a neonatal had
+00:53:30 some aware self-awareness about it yeah 100 i'm a big believer in self-awareness and i think that
+00:53:39 i think i think neural net self-awareness will allow for things like the capabilities like the ones you
+00:53:45 describe like for them to know what they know and what they don't know and for them to know where to invest to
+00:53:50 increase their skills most optimally and to your question of interpretability there are actually two answers to that question
+00:53:55 one answer is you know we have the neural net so we can analyze the neurons and we can try to
+00:54:00 understand what the different neurons and different layers mean and you can actually do that and openai
+00:54:05 has done some work on that but there is a different answer which is that i would say this is the
+00:54:13 human-centric answer where you say you know you look at a human being you can't read you know
+00:54:18 how how do you know what a human being is think and you ask them you say hey what do you think about this what do you
+00:54:22 think about that and you get some answers the answers you get are sticky in the sense you already
+00:54:27 have a mental model you already have an  yeah mental model of that human being
+00:54:35 you already have an understanding of like a a big conception of what it of that
+00:54:39 human being how they think what they know how they see the world and then everything you ask you're
+00:54:47 adding on to that and that stickiness seems to be that's one of the really interesting qualities of the the human
+00:54:54 being is that information is sticky you don't you seem to remember the useful stuff aggregate it well
+00:55:00 and forget most of the information that's not useful that process but that's also pretty
+00:55:05 similar to the process that neural networks do is just that neural network so much
+00:55:10 crappier at it at this time it doesn't seem to be fundamentally that different but
+00:55:15 just to stick on reasoning for a little longer he said why not why can't i reason what's a good impressive
+00:55:28 that you'll be impressed by if you don't know what we're able to do is that something you already have in
+00:55:34 mind well i think writing writing really good code i think proving really hard theorems solving
+00:55:42 open-ended problems with out-of-the-box solutions and  sort of theorem type mathematical problems yeah i think though those ones are a
+00:55:52 very natural example as well you know if you can prove an unproven theorem then it's hard to argue don't reason
+00:55:58 and so by the way and this comes back to the point about the hard results you know if you got a heart if you have machine learning
+00:56:05 deep learning as a field is very fortunate because we have the ability to sometimes produce these unambiguous results
+00:56:12 and when they happen  the debate changes the conversation changes it's a conversa we have the ability to produce
+00:56:19 conversation changing results conversation and then of course just like you said people kind of take that
+00:56:23 for granted and say that wasn't actually a hard problem well i mean at some point we'll probably
+00:56:29 run out of heart problems yeah that whole mortality thing is kind of kind of a sticky problem that we haven't
+00:56:35 quite figured out maybe we'll solve that one i think one of the fascinating things in your entire body of work but also the
+00:56:42 work at open ai recently one of the conversation changers has been in the world of language models
+00:56:50 can you briefly kind of try to describe the recent history of using neural networks in the domain of language and text well
+00:56:56 there's been lots of history i think i think the elman network was was this was was a small
+00:57:01 tiny recurrent neural network applied to language back in the 80s so the history is really you know fairly
+00:57:08 long at least and the thing that started the thing that changed
+00:57:14 the trajectory of neural networks and language is the thing that changed the trajectory of
+00:57:18 deep learning and that's data and compute so suddenly you move from small language models which
+00:57:24 learn a little bit and with language models in particular you can there's a very clear explanation for why
+00:57:30 they need to be large to be good because they're trying to predict the next word
+00:57:36 so we don't when you don't know anything you'll notice very very broad stroke surface level patterns like
+00:57:44 sometimes there are characters and there is a space between those characters you'll notice this pattern
+00:57:49 and you'll notice that sometimes there is a comma and then the next character is a capital letter you'll notice that pattern
+00:57:55 eventually you may start to notice that there are certain words occur often you may notice that
+00:57:59 spellings are a thing you may notice syntax and when you get really good at all these you start to
+00:58:05 notice the semantics you start to notice the facts but for that to happen the language model needs
+00:58:11 to be larger so that's let's linger on that because that's where you
+00:58:21 so you think we're actually taking  incremental steps a sort of larger network larger compute will be able to
+00:58:30 get to the semantics to be able to understand language without what gnome likes to sort of
+00:58:37 think of as a fundamental understandings of the structure of language
+00:58:43 like imposing your theory of language onto the learning mechanism so you're saying the learning
+00:58:50 you can learn from raw data the mechanism that underlies language well i think i think it's pretty likely
+00:58:58 but i also want to say that i don't really know precisely what is what chomsky means when he talks about him you said
+00:59:07 something about imposing your structure and language i'm not 100 sure what he means but
+00:59:12 empirically it seems that when you inspect those larger language models they exhibit signs of understanding the
+00:59:17 semantics whereas the smaller language models do not we've seen that a few years ago when we
+00:59:21 did work on the sentiment neuron we trained the small you know smaller shell stm to predict
+00:59:27 the next character in amazon reviews and we noticed that when you increase the size of the lstm
+00:59:32 from 500 lstm cells to 4000 lstm cells then one of the neurons
+00:59:38 starts to represent the sentiment of the article of story of the review now why is that sentiment is a pretty semantic
+00:59:46 attribute it's not a syntactic attribute and for people who might not know i don't know if that's a standard term but
+00:59:51 sentiment is whether it's a positive or negative review that's right like this is the person happy with something is
+00:59:55 the person unhappy with something and so here we had very clear evidence that a small
+01:00:01 neural net does not capture sentiment while a large neural net does and why is that well our theory is that
+01:00:07 at some point you run out of syntax to models you start gotta focus on something else
+01:00:14 and with size you quickly run out of syntax to model and then you really start to focus on the semantics is would
+01:00:19 be the idea that's right and so i don't i don't want to imply that our models have complete
+01:00:24 semantic understanding because that's not true but they definitely are showing signs of
+01:00:30 semantic understanding partial semantic understanding but the smaller models do not show that
+01:00:34 those signs can you take a step back and say what is gpt2 which is
+01:00:41 one of the big language models that was the conversation change in the past couple of years yes
+01:00:45 it's so gpt-2 is a transformer with one and a half billion parameters
+01:00:53 that was trained on upon about 40 billion tokens of text which were obtained from web pages that were linked to from
+01:01:01 reddit articles with more than three upvotes and what's the transformer the transformer is the most important
+01:01:08 advance in neural network architectures in recent history what is attention maybe too because i
+01:01:12 think that's the interesting idea not necessarily sort of technically speaking but the idea of attention
+01:01:20 versus maybe what recurring neural networks represent yeah so the thing is the transformer is
+01:01:24 a combination of multiple ideas simultaneously which attention is one
+01:01:29 do you think attention is the key no it's a key but it's not the key the transformer is successful because it
+01:01:36 is the simultaneous combination of multiple ideas and if you were to remove either idea it would be much less successful
+01:01:43 so the transformer uses a lot of attention but attention existed for a few years
+01:01:48 so that can't be the main innovation the transformer is designed in such a way that it runs really fast on the gpu
+01:01:57 and that makes a huge amount of difference this is one thing the second thing is the transformer is
+01:02:02 not recurrent and that is really important too because it is more shallow and therefore much
+01:02:08 easier to optimize so in other words it uses attention it is it is a really great fit to the gpu
+01:02:16 and it is not recurrent so therefore less deep and easier to optimize and the combination of those factors
+01:02:21 make it successful so now it makes it makes great use of your gpu it allows you to achieve
+01:02:27 better results for the same amount of compute and that's why it's successful were you surprised how well transformers worked
+01:02:36 and gpt2 worked so you worked on language you've had a lot of great ideas before transformers came about in language
+01:02:44 so you got to see the whole set of revolutions before and after were you surprised yeah a little a little
+01:02:51 yeah i mean it's hard it's hard to remember because you adapt really quickly but it
+01:02:56 definitely was surprising it definitely was in fact i'll you know what i'll i'll retract my
+01:03:00 statement it was it was pretty amazing it was just amazing to see generate this text
+01:03:06 of this and you know you got to keep in mind that we've seen at that time we've seen all this progress in gans
+01:03:12 in improving you know the samples produced by cans were just amazing you have these realistic faces but text
+01:03:17 hasn't really moved that much and suddenly we moved from you know whatever gans were in 2015
+01:03:25 to the best most amazing gans in one step right and i was really stunning even though theory predicted yeah you
+01:03:30 train a big language model of course you should get this but then to see it with your own eyes
+01:03:34 it's something else and yet we adapt really quickly and now there's  sort of
+01:03:44 some cognitive scientists write articles saying that gpt2 models don't truly understand language so we adapt quickly to how amazing
+01:03:53 the fact that they're able to model the language so well is so what do you think is the bar
+01:04:02 for what for impressing us that it i don't know do you think that bar will continuously be moved
+01:04:08 definitely i i think when you start to see really dramatic economic impact that's when i
+01:04:12 think that's in some sense the next barrier because right now if you think about the working ai
+01:04:19 it's really confusing it's really hard to know what to make of all these advances it's kind of like okay you got an
+01:04:26 advance and now you can do more things and you got another improvement and you got another cool demo
+01:04:33 at some point i think people who are outside of ai they can no longer distinguish this progress anymore
+01:04:39 so we were talking offline about translating russian to english and how there's a lot of brilliant work in
+01:04:44 russian that the the rest of the world doesn't know about that's true for chinese that's
+01:04:48 true for a lot of for a lot of scientists and just artistic work in general
+01:04:53 do you think translation is the place where we're going to see sort of economic big impact i i don't know i i think i
+01:04:59 think there is a huge number of i mean first of all i would want to i want to point out the translation
+01:05:06 already today is huge i think billions of people interact with  big chunks of the internet primarily
+01:05:11 through translation so translation is already huge and it's hugely hugely positive too
+01:05:18 i think self-driving is going to be hugely impactful and that's you know it's it's unknown
+01:05:25 exactly when it happens but again i would i would not bet against deep learning so i so that's deep learning in general but you
+01:05:31 you keep learning for self-driving yes deep learning for self-driving but i was talking about sort of language
+01:05:36 models let's see just to ch just spear it off a little bit just to check you're not seeing a connection
+01:05:41 between driving and language no no okay all right they both use neural nets they'll be a poetic connection i think
+01:05:47 there might be some like you said there might be some kind of unification towards 
+01:05:54 a kind of multi-task transformers that can take on both language and vision tasks
+01:06:01 that'd be an interesting unification now let's see what can i ask about gpt2 more um
+01:06:07 it's simple it's not much to ask it's so you take it you take a transform you make it bigger
+01:06:11 you give it more data and suddenly it does all those amazing things yeah one of the beautiful things is that
+01:06:16 gpg the transformers are fundamentally simple to explain to train do you think bigger will continue to
+01:06:25 show better results in language probably sort of like what are the next steps
+01:06:31 with gpt2 do you think i mean for i think for for sure seeing what  larger versions can do is one direction
+01:06:40 also i mean there are there are many questions there's one question which i'm curious about and that's the following
+01:06:45 so right now gpt2 so we feed all this data from the internet which means that he needs to memorize all those
+01:06:50 random facts about everything in the internet and it would be nice if the model could somehow use its own intelligence
+01:07:01 to decide what data it wants to study accept and what data it wants to reject just like people people don't learn all
+01:07:07 data indiscriminately we are super selective about what we learn and i think this kind of active learning i
+01:07:14 think would be very nice to have yeah listen i love active learning so let me ask does the selection of data
+01:07:22 can you just elaborate that a little bit more do you think the selection of data is like i i have this kind of sense
+01:07:33 that the optimization of how you select data so the active learning process is going to be
+01:07:41 a place for a lot of breakthroughs even in the near future because there hasn't been many
+01:07:45 breakthroughs there that are public i feel like there might be private breakthroughs that companies
+01:07:49 keep to themselves because the fundamental problem has to be solved if you want to solve self-driving if you
+01:07:54 want to solve a particular task but do you what do you think about the space in general
+01:07:59 yeah so i think that for something like active learning or in fact for any kind of capability like active
+01:08:04 learning the thing that it really needs is a problem it needs a problem that requires it
+01:08:11 it's very hard to do research about the capability if you don't have a task because then what's going to happen is
+01:08:16 you will come up with an artificial task get good results but not really convince anyone right
+01:08:24 like we're now past the stage where getting a result an mnist some clever formulation remnants will
+01:08:31 will convince people that's right in fact you could quite easily come up with a simple
+01:08:35 active learning scheme on amnesty and get a 10x speed up but then so what and i think that
+01:08:42 with active learning their needs they need active learning will naturally arise as there are as problems that require it
+01:08:49 pop up that's how i would that's my my take on it there's another interesting thing that
+01:08:57 openai has brought up with gpt2 which is when you create a powerful artificial intelligence system and it was unclear
+01:09:04 what kind of detrimental once you release gpt2 what kind of detrimental effect it will
+01:09:10 have because if you have an a model that can generate pretty realistic text
+01:09:16 you can start to imagine that you know on the it would be used by bots and some some
+01:09:21 way that we can't even imagine so like there's this nervousness about what it's possible to do
+01:09:26 so you you did a really kind of brave and i think profound thing which you started a conversation about this like
+01:09:32 how do we release powerful artificial intelligence models to the public
+01:09:39 if we do it all how do we privately discuss with other even competitors about how we manage the use of the systems and
+01:09:45 so on so from that this whole experience you released a report on it
+01:09:51 but in general are there any insights that you've gathered from just thinking about this about how
+01:09:57 you release models like this i mean i think that my take on this is that the field of ai
+01:10:05 has been in a state of childhood and now it's exiting that state and it's entering a state of maturity
+01:10:11 what that means is that ai is very successful and also very impactful and its impact is not only large but it's also growing
+01:10:21 and so for that reason it seems wise to start thinking about the impact of our systems before
+01:10:25 releasing them maybe a little bit too soon rather than a little bit too late
+01:10:31 and with the case of gpt2 like i mentioned earlier the results really were stunning and it seemed
+01:10:38 plausible it didn't seem certain it seemed plausible that something like gpt2 could easily use to
+01:10:44 reduce the cost of this information and so there was a question of what's the best
+01:10:50 way to release it and staged release seemed logical a small model was released and there was time to see the
+01:10:58 many people use these models in lots of cool ways they've been lots of really cool applications
+01:11:04 there haven't been any negative applications we know of and so eventually it was released but
+01:11:09 also other people replicated similar models that's an interesting question though that we know of so
+01:11:16 in your view stage release is  at least part of the answer to the  how what do we do once we create a
+01:11:26 system like this it's part of the answer yes is there any other insights like say you don't want to release the model at all
+01:11:34 because it's useful to you for whatever the business is well there are plenty plenty of people
+01:11:39 don't release models already right of course but is there some moral ethical responsibility when you
+01:11:46 have a very powerful model to sort of communicate like just as you said when you had gpt2 it was unclear how
+01:11:54 much it could be used for misinformation it's an open question and getting an answer to that
+01:11:59 might require that you talk to other really smart people that are outside of  outside your particular group
+01:12:07 have you please tell me there's some optimistic pathway for people across the world to
+01:12:16 or is it still really difficult from from one company to talk to another company so it's definitely possible it's
+01:12:22 definitely possible to discuss these kind of models with colleagues elsewhere and to
+01:12:31 get get their take on what's on what to do how hard is it though i mean do you see that happening
+01:12:40 i think that's that's a place where it's important to gradually build trust between companies
+01:12:46 because ultimately all the ai developers are building technology which is bitcoin to be increasingly more powerful
+01:12:55 the way to think about it is that ultimately we're only together yeah it's  i tend to believe in the
+01:13:04 the better angels of our nature but i do hope that that when you build a really powerful ai system in a particular domain
+01:13:15 that you also think about the potential it's an interesting and scary possibility that it'll be a race
+01:13:27 for a ai development that would push people to close that development and not share ideas
+01:13:33 with others i don't love this i've been like a pure academic for 10 years i really like
+01:13:41 sharing ideas and it's fun it's exciting what do you think it takes to let's talk about agi a little bit
+01:13:45 what do you think it takes to build a system of human level intelligence we talked about reasoning
+01:13:51 we talked about long-term memory but in general what does it take you think well i can't be sure
+01:14:00 but i think the deep learning plus maybe another small idea do you think self-play will be involved
+01:14:07 so like you've spoken about the powerful mechanism of self-play where systems learn by sort of 
+01:14:16 exploring the world in a competitive setting against other entities that are similarly
+01:14:20 skilled as them and so incrementally improve in this way do you think self-play will be a
+01:14:25 component of building an agi system yeah so what i would say
+01:14:32 to build agi i think is going to be deep learning plus some ideas and i think self-play will be one of those ideas
+01:14:42 i think that that is a very self play has this amazing property that it can surprise us
+01:14:52 in truly novel ways for example like we i mean pretty much every self-play system
+01:14:59 both are dotabot i don't know if openai had a release about multi-agent where you had two little
+01:15:06 agents who were playing hide and seek and of course also alpha zero they were all surprising behaviors they all produce
+01:15:13 behaviors that we didn't expect they are creative solutions to problems and that seems like an important part of
+01:15:20 agi that our systems don't exhibit routinely right now and so that's why i like this area i
+01:15:26 like this direction because of its ability to surprise us to surprise us and an agr system would
+01:15:31 surprise us fundamentally yes but and to be precise not just not just a random surprise but to find a
+01:15:37 surprising solution to a problem that's also useful right now a lot of the self-play
+01:15:43 mechanisms have been used in the game context or at least in the how much how much do you how far along
+01:15:54 the path to egi do you think will be done in simulation how much faith
+01:16:01 promise do you have in simulation versus having to have a system that operates in the real world whether it's the real
+01:16:08 world of digital real world data or real world like actual physical world of robotics
+01:16:15 i don't think it's an either or i think simulation is a tool and it helps it has certain strengths
+01:16:20 and certain weaknesses and we should use it yeah but okay i understand that that's true but one of the criticisms of
+01:16:33 self-play one of the criticisms of reinforcement learning is one of the the its current power
+01:16:41 its current results while amazing have been demonstrated in a simulated environments or very constrained physical
+01:16:47 environments do you think it's possible to escape them escape the simulated environments and be
+01:16:52 able to learn in non-simulated environments or do you think it's possible to also just simulate in the photorealistic and
+01:17:01 physics realistic way the real world in a way that we can solve real problems with self-play
+01:17:08 in simulation so i think that transfer from simulation to the real world is definitely possible
+01:17:14 and has been exhibited many times in by many different groups it's been especially successful in vision
+01:17:21 also open ai in the summer has demonstrated a robot hand which was trained entirely in simulation
+01:17:26 in a certain way that allowed for cinderella transfer to occur is this  for the rubik's cube that's
+01:17:33 right and i wasn't aware that was trained in simulation it was straining simulation entirely
+01:17:39 really so what it wasn't in the physical the hand wasn't trained no 100 of the training was done in simulation
+01:17:46 and the policy that was learned in simulation was trained to be very adaptive so adaptive that when you transfer it
+01:17:52 could very quickly adapt to the physical to the physical world so the kind of perturbations with the
+01:17:58 giraffe or whatever the heck it was those weren't were those part of the simulation well the simulation was generally
+01:18:06 so the simulation was trained to be robust to many different things but not the kind of perturbations we've had in
+01:18:11 the video so it's never been trained with a glove it's never been trained with a
+01:18:18 stuffed giraffe so in theory these are novel perturbations correct it's not in theory in practice that
+01:18:23 those are novel probation well that's okay that's a clean small scale but clean
+01:18:30 example of a transfer from the simulated world to the to the physical world yeah and i will also say that i expect
+01:18:35 the transfer capabilities of deep learning to increase in general and the better the transfer
+01:18:40 capabilities are the more useful simulation will become because then you could take you could
+01:18:48 experience something in simulation and then learn a moral of the story which you could then carry with you to
+01:18:52 the real world right as humans do all the time when they play computer games
+01:18:59 so let me ask sort of an embodied question staying on agi for a sec do you think aj asks us that we need to
+01:19:08 have a body we need to have some of those human elements of self-awareness consciousness sort of
+01:19:16 fear of mortalities or self-preservation in the physical space which comes with having a body i think
+01:19:22 having a body will be useful i don't think it's necessary but i think it's very useful to have a body for sure
+01:19:27 because you can learn a whole new you you can learn things which cannot be learned without a body
+01:19:34 but at the same time i think that you can if you don't have a body you could compensate for it and still succeed you
+01:19:39 think so yes well if there is evidence for this for example there are many people who
+01:19:43 were born deaf and blind and they were able to compensate for the lack of
+01:19:49 modalities i'm thinking about helen keller specifically so even if you're not able to physically
+01:19:54 interact with the world and if you're not able to i mean i actually was
+01:20:01 getting it maybe let me ask on the more particular i'm not sure if it's connected to having a body or not but
+01:20:08 the idea of consciousness and a more constrained version of that is self-awareness do you think an egi system should have consciousness
+01:20:17 it's what we can't define kind of whatever the heck you think consciousness is
+01:20:21 yeah hard question to answer given how hard it is to find it do you think it's useful to think about
+01:20:28 i mean it's it's definitely interesting it's fascinating i think it's definitely possible that our assistants will be conscious
+01:20:34 do you think that's an emergent thing that just comes from do you think consciousness could emerge from the
+01:20:39 representation that's stored within your networks so like that it naturally just emerges when you become
+01:20:45 more and more you're able to represent more and more of the world well i'd say i'd make the following
+01:20:51 argument which is humans are conscious and if you believe that artificial neural nets are sufficiently
+01:20:59 similar to the brain then there should at least exist artificial neurons you should be
+01:21:04 conscious too you're leaning on that existence proof pretty heavily okay
+01:21:10 but it's it's just that that's that's the best answer i can give no i i know i know i know
+01:21:17  there's still an open question if there's not some magic in the brain that we're not i mean i don't mean a non-materialistic
+01:21:26 magic but that that the brain might be a lot more complicated and interesting that we give it credit for
+01:21:31 if that's the case then it should show up and at some point at some point we will find out that we
+01:21:36 can't continue to make progress but i think i think it's unlikely so we talk about consciousness but let me talk about
+01:21:42 another poorly defined concept of intelligence again we've talked about reasoning we've talked about memory
+01:21:49 what do you think is a good test of intelligence for you are you impressed by the test that alan
+01:21:55 turing formulated with the imitation game of that with natural language is there something
+01:22:03 in your mind that you will be deeply impressed by if a system was able to do i mean lots
+01:22:07 of things there's certain there's certain frontiers there is a certain frontier of
+01:22:12 capabilities today yeah and there exists things outside of that frontier
+01:22:18 and i would be impressed by any such thing for example i would be impressed by a deep learning system
+01:22:26 which solves a very pedestrian you know pedestrian task like machine translation or computer vision task or
+01:22:33 something which never makes mistake a human wouldn't make under any circumstances i think that is something which have not
+01:22:40 yet been demonstrated and i would find it very impressive yeah so right now they make
+01:22:44 mistakes and differ they might be more accurate than human beings but they still they make a
+01:22:49 different set of mistakes so my my i would guess that a lot of the skepticism that some people have about
+01:22:55 deep learning is when they look at their mistakes and they say well those mistakes
+01:23:00 they make no sense like if you understood the concept you wouldn't make that mistake
+01:23:07 and i think that changing that would be would would that would that would inspire me that would be yes this is
+01:23:12 this this is this is progress yeah that's that's a really nice way to put it but i also just
+01:23:19 don't like that human instinct to criticize a model is not intelligent that's the same instinct as we do when
+01:23:24 we criticize any group of creatures as the other because it's very possible that
+01:23:35 gpt2 is much smarter than human beings and many things that's definitely true it has a lot more
+01:23:40 breadth of knowledge yes breadth knowledge and even and even perhaps depth on certain topics it's kind of
+01:23:47 hard to judge what depth means but there's definitely a sense in which
+01:23:53 humans don't make mistakes that these models do yes the same is applied to autonomous vehicles
+01:23:59 the same is probably going to continue being applied to a lot of artificial intelligence systems
+01:24:04 we find this is the annoying this is the process of in the 21st century the process of
+01:24:09 analyzing the progress of ai is the search for one case where the system fails
+01:24:16 in a big way where humans would not and then many people writing articles about it
+01:24:22 and then broadly as a com as a the public generally gets convinced that the system is not intelligent
+01:24:29 and we like pacify ourselves by thinking it's not intelligent because of this one anecdotal case and this can seems to
+01:24:34 continue happening yeah i mean there is truth to that though there is people also i'm sure
+01:24:38 that plenty of people are also extremely impressed by the system that exists today but i think this connects to the earlier
+01:24:43 point we discussed that it's just confusing to judge progress in ai yeah and you know you have a new robot
+01:24:50 demonstrating something how impressed should you be and i think that people will start to be impressed once
+01:24:58 ai starts to really move the needle on the gdp so you're one of the people that might
+01:25:03 be able to create an agi system here not you but you and open ai if if you do create an ajax system and you
+01:25:10 get to spend sort of the evening with it him her what would you talk about do you think
+01:25:19 the very first time first time well the first time i would just i would just ask all kinds of questions
+01:25:25 and try to make it to get it to make a mistake and i would be amazed that it doesn't make mistakes and just keep
+01:25:33 keep asking abroad okay what kind of questions do you think would they be factual or would they be
+01:25:41 personal emotional psychological what do you think would you ask for advice definitely
+01:25:51 i mean why why would i limit myself talking to a system like this now again let me emphasize the fact that
+01:25:57 you truly are one of the people that might be in the room where this happens so let me ask a sort of a profound question
+01:26:07 about i've just talked to a stalin historian i've been talking to a lot of people who are studying power
+01:26:16 abraham lincoln said nearly all men can stand adversity but if you want to test a man's
+01:26:21 character give him power i would say the power of the 21st century maybe
+01:26:28 the 22nd but hopefully the 21st would be the creation of an agi system and the people who
+01:26:34 have control direct possession and control of the agi system so what do you think after spending that evening
+01:26:44 having a discussion with the agi system what do you think you would do well the ideal world would like to imagine
+01:26:55 is one where humanity are like the board the board members of a company so it would be
+01:27:08 i would like the picture which i would imagine is you have some kind of different entities different countries or cities
+01:27:16 and the people that live there vote for what the agi that represents them should do and then age other represents
+01:27:21 them goes and does it i think a picture like that i find very appealing and you could have
+01:27:28 multiple you would have an agi for a city for a country and there would be it would be trying to in effect
+01:27:35 take the democratic process to the next level and the board can always fire the ceo essentially press the reset button and
+01:27:42 say re-randomize the parameters here well let me sort of that's actually okay that's a
+01:27:47 beautiful vision i think as long as it's possible to con to press the reset button do you think it
+01:27:55 will always be possible to press the reset button so i think that it's def it's definitely
+01:28:01 be possible to build so you're talking so the question that i really understand from you
+01:28:12 humans people have control over the ai systems that they built yes and my answer is it's definitely
+01:28:18 possible to build ai systems which will want to be controlled by their humans wow that's part of their
+01:28:25 so it's not that just they can't help but be controlled but that's that's the they exist the one of the objectives
+01:28:34 of their existence is to be controlled generally want to help their children they want their children to succeed
+01:28:46 it's not a burden for them they are excited to help the children and to feed them and
+01:28:50 to dress them and to take care of them and i believe with highest conviction that the same
+01:28:57 will be possible for an agi it will be possible to program an agi to design it in such a
+01:29:03 way that it will have a similar deep drive that it will be delighted to fulfill and the drive will be to help humans flourish
+01:29:13 but let me take a step back to that moment where you create the agi system i think this is a really crucial moment
+01:29:22 and between that moment and the the democratic board members with the agi at the head
+01:29:31 there has to be a relinquishing of power says george washington despite all the bad things he did one of
+01:29:38 the big things he did is he relinquished power he first of all didn't want to be president and
+01:29:44 even when he became president he gave he didn't keep just serving as most dictators do for indefinitely
+01:29:53 do you see yourself being able to relinquish control over an agi system given how much power you can have over
+01:29:59 the world at first financial just make a lot of money right and then control by having
+01:30:06 possession as a gi system i i'd find it trivial to do that i'd find it trivial to
+01:30:12 relinquish this this kind of i mean you know the the kind of scenario you are describing
+01:30:17 sounds terrifying to me that's all i would absolutely not want to be in that position
+01:30:25 do you think you represent the majority or the minority of people in the ai community well i mean
+01:30:33 open question an important one are most people good is another way to ask it so i don't know if most people are good but
+01:30:44 i think that when it really counts people can be better than we think that's beautifully put yeah are there
+01:30:51 specific mechanisms you can think of of aligning aig and values to human values is that do you think about these
+01:30:58 problems of continued alignment as we develop the eye systems yeah definitely in some sense the kind of question which
+01:31:06 you are asking is so if you have to translate that question to today's terms
+01:31:13 yes it would be a question about how to get an rl agent that's optimizing a value function which
+01:31:21 itself is learned and if you look at humans humans are like that because the
+01:31:25 reward function the value function of humans is not external it is internal that's right and
+01:31:35 there are definite ideas of how to train a value function basically an objective you know
+01:31:40 and as objective as possible perception system that will be trained separately to recognize to internalize human judgments
+01:31:52 on different situations and then that component would then be integrated as the value as the base value function
+01:31:57 for some more capable rail system you could imagine a process like this i'm not saying this is
+01:32:03 the process i'm saying this is an example of the kind of thing you could do so on that topic of the objective
+01:32:12 functions of human existence what do you think is the objective function that
+01:32:17 is implicit in human existence what's oh i think the question is is wrong in some
+01:32:32 way i think that the question implies that the reason there is an objective answer which is an
+01:32:37 external answer you know your meaning of life is x right i think what's going on is that we
+01:32:42 exist and that's amazing and we should try to make the most of it and try to
+01:32:49 maximize our own value and enjoyment of a very short time while we do exist it's funny because action does require
+01:32:56 an objective function it's definitely theirs in some form but it's difficult to make it explicit
+01:33:02 and maybe impossible to make it explicit i guess is what you're getting at and that's an interesting
+01:33:09 fact of an rl environment well but i was making a slightly different point is that humans want things and their ones create
+01:33:17 the drives that cause them to you know our wants are our objective functions our individual objective functions we
+01:33:24 can later decide that we want to change that what we wanted before is no longer good and we want something else yeah but
+01:33:28 they're so dynamic there's there's got to be some underlying sort of freud
+01:33:33 there's things there's like sexual stuff there's people who think it's the fear of fear of death and there's also the
+01:33:40 desire for knowledge and you know all these kinds of things procreation the sort of all the
+01:33:45 evolutionary arguments it seems to be there might be some kind of fundamental objective function from
+01:33:53 from which everything else  emerges but it seems because that's very important i think i think that probably
+01:33:58 is an evolutionary objective function which is to survive and procreate and make sure you make your children succeed
+01:34:05 that would be my guess but it doesn't give an answer to the question what's the meaning of life
+01:34:11 i think you can see how humans are part of this big process this ancient process we are
+01:34:18 we are we exist on a small planet and that's it so given that we exist try to make the most of it and try to
+01:34:27 enjoy more and suffer less as much as we can let me ask two silly questions about life one do you have regrets moments
+01:34:38 that if you  went back you would do differently and two are there moments that you're especially
+01:34:44 proud of that made you truly happy so i can answer that i can answer both questions of course
+01:34:50 there are there's a huge number of choices and decisions that i've made that with the benefit of hindsight i wouldn't
+01:34:56 have made them and i do experience some regret but you know i try to take solace in the
+01:35:01 knowledge that at the time i did the best i could and in terms of things that i'm proud of
+01:35:05 there are i'm very fortunate to have things i'm proud to have done things i'm proud of
+01:35:10 and they made me happy for himself for some time but i don't think that that is the source of happiness so your
+01:35:16 academic accomplishments all the papers you're one of the most excited people in the world
+01:35:21 all the breakthroughs i mentioned in computer vision and language and so on is what is the source of happiness
+01:35:29 and pride for you i mean all those things are a source of pride for sure i'm very
+01:35:34 ungrateful for having done all those things and it was very fun to do them but happiness comes from but you know
+01:35:40 you can happiness well my current view is that happiness comes from our
+01:35:45 to allow to a very large degree from the way we look at things you know you can have a simple meal and
+01:35:51 be quite happy as a result or you can talk to someone and be happy as a result as well or
+01:35:57 conversely you can have a meal and be disappointed that the meal wasn't a better meal
+01:36:02 so i think a lot of happiness comes from that but i'm not sure i don't want to be too confident i
+01:36:06 being humble in the face of the uncertainty seems to be also a part of this whole happiness thing well i
+01:36:13 don't think there's a better way to end it than  meaning of life and discussions of
+01:36:18 happiness so ilya thank you so much you've given me a few incredible ideas you've given the world
+01:36:25 many incredible ideas i really appreciate it and thanks for talking today yeah thanks for stopping stopping by i
+01:36:30 really enjoyed it thanks for listening to this conversation with elias discoverer and
+01:36:35 thank you to our presenting sponsor cash app please consider supporting the podcast by downloading cash app
+01:36:42 and using code lex podcast if you enjoy this podcast subscribe on youtube review it with 5
+01:36:47 stars in apple podcast support on patreon or simply connect with me on twitter
+01:36:54 at lex friedman and now let me leave you with some words from alan turing on machine learning
+01:37:01 instead of trying to produce a program to simulate the adult mind why not rather try to produce one which
+01:37:08 simulates the child's if this were then subjected to an appropriate course of education

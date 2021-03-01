@@ -1,0 +1,668 @@
+00:00:00 - The following is a conversation with Eric Weinstein. He's a mathematician, economist, physicist and the managing director of Thiel Capital.
+00:00:08 He coined the term and you could say, is the founder of the Intellectual Dark Web, which is a loosely assembled
+00:00:14 group of public intellectuals that includes Sam Harris, Jordan Peterson, Steven Pinker, Joe Rogan, Michael
+00:00:20 Shermer and a few others. This conversation is part of the artificial intelligence podcast at MIT and Beyond.
+00:00:30 If you enjoy it, subscribe on YouTube, iTunes, or simply connect with me on Twitter @lexfridman,
+00:00:37 spelled F-R-I-D. And now, here's my conversation with Eric Weinstein. - Are you nervous about this?
+00:00:46 - Scared shitless. - Okay, (speaking foreign language). - You mention Kung Fu Panda as one of your favorite movies.
+00:00:54 It has the usual profound master student dynamic going on, so who has been a teacher that significantly influenced
+00:01:02 the direction of your thinking and life's work? So, if you're the Kung Fu Panda, who was your Shifu?
+00:01:08 - Oh, well that's interesting, because I didn't see Shifu as being the teacher. - Who was the teacher?
+00:01:13 - Oogway, Master Oogway, the turtle. - Oh, the turtle, right. - They only meet twice in the entire film
+00:01:20 and the first conversation sort of doesn't count. So, they magic of the film, in fact, it's point
+00:01:30 is that the teaching that really matters is transferred during a single conversation and it's very brief.
+00:01:40 And so, who played that role in my life? I would say either my grandfather, Harry Rubin and his wife Sophie Rubin,
+00:01:49 my grandmother or Tom Lehrer. - Tom Lehrer? - Yeah. - In which way?
+00:01:58 - If you give a child Tom Lehrer records, what you do is you destroy their ability to be taken over by later malware,
+00:02:08 and it's so irreverent, so witty, so clever, so obscene, that it destroys the ability to lead a normal life for many people.
+00:02:19 So if I meet somebody who's usually really shifted from any kind of neuro typical presentation,
+00:02:27 I'll often ask them, are you a Tom Lehrer fan and the odds that they will respond are quite high.
+00:02:34 - Now Tom Lehrer is Poisoning Pigeons in the Park, Tom Lehrer? - That's very interesting.
+00:02:39 There are a small number of Tom Lehrer songs that broke into the general population. Poisoning Pigeons in the Park,
+00:02:45 the Element Song and perhaps the Vatican Rag. So, when you meet somebody who knows those songs,
+00:02:51 but doesn't know-- - Oh, you're judging me right now, aren't you? - Harshly.
+00:02:54 - Okay. - No, but you're Russian, so. - Yes. - Undoubtedly you know
+00:02:57 Nikolai Ivanovich Lobachevsky. That song. - Yes, yeah, yup. - So that was a song about plagiarism
+00:03:03 that was in fact plagiarized, which most people don't know, from Danny Kaye. Where Danny Kaye did a song called
+00:03:10 Stanislavsky of the musky arts. And, so Tom Lehrer did this brilliant job of plagiarizing a song and making it about plagiarism,
+00:03:19 and then making it about this mathematician, who worked in Non-Euclidean geometry.
+00:03:24 That was like giving heroin to a child. It was extremely addictive and eventually led me to a lot of different places.
+00:03:33 One of which may have been PhD in mathematics. - And he was also at least a lecturer in mathematics,
+00:03:39 I believe at Harvard, something like that? - Yeah, I just had dinner with him, in fact. When my son turned 13, we didn't tell him,
+00:03:48 but his Bar mitzvah present was dinner with his hero, Tom Lehrer, and Tom Lehrer was 88 years old, sharp as a tack,
+00:03:58 irreverent and funny as hell and just, you know, there are very few people in this world
+00:04:04 that you have to meet while they're still here and that was definitely one for our family.
+00:04:09 - So that wit is a reflection of intelligence in some kind of deep way. Like where that would be a good test
+00:04:17 of intelligence whether you're a Tom Lehrer fan. So, what do you think that is about wit? About that kind of humor,
+00:04:26 ability to see the absurdity in existence? Do you think that's connected to intelligence or are we just two Jews on a mic that
+00:04:31 appreciate that kind of humor. - No, I think that it's absolutely connected to intelligence.
+00:04:37 You can see it, there's a place where Tom Lehrer decides that he's going to lampoon Gilbert of Gilbert and Sullivan
+00:04:45 and he's going to out due Gilbert with clever, meaningless wordplay and he has, I forget the, well let's see.
+00:04:53 He's doing Clementine as if Gilbert and Sullivan wrote it and he says that I missed her, depressed her young sister named Esther.
+00:04:58 This mister to pester she'd tried. A pestering sister's a festering blister you're best to resist her, say I!
+00:05:03 The sister persisted, the mister resisted, I kissed her, all loyalty slipped. When she said I could have her her sister's cadaver
+00:05:08 must surely have turned in its crypt. That's so dense. It's so insane. - Yeah.
+00:05:13 - That that's clearly intelligence because it's hard to construct something like that. If I look at my favorite
+00:05:19 Tom Lehrer lyric, you know, there's a perfectly absurd one which is, once all the German's were warlike and mean,
+00:05:28 but that couldn't happen again. We taught them a lesson in 1918 and they've hardly bothered us since then.
+00:05:34 - Right. - That is a different kind of intelligence. You know, you're taking something that is so horrific
+00:05:39 and you're sort of making it palatable and funny, and demonstrating also just your humanity.
+00:05:48 I mean, I think the thing that came through as Tom Lehrer wrote all of these terrible, horrible lines,
+00:05:55 was just what a sensitive and beautiful soul he was, who was channeling pain through humor and through grace.
+00:06:02 - I've seen throughout Europe, throughout Russia, the same kind of humor emerged from the generation of World War II.
+00:06:09 It seemed like that humor is required to somehow deal with the pain and the suffering of that that war created.
+00:06:16 - Well, you do need the environment to create the broad Slavic soul. I don't think that many Americans really appreciate
+00:06:25 Russian humor, how you had to joke during the time of let's say, Article 58 under Stalin.
+00:06:33 You had to be very, very careful. You know, the concept of a Russian satirical magazine, like Krokodil, doesn't make sense.
+00:06:41 So you have this cross cultural problem that there are certain areas of human experience that it would
+00:06:49 be better to know nothing about and quite unfortunately, eastern Europe knows a great deal about them,
+00:06:55 which makes the songs of Vladimir Voevodsky so potent. You know, the prose of Pushkin, whatever it is.
+00:07:04 You have to appreciate the depth of the Eastern European experience and I would think that perhaps Americans knew
+00:07:11 something like this around the time of the Civil War or maybe under slavery and Jim Crow or even the harsh tyranny of the coal
+00:07:24 and steel employers during the labor wars. But in general I would say, it's hard for us to understand and imagine the collective culture,
+00:07:36 unless we have the system of selective pressures, that for example, Russians were subjected to.
+00:07:42 - Yeah, so if there's one good thing that comes outta war, it's literature, art and humor and music. - Oh, I don't think so. I think almost everything is good
+00:07:54 about war except for death and destruction. - Right.
+00:07:59 Without the death it would bring the romance of it, the whole thing is nice but-- - Well, this is why we're always caught up in war.
+00:08:05 We have this very ambiguous relationship to it, is that it makes life real and pressing and meaningful,
+00:08:12 and at an unacceptable price and the price has never been higher. - So to jump into AI a little bit,
+00:08:24 in one of the conversations you had or one of the videos, you described that one of the things AI systems can't do
+00:08:30 and biological systems can is self replicate in the physical world. - [Eric] Oh, no, no.
+00:08:37 - In the physical world. - Well, yes. The physical robots can't self replicate,
+00:08:43 but there's a very tricky point, which is that the only thing that we've been able to create that's really
+00:08:49 complex that has an analog of our reproductive system is software. - But, nevertheless, software replicates itself,
+00:09:01 if we're speaking strictly for the replication is this kinda digital space.
+00:09:06 So let me, just to begin, let me ask a question. Do you see a protective barrier or a gap between the physical world and the digital world?
+00:09:15 - Let's not call it digital. Let's call it the logical world versus the physical world. - Why logical?
+00:09:21 - Well, because even though we had, let's say Einstein's brain preserved, it was meaningless to us as a physical object
+00:09:29 because we couldn't do anything with what was stored in it at a logical level. And so, the idea that something may be stored logically
+00:09:38 and that it may be stored physically, are not necessarily, we don't always benefit from synonymizing.
+00:09:45 I'm not suggesting that there isn't a material basis to the logical world, but that it does warrant
+00:09:52 identification with a separate layer that need not invoke logic gates and zeros and ones. - And, so connecting those two worlds,
+00:10:01 the logical world and the physical world or maybe just connecting to the logical world inside our brain,
+00:10:08 Einstein's brain, you mention the idea of outtelligence. - [Eric] Artificial outtelligence. - Artificial outtelligence. - Yes, this is the only essay
+00:10:18 that John Brockman every invited me to write that he refused to publish in Edge.
+00:10:24 (Lex chuckling) - Why? - Well, maybe it wasn't well written, but I don't know.
+00:10:30 - The idea is quite compelling. It's quite unique and new, at least from my stance point. Maybe you can explain it?
+00:10:38 - Sure. What I was thinking about is why it is that we're waiting to be terrified by artificial
+00:10:42 general intelligence. When in fact, artificial life is terrifying in and of itself and it's already here.
+00:10:54 So, in order to have a system of selective pressures, you need three distinct elements. You need variation within a population,
+00:11:04 you need heritability, and you need differential success. So, what's really unique and I've made this point,
+00:11:12 I think elsewhere, about software, is that if you think about what humans know how to build that's impressive.
+00:11:19 So, I always take a car and I say does it have an analog of each of the physiological systems?
+00:11:25 Does it have a skeletal structure, that's its frame. Does it have a neurological structure, it has an onboard computer.
+00:11:31 It has a digestive system. The one thing it doesn't have is a reproductive system. But if you can call spawn on a process,
+00:11:42 effectively you do have a reproductive system. And that means that you can create something
+00:11:49 with variation, heritability and differential success. Now, the next step in the chain of thinking
+00:11:55 was where do we see inanimate non intelligent life outwitting intelligent life? And I have two favorite systems and I try to stay
+00:12:09 on them so that we don't get distracted. One of which is the Ophrys orchid sub species or sub clave, I don't what to call it.
+00:12:17 - Is that a type of flower? - Yeah, it's a type of flower that mimics the female of a pollinator species
+00:12:23 in order to dupe the males into engaging in what is called pseudocopulation, with the fake female,
+00:12:30 which is usually represented by the lowest pedal, and there's also a pheromone component to fool the males
+00:12:36 into thinking they have a mating opportunity. But the flower doesn't have to give up energy in the form
+00:12:41 of nectar as a lure, because it's tricking the males. The other system is a particular species of muscle,
+00:12:50 lampsilis in the clear streams of Missouri and it fools bass into biting a fleshy lip that contain its young and when
+00:13:03 the bass see this fleshy lip, which looks exactly like a species of fish that the bass like to eat,
+00:13:08 the young explode and clamp onto the gills and parasitize the bass and also use the bass to redistribute
+00:13:16 them as they eventually release. Both of these systems, you have a highly intelligent dupe, being fooled by a lower life form.
+00:13:30 And what is sculpting these convincing lures? It's the intelligence of previously duped targets for these strategies.
+00:13:41 So when the target is smart enough to avoid the strategy, those weaker mimics fall off, they have terminal lines,
+00:13:51 and only the better ones survive. So it's an arms race between the target species that is being parasitized,
+00:13:56 getting smarter, and this other less intelligent or non intelligent object getting as if smarter.
+00:14:08 And so, what you see is, is that artificial general intelligence is not needed to parasitize us.
+00:14:17 It's simply sufficient for us to outwit ourselves, so you could have a program, let's say,
+00:14:24 one of these Nigerian scams that writes letters and uses whoever sends it Bitcoin to figure out which
+00:14:34 aspects of the program should be kept, which should be varied and thrown away, and you don't need it to be in anyway intelligent
+00:14:41 in order to have a really nightmare scenario being parasitized by something that has no idea what it's doing.
+00:14:46 - So you phrased a few concepts really eloquently, so let me try to, there's a few directions this goes.
+00:14:53 So one, first of all, in the way we write software today, it's not common that we allow it to self modify.
+00:15:01 - But we do have that ability now. - We have the ability. - It's just not common. - I just isn't common.
+00:15:07 So your thought is that that is a serious worry if there becomes-- - But self modifying code is available now.
+00:15:18 - So there's different types of self modification right? There's personalization, you know your email app,
+00:15:24 your Gmail is self modifying to you after you login or whatever, you can think of that way.
+00:15:32 But ultimately it's central, all the information is centralized, but you're thinking of ideas where you're,
+00:15:41 this is a unique entity operating under selective pressures and it changes-- - Well, you just, if you think about the fact that our
+00:15:49 immune systems don't know what's coming at them next, but they have a small set of spanning components,
+00:15:57 and if it's a sufficiently expressive system in that any shape or binding region can be approximated with the Lego
+00:16:09 that is present, then you can have confidence that you don't need to know what's coming at you
+00:16:15 because the combinatorics are sufficient to reach any configuration needed. - So that's a beautiful, well terrifying thing to worry
+00:16:26 about because it's so within our reach. - Whenever I suggest these things I do always have a concern as to whether
+00:16:32 or not I will bring them into being by talking about them. - So there's this thing from OpenAI next week,
+00:16:42 to talk to the founder of OpenAI, this idea that their text generation, the new stuff they have for generating text is,
+00:16:52 they didn't wanna bring it, they didn't wanna release it because they're about the--
+00:16:57 - I'm delighted to hear that, but they're going to end up releasing. - Yes, that's the thing is I think talking about it,
+00:17:04 well at least from my end, I'm more a proponent of technology preventing, so further innovation preventing
+00:17:14 the detrimental effects of innovation. - Well we're in a, we're sort of tumbling down a hill at accelerating speed.
+00:17:22 So, whether or not we're proponents or-- - It doesn't really matter. - It may not matter. - But I.
+00:17:26 - Well, may not. - Well, I do feel that there are people who have held things back and you know,
+00:17:32 died poorer than they might have otherwise been. We don't even know their names. I don't think that we should discount the idea that having
+00:17:41 the smartest people showing off how smart they are by what they've developed may be a terminal process.
+00:17:50 I'm very mindful in particular of a beautiful letter that Edward Teller of all people wrote to Leo Szilard
+00:17:58 where Szilard was trying to figure out how to control the use of atomic weaponry at the end of World War II and Teller
+00:18:05 rather strangely, because many of us view him as a monster, showed some very advanced moral thinking talking about
+00:18:14 the slim chance we have for survival and that the only hope is to make war unthinkable. I do think that not enough
+00:18:19 of us feel in our gut, what it is we are playing with when we are working on technical problems, and I
+00:18:25 would recommend to anyone who hasn't seen it, a movie called A Bridge on the River Kwai, about I believe captured British POWs
+00:18:36 who just in a desire to do a bridge well, end up over collaborating with their Japanese captors. - Well, now you're making me question
+00:18:46 the unrestricted open discussion of ideas and AI. - I'm not saying I know the answer, I'm just saying that I could make a decent case
+00:18:55 for either our need to talk about this and to become technologically focused on containing it or need to stop talking about
+00:19:00 this and try to hope that the relatively small number of highly adept individuals who are looking at these
+00:19:08 problems is small enough that we should in fact be talking about how to contain it. - Well, the way ideas, the
+00:19:14 way innovation happens, what new ideas develop, Newton with calculus. Whether if he was silent, the
+00:19:20 idea would emerge elsewhere, well in case of Newton, of course, but you know, in case of AI, how small is this set of
+00:19:31 individuals out of which such ideas would arise? Is it in question-- - Well, the ideas of
+00:19:38 the researchers we know and those that we don't know. Who may live in countries that don't wish us to know
+00:19:44 what level they're currently at and are very disciplined in keeping these things to themselves.
+00:19:50 Of course, I will point out that there is a religious school in Kerala that developed something very close to the calculus,
+00:19:57 certainly in terms of infinite series in, I guess religious prayer and rhyme and prose.
+00:20:10 So, you know, it's not that Newton had any ability to hold that back and I don't really believe
+00:20:16 that we have an ability to hold back. I do think that we could change the proportion of the time we spend worrying about
+00:20:20 the effects of what if we are successful, rather than simply trying to succeed and hope that we'll be able
+00:20:25 to contain things later. - Beautifully put. So, on the idea of outtelligence, what form,
+00:20:33 treading cautiously 'cause we've agreed as we tumbled down the hill. What form-- - Can't stop ourselves can we?
+00:20:40 - We cannot. What form do you see it taking? So one example, Facebook, Google, do want to,
+00:20:50 I don't know a better word, you want to influence users to behave a certain way.
+00:20:55 And so that's one kind of example of outtelligence, is systems perhaps modifying the behavior of these intelligent human beings in order
+00:21:06 to sell more product of different kind. But do you see other examples of this actually emerging in? - Just take any parasitic
+00:21:12 system, you know? Make sure that there's some way in which that there's differential success,
+00:21:18 heritability and variation, and those are the magic ingredients. And if you really wanted to build a nightmare machine,
+00:21:29 make sure that the system that expresses the variability has a spanning set, so that it can learn to arbitrary levels
+00:21:39 by making it sufficiently expressive. That's your nightmare. - So, it's your nightmare, but it could also be,
+00:21:46 it's a really powerful mechanism by which to create, well, powerful systems.
+00:21:52 So, are you more worried about the negative direction that might go versus the positive? So, you said parasitic, but that doesn't necessarily
+00:22:01 need to be what the system converges towards. It could be, what is it, symbiotic--
+00:22:06 - Well, parasitism, the dividing line between parasitism and symbiosis is not so clear. - [Lex] That's what they tell me about marriage.
+00:22:15 I'm still single, so I don't know. - Well, yeah I do. Would could go into that too, but um. (Lex laughing)
+00:22:23 No, I think we have to appreciate, you know, are you infected by your own mitochondria?
+00:22:30 - Right. Yeah. - Right, so in marriage you fear the loss of independence,
+00:22:38 but even though the American therapeutic community may be very concerned about co-dependence, what's to say that co-dependence isn't what's necessary
+00:22:48 to have a stable relationship in which to raise children who are maximally K-selected and require
+00:22:54 incredible amounts of care, because you have to wait 13 years before there's any reproductive payout and most of us
+00:22:59 don't want our 13 year olds having kids. That's a very tricky situation to analyze. I would say that predators and parasites drive much
+00:23:09 of our evolution and I don't know whether to be angry at them or thank them. - Well, ultimately, I mean, nobody knows the meaning of life
+00:23:17 or what even happiness is, but there is some metrics-- - Oh, they didn't tell you? - They didn't, they didn't.
+00:23:24 That's why all the poetry and books are bought. You know, there are some metrics under which
+00:23:29 you can kinda measure how good it is that these AI systems are roaming about. So, you're more nervous about software than you
+00:23:39 are optimistic about ideas of self replicating larceny? - I don't think we've really felt where we are.
+00:23:50 You know, occasionally we get a wake up. 9/11 was so anomalous compared to everything else we've experienced on American
+00:23:58 soil, that it came to us as a complete shock that that was even a possibility. What it really was, was a
+00:24:04 highly creative and determined RND team deep in the bowels of Afghanistan showing us that we had certain
+00:24:14 exploits that we were open to, that nobody had chosen to express. I can think of several of these things that I don't talk
+00:24:21 about publicly, that just seem to have to do with how relatively unimaginative those who wish to cause
+00:24:31 havoc and destruction have been up until now. The great mystery of our time,
+00:24:37 of this particular little era, is how remarkably stable we've been since 1945 when we demonstrated the ability to
+00:24:46 use nuclear weapons in anger. And, we don't know why things like that haven't happened since then.
+00:24:58 We've had several close calls, we've had mistakes, we've had brinkmanship and what's now happened is that
+00:25:05 we've settled into a sense that oh, it'll always be nothing. It's been so long since something was at that level
+00:25:16 of danger, that we've got a wrong idea in our head and that's why when I went on the Ben Shapiro Show,
+00:25:23 I talked about the need to resume above ground testing of nuclear devices because we have people whose
+00:25:29 developmental experience suggests that when, let's say Donald Trump and North Korea engage on Twitter,
+00:25:37 oh it's nothing, it's just posturing, everybody's just in it for money, there's a sense that people are in
+00:25:43 a video game mode, which has been the right call since 1945. We've been mostly in video game mode. It's amazing.
+00:25:52 - So you're worried about a generation which has not seen any existential-- - We've lived under it.
+00:25:58 See, you're younger. I don't know if, and again, you came from Moscow. - [Lex] From, yeah.
+00:26:05 - There was a TV show called The Day After that had a huge effect on a generation growing up in the US,
+00:26:14 and it talked about what life would be like after a nuclear exchange. We have not gone through an embodied experience
+00:26:24 collectively where we've thought about this, and I think it's one of the most irresponsible
+00:26:29 things that the elders among us have done, which is to provide this beautiful garden in which the thorns are cut off of the rosebushes
+00:26:43 and all of the edges are rounded and sanded, and so people have developed this totally unreal idea
+00:26:50 which is everything is going to be just fine. And do I think that my leading concern is AGI
+00:26:57 or my leading concern is thermonuclear exchange or gene drives or any one of these things?
+00:27:04 I don't know. But I know that our time here in this very long experiment here is finite, because
+00:27:11 the toys that we've built are so impressive and the wisdom to accompany them has not materialized.
+00:27:19 And I think we actually got a wisdom uptick since 1945. We had a lot of dangerous, skilled players on the world
+00:27:27 stage who nevertheless, no matter how bad they were, managed to not embroil us in something that we couldn't come back from.
+00:27:38 - The Cold War. - Yeah, and the distance from the Cold War, you know, I'm very mindful of,
+00:27:46 there was a Russian tradition, actually, of on your wedding day going to visit a memorial to those who gave their lives.
+00:27:56 Can you imagine this? Where on the happiest day of your life, you go and you pay homage to the people who fought
+00:28:04 and died in the Battle of Stalingrad? I'm not a huge fan of communism, I gotta say, but there were a couple of
+00:28:11 things that the Russians did that were really positive in the Soviet era, and I think trying to let people know
+00:28:21 how serious life actually is, is the Russian model of seriousness is better than the American model.
+00:28:28 - And maybe, like you mentioned, there was a small echo of that after 9/11, but-- - We wouldn't let it form.
+00:28:36 We talk about 9/11, but it's 9/12 that really moved the needle. When we were all just there and nobody wanted to speak.
+00:28:46 We witnessed something super serious and we didn't want to run to our computers and blast out our deep thoughts and our feelings.
+00:28:59 And it was profound because we woke up, briefly, and I talk about the gated institutional narrative
+00:29:07 that sort of programs our lives, I've seen it break three times in my life. One of which was the election of Donald Trump,
+00:29:15 another time was the fall of Lehman Brothers, when everybody who knew that Bear Stearns wasn't that
+00:29:21 important, knew that Lehman Brothers met AIG was next, and the other one was 9/11.
+00:29:29 And so, if I'm 53 years old and I only remember three times that the global narrative was really interrupted,
+00:29:37 that tells you how much we've been on top of developing events, you know? We had the Murrah Federal Building explosion,
+00:29:45 but it didn't cause the narrative to break, it wasn't profound enough.
+00:29:48 Around 9/12, we started to wake up out of our slumber, and the powers that be, did not want a coming together.
+00:30:00 You know, the admonition was go shopping. - The powers that be, so what is that force? As opposed to blaming individuals--
+00:30:07 - We don't know. - So whatever that-- - Whatever that force is. - In silence. - There's a component of it
+00:30:12 that's emergent and there's a component of it that's deliberate. So, give yourself a portfolio with two components.
+00:30:18 Some amount of it is emergent, but some amount of it is also an understanding that if people come together,
+00:30:25 they become an incredible force. And what you're seeing right now, I think is, there are forces that are
+00:30:30 trying to come together and there are forces that are trying to push things apart, and you know, one of them
+00:30:39 is the globalist narrative versus the national narrative. Where to the globalist perspective,
+00:30:47 the nations are bad things in essence. That they're temporary, they're nationalistic, they're jingoistic, it's all negative,
+00:30:55 to people more in the national idiom, they're saying look, this is where I pay my taxes, this is where I do my army service,
+00:31:02 this is where I have a vote, this is where I have a passport. Who the hell are you to tell me that because you've moved
+00:31:08 into some place that you can make money globally, that you've chosen to abandon other people
+00:31:14 to whom you have a special and elevated duty. And I think that these competing narratives have been
+00:31:19 pushing towards the global perspective from the elite and a larger and larger number of disenfranchised
+00:31:26 people are saying, hey, I actually live in a place and I have laws and I speak a language, I have a culture,
+00:31:33 and who are you to tell me that because you can profit in some far away land, that my obligations to my fellow
+00:31:41 countrymen are so much diminished. - So these tensions between nations and so on, ultimately you see being proud
+00:31:45 of your country and so on, which creates potentially the kind of things that led to wars and so on.
+00:31:53 They ultimately, it is human nature and it is good for us, for wake up calls of different kinds. - Well, I think that these are tensions.
+00:32:01 And my point isn't, I mean nationalism run amuck is a nightmare. And internationalism run amuck is a nightmare.
+00:32:09 And the problem is we're trying to push these pendulums to some place where they're somewhat balanced.
+00:32:18 Where we have a higher duty of care to those who share our laws and our citizenship, but we don't forget
+00:32:26 our duties of care to the global system. I would think this is elementary, but the problem that we're facing concerns the ability for
+00:32:38 some to profit by abandoning their obligations to others within their system and that's what we've had for decades.
+00:32:48 - You mention nuclear weapons. I was hoping to get answers from you since one of the many things you've done as economics,
+00:32:55 maybe you can understand human behavior of why the heck we haven't blown each other up yet. But okay, so we'll get--
+00:33:02 - I don't know the answer. - Yeah. It's really important to say that we really don't know--
+00:33:07 - [Eric] A mild uptick in wisdom. - A mild uptick in wisdom, Steven Pinker who I've talked with has a lot of really good
+00:33:13 ideas about why, but he-- - I don't trust his optimism. (Lex chuckling)
+00:33:22 - Listen, I'm Russian, so I never trust a guy who's that optimistic-- - No, no, no, it's just that you're talking about
+00:33:27 a guy who's looking at a system in which more and more of the kinetic energy, like war, has been turned into
+00:33:35 potential energy like unused nuclear weapons. - Wow, beautifully put. - And you know now I'm looking
+00:33:40 at that system and I'm saying, okay, well if you don't have a potential energy trim, then everything's just
+00:33:44 getting better and better. - Yeah, yeah, wow, that's beautifully put. Only a physicist could, okay.
+00:33:51 - [Eric] I'm not a physicist. - Well, is that a dirty word? - [Eric] No, no, I wish I were a physicist.
+00:33:57 - Me too, my dad's a physicist. I'm trying to live up to that probably for the rest of my life.
+00:34:02 He's probably gonna listen to this too, so. - Hey dad. - Yeah, (chuckling).
+00:34:07 So, your friend, Sam Harris, worries a lot about the existential threat of AI. Not in the way that you've
+00:34:13 described, but in the more. - Well, he hangs out with Elon. I don't know Elon.
+00:34:20 - So, are you worried about that kind of, you know, about the, about either robotics systems or traditionally defined
+00:34:30 AI systems essentially becoming super intelligent, much more intelligent than human beings and getting--
+00:34:38 - Well, they already are, and they're not. - When seen as a collective, you mean? - I can mean all sorts of things,
+00:34:48 but certainly, many of the things that we thought were peculiar to general intelligence do not require general intelligence.
+00:34:57 So that's been one of the big awakenings that you can write a pretty convincing sports story from stats alone.
+00:35:06 Without needing to have watched the game. So, you know, is it possible to write lively prose about politics?
+00:35:14 Yeah, no, not yet. So, we're sort of all over the map. One of the things about chess,
+00:35:22 there's a question I once asked on Quora that didn't get a lot of response, which was, what is the greatest brilliancy ever produced
+00:35:30 by a computer in a chess game? Which was different than the question of what is the greatest game ever played.
+00:35:35 So if you think about brilliancies, is what really animates many of us to think of chess as an art form.
+00:35:42 Those are those moves and combinations that just show such flair, panache and soul. Computers weren't really great at that.
+00:35:50 They were great positional monsters. And recently we've started seeing brilliancies. - [Lex] Yeah, a few
+00:35:56 grandmasters have identified with AlphaZero that things were quite brilliant. - Yeah, so that's an example of something.
+00:36:06 We don't that that's AGI, but in a very restricted set of rules like chess, you're starting to see
+00:36:12 poetry of a high order. And so I don't like the idea that we're waiting for AGI. AGI is sort of slowly infiltrating
+00:36:20 our lives in the same way that I don't think a worm should be, you know C. Elegans shouldn't be treated as non conscious
+00:36:32 because it only has 300 neurons. Maybe it just has a very low level of consciousness. Because we don't understand what
+00:36:38 these things mean as they scale up. So, am I worried about this general phenomena? Sure, but I think that one of the things
+00:36:46 that's happening is that a lot of us are fretting about this in part because of human needs. We've always been worried about the Golem, right?
+00:36:57 - [Lex] Well, the Golem is the artificially created-- - Life, you know?
+00:37:00 - [Lex] It's like Frankenstein type of character-- - Yeah, sure, it's a Jewish version. Frankenberg, Franken--
+00:37:08 - Yeah, that makes sense. - Sorry, so the, but we've always been worried about creating something like
+00:37:14 this and it's getting closer and closer and there are ways in which we have to realize that the whole thing, the whole thing that
+00:37:26 we've experienced are the context of our lives, is almost certainly coming to an end. And I don't mean to suggest
+00:37:34 that we won't survive, I don't know. And I don't mean to suggest that it's coming tomorrow. It could be 300, 500
+00:37:40 years, but there's no plan that I'm aware of, if we have three rocks that we could possibly inhabit that
+00:37:48 are sensible within current technological dreams; the Earth, the Moon and Mars, and we have a very
+00:37:57 competitive civilization that is still forced into violence to sort out disputes that cannot be arbitrated.
+00:38:07 It is not clear to me that we have a long term future until we get to the next stage, which is to figure out whether
+00:38:14 or not the Einsteinian speed limit can be broken, and that requires our source code. - Our source code, the stuff in our brains to figure out?
+00:38:24 What do you mean by our source code? - The source code of the context. Whatever it is that produces the quarks,
+00:38:30 the electrons, the neutrinos. - Oh, our source code, I got it, so this is-- - You're talking about
+00:38:35 the stuff that's written in a higher level language. - Yeah, yeah, that's right.
+00:38:39 You're talking about the low level, the bits or even lower-- - Right, that's what is currently keeping us here.
+00:38:46 We can't even imagine, you know, we have hair brain schemes for staying within the Einsteinian speed limit.
+00:38:55 You know, maybe if we could just drug ourselves and go into a suspended state or we could have multiple generations of that.
+00:39:00 I think all that stuff is pretty silly. But, I think it's also pretty silly to imagine that our wisdom is going to
+00:39:06 increase to the point that we can have the toys we have and we're not going to use them for 500 years.
+00:39:14 - Speaking of Einstein, I had a profound breakthrough when I realized you're just one letter away from the guy.
+00:39:20 - Yeah, but I'm also one letter away from Feinstein. - Well, you get to pick. Okay, so, unified theory.
+00:39:28 You know, you've worked, you enjoy the beauty of geometry. Well, I don't actually know if you enjoy it.
+00:39:34 You certainly are quite good at it-- - I tremble before it. - Tremble before it. If you're religious that is one of the--
+00:39:41 - I don't have to be religious. It's just so beautiful, you will tremble anyway. - I just read Einstein's
+00:39:45 biography and one of the ways, one of the things you've done is try to explore a unified theory talking about
+00:39:53 a 14 dimensional observerse that has the 4D space time continuum embedded in it. I'm just curious how you think,
+00:40:05 philosophically at a high level, about something more than four dimensions. How do you try to, what does it make you feel talking
+00:40:17 in the mathematical world about dimensions that are greater than the ones we can perceive? Is there something that you take away
+00:40:25 that's more than just the math? - Well, first of all, stick out your tongue at me. Okay, now.
+00:40:32 (Lex chuckling) On the front of that tongue. - Yeah? - There was a sweet receptor.
+00:40:40 And next to that were salt receptors on two different sides. A little bit farther back there were sour receptors,
+00:40:46 and you wouldn't show me the back of your tongue where your bitter receptor was. - [Lex] I show the good side always.
+00:40:51 - Okay, but that was four dimensions of taste receptors. But you also had pain receptors on that tongue
+00:40:58 and probably heat receptors on that tongue. So let's assume that you have one of each. That would be six dimensions.
+00:41:05 So when you eat something, you eat a slice of pizza and it's got some hot pepper on it, maybe some jalapeno.
+00:41:15 You're having a six dimensional experience, dude. - Do you think we over emphasize the value of time
+00:41:21 as one of the dimensions or space? Well, we certainly over emphasize the value of time 'cause we things to start and end,
+00:41:28 or we really don't like things to end, but they seem to. - Well, what if you flipped one of the spacial dimensions
+00:41:33 into being a temporal dimension? And you and I were to meet in New York City and say, well where and when should we meet?
+00:41:42 And I say, how about I'll meet you on 36th and Lexington at 2:00 in the afternoon and 11 o'clock in the morning?
+00:41:53 That would be very confusing. - Well, it's so convenient for us to think about time, you mean?
+00:41:59 - We happen to be in a delicious situation in which we have three dimensions of space and one of time,
+00:42:04 and they're woven together in this sort of strange fabric where we can trade off a little space for a little time.
+00:42:09 But we still only have one dimension that is picked out relative to the other three. It's very much Gladys Knight and the Pips.
+00:42:15 - So, which one developed for who? Did we develop for these dimensions? Or did the dimensions, or were they always
+00:42:22 there and it doesn't-- - Well, do you imagine that there isn't a place where there are four temporal dimensions?
+00:42:27 Or two and two of space and time? Or three of time and one of space? And then would time not be playing the role of space?
+00:42:33 Why do you imagine that the sector that you're in is all that there is? - I certainly do not, but I can't imagine otherwise.
+00:42:40 I mean, I haven't done ayahuasca or any of those drugs. I hope to one day, but--
+00:42:46 - Instead of doing ayahuasca, you could just head over to Building Two. - That's where the mathematicians are?
+00:42:50 - [Eric] Yeah, that's where they hang. - [Lex] Just to look at some geometry? - Well just ask about pseudo-Riemannian geometry,
+00:42:55 that's what you're interested in. (Lex chuckling) - [Lex] Okay. - Or you can talk to a
+00:42:58 shaman and end up in Peru. - And then some extra money for that trip-- - Yeah, but you won't be
+00:43:03 able to do any calculations if that's how you choose to go about it. - Well, a different kind of calculation--
+00:43:08 - So to speak. - Yeah. One of my favorite people, Edward Franco, Berkeley professor, author of Love and Math,
+00:43:13 great title for a book, said that you were quite a remarkable intellect to come up with such beautiful,
+00:43:21 original ideas in terms of unified theory and so on. But you were working outside academia.
+00:43:28 So, one question in developing ideas that are truly original, truly interesting, what's the difference between
+00:43:33 inside academia and outside academia when it comes to developing such ideas? - Oh, it's a terrible
+00:43:39 choice, a terrible choice. So, if you do it inside of academics, you are forced to constantly...
+00:43:53 show great loyalty to the consensus and you distinguish yourself with small, almost microscopic heresies
+00:44:02 to make your reputation in general. And you have very competent people and brilliant people who are working together who formed
+00:44:10 very deep social networks, and have a very high level of behavior, at least within mathematics and at least technically
+00:44:24 within physics, theoretical physics. When you go outside, you meet lunatics and crazy people. Madmen and these are people
+00:44:33 who do not usually subscribe to the consensus position and almost always lose their way. And the key question is will
+00:44:43 progress likely come from someone who is miraculously managed to stay within the system and is able to
+00:44:54 take on a larger amount of heresy, that is sort of unthinkable? In which case, that will be fascinating.
+00:45:04 Or, is it more likely that somebody will maintain a level of discipline from outside of academics and be able to make
+00:45:13 use of the freedom that comes from not having to constantly affirm your loyalty to the consensus of your field.
+00:45:21 - So you've characterized in ways that academia, in this particular sense is declining. You posted the plot, the older population
+00:45:32 of the faculty is getting larger. The younger is getting smaller and so on. So, which direction of the two are you more hopeful about?
+00:45:40 - Well, the Baby Boomers can't hang on forever. - Which is first of all in general true,
+00:45:44 and second of all in academia-- - But that's really what this time is about-- - Is the Baby Boomers control.
+00:45:49 - Is we didn't, we're used to like financial bubbles that last a few years in length and then pop.
+00:45:57 - Yes. - The Baby Boomer bubble is this really long lived thing and all of the ideology,
+00:46:03 all of the behavior patterns, the norms, you know, for example string theory is an almost entirely Baby Boomer phenomena.
+00:46:11 It was something that Baby Boomers were able to do because it required a very high level of mathematical ability.
+00:46:20 - You don't think of string theory as an original idea? - Oh, I mean it was original to Veneziano who probably is older than the Baby Boomers
+00:46:29 and there are people who are younger than the Baby Boomers who are still doing string theory. And I'm not saying that
+00:46:33 nothing discovered within the large string theoretic complex is wrong. Quite the contrary.
+00:46:39 A lot of brilliant mathematics and a lot of the structure of physics was elucidated by string theorists.
+00:46:46 What do I think of the deliverable nature of this product that will not ship called string theory? I think that is largely an
+00:46:52 affirmative action program for highly mathematically and geometrically talented Baby Boomer
+00:46:58 physicists so that they can say that they're working on something within the constraints of what they
+00:47:06 will say is quantum gravity. Now there are other schemes. You know, there's like asymptotic safety.
+00:47:14 There are other things that you could imagine doing. I don't think much of any of the major programs,
+00:47:20 but to have inflicted this level of loyalty through a shibboleth, well surely you don't question x.
+00:47:29 Well, I question almost everything in the string program, and that's why I got out of physics. When you called me physicist, was a great honor,
+00:47:37 but the reason I didn't become a physicist wasn't that I fell in love with mathematics. As I said, wow, in 1984, 1983,
+00:47:41 I saw the field going mad, and I saw that mathematics, which has all sorts of problems, was not going insane.
+00:47:52 And so instead of studying things within physics, I thought it was much safer to study the same objects within mathematics.
+00:47:59 And there's a huge price to pay for that. You lose physical intuition. But the point is, is that it wasn't
+00:48:05 a North Korean reeducation camp, either. - Are you hopeful about cracking open the Einstein Unified Theory in a way that has,
+00:48:14 in really understanding whether uniting everything together with quantum theory and so on?
+00:48:21 - I mean, I'm trying to play this role myself. To do it to the extent of handing it over to the more
+00:48:30 responsible, more professional, more competent community. So, I think that they're wrong about a great number
+00:48:37 of their belief structures, but I do believe, I mean I have a really profound love hate relationship
+00:48:45 with this group of people. - On the physics side? - Oh yeah. - 'Cause the mathematicians actually seem
+00:48:50 to be much more open minded and-- - Well, they are and they aren't. They're open minded about anything
+00:48:55 that looks like great math. - Right. - Right, they'll study something that isn't
+00:48:58 very important physics, but if it's beautiful mathematics then they'll have, they have great intuition
+00:49:03 about these things. As good as the mathematicians are, and I might even intellectually
+00:49:09 at some horsepower level give them the edge. The theoretical physics community is bar none,
+00:49:16 the most profound intellectual community that we have ever created. It is the number one, there is nobody in second place
+00:49:25 as far as I'm concerned. Like, in their spare time, in the spare time they invented molecular biology.
+00:49:31 - What was the origin of molecular biology? You're saying physicists-- - Well somebody like Francis Crick.
+00:49:35 A lot of the early molecular biologists-- - Were physicists? - Yeah, I mean you know, Schrodinger wrote What is Life
+00:49:42 and that was highly inspirational. I mean, you have to appreciate that there is no community like the basic research
+00:49:50 community in theoretical physics. And it's not something, I'm highly critical of these guys. I think that they would just
+00:49:59 wasted the decades of time with and your religious devotion to their misconceptualization of where the problems were in physics.
+00:50:13 But this has been the greatest intellectual collapse ever witnessed within academics. - You see it as a collapse or just a lull?
+00:50:22 - Oh, I'm terrified that we're about to lose the vitality. We can't afford to pay these people. We can't afford to give them an accelerator just to play
+00:50:31 with in case they find something at the next energy level. These people created our economy.
+00:50:38 They gave us the RAD Lab and radar. They gave us two atomic devices to end World War II. They created the semi-conductor
+00:50:45 and the transistor to power our economy through Moore's law. As a positive externality of particle accelerators,
+00:50:54 they created the World Wide Web and we have the insolence to say, why should we fund you with our taxpayer dollars?
+00:51:02 No, the question is, are you enjoying your physics dollars? Right, these guys signed the world's
+00:51:09 worst licensing agreement. - Right. - And, if they simply charged for every time you used a
+00:51:15 transistor or a URL or enjoyed the peace that they have provided during this period of time through the terrible
+00:51:24 weapons that they developed, or your communications devices. All of the things that power our economy,
+00:51:32 I really think came out of physics, even to the extent that chemistry came out of physics, and molecular biology came out of physics.
+00:51:37 So, first of all you have to know that I'm very critical of this community. Second of all, it is our most important community.
+00:51:45 We have neglected it, we've abused it, we don't take it seriously, we don't even care to get them to rehab after a couple
+00:51:51 of generations of failure. Right, no one, I mean I think the youngest person to have really contributed
+00:51:59 to the standard model at a theoretical level was born in 1951, right? Frank Wilczek.
+00:52:07 And almost nothing has happened that in theoretical physics after 1973, '74, that sent somebody to Stockholm
+00:52:18 for theoretical development that predicted experiment. So, we have to understand that we are doing this to ourselves.
+00:52:24 Now, with that said, these guys have behaved abysmally, in my opinion, because they haven't owned up
+00:52:32 to where they actually are, what problems they're really facing, how definite they can actually be.
+00:52:37 They haven't shared some of their most brilliant discoveries, which are desperately needed in other fields like gauge theory,
+00:52:43 which at least the mathematicians can share, which is an upgrade of the differential calculus
+00:52:47 of Newton and Leibniz, and they haven't shared the importance of renormalization theory, even though this should
+00:52:53 be standard operating procedure for people across the sciences dealing with different layers
+00:52:59 and different levels of phenomena, so-- - And by shared you mean communicated in such a way that it disseminates throughout
+00:53:03 the different sciences? - These guys are sitting, both theoretical physicists and mathematicians are sitting on top
+00:53:11 of a giant stockpile of intellectual gold, right? They have so many things that have not been manifested anywhere.
+00:53:19 I was just on Twitter I think I mentioned the Hoberman switch pitch that shows the self duality of the tetrahedron
+00:53:27 realizes that it linkage mechanism. Now this is like a triviality and it makes an amazing toy that's,
+00:53:34 you know, built a market. - Yeah. - Hopefully a fortune for Chuck Hoberman. Well, you have no idea how much great stuff
+00:53:41 that these priests have in their monastery. - So, it's a truly a love and hate relationship for you?
+00:53:48 It sounds like it's more on the love side-- - [Eric] This building that we're in right here.
+00:53:50 - Yes. - Is the building in which I really put together the conspiracy between the
+00:53:54 National Academy of Sciences and the National Science Foundation through the Government University
+00:54:00 Industry Research round table to destroy the bargaining power of American academics using foreign labor.
+00:54:09 On microfiche in the base. - Post docs and so on? - Oh yeah, that was done here in this building.
+00:54:13 Isn't that weird? - I'm truly speaking with a revolutionary and a radical-- - No, no, no, no, no, no, no, no.
+00:54:20 At an intellectual level, I am absolutely garden variety. I'm just straight down the middle. The system that we are in.
+00:54:30 This University is functionally insane. - [Lex] Yeah. - Harvard is functionally insane and we don't
+00:54:37 understand that when we get these things wrong, the financial crisis made this very clear.
+00:54:43 There was a long period where every grownup, everybody with a tie who spoke in baritone tones
+00:54:52 with a right degree at the end of their name. - Yeah. - Were talking about how
+00:54:57 we banished volatility, we were in the great moderation. Okay, they were all crazy. And who was right?
+00:55:05 It was like Nassim Taleb. - Right. - Nouriel Roubini. Now, what happens is is that they
+00:55:10 claimed the market went crazy. But the market didn't go crazy. The market had been crazy and what happened is
+00:55:16 is that it suddenly went sane. Well that's where we are with academics. Academics right now is mad as a hatter
+00:55:23 and it's absolutely evident. I can show you graph after graph. I can show you the internal discussions.
+00:55:28 I can show you the conspiracies. Harvard's dealing with one right now over its admissions policies for people of color
+00:55:33 who happen to come from Asia. All of this madness is necessary to keep the game going. What we're talking about,
+00:55:41 just while we're on the topic of revolutionaries, is we're talking about the danger of an outbreak of sanity.
+00:55:50 - Yeah, you're the guy pointing out the elephant in the room here and-- - The elephant has no clothes.
+00:55:58 - Is that how that goes? I was gonna talk a little bit to Joe Rogan about this, ran out of time, but
+00:56:05 I think you have some, just listening to you, you can probably speak really eloquently to academia on the difference
+00:56:15 between the different fields. So, do you think there's a difference between science, engineering and then the
+00:56:19 humanities in academia, in terms of tolerance, that they're willing to tolerate? So, from my perspective I
+00:56:25 thought computer science and maybe engineering is more tolerant to radical ideas, but that's perhaps innocent of me.
+00:56:36 'Cause I always, you know all the battles going on now are a little bit more of the humanities side
+00:56:41 and gender studies and so on. - Have you seen the American Mathematical Society's publication of an essay
+00:56:46 called Get out the Way. - I have not, what's the-- - The idea is that white men who hold positions within
+00:56:53 Universities in mathematics should vacate their positions so that young black women can take over or something like this.
+00:57:03 - That's in terms of diversity, which I also wanted to ask you about, but in terms of diversity of strictly ideas.
+00:57:10 - Oh, sure. - Do you think, 'cause you're basically saying physics as a community,
+00:57:15 has become a little bit intolerant to some degree, to new radical ideas or at least you said that--
+00:57:21 - But it's changed a little bit recently. Which is that even string theory is now admitting, okay, this doesn't look very
+00:57:28 promising in the short term. Right, so the question is what compiles, if you wanna take the computer science metaphor.
+00:57:39 What will get you into a journal? Will you spend your life trying to push some paper into a journal or will
+00:57:44 it be accepted easily? What do we know about the characteristics of the submitter and what gets taken up and what does not?
+00:57:56 All of these fields are experiencing pressure because no field is performing so brilliantly well that it's
+00:58:04 revolutionizing our way of speaking and thinking, in the ways in which we have become accustomed.
+00:58:12 - But don't you think, even in theoretical physics, a lot of times, even with theories like string theory,
+00:58:19 you could speak to this, it does eventually lead to what are the ways that this theory would be testable?
+00:58:26 - Yeah, ultimately, although look, there's this thing about Popper and the scientific method that's a cancer
+00:58:32 and a disease in the minds of very smart people. That's not really how most of the stuff gets worked out,
+00:58:39 it's how it gets checked. - Right, so-- - And there is a dialog between theory and experiment.
+00:58:45 But, everybody should read Paul Dirac's 1963 Scientific American article where he, you know, it's very interesting.
+00:58:57 He talks about it as if it was about the Schrodinger equation and Schrodinger's failure to advance his own work
+00:59:01 because of his failure to account for some phenomena. The key point is that if your theory is a slight bit off,
+00:59:08 it won't agree with experiment, but it doesn't mean that the theory is actually wrong. But Dirac could as easily have
+00:59:13 been talking about his own equation in which he predicted that the electrons should have an anti-particle.
+00:59:22 And since the only positively charged particle that was known at the time was the proton, Heisenberg pointed out,
+00:59:27 well shouldn't your anti-particle, the proton, have the same mass as the electron
+00:59:31 and doesn't that invalidate your theory? So, I think that Dirac was actually being, potentially quite sneaky in talking about the fact
+00:59:39 that he had been pushed off of his own theory, to some extent, by Heisenberg.
+00:59:43 But look, we fetishize the scientific method and Popper and falsification because it protects
+00:59:52 us from crazy ideas entering the field. So, you know, it's a question of balancing type one and type two error and we were pretty
+00:59:57 maxed out in one direction. - The opposite of that. Let me say what comforts me.
+01:00:04 Sort of biology or engineering at the end of the day, does the thing work? - Yeah.
+01:00:11 - You can test the crazies away. Well see now, you're saying but some ideas are truly crazy and some are actually correct, so.
+01:00:21 - Well there's pre-correct currently crazy. - Yeah. - Right?
+01:00:25 And so you don't wanna get rid of everybody who's pre-correct and currently crazy. The problem is is that we don't have standards in general,
+01:00:35 for trying to determine who has to be put to the sword in terms of their career and who has to be protected as some sort of giant time
+01:00:44 suck pain in the ass who may change everything. - Do you think that's possible?
+01:00:49 Creating a mechanism of those selective-- - Well, you're not gonna like the answer, but here it comes. - [Lex] Oh, boy.
+01:00:55 - It has to do with very human elements. We're trying to do this at the level of like rules and fairness, it's not gonna work.
+01:01:04 'Cause the only thing that really understands this, you ever read The Double Helix? - It's a book?
+01:01:13 - Oh, you have to read this book-- - Oh, boy. - Not only did Jim Watson half discover this three
+01:01:18 dimensional structure of DNA, he was also one hell of a writer before he became an ass. No, he's tried
+01:01:26 - Yes, like he is. - To destroy his own reputation-- - I knew about the ass, I didn't know about the good writer.
+01:01:32 - Jim Watson is one of the most important people now living, and as I've said before, Jim Watson is too important
+01:01:40 a legacy to be left to Jim Watson. That book tells you more about what actually moves the dial. I mean, there's another
+01:01:49 story about him which I don't agree with, which is that he stole everything from Rosalind Franklin.
+01:01:54 I mean, the problems that he had with Rosalind Franklin are real, but we should actually honor that tension
+01:02:01 in our history by delving into it, rather than having a simple solution. Jim Watson talks about Francis Crick being a pain in the ass
+01:02:09 that everybody secretly knew was super brilliant. And there's an encounter between Chargaff who came up with
+01:02:17 the equimolar relations between the nucleotides, who should've gotten the structure
+01:02:22 of DNA and Watson and Crick, and you know, he talks about missing a shiver in the heartbeat of biology
+01:02:28 and this stuff is so gorgeous, it just makes you tremble even thinking about it. Look, we know very often
+01:02:36 who is to be feared, and we need to fund the people that we fear. The people who are wasting our time need
+01:02:47 to be excluded from the conversation. You see, and you know, maybe we'll make some errors in both directions, but we
+01:02:53 have known our own people. We know the pains in the asses that might work out, and we know the people who
+01:03:01 are really just blowhards who really have very little to contribute most of the time. It's not 100%, but you're not
+01:03:07 gonna get there with rules. - Right, it's using some kind of instinct. I mean, to be honest, I'm gonna make you roll your eyes
+01:03:16 for a second, but in the first time I heard that there was large community of people who believe the earth is flat,
+01:03:23 actually made me pause and ask myself the question-- - Why would there be such a community?
+01:03:28 - Yeah, is it possible the earth is flat? So I had to like, wait a minute. I mean, then you go through a thinking process
+01:03:35 that I think is really healthy. It ultimately ends up being a geometry thing I think. It's an interesting thought
+01:03:41 experiment at the very least. - Well, see I don't, I do a different version of it. I say, why is this community stable?
+01:03:48 - Yeah, that's a good way to analyze it. - Interesting that whatever we've done has not erased the community.
+01:03:55 So, you know, they're taking a long shot bet that won't pan out, you know? Maybe we just haven't thought enough about
+01:04:01 the rationality of the square root of two and somebody brilliant will figure it out. Maybe we will eventually land one day
+01:04:07 on the surface of Jupiter and explore it. Right, these are crazy things that will never happen. - So, much of social media
+01:04:14 operates by AI algorithms, we talked this a little bit, recommending the content you see.
+01:04:21 So, on this idea of radical thought, how much should AI show you things you disagree with on Twitter and so on?
+01:04:30 In the Twitterverse in the-- - I hate this question. - Yeah? - Yeah.
+01:04:36 - 'Cause you don't know the answer? - No, no, no, no. Look, they've pushed out this cognitive Lego
+01:04:42 to us that will just lead to madness. It's good to be challenged with things that you disagree with.
+01:04:49 You answer is, no. It's gonna to be challenged with interesting things with which you currently disagree,
+01:04:53 but that might be true. I don't really care about whether or not I disagree with something or don't
+01:04:59 disagree, I need to know why that particular disagreeable thing is being pushed out. Is it because it's likely to be true?
+01:05:07 Is it because, is there some reason? Because I write a computer generator to come up with an infinite number
+01:05:13 of disagreeable statements that nobody needs to look at. So, please before you push things at me
+01:05:19 that are disagreeable, tell me why. - There is an aspect in which that question is quite dumb, especially because it's
+01:05:25 being used to almost very generically by these different networks to say, well we're trying to work this out,
+01:05:35 but you know, basically how much, do you see the value of seeing things you don't like? Not you disagree with, because
+01:05:43 it's very difficult to know exactly what you articulated, which is the stuff that's important for you to consider
+01:05:50 that you disagree with. That's really hard to figure out. The bottom line is the stuff you don't like.
+01:05:57 If you're a Hillary Clinton supporter, it might not make you feel good to see anything about Donald Trump.
+01:06:05 That's the only thing algorithms can really optimize for currently. They really can't-- - No, they can do better.
+01:06:11 - You think so? - No, we're engaged in some moronic back and forth where I have no idea why people who
+01:06:21 are capable of building Google, Facebook, Twitter are having us in these incredibly low level discussions.
+01:06:28 Do they not know any smart people? Do they not have the phone numbers of people who can elevate these discussions?
+01:06:36 - They do, but this-- - Please, no, no, no. - They're optimizing for a different thing and they are pushing
+01:06:41 those people out of those rooms. - No, they're optimizing for things we can't see, and yes, profit is there.
+01:06:48 Nobody's questioning that. But they're also optimizing for things like political control or the fact that
+01:06:54 they're doing business in Pakistan and so they don't wanna talk about all the things that they're going
+01:06:59 to bending to in Pakistan. So, we're involved in a fake discussion. - You think so, you think these conversations
+01:07:09 at that depth are happening inside Google? You don't think they have some basic metrics under user engagements?
+01:07:15 - You're having a fake conversation with us, guys. We know you're having a fake conversation. I do not wish to be part of your fake conversation.
+01:07:23 You know how to cool these units. You know high availability like nobody's business. My Gmail never goes down, almost.
+01:07:33 - So you think just because they can do incredible work on the software side with infrastructure, they can also deal with some of these difficult questions
+01:07:43 about human behavior, human understanding, you're not, (chuckling). - I mean, I've seen the developer's screens
+01:07:50 that people take shots of inside of Google. - [Lex] Yeah.
+01:07:55 - And I've heard stories inside of Facebook and Apple. We're not, we're engaged, they're engaging us in the wrong conversations.
+01:08:04 We are not at this low level. Here's one of my favorite questions. - Yeah. - Why is every piece
+01:08:10 of hardware that I purchase in text base equipped as a listening device? Where's my physical shutter to cover my lens?
+01:08:19 We had this in the 1970s. They had cameras that had lens caps, you know? How much would it cost
+01:08:25 to have a security model? Pay five extra bucks. Why is my indicator light software controlled?
+01:08:33 Why when my camera is on, do I not see that the light is on by putting it as something that cannot be bypassed?
+01:08:39 Why have you setup all of my devices, at some difficulty to yourselves, as listening devices and we don't even talk about this.
+01:08:47 This thing is total fucking bullshit. - Well, I hope, so. - Wait, wait, wait. - These discussions are
+01:08:53 happening about privacy, 'cause they're more difficult than you give 'em credit for-- - It's not just privacy.
+01:08:57 - Yeah? - It's about social control. We're talking about social control.
+01:09:03 Why do I not have controls over my own levers? Just have a really cute UI, where I can switch,
+01:09:09 I can dial things or I can at least see what the algorithms are. - You think that there are some
+01:09:15 deliberate choices being made here-- - There's emergence and there is intention. There are two dimensions.
+01:09:22 The vector does not collapse onto either axis. But the idea that anybody who suggests that intention is completely absent is a child.
+01:09:34 - That's really beautifully put and like many things you've said is gonna make me--
+01:09:38 - Can I turn this around slightly though? - Yeah. - I sit down with you and you say that you're
+01:09:42 obsessed with my feed. - Uh huh. - I don't even know what my feed is, what are
+01:09:46 you seeing that I'm not? - I was obsessively looking through your feed on Twitter, 'cause it was really
+01:09:53 enjoyable because there's the Tom Lehrer element, there's the humor in it. - By the way that feed is
+01:09:58 ericrweinstein on Twitter. - That's great. - @ericrweinstein. - Yeah.
+01:10:04 - No, but seriously, why? - Why did I find it enjoyable or what was I seeing? - What are you looking for?
+01:10:11 Why are we doing this? What is this podcast about? I know you got all these interesting people.
+01:10:16 I'm just some guy who is sort of a podcast guest. - Sort of a podcast, you're not even wearing a tie.
+01:10:22 I mean, - I'm not even wearing a tie. - It's not even a serious interview.
+01:10:27 I was searching for meaning, for happiness, for a dopamine rush, so short term and long term.
+01:10:34 - And how are you finding your way to me? What is, I don't honestly know what I'm doing to reach you. - The representing ideas
+01:10:41 which field common sense to me and not many people are speaking. So it's kinda like, the Intellectual Dark Web folks, right?
+01:10:54 These folks, from Sam Harris to Jordan Peterson, to yourself, are saying things where it's like,
+01:11:00 you're like saying, look there's an elephant and he's not wearing any clothes and I say, yeah, yeah,
+01:11:07 let's have more of that conversation. That's how I'm finding you. - I'm desperate to try to change
+01:11:13 the conversation we're having. I'm very worried we've got an election in 2020. I don't think we can
+01:11:17 afford four more years of a misinterpreted message, which is what Donald Trump was, and I don't want the
+01:11:25 destruction of our institutions. They all seem hellbent on destroying themselves. So, I'm trying to save
+01:11:30 theoretical physics, trying to save the New York Times, trying to save our various processes and I think it feels
+01:11:39 delusional to me that this is falling to a tiny group of people who are willing to speak out without getting
+01:11:47 so freaked out that everything they say will be misinterpreted and that their lives will be ruined through the process.
+01:11:53 I mean, I think we're in an absolutely bananas period of time and I don't believe it should fall to such
+01:11:58 a tiny number of shoulders to shoulder this weight. - So, I have to ask you on a capitalism side,
+01:12:05 you mentioned that technology is killing capitalism or has effects that are, well not unintended,
+01:12:12 but not what economists would predict or speak of capitalism creating. I just wanna talk to you about in general,
+01:12:21 the effect of even then, artificial intelligence or technology automation taking away jobs and these kinds
+01:12:27 of things and what you think is the way to alleviate that. Whether the Andrew Ang presidential candidate with
+01:12:33 universal basic income, UBI, what are your thoughts there? How do we fight off the negative effects of technology that--
+01:12:42 - All right, you're a software guy, right? - Yep. - A human being is a worker, is an old idea.
+01:12:48 - Yes. - A human being has a worker is a different object, right? - Yes.
+01:12:53 - So if you think about object oriented programming as a paradigm, a human being has a worker
+01:12:59 and a human being has a soul. We're talking about the fact that for a period of time, the worker that a human being has,
+01:13:07 was in a position to feed the soul that a human being has. However, we have two separate claims on the value in society.
+01:13:18 One is as a worker and the other is as a soul, and the soul needs sustenance, it needs dignity,
+01:13:23 it needs meaning, it needs purpose. As long as you're means of support is not highly repetitive, I think you have a while to go
+01:13:34 before you need to start worrying. But if what you do is highly repetitive and it's not terrible generative, you are in the crosshairs
+01:13:42 of for loops and while loops and that's what computers accel at; repetitive behavior and when I say repetitive I may mean things
+01:13:50 that have never happened through combinatorial possibilities, but as long as it has a looped characteristic to it,
+01:13:57 you're in trouble. We are seeing a massive push towards socialism because capitalists are slow to address
+01:14:07 the fact that a worker may not be able to make claims. A relatively undistinguished median member of our society
+01:14:15 still has needs to reproduce, needs to dignity and when capitalism abandons the median individual
+01:14:25 or the bottom tenth or whatever it's going to do, it's flirting with revolution and what concerns me
+01:14:34 is that the capitalists aren't sufficiently capitalistic to understand this. You really want to court authoritarian control
+01:14:43 in our society because you can't see that people may not be able to defend themselves in the marketplace
+01:14:48 because the marginal product of their labor is too low to feed their dignity as a soul?
+01:14:55 So, my great concern is that our free society has to do with the fact that we are self organized.
+01:15:02 I remember looking down from my office in Manhattan when Lehman Brothers collapsed and thinking,
+01:15:07 who's gonna tell all these people that they need to show up at work when they don't have a financial system
+01:15:14 to incentivize them to show up at work? So, my complaint is first of all, not with the socialists, but with the capitalists,
+01:15:22 which is you guys are being idiots. You're courting revolution by continuing to harp on the same old ideas that well, try
+01:15:28 harder, bootstrap yourself. Yeah, to an extent that works, to an extent. But we are clearly headed in
+01:15:36 a place that there's nothing that ties together our need to contribute and our need to consume and that may not
+01:15:44 be provided by capitalism, because it may have been a temporary phenomena. So, check out my article
+01:15:49 on anthropic capitalism and the new gimmick economy. I think people are late getting the wake up call,
+01:15:58 and we would be doing a better job saving capitalism from itself because I don't want this done
+01:16:04 under authoritarian control, and the more we insist that everybody who's not thriving in our society during their
+01:16:10 reproductive years in order to have a family, is failing at a personal level. I mean, what a disgusting thing that we're saying.
+01:16:18 What a horrible message. Who the hell have we become that we've so bought in to the Chicago model that
+01:16:22 we can't see the humanity that we're destroying in that process and I hate the thought of communism, I really do.
+01:16:32 My family has flirted with it decades past, it's a wrong, bad idea, but we are going to need to figure
+01:16:38 out how to make sure that those souls are nourished and respected and capitalism better have an answer.
+01:16:45 And I'm betting on capitalism, but I gotta tell ya, I'm pretty disappointed with my team.
+01:16:50 - So you're still on the capitalism team, just there's a theme here-- - [Eric] Well, radical capitalism.
+01:16:55 - Right, hyper capitalism, yeah. - Look, I want, I think hyper capitalism is gonna have to be coupled to hyper socialism.
+01:17:02 You need to allow the most productive people to create wonders and you gotta stop bogging them down
+01:17:08 with all of these extra nice requirements. You know, nice is dead. Good has a future.
+01:17:14 Nice doesn't have a future because nice ends up with gulags. - Damn, that's a good line. Okay, last question.
+01:17:22 You Tweeted today, a simple, quite insightful equation saying "Imagine that every unit f of fame you picked up,
+01:17:33 "s stalkers and h haters". So, I imagine s and h are dependent on your path to fame, perhaps a little bit--
+01:17:39 - Well, it's not a simple. I mean, people always take these things literally when you have like 280
+01:17:42 characters to explain yourself. - So you mean that's not a mathematical-- - No, there's no law. - Oh, okay, all right.
+01:17:51 - I just, I put the word imagine because I still have a mathematicians desire for precision.
+01:17:56 - Yes. - Imagine that this were true. - But there was a beautiful way to imagine
+01:18:00 that there is a law that has those variables in it-- - [Eric] Yeah, yeah. - And you've become quite famous these days,
+01:18:06 so how do you yourself optimize that equation with the peculiar kind of fame that you've gathered along the way?
+01:18:13 - I wanna be kinder. I wanna be kinder to myself, I wanna kinder to others, I wanna be able to have heart,
+01:18:22 compassion and these things are really important, and I have a pretty spectrumy kind of approach to analysis.
+01:18:29 I'm quite literal. I can go full Rain Man on you at any given moment. No, I can, I can.
+01:18:34 It's facultative autism, if you like, and people are gonna get angry because they want autism to be respected, but.
+01:18:41 When you see me coding or you see me doing mathematics, you know, I speak with speech apnea, (stutters),
+01:18:49 be right down for dinner, you know? - [Lex] Yeah. - We have to try to integrate ourselves
+01:18:54 in those tensions between, you know, it's sort of back to us as a worker and us as a soul. Many of us are optimizing one
+01:19:00 at the expense of the other. And I struggle with social media and I struggle with people making threats against our
+01:19:09 families and I struggle with just how much pain people are in. And if there's one message I would like to push out there,
+01:19:20 you're responsible, everybody, all of us, myself included, with struggling. Struggle mightily because it's nobody
+01:19:28 else's job to do your struggle for you. Now with that said, if you're struggling and you're trying, and you're trying to figure
+01:19:33 out how to better yourself and where you've failed, where you've let down your family, your friends, your workers,
+01:19:38 all this kind of stuff, give yourself a break, you know? If it's not working out, I have a lifelong relationship
+01:19:48 with failure and success. There's been no period of my life where both haven't been present
+01:19:53 in one form or another. And, I do wish to say that a lot of the times people think this is glamorous.
+01:20:01 I'm about to go, you know, do a show with Sam Harris. - Yeah. - People are gonna listen
+01:20:05 in on two guys having a conversation on stage. It's completely crazy when I'm always trying to figure out
+01:20:09 how to make sure that those people get maximum value and that's why I'm doing this podcast,
+01:20:15 you know, just give yourself a break. You owe us your struggle. You don't owe your family or your coworkers
+01:20:22 or your lovers or your family members success. As long as you're in there and you're picking yourself up,
+01:20:29 recognize that this new situation with the economy that doesn't have the juice to sustain our institutions,
+01:20:37 has caused the people who've risen to the top of those institutions to get quite brutal and cruel.
+01:20:43 Everybody is lying at the moment. Nobody is really truth teller. Try to keep your humanity about you.
+01:20:50 Try to recognize that if you're failing, if things aren't where you want them to be and you're struggling and you're trying to figure out
+01:20:56 what you're doing wrong, what you could do, it's not necessarily all your fault. We are in a global situation.
+01:21:03 I have not met the people who are honest, kind, good, successful. Nobody that I've met is checking all the boxes.
+01:21:12 Nobody's getting all 10s. So, I just think that's an important message that doesn't get pushed out enough.
+01:21:18 Either people wanna hold society responsible for their failures, which is not reasonable.
+01:21:24 You have to struggle, you have to try. Or they wanna say you're 100% responsible for your failures, which is total nonsense.

@@ -1,0 +1,452 @@
+00:00:01 the following is a conversation with Michael Stevens the creator of Vsauce one of the most popular educational
+00:00:08 YouTube channels in the world with over 15 million subscribers and over 1.7 billion views his videos often ask and
+00:00:17 answer questions that are both profound and entertaining spanning topics from physics to psychology
+00:00:23 popular questions include what if everyone jumped at once or what if the Sun disappeared or why are things creepy
+00:00:32 or what if the earth stopped spinning as part of his channel he created three seasons of minefield a series that
+00:00:39 explored human behavior his curiosity and passion are contagious and inspiring to millions of people and so as an
+00:00:46 educator has impacted contribution to the world is truly immeasurable this is the artificial intelligence podcast if
+00:00:55 you enjoy it subscribe I need to give five stars on a podcast support on patreon or simply connect with me on
+00:01:03 Twitter at lex Friedman's both fri DM aen i recently started doing ads at the end of the introduction i'll do one or
+00:01:09 two minutes after introducing the episode and never any ads in the middle that break the flow of the conversation
+00:01:16 I hope that works for you and doesn't hurt the listening experience this show is presented by cash app the number one
+00:01:23 finance app in the App Store I personally use cash app to send money to friends but you can also use it to buy
+00:01:30 sell and deposit Bitcoin in just seconds cash app also has a new investing feature you can buy fractions of a stock
+00:01:37 say $1 worth no matter what the stock price is brokerage services are provided by cash up investing a subsidiary of
+00:01:44 square and member CIBC I'm excited to be working with cash app to support one of my favorite organizations called first
+00:01:50 best known for their first robotics and Lego competitions they educate and inspire hundreds of thousands of
+00:01:57 students in over 110 countries and have a perfect rating and Charity Navigator which means the donated monies used in
+00:02:04 maximum effectiveness when you get cash app from the App Store Google Play and use code and Lex podcast you'll get $10
+00:02:13 and cash app will also donate $10 to the first which again is an organization that I've personally seen inspired girls and boys
+00:02:20 to dream of engineering a better world and now here's my conversation with Michael Stevens one of your deeper
+00:02:30 interests is psychology understanding human behavior you've pointed out how messy studying human behavior is and
+00:02:37 it's far from the scientific rigor of something like physics for example how do you think who can take psychology
+00:02:45 from where it's been in the 20th century to something more like what the physicists theoretical physicists are
+00:02:51 doing something precise something rigorous well we we could do it by finding the physical foundations of
+00:03:03 psychology right if if all of our emotions and moods and feelings and behaviors are the result of mechanical
+00:03:11 behaviors of atoms and molecules in our brains then can we find correlations perhaps like chaos makes that really
+00:03:18 difficult and the uncertainty principle and all these things like we can't know the position and velocity of every
+00:03:25 single you know quantum state in a brain probably but I think that if we you know can get to that point with psychology
+00:03:36 then we can start to think about consciousness in a physical and and mathematical way when we ask questions
+00:03:45 like well what is self reference how can you think about yourself thinking what are some mathematical structures that
+00:03:53 could bring that about there's ideas of in terms of consciousness and breaking it down into a physics there's ideas of
+00:04:02 pants like ism where people believe that whatever consciousness is is a fundamental part of reality it's almost
+00:04:10 like a physics law do you think what's your views on consciousness do you think it has this this deep part of reality or
+00:04:17 is it something that's deeply human and constructed by us humans start nice and light yeah an easy easy I think I asked
+00:04:26 you today has actually proven answer so yeah hypothesis so yeah I mean I should
+00:04:33 clarify this is all speculation yeah and I'm not an expert in any of these talk to topics and I'm not God but I think
+00:04:42 that consciousness is probably something that can be fully explained within the laws of physics I think that
+00:04:51 our you know bodies and brains and and the universe and and at the quantum level is so rich and complex
+00:04:58 I'd be surprised if we couldn't find a room for consciousness there and why should we be conscious why are we aware
+00:05:10 of ourselves that is a very strange and interesting and important question and I think for the next few thousand years
+00:05:17 we're going to have to believe in answers purely on faith but my guess is that we will find that you know within
+00:05:27 the configuration space of possible arrangements of the universe there are some that contain memories of others
+00:05:36 literally  Julian Barbour calls them time capsule states where you're like yeah not only do I have a scratch on my
+00:05:43 arm but also this state of the universe also contains a memory in my head of being scratched by my cat three days ago
+00:05:51 and for some reason those kinds of states of the universe are more plentiful or more likely when you say
+00:05:58 those states the ones would that contain memories of its past or ones that contain memories of its past and have
+00:06:06 degrees of consciousness just the first part because the I think the consciousness then emerges from the fact
+00:06:13 that a state of the universe that contains fragments or memories of other states is one where you're going to feel
+00:06:23 like there's time you're going to feel like yeah things in the happened in the past and I don't know what'll happen in
+00:06:28 the future because these states don't contain information about the future for some reason those kind of states are
+00:06:38 either more common more plentiful or you could use the anthropic principle just say well they're extremely rare but
+00:06:45 until you are in one or if you are in one then you can ask questions like you you're asking me on this podcast slide
+00:06:51 questions but yeah it's like what why are we conscious well because if we weren't we wouldn't be asking why we
+00:06:58 were you've kind of implied that you have a sense again hypothesis theorizing that the universe is deterministic
+00:07:08 what's your thoughts about freewill do you think of the universe is deterministic in a sense that it's
+00:07:14 unrolling in particular like there's a it's operating under a specific set of physical laws and when you have to set
+00:07:22 the initial conditions it will unroll in the exact same way in our particular line of the universe every time that is
+00:07:30 a very useful way to think about the universe it's done as well it's brought us to the moon it's brought us to where
+00:07:38 we are today right I would not say that I believe in determinism in that kind of an absolute form or actually I just
+00:07:47 don't care maybe it's true but I'm not gonna live my life like it is what in your son's because you've studied kind
+00:07:55 of how we humans think of the world what's in your view is the difference between our perception like how we think
+00:08:02 the world is in reality do you think there's a huge gap there like we delude ourselves as the whole thing is an
+00:08:08 illusion just everything about human psychology the way we see things and how things actually are all the things
+00:08:15 you've studied what's your sense how big is the gap between reality well sin purely speculative I think that we will
+00:08:21 never know the answer we cannot know the answer there is no experiment to find an answer to that question everything we
+00:08:30 experience is an event in our brain when I look at a cat I'm not even I can't prove that there's a cat there all I am
+00:08:40 experiencing is the perception of a cat inside my own brain I am only a witness to the events of my mind I think it is
+00:08:51 very useful to infer that if I witness the event of cat in my head it's because I'm looking at a
+00:08:57 cat that is literally there and has its own feelings and motivations and should be pet and given food and water and love
+00:09:04 I think that's the way you should live your life but whether or not we live in a simulation I'm a brain-in-a-vat I
+00:09:15 don't know and do care mmm I don't really well I care because it's a fascinating question and it's a
+00:09:21 fantastic way to get people excited about all kinds of topics physics psychology consciousness philosophy but
+00:09:29 at the end of the day what would the difference be if you the cat needs to be fed at the end of the day otherwise
+00:09:36 it'll be a dead cat right but if it's not even a real cat then it's just like a video game cat and right so what's the
+00:09:44 difference between killing a a digital cat in a video game because of neglect versus a real cat it seems very
+00:09:50 different to us psychologically like I don't really feel bad about oh my gosh I forgot to feed my Tamagotchi right but I
+00:09:56 would feel terrible if I forgot to feed my actual cats so can you just touch on the topic of simulation do you find this
+00:10:06 thought experiment that we're living in a simulation useful inspiring a constructive in any kind of way do you
+00:10:13 think it's ridiculous do you think it could be true or is it just a useful thought experiment I think it is
+00:10:20 extremely useful as a thought experiment because it makes sense to everyone especially as we see virtual reality and
+00:10:29 computer games getting more and more complex you're not talking to an audience in like Newton's time where
+00:10:36 you're like imagine a clock that it has mechanics in it that are so complex that it can create love and everyone's like
+00:10:44 no but today you really start to feel you know man at what point is this little robot friend of mine gonna be
+00:10:53 like someone I don't want to cancel plans with yeah you know and so it's a great the thought experiment of do we
+00:11:01 live in a simulation am i a brain and a bat that has just been given electrical impulses from some nefarious
+00:11:10 other beans so that I believe that I live on earth and that I have a body and all of this and the fact that you can't
+00:11:16 prove it either way is a fantastic way to introduce people to some of the deepest questions so you mentioned a
+00:11:23 little buddy that you would want to cancel an appointment with so that's a lot of our conversations that's where my
+00:11:32 research is artificial intelligence and I apologize but you're such a fun person to ask these big questions with well I
+00:11:38 hope I could give some answers that are interesting well because because of you've sharpened your brain's ability to
+00:11:47 explore some of the most some of the questions then many signs is actually afraid of even touching which is
+00:11:53 fascinating and I think you're in that sense ultimately a great scientist through this process of sharpening your
+00:12:00 brain well I don't know if I am a scientist I think you know science is a way of knowing and there are a lot of
+00:12:09 questions I investigate that are not scientific questions on like minefield we have definitely done scientific
+00:12:16 experiments and studies that had hypotheses and all that but you know not to be too like Precious about what does
+00:12:25 the word science mean but I think I would just describe myself as curious and I hope that that curiosity is
+00:12:31 contagious so to you the scientific method is deeply connected to science because your curiosity took you to
+00:12:39 asking questions to me asking a good question even if you feel society feels that it's not a question within the reach of
+00:12:48 science currently to me that asking the question is the biggest step of the scientific process the scientific method
+00:12:58 is the second part and that may be what traditionally is called science but to me asking the questions being brave
+00:13:03 enough to ask the questions being curious and not constrained by what you're supposed to think is is just true
+00:13:11 or what it means to be a scientist to me it's certainly a huge part of what it means to be a human if I were to say you
+00:13:19 know what I don't believe in forces I think that when I push on a massive object a ghost leaves my body
+00:13:25 and enters the object I'm pushing and these ghosts happen to just get really lazy when they're around massive things
+00:13:32 and that's why F equals MA oh and by the way the laziness of the ghost is in proportion to the mass of the object so
+00:13:38 boom prove me wrong every experiment well you can never find the ghost and so none of that theory is scientific but
+00:13:48 once I start saying can I see the ghost Why should there be a ghost and if there aren't ghosts what might I expect and I
+00:13:56 start to do different tests to see is this falsifiable are there things that should happen if there are ghosts or
+00:14:03 things that shouldn't happen and do they you know what do I observe now I'm thinking scientifically I don't think of
+00:14:10 science as wow a picture of a black hole that's just a photograph that's an image that's data that's a sensory and
+00:14:17 reception experience science is how we got that and how we understand it and how we believe in it and how we reduce
+00:14:24 our uncertainty around what it means but I would say I'm deeply within the scientific community and and sometimes
+00:14:31 disheartened by the elitism of the thinking sort of not allowing yourself to think outside the box so allowing the
+00:14:38 possibility of going against the conventions asides I think is is a beautiful part some of the greatest
+00:14:47 scientists in history I don't know I I'm impressed by scientists every day and revolutions in our knowledge of the
+00:15:00 only under very special circumstances it is very scary to challenge conventional thinking and and and risky because let's
+00:15:10 go back to elitism and ego right if you just say you know what I believe in the spirits of my body and all forces are
+00:15:17 actually created by invisible creatures that that that transfer themselves between objects
+00:15:26 if you ridicule every other theory and say that you're what you're you're correct then ego gets involved and you
+00:15:32 just don't go anywhere but the fundamentally the question of well what is a force isn't incredibly important we
+00:15:40 need to have that conversation but it needs to be done in this very political way of like let's be respectful of
+00:15:45 everyone and let's realize that we're all learning together and not shutting out other people and so when you look at
+00:15:55 a lot of revolutionary ideas they were not accepted right away and you know Galileo had a couple of problems with
+00:16:03 the authorities and later thinkers Descartes was like all right look I kind of agree with Galileo but I'm gonna have
+00:16:12 to not say that I'll have to create and invent and write different things that keep me from being in trouble but we
+00:16:17 still slowly made progress revolutions are difficult in all forms and certainly in science before we get to AI on topic
+00:16:24 of revolutionary ideas let me ask on a reddit AMA you said that is the earth flat is one of the favorite questions
+00:16:32 you've ever answer yeah speaking of revolutionary ideas so your video on that people should definitely watch is
+00:16:40 really fascinating can you elaborate why you enjoyed answering this question so much yeah well it's a long story I
+00:16:50 remember a long time ago I was living in New York at the time so had to have been like 2009 or something I visited the
+00:16:58 Flat Earth forums and this was before the Flat Earth theories became as sort of mainstream as they are I'm sorry to
+00:17:06 ask the dumb question forums online forums yeah okay the Flat Earth Society I don't know if it's con org but
+00:17:12 went there and I was reading you know their ideas and how they responded to typical criticisms of well the earth
+00:17:21 isn't flat because what about this and I could not tell and I mentioned this in my video I couldn't tell how many of
+00:17:28 these community members actually believed the earth was flat or were just trolling and I realized that the
+00:17:37 fascinating thing is how do we know anything and what makes for a good belief versus a maybe not so tenable or
+00:17:47 good belief and so that's really what my video about earth being flat is about it's about look there are a lot of
+00:17:55 reasons the earth is probably not flat but a Flat Earth believer can respond to every single one of them but it's all in
+00:18:05 an ad hoc way and all of these all their rebuttals aren't necessarily gonna form a cohesive noncontradictory whole and I
+00:18:12 believe that's the episode where I talk about Occam's razor and Newton's flaming laser sword and then I say well you know
+00:18:22 what wait a second we know that space contracts as you move and so to a particle moving near the speed of light
+00:18:29 towards Earth earth would be flattened in the direction of that particles travel so to them earth is flat like we
+00:18:38 need to be you know really generous to even wild ideas because they're all thinking they're all the communication
+00:18:47 of ideas and what else can it mean to be a human yeah and I think I'm a huge fan of the Flat Earth theory quote-unquote
+00:18:57 in the sense that to me feels harmless to explore some of the questions of what it means to believe something what it
+00:19:04 means to explore the edge of science and so on it's because it's a harm it's to me nobody gets hurt whether the earth is
+00:19:10 flat or round not literally but I mean intellectually when we're just having a conversation that said again to elitism
+00:19:18 I find that scientists roll their eyes way too fast on the Flat Earth the kind of dismissal that I see to this you
+00:19:27 of an ocean they haven't like sat down and say what are the arguments they're being proposed and this is why these
+00:19:33 arguments incorrect so this is you know that should be something that scientists should always do even to the most sort
+00:19:42 of ideas that seem ridiculous so I like this is almost it's almost my test when I ask people what they think about Flat
+00:19:49 Earth theory to see how quickly they roll their eyes well yeah I mean let me go on record
+00:19:57 yeah and say that the earth is not flat it is a three-dimensional spheroid however I don't know that and it has not
+00:20:08 been proven signs doesn't prove anything it just reduces uncertainty could the earth actually be flat extremely
+00:20:19 unlikely yes extremely unlikely and so it is a ridiculous notion if we care about how probable and certain our ideas
+00:20:27 might be but I think it's incredibly important to talk about science in that way and to not resort to well it's true
+00:20:38 it's true in the same way that a mathematical theorem is true and I think we're kind of like being pretty pedantic
+00:20:50 about defining this stuff but like sure I could take a rocket ship out and I could sorbets earth and look at it and
+00:20:57 it would look like a ball right but I still can't prove that I'm not living in a simulation that i'm not a
+00:21:01 brain-in-a-vat that this isn't all an elaborate ruse created by some technologically advanced
+00:21:06 extraterrestrial civilization right so there's always some doubt and that's fine that's exciting and I think that
+00:21:14 kind of doubt practically speaking is useful when you start talking about quantum mechanics or string theory sort
+00:21:21 of it helps to me that kind of little adds a little spice into the thinking process of scientists so I mean just I
+00:21:30 just as a thought experiment your video kind of okay say the earth is flat what would the forces when you walk
+00:21:37 about this flat or earth feel like - the human that's a really nice thought experiment to think about right cuz
+00:21:43 what's really nice about it is that it's it's a funny thought experiment but you actually wind up accidentally learning a
+00:21:50 whole lot about gravity and about relativity and geometry and I think that's really the goal of what I'm doing
+00:21:57 I'm not trying to like convince people that the earth is round I feel like you either believe that it is or you don't
+00:22:03 and like that's you know how can I change that yeah what I can do is change how you think and how you are introduced
+00:22:12 to important concepts like well how does gravity operate oh it's all about the center of mass of an object so right on
+00:22:18 a sphere we're all pulled towards the middle essentially the centroid geometrically but on a disk ooh you're
+00:22:24 gonna be pulled at a weird angle if you're out near the edge and that stuff's fascinating yeah and to me
+00:22:31 that's that that was that that particular video opened my eyes even more to what gravity is it's just a
+00:22:39 really nice visualization to love because you always imagine gravity was spheres with masses that are spheres
+00:22:47 yeah and imagining gravity on masses that are not spherical some some other shape but in here a plate a flat object
+00:22:54 is really interesting it makes you really kind of visualizing it they're much a way the force yeah even if a disc
+00:23:05 the size of Earth would be impossible I think anything larger than like the moon basically needs to be a sphere
+00:23:15 because gravity will round it out so you can't have a teacup the size of Jupiter right there's a great book about a
+00:23:22 teacup in the universe that highly recommend I don't remember the author I forget her name but it's a
+00:23:27 wonderful book so look it up I think it's called teacup in the universe still linked on this point
+00:23:34 briefly your videos are generally super people love them right if you look at the sort of number of likes versus
+00:23:40 dislikes it's this measure of YouTube right is incredible and as do I but this particular Flat Earth video has more
+00:23:53 dislikes that than usual what what are you on that topic in general what's your sense how big is the community not just
+00:24:02 who believes in Flat Earth but sort of the anti scientific community that naturally distrust scientists in a way
+00:24:12 that's that's not an open-minded way like really just distrust scientists like they're bought by some place
+00:24:17 they're kind of mechanism of the some kind of bigger system that's trying to manipulate him ins what's your sense of
+00:24:24 the size of that community you're one of the sort of great educators in the world that educates people on the exciting
+00:24:36 power of science so you're kind of up against this community what's your sense of it i I really have no idea I haven't
+00:24:44 looked at the likes and dislikes on the Flat Earth video and so I would wonder if it has a greater percentage of
+00:24:52 dislikes than usual is that because of people disliking it because they you know think that it's a video about earth
+00:25:01 being flat and they find that ridiculous and they just like it without even really watching much do they wish that I
+00:25:07 was more like dismissive of this latter theories yeah that's awesome I know there are a lot of response videos that
+00:25:16 kind of go through the episode and are pro Flat Earth mm-hmm but I don't know if there's a larger community of
+00:25:25 unorthodox thinkers today than there have been in the past okay and I just want to not lose them I want them to
+00:25:33 keep listening and thinking and by calling them all you know idiots or something like that is no good
+00:25:40 because how idiotic are they really I mean the earth isn't a sphere at all like we know that it's an oblate
+00:25:49 spheroid and that in and of itself is really interesting and I investigated that in which way is down where I'm like
+00:25:54 really down does not point towards the center of the earth it's it points in a different direction
+00:26:00 depending on what's underneath you and what's above you and what's around you the whole universe is is tugging on me
+00:26:08 and then you also show that gravity is non-uniform work across the globe like if you just gues thought experiment if
+00:26:17 you build a bridge all the way and all the way across the earth and then just knock out its pillars what would happen
+00:26:25 yeah and you described how it would be like a very chaotic unstable thing that's happening because gravity is
+00:26:31 non-uniform all throughout the earth yeah in small spaces like the ones we work in we can essentially assume that
+00:26:41 gravity is uniform but it's not it is weaker the further you are from the earth and it also is going to be it's
+00:26:49 it's radially pointed towards the middle of the earth so a really large object will feel tidal forces because of that
+00:26:56 non-uniform this and we can take advantage of that with satellites right gravitational induced torque it's a
+00:27:01 great way to align your satellite without having to use fuel or any kind of you know engine so let's jump back to
+00:27:08 it artificial intelligence what's your thought of the state of where we are at currently with artificial intelligence
+00:27:14 and what do you think it takes to build human level or superhuman level intelligence I don't know what
+00:27:21 intelligence means that's my biggest question at the moment and it's I think it's cuz my instinct is always to go
+00:27:27 well what are the foundations here of our discussion what does it mean to be intelligent how do we measure the
+00:27:35 intelligence of an artificial machine or a program or something can we say that humans are intelligent because there's
+00:27:42 also a fascinating field of how do you measure human intelligence of course but if we just take that for granted saying
+00:27:49 that the whatever this fuzzy intelligence thing we're talking about humans kind of have it what would be a
+00:27:57 good test for you for touring develop a test that's natural language conversation would that impress you
+00:28:03 a chatbot that you'd want to hang out and have a beer with of you know for a bunch of hours or have dinner plans with
+00:28:09 with is that a good test natural energy conversation is there something else that would impress you or is that also
+00:28:15 to differ yeah I'm pretty much impressed by everything well I think if Roomba if there was a chat bot that was like
+00:28:23 incredibly and I don't know really had a personality and I if I didn't be the the Turing test right like if I'm unable to
+00:28:33 tell that it's not another person but then I was shown a bunch of wires and mechanical components and then it was
+00:28:40 like that's actually what's you're talking to I don't know if I would feel that guilty destroying it I would feel
+00:28:49 guilty because clearly it's well-made and it's a really cool thing it's like destroying a really cool car
+00:28:54 or something but I would not feel like I was a murderer so yeah at what point would I start to feel that way and and
+00:29:01 this is such a subjective psychological question if you give it movement or if you have it mmm act as though or perhaps
+00:29:11 really feel pain as I destroy it and scream and resist then I'd feel that yeah that's beautifully put and let's
+00:29:21 just say act like it's in pain so if you just have a robot that it's not screams just like moans in pain if you kick it
+00:29:30 yeah that immediately just puts it in a class that we humans it becomes it we anthropomorphize it almost immediately
+00:29:38 it becomes human yeah that psychology question as opposed to sort of a physics question right I think that's a really
+00:29:43 good instinct to have you know if the robot screams screams and and and moans even if you don't believe that it has
+00:29:53 the mental experience the qualia of pain and suffering I think it's still a good instinct to say you know what I'd rather
+00:30:01 not hurt it the problem is that instant can get us in trouble because then robots can manipulate that and you know
+00:30:08 there's different kinds of robots as robots like the Facebook and the YouTube algorithm that recommends the video and
+00:30:13 they can manipulate in the same kind of way well let me ask you just to stick on artificial intelligence for a second do
+00:30:19 you have worries about existential threats from AI or extension tests from other technologies like nuclear weapons
+00:30:27 that could potentially destroy life on Earth or damage it to a very significant degree yeah of course I do
+00:30:34 especially the weapons that we create there's all kinds of famous ways to think about this and one is that Wow
+00:30:42 what if we don't see advanced alien Technology what if we reach a point and I think there's a channel-body to cheese
+00:30:56 I wish I remember the name of the channel but he delves into this this kind of limit of maybe once you discover
+00:31:05 radioactivity and its power you've reached this important hurdle and the reason that the skies are so empty is
+00:31:12 that no one's ever like managed to survive as a civilization once they have that destructive power and when it comes
+00:31:22 to AI I'm not really very worried because I think that there are plenty of other people that are already worried
+00:31:28 enough and oftentimes these worries are just they just get in the way of progress and they're there questions
+00:31:38 that we should address later and you know I think I talked about this in my interview with the self-driving
+00:31:48 autonomous vehicle guy as I think it was a bonus scene from the trolley problem episode and I'm like wow what should a
+00:31:55 car do if like this really weird contrived scenario happens where it has to like swerve and like save the driver
+00:32:01 but kill a kid and he's like well you know what would a human do and if we resist technological progress because
+00:32:09 we're worried about all of these little issues then it gets in the way and we shouldn't avoid those problems but we
+00:32:16 shouldn't allow them to be stumbling blocks - advancement so the you know folks like Sam Harris or Elon Musk are saying that
+00:32:25 we're not worried enough so worried should not paralyze technological progress but we're sort of marching
+00:32:33 technologies marching forward without the key scientists the developing and technology worrying about the overnight
+00:32:43 having some effects that would be very detrimental to society so the push back on your thought of the idea that there's
+00:32:51 enough people worrying about it Elon Musk says there's not enough people worrying about it I think that's the
+00:32:59 kind of balances you know it's like folks to who really focused on nuclear deterrence are saying there's not enough
+00:33:05 people worried about nuclear deterrence right so it's an interesting question of what is a good threshold of people to
+00:33:13 worry about these and if it's too many people that are worried you're right it'll be like the the press would over
+00:33:19 report on it and there'll be technological halt technology progress if not enough then we can march straight
+00:33:27 ahead into that abyss that human beings might be destined for with the progress of technology yeah I don't know what the
+00:33:34 right balance is of how many people should be worried and how worried should they be but we're always worried about
+00:33:40 new technology you know we know that Plato was worried about the written word he's like we shouldn't teach people to
+00:33:46 write because then they won't use their minds to remember things there there have been concerns over technology and
+00:33:53 its advancement since the beginning of recorded history and so you know I think however these conversations are really
+00:34:01 important to have because again we learn a lot about ourselves if we're really scared of some kind of AI like coming
+00:34:09 into being that is conscious or whatever and and can self-replicate we already do that every day it's called
+00:34:15 humans being born they're not artificial they're they're they're humans but they're intelligent and I don't want to
+00:34:20 live in a world where we're worried about babies being born because what if they become evil right what if they
+00:34:26 become mean people what if they what if they're thieves maybe we should just like what not have
+00:34:32 babies born like maybe we shouldn't create AI it's like you know we will want to have safeguards in place yeah in
+00:34:41 the same way that we know look a kid could be born that becomes some kind of evil person but we have loss right and
+00:34:50 it's possible that with advantage in etics and general be able to you know it's a scary thought to say that you
+00:35:00 know the this my child if born would be would have an 83% chance of being a psychopath right like
+00:35:11 being able to if it's something genetic if there's some sort of and what to use that information what to do with that
+00:35:20 information is a difficult ethical yeah I'd like to find an answer that isn't well let's not have them live you know
+00:35:27 I'd like to find an answer that is well all human life is worthy and if you have an 83% chance of becoming a psychopath
+00:35:38 well you still deserve dignity yeah and you still deserve to be treated well and a you still have rights
+00:35:45 at least at this part of the world at least in America there's a respect for individual life in that way that's well
+00:35:54 to me but again I'm in this bubble is a beautiful thing but there's other cultures or individual human life is not
+00:36:02 that important that we're a society so I was born in Soviet Union where the strength of nation and society together
+00:36:09 is more important than the any one particular individual there's an interesting also notion the stories we
+00:36:14 tell ourselves I like the one where individuals matter but it's unclear that that was what the future holds well yeah
+00:36:21 and I mean let me even throw this out like what is artificial intelligence how can it be artificial I really think that
+00:36:28 we get pretty obsessed and stuck on the idea that there is some thing that is a wild human a pure human organism without
+00:36:37 technology but I don't think that's a real thing I think that humans and human technology
+00:36:42 are one or Gizem look at my glasses okay if an alien came down and saw me would they
+00:36:50 necessarily know that this is an invention that I don't grow these organically from my body they wouldn't
+00:36:57 know that right away and the written word and spoons and cups these are all pieces of technology we are not alone as
+00:37:09 an organism and so the technology we create whether it be video games or artificial intelligence that can
+00:37:16 self-replicate and hate us it's actually all the same organism I when you're in a car where do you end in the car begin it
+00:37:22 seems like a really easy question to answer but the more you think about it the more you realize wow we are in this
+00:37:28 symbiotic relationship with our inventions and there are plenty of people who are worried about it and
+00:37:35 there should be but it's it's inevitable and I think the even just us think of ourselves as individual intelligences
+00:37:45 maybe silly notion because you know it's much better to think of the entirety of human civilization living all living
+00:37:52 organs on earth as a single living organism right as a single intelligent creature because you're right
+00:37:57 everything's intertwined everything is deeply connected so we mention Elon Musk see you're a curious lover of science
+00:38:08 what do you think of the efforts that Elon Musk is doing with space exploration with electric vehicles with
+00:38:16 autopilot sort of getting into the space of autonomous vehicles was boring under la and neural link trying to communicate
+00:38:25 brain machine interfaces communicate between machines and human brains well it's really inspiring I mean look at the
+00:38:37 fandom that he's amassed it's it's not common for someone like that to have such a following until you're a nerd
+00:38:45 yeah so it's really it's really exciting but I also think that a lot of responsibility comes with that kind of
+00:38:50 power so like if I met him I would love to hear how he feels about the responsibility he has when when there
+00:38:59 our people who are such a fan of your ideas and your dreams and share them so closely with you you have a lot of power
+00:39:09 and he didn't always have that you know he wasn't born as Elon Musk's well he was but well he was named that later but
+00:39:17 the point is that that that I I want to know the psychology of becoming a figure like him well I don't even know how to
+00:39:25 phrase the question right but it's a question about what do you do when you were you're following your fans become
+00:39:36 so you know large that it's almost bigger than you and how do you how do you responsibly manage that and maybe it
+00:39:42 doesn't worry him at all and that's fine too but I'd be really curious and I think there are a lot of people that go
+00:39:48 through this when they realize whoa there are a lot of eyes on me there are a lot of people who really take what I
+00:39:56 say very earnestly and and take it to heart and will defend me and who that's that's some that that can be dangerous
+00:40:06 and and you have to be responsible with it both in terms of impact in society and psychologically for the individual
+00:40:13 just just the the burden psychologically Annie on yeah yeah how does he how does he think about that part of his persona
+00:40:22 well let me throw that right back at you because in some ways you're just a funny guy that gotten a humongous following a
+00:40:34 funny guy with a curiosity mm-hmm you've got a huge following how do you psychologically deal with the
+00:40:41 responsibility in many ways you ever reach in many ways bigger than you are musk what is your what is the burden
+00:40:49 that you feel in educating being one of the biggest educators in the world where everybody's listening to you and
+00:40:57 actually everybody like that most of the world that uses YouTube for educational material trust you as a source of good
+00:41:08 strong scientific thinking it's a burden and I try to approach it with a lot of humility and sharing like I'm not out
+00:41:19 there doing a lot of scientific experiments I am sharing the work of real scientists and I'm celebrating
+00:41:25 their work and the way that they think and the power of curiosity but I want to make it clear at all times that like
+00:41:34 look you know we don't know all the answers and I don't think we're ever going to reach a point where we're like
+00:41:40 wow and there you go that's the universe it's this equation you plug in some conditions or whatever and you do the
+00:41:45 math and you know what's gonna happen tomorrow I don't think we're gonna reach that point but I I think that there is a
+00:41:54 tendency to sometimes believe in science and become elitist and become I don't know hard when in reality it should
+00:42:01 humble you and make you feel smaller I think there's something very beautiful about feeling very very small and very
+00:42:09 weak and to feel that you need other people so I try to keep that in mind and say look thanks for watching Vsauce
+00:42:15 is not I'm not Vsauce you are when I start the episodes I say hey Vsauce Michael here
+00:42:21 Vsauce and Michaels are actually a different thing in my mind I don't know if that's always clear but yeah I have
+00:42:28 to approach it that way because it's not about me yeah so it's not even you're not feeling the responsibility you're
+00:42:35 just sort of plugging into this big thing that is scientific exploration of our reality and you're a voice that
+00:42:43 represents a bunch but you're just plugging into this big Vsauce ball that others millions of others have plugged
+00:42:51 into yeah I'm just hoping to encourage curiosity and you know we're responsible thinking and an embracement of doubt and
+00:43:06 being okay with that so next week talking to Chris Osgood row I'm not sure if you familiar who he is but he's the
+00:43:12 VP of engineering head of the quote unquote YouTube algorithm this search and Discovery's yeah
+00:43:20 let me ask first high level do you have do you have a question for him that if you can get an ounce
+00:43:29 honest answer that you would ask but more generally how do you think about the YouTube algorithm that drives some
+00:43:36 of the motivation behind not know some of the design decisions you make as you ask and answer some of the questions you
+00:43:43 do how would you improve this algorithm in your mind in general so just the what would you ask him and outside of that
+00:43:50 how would you like to see the algorithm improve well I think of the algorithm as a mirror it reflects what people put in
+00:44:00 and we don't always like what we see in that mirror from the individual mirror to the
+00:44:05 individual Meritor of the society both in the aggregate it's reflecting back what people on average want to watch and
+00:44:14 when you see things being recommended to you it's reflecting back what it thinks you want to see and specifically I would
+00:44:23 guess that it's not just what you want to see but what you will click on and what you will watch some of and stay on
+00:44:33 YouTube because of I don't think that is all me guessing but I don't think that YouTube cares if you only watch like a
+00:44:42 second of a video as long as the next thing you do is open another video if you close the app or close the site
+00:44:50 that's a problem for them because they're not a subscription platform they're not like look you're giving us
+00:44:56 20 bucks a month no matter what so who cares they need you to watch and spend time there and see ads so what one of
+00:45:03 the things I'm curious about whether they do consider longer term sort of develop you your longer-term development
+00:45:13 as a human being which I think ultimately will make you feel better about using YouTube in the long term and
+00:45:19 allowing you to stick with it for longer because even if you feed the dopamine rush in the short-term and you keep
+00:45:27 clicking on cat videos the eventually you sort of wake up like from a drug and say I need to quit this so I wonder how
+00:45:32 much they're trying to optimize for the long term because when I look at the you know your videos aren't
+00:45:39 and sort of no offense but they're not the most clickable they're both the most clickable and I feel I watch the entire
+00:45:48 thing and I feel a better human after I watch it right so like they're not for just optimizing for the click ability is
+00:45:59 I hope so my thought is how do you think of it and this would affect your own content like how deep you go how
+00:46:05 profound you explore the directions and so on I I've been really lucky in that I don't worry too much about the algorithm
+00:46:14 I mean look at my thumbnails I don't really go too wild with them and with minefield where I'm in partnership with
+00:46:21 YouTube on the thumbnails I'm often like let's pull this back let's be mysterious but usually I'm just trying to do what
+00:46:27 everyone else is not doing so if everyone's doing crazy Photoshop kind of thumbnails I'm like what if the
+00:46:34 thumbnails just align yeah and what if the title is just a word yeah and I I kind of feel like all of the Vsauce
+00:46:42 channels of cultivating an audience that expects that and so they would rather Jake make a video that's just called
+00:46:49 stains then one called I explored stains is shocking yeah but there are other audiences out there that want that and
+00:46:56 you know I think most people kind of we don't want what you see the algorithm favoring which is mainstream traditional
+00:47:03 celebrity and news kind of information I mean that's what makes YouTube really different than other streaming platforms
+00:47:08 no one's like what's going on in the world I'll open up Netflix to find out but you do open up Twitter to find that
+00:47:14 out you open up Facebook you can open up YouTube because you'll see that the trending videos are like what happened
+00:47:19 amongst the traditional mainstream people in different industries and that's what's being shown and it's it's
+00:47:28 not necessarily YouTube saying we want that to be what you see it's that that's what people click on when they see
+00:47:33 ariana grande you know reads a love letter from like her high school sweetheart they're like I want to see that
+00:47:39 and when they see a video from me that's got some lines in math and it's called law and causes they're like well I mean
+00:47:46 that I'm just on the bus like I don't have time to dive into a whole lesson so you know before
+00:47:52 get super mad at YouTube you should say really they're just reflecting back human behavior is there something you
+00:47:59 would improve about the algorithm knowing of course that as far as we're concerned it's a black box or don't know
+00:48:05 how it works right and I don't think that even anyone at YouTube really knows what it's doing they know what they've
+00:48:10 tweaked but then it learns I think that it learns and it decides how to behave and sometimes there the YouTube
+00:48:17 employees are left going I don't know maybe we should like change the value of how much it you know worries about watch
+00:48:23 time and maybe it should worry more about something I don't know but I mean I would like to see I don't know what
+00:48:31 they're doing and not doing well is there a conversation that you think they should be having just internally whether
+00:48:37 they're having it or not is there something should they be thinking about the long-term future should they be
+00:48:45 thinking about educational content and whether that's educating about what just happened in the world today news or
+00:48:51 educational content like what you're providing which is asking big to have timeless questions about how the way the
+00:48:56 world works well it's interesting like what should they think about because it's called
+00:49:03 YouTube not our tube and if that's why I think they have so many phenomenal educational creators yes you don't have
+00:49:11 shows like three blue one brown or physics girl or Looking Glass universe or up an atom or brain scoop or I mean I
+00:49:19 could go on and on they aren't on amazon prime and netflix and and they don't have Commission shows from those
+00:49:25 platforms it's all organically happening because there are people out there that want to share their passion for learning
+00:49:32 that want to share their curiosity and YouTube could you know promote those kinds of shows more but like first of
+00:49:42 all they probably wouldn't get as many clicks and YouTube needs to make sure that the average user is always clicking
+00:49:48 and staying on the site they could still promote it more for the good of society but then we're making some really weird
+00:49:53 claims about what's good for society because I think that cat videos are also an incredibly important part of what it
+00:49:59 means to be a human I mentioned this quote before from unamuno about look I've seen a cat
+00:50:06 estimate distances and calculate a jump you know more often and I've seen a cat cry and so things that that play with
+00:50:13 our emotions and make us feel things can be cheesy and can feel cheap but like man that's very human and so even the
+00:50:23 dumbest vlog is still so important that I don't think it I have a better claim to take its spot than it has to have
+00:50:31 that spot so it puts a mirror to us the beautiful parts the ugly parts the shallow parts the Jeep ours you're right
+00:50:39 what I would like to see is you know I miss the days when engaging with content on YouTube helped push it into my
+00:50:48 subscribers timelines it used to be that when I liked a video say from veritasium it would show up in the feed on the
+00:50:56 front page of the app or the website of my subscribers and I knew that if I liked a video I could send it a hundred
+00:51:04 thousand views or more that no longer is true but I think that was a good user experience when I subscribe to someone
+00:51:11 when I'm following them I want to see more of what they like I want them to also curate the feed for me and I think
+00:51:17 that Twitter and Facebook are doing that and also some ways that are kind of annoying but I would like that to happen
+00:51:23 more and I think we would see communities being stronger on YouTube if it was that way instead of YouTube going
+00:51:28 well technically Michael like this veritasium video but people are way more likely to click on carpool karaoke so I
+00:51:35 don't even care who they are just given that not saying anything against carpool karaoke that is a extremely important
+00:51:43 part of our society what it means to be a human on earth you know but I'll say it sucks but  yeah but a lot of people
+00:51:51 would disagree with you and they should be able to see as much of that as they want yes and even people who don't think
+00:51:56 they like it should still be really aware of it because it's such an important thing and such an influential
+00:52:02 thing but yeah I just wish that like new channels I discover and that I subscribe to I wish that my subscribers found out
+00:52:08 about that because especially in the education community a rising tide floats all boats if you watch a video from
+00:52:15 number file you're just more likely to want to watch an episode from me whether it be on Vsauce
+00:52:19 one or ding it's not it's not competitive in the way that traditional TV was where it's like well if you tuned
+00:52:23 in to that show it means you're not watching mine because they both air at the same time so helping each other out
+00:52:29 through collaborations takes a lot of work but just through engaging commenting on their videos liking their
+00:52:36 videos subscribing to them whatever that I would love to see become easier and more powerful so a quick and impossibly
+00:52:47 deep question last question about mortality you've spoken about death as an interesting topic do you think about
+00:52:55 your own mortality yeah every day it's really scary so what do you think is the meaning of life that
+00:53:08 mortality makes very explicit so why are you here on earth Michael what's the point of this whole thing what you know
+00:53:24 what does mortality in the context of the whole universe make you realize about yourself just you Michael Stevens
+00:53:32 well it makes me realize that I am destined to become an ocean I'm destined to become a memory and we can extend
+00:53:40 life I think there's really exciting things being done to extend life but we still don't know how to like you know
+00:53:48 protect you from some accident that could happen you know some unforeseen thing maybe we could like save my
+00:53:55 connectome and like recreate my consciousness digitally but even that is could it could be lost if it's stored on
+00:54:02 a physical medium or something so basically I just think that embracing and realizing how cool it is that like
+00:54:11 some day I will just be an idea and there won't be a Michael anymore that can be like no that's not what I meant
+00:54:17 it'll just be what people like they have to guess what I meant and they'll remember me and how I live on and as
+00:54:27 that memory you will will maybe not even be who I wanted to be but there's something powerful about that and there's
+00:54:35 something powerful about letting future people run the show themselves I think I I'm glad to get out of their way at some
+00:54:43 point and say all right it's your world now so you the physical entity michael has have ripple effects in the space of
+00:54:52 ideas that far out lives you yeah in ways you can't control but it's nevertheless fascinating to think I mean
+00:54:58 especially with you you can imagine an alien species when they finally arrive and destroy all of us would watch your
+00:55:05 videos to try to figure out what what were the questions but even if they didn't you know I still think that there
+00:55:13 will be ripples like when I say memory I don't specifically mean people remember my name and my birthdate and have like
+00:55:19 there's a photo of me on Wikipedia like all that can be lost but I still would hope that people ask questions and and
+00:55:26 and teach concepts in some of the ways that I have found useful and satisfying even they don't know that I was the one
+00:55:31 who tried to popularize it that's fine but if Earth was completely destroyed like burnt to a crisp everything on it today
+00:55:42 what would the universe wouldn't care like Jupiter's not gonna go oh no and that could happen because so we do
+00:55:54 however have the power to you know launch things into space to try to extend how long our memory exists and
+00:56:04 what I mean by that is you know we are recording things about the world and we're learning things and writing
+00:56:09 stories and all of this and preserving that is truly what I think is the essence of being a human we are Auto
+00:56:20 biographers of the universe and we're really good at it we're better than fossils were better than light spectrum
+00:56:27 we're better than any of that we collect much more detailed memories of what's happening much better data and so that
+00:56:37 should be our legacy and I hope that that's that's kind of mine too in terms of people remembering something or
+00:56:44 having some kind of effect but even if I don't you can't not have an effect right that's the thing this is
+00:56:49 not me feeling like I hope that I have this powerful legacy it's like no matter who you are you will but you also have
+00:56:58 to embrace the fact that that impact might look really small and that's okay one of my favorite quotes is from Tess
+00:57:05 of the d'Urbervilles and it's along the lines of the the measure of your life depends on not your external
+00:57:11 displacement but your subjective experience if I am happy and those that I love are happy can that be enough
+00:57:21 because if so excellent I think there's no better place to end it Michael thank you so much there's an honor meet you
+00:57:26 thanks for talking thank you it was a pleasure thanks for listening to this conversation with Michael Stevens and
+00:57:32 thank you to a presenting sponsor cash app downloaded use code let's podcast you'll get ten dollars and ten dollars
+00:57:39 will go to first a stem education nonprofit that inspires hundreds of thousands of young minds to learn to
+00:57:47 dream of engineering our future if you enjoy this podcast subscribe on youtube give it five stars an apple podcast
+00:57:54 supported on patreon or connect with me on Twitter and now let me leave you with some words of wisdom from Albert
+00:58:02 Einstein the important thing is not to stop questioning curiosity has its own reason for existence one cannot help but
+00:58:10 be in awe when he contemplates the mysteries of eternity of life the marvelous structure of reality it is

@@ -1,0 +1,557 @@
+00:00:01 the following is a conversation with Kate darling a researcher at MIT interested in social robotics robotics
+00:00:09 and generally how technology intersects with society she explores the emotional connection between human beings and
+00:00:17 lifelike machines which for me is one of the most exciting topics in all of artificial intelligence as she writes in
+00:00:24 her bio she's a caretaker of several domestic robots including her plio dinosaur robots named Yochai Peter and
+00:00:34 mr. spaghetti she is one of the funniest and brightest minds I've ever had the fortune to talk to this conversation was
+00:00:40 recorded recently but before the outbreak of the pandemic for everyone feeling the burden of this crisis
+00:00:47 I'm sending love your way this is the artificial intelligence podcast if you enjoy it subscribe on YouTube review it
+00:00:53 with five stars an apple podcast supported on patreon are simply connect with me on Twitter Alex Friedman spelled
+00:01:01 Fri D ma n as usual I'll do a few minutes of ads now and never any ads in the middle that can break the flow of
+00:01:07 the conversation I hope that works for you and doesn't hurt the listening experience quick summary of the ads to
+00:01:15 sponsors masterclass and expressvpn please consider supporting the podcast by signing up to master class and master
+00:01:24 class complex and getting expressvpn and expressvpn comm slash flex pod this show is sponsored by master class sign-up and
+00:01:34 master class comm / flex to get a discount and to support this podcast when I first heard about master class I
+00:01:42 thought it was too good to be true for $180 a year you get an all-access pass to watch courses from the list some of
+00:01:50 my favorites Chris Hatfield on space exploration Neil deGrasse Tyson on scientific thinking and communication
+00:01:57 will write creator SimCity and sims love those games on game design Carlos Santana on guitar garry kasparov on
+00:02:06 chess daniel negreanu on poker and many more Chris had explaining how Rockets work and the
+00:02:11 experience of being launched into space alone is worth the money by the way you can watch it on basically any device
+00:02:20 once again sign up on master class comm / flex to get a discount and to support this podcast this show sponsored by
+00:02:30 Express vpm get it at expressvpn comm / FlexPod to get a discount and to support this podcast I've been using expressvpn
+00:02:39 for many years I love it it's easy to use press the big power on button and your privacy is protected and if you
+00:02:47 like you can make it look like your locations anywhere else in the world I might be in Boston now but it can make
+00:02:52 it look like I'm in New York London Paris or anywhere else this has a large number of obvious benefits certainly it
+00:02:59 allows you to access international versions of streaming websites like the Japanese Netflix or the UK Hulu
+00:03:07 expressvpn works on any device you can imagine I use it on Linux shout-out to bond to 2004 Windows Android but it's
+00:03:18 available everywhere else to once again get it at expressvpn comm / luxe pod to get a discount and to support this
+00:03:28 podcast and now here's my conversation with Kate darling Kota robot ethics at Harvard what are
+00:03:37 some ethical issues that arise in the world with robots yeah that was a reading group that I did when I like at
+00:03:45 the very beginning first became interested in this topic so I think if I taught that class today would look very
+00:03:53 very different robot ethics it sounds very science fictiony especially did back then but I think
+00:04:01 that some of the issues that people in robot ethics are concerned with her just around the ethical use of robotic
+00:04:06 technology in general so for example responsibility for harm automated weapon systems things like privacy and data
+00:04:15 security things like and automation and labor markets and then personally I'm really interested in some of the social
+00:04:22 issues that come out of our social relationships with robot one-on-one relationship with robot yeah I think
+00:04:28 most of stuff we have to talk about is like one-on-one social stuff that's what I love and I think that's what you're
+00:04:33 you know as well and they're expert in but a societal oh there's like there's a presidential candidate now and Joo yang
+00:04:43 running concerned about automation and robots and AI and general taking away jobs he has a proposal of ubi universal
+00:04:50 basic income of everybody gets a thousand bucks yeah as a way to sort of save you if you lose your job from
+00:04:58 automation to allow you time to discover what it is that you would like to or even love to do yes so I lived in
+00:05:09 Switzerland for 20 years and universal basic income has been more of a topic there separate from the whole robots and
+00:05:18 jobs issue so it's so interesting to me to see kind of these Silicon Valley people latch on to this concept that
+00:05:27 came from a very kind of left-wing socialist you know kind of a different place in Europe
+00:05:36 but on the automation labor markets topic I think that it's very is so sometimes in those conversations I think
+00:05:45 people overestimate where robotic technology is right now and we also have this fallacy of constantly comparing
+00:05:53 robots to humans and thinking of this as a one-to-one replacement of jobs so even like Bill Gates a few years ago said
+00:06:00 something about you know maybe we should have a system that taxes robots for taking people's jobs and it just I I
+00:06:08 mean I'm sure that was taken out of context you know he's a really smart guy but that sounds to me like kind of
+00:06:13 viewing it as a one to one replacement versus viewing this technology as kind of a supplemental tool that of course is
+00:06:21 going to shake up a lot of stuff it's gonna change the job landscape but I don't see you know robots taking all the
+00:06:29 jobs in the next 20 years that's just not how it's gonna work all right so maybe drifting into the land of more
+00:06:36 personal relationships with robots and interaction and so on I gotta warn you I go I may ask some silly philosophical
+00:06:44 questions I apologize so please do okay do you think humans will abuse robots in their interaction
+00:06:53 so you've you've had a lot of and we'll talk about it sort of anthropomorphize a ssin and and work you know this this
+00:07:01 intricate dance emotional dance between human and robot but this seems to be also a darker side what people when they
+00:07:10 treat the other as servants especially they can be a little bit abusive or a lot abusive do you think about that do
+00:07:17 you worry about that yeah I do you think about that so I mean one of my one of my main interests is the fact that people
+00:07:24 subconsciously treat robots like living things and even though they know that they're interacting with a machine and
+00:07:32 what it means in that context to behave you know violently I don't know if you could say abuse because you're not
+00:07:39 actually you know abusing the the inner mind of the robot that robot isn't doesn't have any feelings as far as you
+00:07:45 know well yeah it was depends on how we define feelings and
+00:07:50 consciousness but I think that's another area where people kind of overestimate where we currently are with the
+00:07:55 technology like the robots are not even as smart as insects right now and so I'm not worried about abuse in that sense
+00:08:02 but it is interesting to think about what does people's behavior towards these things mean for our own behavior
+00:08:12 is it desensitizing the people to you know be verbally abusive to a robot or even physically abusive and we don't
+00:08:19 know is a similar connection from like if you play violent video games what connection does that have to desensitize
+00:08:28 ation to violence as I haven't haven't read literature on that I wonder about that because everything I've heard
+00:08:35 people don't seem to any longer be so worried about violent video games correct we've seemed the the research on it is
+00:08:44 it's a difficult thing to research so it's sort of inconclusive but we seem to have gotten a sense at least as a
+00:08:53 society that people can compartmentalize when it's something on a screen and you're like you know shooting a bunch of
+00:08:58 characters or running over people with your car that doesn't necessarily translate to you doing that in real life
+00:09:05 we do however have some concerns about children playing violent video games and so we do restrict it there I'm not sure
+00:09:12 that's based on any real evidence either but it's just the way that we've kind of decided you know we want to be a little
+00:09:18 more cautious there and the reason I think robots are a little bit different is because there is a lot of research
+00:09:23 showing that we respond differently to something in our physical space than something on a screen we will treat it
+00:09:30 much more viscerally much more like a physical actor and so I it's it's totally possible that this is not a
+00:09:39 problem and it's the same thing as violence in video games you know maybe you know restrict it with kids to be
+00:09:44 safe but adults can do what they want but we just need to ask the question again because we don't have any evidence
+00:09:52 at all yet maybe there's an intermediate place to I did my research on twitter by research I mean scrolling through your
+00:10:00 Twitter feed you mentioned that you were going at some point to an animal law conference
+00:10:06 so I have to ask do you think there's something that we can learn from animal rights the guys are thinking about
+00:10:14 robots oh I think there is so much to learn from that I'm actually writing a book on it right now that's why I'm
+00:10:21 going is conference so I'm I'm writing a book that looks at the history of animal domestication and how we've used animals
+00:10:26 for work for weaponry for companionship and you know one of the things the books the book tries to do is move away from
+00:10:34 this fallacy that I talked about of comparing robots in humans because I don't think that's the right analogy but
+00:10:41 I do think that on a social level even on a social level there's so much that we can learn from looking at that
+00:10:46 history because throughout history we've treated most animals like tools like products and then some of them we've
+00:10:51 treated differently and we're starting to see people treat robots in really similar ways so I think it's a really
+00:10:57 helpful predictor to how we're going to interact with the robots do you think we'll look back at this time like a
+00:11:05 hundred years from now and see what we do to animals is like some of the way we view like the Holocaust with the world
+00:11:15 war two that's a great question I mean I hope so I am not convinced that we will but I often wonder you know what are my
+00:11:25 grandkids gonna view as you know abhorrent that my generation did that they would never do and I'm like well
+00:11:33 what's the big deal you know it's it's a fun question to ask yourself there's always seems that there's
+00:11:40 atrocities that we discover later so the things that at the time people didn't see as you know you look at everything
+00:11:50 from slavery to any kinds of abuse throughout history so I think the kind of insane wars that were happening to
+00:11:58 the way war was carried out and rape and the kind of violence that was happening during war in that we now you know we
+00:12:07 see his atrocities but at the time perhaps didn't as much and so now I have this intuition that I have this
+00:12:17 worry maybe I'm you're going to probably criticize me but I do anthropomorphize robots I have I don't see a fundamental
+00:12:28 philosophical difference in a robot in a human being in terms of once the capabilities are matched so the fact
+00:12:40 that we're really far away doesn't in terms of capabilities and then that from from natural language processing
+00:12:45 understanding generation to just reasoning and all that stuff I think once you solve it I see though this is a
+00:12:53 very great area and I don't feel comfortable the kind of abuse that people throw robots
+00:13:00 subtle but I can see it becoming I can see basically a civil rights movement for robots in the future do you think
+00:13:07 let me put it in the form of a question do you think robots should have some kinds of rights well it's interesting
+00:13:15 because I came at this originally from your perspective I was like you know what there's no fundamental difference
+00:13:22 between technology and like human consciousness like we we can probably recreate anything we just don't know how
+00:13:30 yet and so there's no reason not to give machines the same rights that we have once like you say they're kind of on an
+00:13:38 equivalent level but I realized that that is kind of a far future question I still think we should talk about it
+00:13:42 because I think it's really interesting but I realized that it's actually we might need to ask the robot rice
+00:13:50 question even sooner than that well the machines are still you know quote unquote really you know dumb and not on
+00:13:58 our level because of the way that we perceive them and I think one of the lessons we learn from looking at the
+00:14:03 history of animal rights and one of the reasons we may not get to a place in a hundred years where we view it as wrong
+00:14:10 to you know eat or otherwise you know use animals for our own purposes is because historically we've always
+00:14:17 protected those things that we relate to the most so one example is whales no one gave a about the whales am I
+00:14:28 freedom yeah no one gave a about the whales until someone recorded them singing and suddenly people were like oh
+00:14:34 this is a beautiful creature and now we need to save the whales and that started the whole save the whales movement in
+00:14:44 the 70s so I'm as much as I and and I think a lot of people want to believe that we care about consistent biological
+00:14:52 criteria that's not historically how we formed our alliances yeah so what why do we why do we believe that all humans are
+00:15:01 created equal killing of a human being no matter who the human being is that's what I meant
+00:15:10 by equality is bad and then because I'm connecting that to robots and I'm wondering whether mortality so the
+00:15:16 killing Act is what makes something that's the fundamental first right so I'm I am currently allowed to take a
+00:15:26 shotgun and shoot a Roomba I think I'm not sure but I'm pretty sure it's not considered murder right or even shutting
+00:15:35 them off so that's that's where the line appears to be right is is mortality a critical thing here I think here again
+00:15:44 like the animal analogy is really useful because you're also allowed to shoot your dog but people won't be happy about it
+00:15:52 so we give we do give animals certain protections from like you know you're not allowed to torture your dog and you
+00:15:59 know set it on fire at least in most states and countries you know but you're still allowed to treat it like a piece
+00:16:06 of property in a lot of other ways and so we draw these you know arbitrary lines all the time and you know there's
+00:16:18 a lot of philosophical thought on why viewing humans is something unique is not is just speciesism and not you know
+00:16:29 based on any criteria that would actually justify making a difference between us and other species do you
+00:16:37 think in general people most people are good do you think do you that's revealed through our
+00:16:51 circumstances and through our interactions I like to view myself as a person who like believes that there's no
+00:16:58 absolute evil and good and that everything is you know gray but I do think it's an interesting question like
+00:17:08 when I see people being violent towards robotic objects you said that bothers you because the robots might someday you
+00:17:17 know be smart and it is that what well it bothers me because it reveals so I personally believe because I've studied
+00:17:24 way to my some Jewish I studied the Holocaust in World War two exceptionally well I personally believe that most of
+00:17:34 us have evil in us that what bothers me is the abuse of robots reveals the evil and human beings yeah
+00:17:42 and it's I think it doesn't but just bother me it's I think it's an opportunity for roboticists to make help
+00:17:53 people be find the better sides the angels of their nature right yeah that abuse isn't just a fun side thing that's
+00:18:00 a you revealing a dark part that you shouldn't there should be hidden deep inside yeah I mean molasse but some of
+00:18:10 our research does indicate that maybe people's behavior towards robots reveals something about their tendencies for
+00:18:16 empathy generally even using very simple robots that we have today that like clearly don't feel anything so you know
+00:18:25 West world is maybe you know not so far often it's like you know depicting the bad characters as willing to go around
+00:18:32 and shoot and rape the robots and the good characters is not wanting to do that even without assuming that the
+00:18:38 robots have consciousness so there's a opportunity at Cynthia's opportunity to almost practice empathy the on robots is
+00:18:47 an opportunity to practice empathy I agree with you some people would say why are we practicing empathy on robots
+00:18:55 instead of you know on our fellow humans or on animals that are actually alive and experienced the world and I don't
+00:19:02 agree with them because I don't think empathy is a zero-sum game and I do think that it's a muscle that you can
+00:19:06 train and that we should be doing that but some people disagree so the interesting thing you've heard you know
+00:19:20 raising kids sort of asking them or telling them to be nice to the smart speakers to Alexa and so on saying
+00:19:28 please and so on during the requests I don't know if I'm a huge fan of that idea because yeah that's towards the
+00:19:34 idea of practicing empathy I feel like politeness I'm always polite to all the all the systems that we build
+00:19:41 especially anything that speech interaction-based like when we talk to the car I will always have a pretty good
+00:19:48 detector for please - I feel like there should be a room for encouraging empathy in those interactions yeah okay so I
+00:19:55 agree with you so I'm gonna play devil's advocate so what is then what is the dose our argument there the devil's
+00:20:04 advocate argument is that if you are the type of person who has abusive tendencies or needs to get some sort of
+00:20:10 like behavior like that out needs an outlet for it that it's great to have a robot that you can scream at so that
+00:20:17 you're not screaming at a person and we just don't know whether that's true whether it's an outlet for people or
+00:20:23 whether it just kind of as my friend once said trains their cruelty muscles and makes them more cruel in other
+00:20:30 situations oh boy yeah in that expanse to other topics which they I don't know that you know there's a is a topic of
+00:20:40 sex which is weird one that I tend to avoid is from robotics perspective and mostly general public doesn't they talk
+00:20:49 about sex robots and so on is that an area you've touched at all research-wise like the way because that's what people
+00:20:58 imagine sort of any kind of interaction between human and robot that shows any kind of compassion they immediately
+00:21:04 think from product perspective in the near term is sort of expansion of what pornography is
+00:21:14 and all that kind of stuff yeah that's kind of you to like characterize it as though there's thinking rationally about
+00:21:20 product I feel like sex robots are just such a like titillating news hook for people that they become like the story
+00:21:29 and it's really hard to not get fatigued by it when you're in the space because you tell someone you do human robot
+00:21:33 interaction of course the first thing they want to talk about is sex robots really yeah it happens a lot and it's
+00:21:41 it's unfortunate that I'm so fatigued by it because I do think that there are some interesting questions that become
+00:21:47 salient when you talk about you know sex with robots see what I think would happen when people get sex robots like
+00:21:53 if you let some guys okay guys get female sex robots what I think there's an opportunity for is an actual like
+00:22:06 like they'll actually interact what I'm trying to say they won't outside of the sex would be the most fulfilling part
+00:22:13 like the interaction it's like the folks who this movies on this right who pray pay a prostitute and then end up just
+00:22:21 talking to her the whole time so I feel like there's an opportunity it's like most guys and people in general joke
+00:22:28 about the sex act but really people are just lonely inside and I'm looking for connection many of them and it'd be
+00:22:38 unfortunate if that it's that connection is established through the sex industry I feel like it should go too
+00:22:45 into the front door of like people are lonely and they want a connection well I also feel like we should kind of deep
+00:22:52 you know D stigmatize the sex industry because you know even prostitution like they're prostitutes that specialize in
+00:23:01 disabled people who don't have the same kind of opportunities to explore their sexuality so it's I I feel like we
+00:23:09 should like D stigmatize all of that generally yeah but yeah that connection and that loneliness is an interesting
+00:23:16 you know topic that you bring up because while people are Const we worried about robots replacing humans
+00:23:22 and oh if people get sex robots and the sex is really good then they won't want their you know partner or whatever but
+00:23:28 we rarely talk about robots actually filling a hole where there's nothing yeah and what benefit that can provide
+00:23:35 to people yeah I think that's an exciting there's a whole giant there's a giant hole that's not unfillable by
+00:23:43 humans it's asking too much of your of people you your friends and people you're in a relationship with in your
+00:23:48 family to fill that hole there's a because you know it's exploring the full like people you know exploring the full
+00:23:56 complexity and richness of who you are like who are you really like the people your family doesn't have enough patience
+00:24:05 to really sit there and listen to who are you really and I feel like there's an opportunity to really make that
+00:24:10 connection with robots I just really were complex as humans and we're capable of lots of different types
+00:24:18 of relationships so whether that's you know with family members with friends with our pets or with robots I feel like
+00:24:25 there's space for all of that and all of that can provide value in a different way yeah absolutely so I'm jumping
+00:24:34 around currently most of my works and autonomous vehicles so the most popular topic amongst is the trolley problem so
+00:24:49 most most most robots just  kind of hate this question but what do you think of this thought experiment what do you
+00:24:54 think we can learn from it outside of the silliness of the actual application of it to the autonomous vehicle I think
+00:25:00 it's still an interesting ethical question and that's in itself just like much of the interaction with robots has
+00:25:08 something to teach us but from your perspective do you think there's anything there well I think
+00:25:13 you're right that it does have something to teach us because but but I think what people are forgetting in all these
+00:25:19 conversations is the origins of the trolley problem and what it was meant to show us which is that there is no right
+00:25:26 answer and that sometimes our moral intuition that comes to us instinctively is not actually what
+00:25:34 we should follow if we care about creating systematic rules that apply to everyone so I think that as a
+00:25:43 philosophical concept it could teach us at least that but that's not how people are using it right now like we have and
+00:25:49 these are friends of mine and like I love them dearly and their project adds a lot of value but if we're viewing the
+00:25:58 moral machine project as what we can learn from the trolley problems the moral machine is I'm sure you're
+00:26:03 familiar it's this website that you can go to and it gives you different scenarios like oh you're in a car you
+00:26:09 can decide to run over you know these two people or this child you know what do you choose do you choose the homeless
+00:26:15 person do you choose the person who's jaywalking and so it pits these like moral choices against each other and
+00:26:22 then tries to crowdsource the quote-unquote correct answer which is really interesting and I think valuable
+00:26:30 data but I don't think that's what we should base our rules in autonomous vehicles on because it is exactly what
+00:26:37 the trolley problem is trying to show which is your first instinct might not be the correct one if you look at rules
+00:26:44 that then have to apply to everyone and everything so how do we encode these ethical choices in interaction with
+00:26:51 robots so for example Lata knows vehicles there is a serious ethical question of do I protect myself but
+00:27:00 that's my life I have higher priority than the life of another human being because that changes certain control
+00:27:09 decisions that you make so if your life matters more than other human beings then you'd be more likely to swerve out
+00:27:15 of your current lane so currently automated emergency braking systems that just break they don't ever swerve right
+00:27:25 so swerving into oncoming traffic or or no just in a different Lane can cause significant harm to others but it's
+00:27:32 possible that it causes less harm to you so that's a difficult ethical question do you you do you do you have a hope
+00:27:42 that like the trolley problem is not supposed to have a right answer do you hope that when we have robots at
+00:27:49 the table we'll be able to discover the right answer for some of these questions well what's happening right now I think
+00:27:57 is this this question that we're facing of you know what ethical rules should we be programming into the machines is
+00:28:04 revealing to us that our ethical rules are much less programmable than we you know probably thought before and so
+00:28:14 that's a really valuable insight I think that these issues are very complicated and that in in a lot of these cases it's
+00:28:23 you can't really make that call like not even as a legislator and so what's gonna happen in reality I think is that you
+00:28:31 know car manufacturers are just gonna try and avoid the problem and avoid liability in any way possible or like
+00:28:37 they're gonna always protect the driver because who's gonna buy a car if it's you know programmed to kill someone kill
+00:28:44 kill you instead of someone else so that's what's gonna happen in reality but what did you mean by like once we
+00:28:50 have robots at the table like do you mean when they can help us figure out what to do no I mean when robots are
+00:29:00 part of the ethical decisions so no no not they help us well oh you mean when it's like should I run over a robot or a
+00:29:10 person right that kind of thing so what no what no no no so when you it's exactly what you said which is when you
+00:29:18 have to encode the ethics into an algorithm you start to try to really understand what are the fundamentals of
+00:29:26 the decision making process you make just make certain decisions should you like capital punishment should you take
+00:29:34 a person's life or not to punish them for a certain crime sort of you can use you can develop an algorithm to make
+00:29:44 that decision right and the hope is that the act of making that algorithm however you make it so there's a few approaches
+00:29:54 will help us actually get to the core of what what is right and what is wrong under our current societal standards
+00:30:02 isn't that what's happening right now and we're realizing that we don't have a consensus on what's right and wrong I
+00:30:08 mean in politics in general well like when we're thinking about these trolley problems and autonomous vehicles and how
+00:30:14 to program ethics into machines and how to you know make make AI algorithms fair and equitable where we're realizing that
+00:30:24 this is so complicated and it's complicated in part because there is doesn't seem to be a one right answer in
+00:30:31 any of these cases do you hope for like one of the ideas of the moral machine is that crowdsourcing can help us converge
+00:30:39 towards like democracy can help us converge towards the right answer do you have a hope for crowdsourcing well yes
+00:30:47 and no so I think that in general you know I have a legal background and policymaking is often about trying to
+00:30:53 suss out you know what rules does this society this particular Society agree on and then trying to codify that so the
+00:31:00 law makes these choices all the time and then tries to adapt according to changing culture but in the case of the
+00:31:06 moral machine project I don't think that people's choices on that website necessarily necessarily reflect what
+00:31:14 laws they would want in place if given I think you would have to ask them a series of different questions in order
+00:31:20 to get up what their consensus is I agree but that that has to do more with the artificial nature of I mean they're
+00:31:27 showing some cute icons on a screen that's that's almost so if you for example we do a lot of work in virtual reality
+00:31:36 and so if you make if you put those same people into virtual reality where they have to make that decision they should
+00:31:43 be very different I think I agree with that that's one aspect and the other aspect is it's a different question to
+00:31:50 ask someone would you run over the homeless person or the doctor in this scene or do you want cars to always run
+00:31:59 over the homeless people yeah so let's talk about anthropomorphism do me at the prom or fizzell if I can pronounce it
+00:32:07 correctly is is one of the most fascinating phenomena from like both the engineering perspective
+00:32:13 and psychology perspective machine learning perspective in robotics in general can you step back and define at
+00:32:23 the prom or fizzle how you see it in general terms in your in your work sure so anthropomorphism is this
+00:32:30 tendency that we have to project human-like traits and behaviors and qualities onto nonhumans and we often
+00:32:38 see it with animals like well will project emotions on animals that may or may not actually be there okay we often
+00:32:44 see that we're trying to interpret things according to our own behavior when we get it wrong but we do it with
+00:32:50 more than just animals we do it with objects you know teddy bears we see you know faces in the headlights of cars and
+00:32:58 we do it with robots very very extremely you think that can be engineered can that be used to enrich an interaction Oh
+00:33:06 in and they a system in the human oh yeah for sure and do you and do you see it being used that way often like I
+00:33:18 don't I haven't seen whether it's Alexa or any of the smart speaker systems often trying to optimize for the ethical
+00:33:27 or physician you said you haven't seen I haven't seen they they keep moving away from that I think they're afraid of that
+00:33:35 they they actually so I only recently found out but did you know that Amazon has like a whole team of people who are
+00:33:43 just there to work on Alexis personality so I know that depends on UI personality I didn't know I didn't know that exact
+00:33:54 thing but I do know that the how the voice is perceived has worked on a lot whether that if it's a pleasant feeling
+00:34:02 about the voice but that has to do more with the texture of the sound and the audience on what personality is more
+00:34:10 like it's like what's her favorite beer when you ask her and and the personality team is different for every country to
+00:34:16 like there's a different personality for a German Alexa than there is for American Alexa that's it I think it's
+00:34:23 very difficult to you know use the are really really harness the anthropomorphism with these
+00:34:33 voice assistance because the voice interface is still very primitive and I think that in order to get people to
+00:34:41 really suspend their disbelief and treat a robot like it's alive less is sometimes more you you want them
+00:34:48 to project onto the robot and you want the robot to not disappoint their expectations for how it's going to
+00:34:54 answer or behave in order for them to have this kind of illusion and with Alexa I don't think we're there yet or
+00:35:02 Siri that just they're just not good at that but if you look at some of the more animal-like robots like the baby seal
+00:35:09 that they use with the dementia patients so much more simple design doesn't try to talk to you you can't disappoint you
+00:35:15 in that way it just makes little movements and sounds and people stroke it and it responds to their touch and
+00:35:22 that is like a very effective way to harness people tendency to kind of treat the robot like a living thing yeah so
+00:35:32 you bring up some interesting ideas in your paper chapter I guess at the poem Orphic framing human robot interaction
+00:35:40 that I read the last time we scheduled this a long time what are some good and bad cases event them for morphism and in
+00:35:51 your perspective like one is the good one is it bad well I just start by saying that you know while design can
+00:35:57 really enhance the end the premiere film it doesn't take a lot to get people to treat a robot like it's alive like
+00:36:04 people will over 85% of rumbas have a name which I'm I don't know the numbers for your regular type of vacuum cleaner
+00:36:11 but they're not that high right so people will feel bad for the room but when it gets stuck they'll send it in
+00:36:15 for repair and want to get the same one back and that's that one is not even designed to like make you do that so I
+00:36:24 think that some of the cases where it's maybe a little bit concerning that anthropomorphism is happening is when
+00:36:29 you have something that's supposed to function like a tool and people are using it in the wrong way
+00:36:34 and one of the concerns is military robots we're so gosh mm like early 2000s which is a long time ago
+00:36:48 iRobot the room a company made this robot called the pack bot that was deployed in Iraq and and Afghanistan
+00:36:55 with the bomb disposal units that were there and the soldiers became very emotionally attached to the robots and
+00:37:05 that's you know fine until a soldier risks his life to save a robot which you really don't want but they were treating
+00:37:12 them like pets like they would name them they would give them funerals with gun salutes they would get really upset and
+00:37:18 traumatized when the robot got broken so you in situations where you want a robot to be a tool in particular when it's
+00:37:25 supposed to like do a dangerous job that you don't want a person doing it it can be hard when people get emotionally
+00:37:32 attached to it that's maybe something that you would want to discourage another case for
+00:37:39 concern is maybe when companies try to leverage the emotional attachment to exploit people so if it's something
+00:37:47 that's not in the consumers interest trying to like sell them products or services or exploit an emotional
+00:37:53 connection to keep them you know paying for a cloud service for a social robot or something like that might be I I
+00:37:59 think that's a little bit concerning as well yeah the emotional manipulation which probably happens behind the scenes
+00:38:06 now with some like social networks and so on but making it more explicit what's your favorite robot like you know a real
+00:38:18 no real real robot which you have felt a connection with or not like not not at the core morphic connection but I mean
+00:38:28 like you just sit back as a damn this is an impressive system Wow so two different robots so the the plio
+00:38:38 baby dinosaur robot that is no longer sold that came out in 2007 that one I was very impressed with it was but but
+00:38:46 from an anthropomorphic perspective I was impressed with how much I bonded with it how much I like wanted to
+00:38:51 believe that it had this inner life can you describe Cleo the can you describe what what it is how big is it
+00:39:00 what can actually do ya plio is about the size of a small cat it had a lot of like motors that gave it this kind of
+00:39:09 lifelike movement it had things like touch sensors and an infrared camera so it had all these like cool little
+00:39:14 technical features even though it was a toy and the thing that really struck me about it was that it could mimic pain
+00:39:24 and distress really well so if you held it up by the tail it had a tilt sensor that you know told it what direction it
+00:39:29 was facing and it would start to squirm and cry out if you hit it too hard it would start to cry so it was very
+00:39:38 impressive in design and what's the second robot that you were you said there might have been two that you liked
+00:39:46 yeah so the Boston Dynamics robots are just impressive feats of engineering have you met them in person
+00:39:53 yeah I recently got a chance to go visit and I you know I was always one of those people who watched the videos and was
+00:39:58 like this is super cool but also it's a product video like I don't know how many times that they had to shoot this to get
+00:40:05 it right but visiting them I you know I'm pretty sure that I was very impressed let's put it that way yeah in
+00:40:12 terms of the control I think that was a transformational moment for me when I met spot many in person because okay
+00:40:23 maybe this is a psychology experiment but I anthropomorphised the crap out of it so I immediately it
+00:40:31 was like my best friend right I mean it's really hard for anyone to watch spot move and not feel like it has
+00:40:37 agency yeah did this movement especially the arm on spot mini really obvi obviously looks like a head yeah that
+00:40:47 and they say no wouldn't mean it that way but it obviously it looks exactly like that and so it's almost impossible
+00:40:56 to not think of it as a almost like the baby dinosaur but slightly larger and in this movement of the of course
+00:41:02 the intelligence is that their whole idea is that it's not supposed to be intelligent it's a platform on which you
+00:41:09 build higher intelligence it's actually really really dumb it's just a basic movement platform yeah but even dumb
+00:41:17 robots can like we can immediately respond to them in this visceral way what are your thoughts about Sofia the
+00:41:25 robot this kind of mix of some basic natural language processing and basically an art experiment yeah an art
+00:41:34 experiment is a good way to characterize it I'm much less impressed with Sofia than I am with Boston Dynamics she said
+00:41:40 she likes you she says she admires you she yeah she followed me on Twitter at some point yeah as she tweets about how
+00:41:47 much she likes you so so wouldn't that mean I have to be nicer not I was emotionally manipulating it no how do
+00:41:57 you think of the whole thing that happened with Sofia is quite a large number of people kind of immediately had
+00:42:04 a connection and thought that maybe we're far far more advanced with robotics than we are all right she
+00:42:10 didn't even think much I'm surprised how little people cared that they kind of assumed that
+00:42:19 well of course AI can do this yeah and then they if they assume that I felt they should be more impressed well you
+00:42:28 know what I mean like really overestimate where we are and so in something I don't even I don't even
+00:42:34 think Sofia was very impressed over it is very impressive I think she's kind of a puppet to be honest but yeah I think
+00:42:41 people have are a little bit influenced by science fiction pop culture to think that we should be further along than we
+00:42:48 are so what's your favorite robots and movies in fiction wall-e wall-e what do you like about wall-e the humor the
+00:42:59 cuteness the the perception control systems operating and wallahi that makes it all just in general the design of
+00:43:08 wall-e the robot I think that animators figured out you know starting in like Ben 1940's how to create characters that
+00:43:18 don't look real but look like something that's even better than real that we really respond to and think is really
+00:43:23 cute they figured out how to make them move and look in the right way and wall-e is just such a great example of that
+00:43:31 you think eyes big eyes or big something that's kind of AI ish so it's always playing on some aspect of the human face
+00:43:40 right often yeah so big eyes well I think one of the one of the first like animations to really
+00:43:47 play with this was Bambi and they weren't originally gonna do that they were originally trying to make the deer
+00:43:52 look as lifelike as possible like they brought deer into the studio and had a little zoo there so the animators could
+00:43:58 work with them and then at some point they were like if we make really big eyes and like a small nose and like big
+00:44:04 cheeks kind of more like a baby face then people like it even better than if it looks real do you think the future of
+00:44:14 things I collects are in the home has possibility to take advantage of that to build on that to create these systems
+00:44:25 that are better than real that created closed human connection I can pretty much guarantee you without having any
+00:44:32 knowledge that those companies are working on that on that design behind the scenes like pretty sure I totally
+00:44:40 disagree with you really so that's what I'm interested in I'd like to build such a company I know a lot of those folks
+00:44:46 and they're afraid of that because you don't well how do you make money off of it well but even just like making a lexa
+00:44:53 look a little bit more interesting than just like a cylinder would do so much it's it's an interesting thought but I
+00:45:02 don't think people are from Amazon perspective looking for that kind of connection they want you to be addicted
+00:45:09 to the services provided by Alexa not to the device so the the device itself it's felt that you can lose a lot because if
+00:45:20 you create a connection and then if there's it creates more opportunity for frustration for
+00:45:28 for negative stuff then it does for positive stuff is I think the way they think about it that's interesting
+00:45:34 like I agree that there is it's very difficult to get right and you have to get it exactly right otherwise you wind
+00:45:41 up with Microsoft's Clippy okay easy now what's your problem with Clippy oh you like clip these clothes your friends
+00:45:49 yeah I'll just I just I just talked to the would just had this argument and they Microsoft CTO and they and he said
+00:45:55 he said he's not bringing Clippy back they're not bringing Clippy back and that's very disappointing is I think it
+00:46:05 was clip II was the greatest assistance we've ever built it was a horrible attempt of course but it's the best
+00:46:12 we've ever done because it was in real attempt you haven't like a actual personality and I mean it was obviously
+00:46:20 technology was way not there at the time of being able to be a recommender system for assisting you in anything and typing
+00:46:29 in Word or any kind of other application but still was an attempt of personality that was legitimate I'm sure I thought
+00:46:37 was brave yes oh yes okay you know you've convinced me I'll be slightly less hard unclick and I know I have like
+00:46:42 an army of people behind me who also miss Clippy so really I want to meet these people who are these people it's
+00:46:50 the people who like to hate stuff when it's there and and miss it when it's gone exactly
+00:47:04 alright so Anki and Gebo the two companies two amazing companies social robotics companies that have recently
+00:47:13 been closed down yeah why do you think it's so hard to create a personal robotics company so making a business
+00:47:20 out of essentially something that people would anthropomorphize have a deep connection with why is it so hard to
+00:47:27 make it work the business case not there or what is it I think it's a number of different things I don't think it's
+00:47:36 going to be this way forever I think at this current point in time it so much work to build something that
+00:47:45 only barely meets people's like minimal expectations because of science fiction and pop-culture giving people this idea
+00:47:51 that we should be further than we already are like when people think about a robot assistant in the home they think
+00:47:57 about Rosie from the Jetsons or something like that and on key and and giba did such a beautiful job with the
+00:48:05 design and getting that interaction just right but I think people just wanted more they wanted more functionality I
+00:48:11 think you're also right that you know the business case isn't really there because there hasn't been a killer
+00:48:18 application that's useful enough to get people to adopt the technology in great numbers I think what we did see from the
+00:48:25 people who did you know get geebo is a lot of them became very emotionally attached to it but that's not I mean
+00:48:33 it's kind of like the Palm Pilot back in the day most people are like why do I need this why would I they don't see how
+00:48:38 they would benefit from it until they you know have it or some other company comes in and makes it a little better
+00:48:45 yet like how how far away are we do you think I mean how hard is this problem it's a good question and I think it has
+00:48:51 a lot to do with people's expectations and those keep shifting depending on what science fiction that is popular but
+00:48:58 also it's two things it's people's expectation and people's need for an emotional connection yeah and then I
+00:49:08 believe the need is pretty high yes but I don't think we're aware of it that's right there's like it I really
+00:49:15 think we're this is like the life as we know it so we've just kind of gotten used to it of really I hate to be dark
+00:49:24 because I have close friends but we've gotten used to really never being close to anyone all right and we're deeply I
+00:49:33 believe okay this is hypotheses I think we're deeply lonely all of us even those in deep fulfilling relationships in fact
+00:49:40 what makes us relationship fulfilling I think is that they at least tap into that deep loneliness a little bit but I
+00:49:47 feel like there's more opportunity to explore that that doesn't interfere with the human relationship
+00:49:55 you have it expands more on the that yeah the the rich deep unexplored complexity that's all of us weird apes
+00:50:04 okay right do you think it's possible to fall in love with a robot oh yeah totally do you think it's possible to have a
+00:50:12 long-term committed monogamous relationship oh the robot well yeah there are lots of different types of long-term committed
+00:50:20 monogamous relationships I think monogamous implies like you're not going to see other humans and sexually or like
+00:50:29 you basically on Facebook have to say I'm in a relationship with this person this robot I just don't like again I
+00:50:36 think this is comparing robots to humans when I would rather compare them to pets like you get a robot it fulfills you
+00:50:47 know this loneliness that you have in us maybe not the same way as a pet maybe in a different way that is even you know
+00:50:54 supplemental in a different way but you know I'm not saying that people won't like do this be like oh I want to marry
+00:51:01 my robot or I want to have like a you know sexual relation monogamous relationship with my robot but I don't
+00:51:07 think that that's the main use case for them well you think that there's still a gap between human and pet so between
+00:51:24 husband and pet there's a relation earring so that that's a gap that can be closed but I think it could be closed
+00:51:31 someday but why would we close that like I I think it's so boring to think about recreating things that we already have
+00:51:36 when we could when we could create something that's different I know you're thinking about the people who like don't
+00:51:45 have a husband and like what could we give them yeah but but let's I guess what I'm getting at is maybe not so like
+00:51:59 the movie her yeah right so a better husband well may be better in some ways like it's I I do think that robots are
+00:52:05 going to continued to be a different type of relationship even if we get them like
+00:52:12 very human looking or when you know the voice interactions we have with them feel very like natural and human like I
+00:52:19 think they're still gonna be differences and there were in that movie too like towards the end yeah it goes off the
+00:52:24 rails it's just a movie so that your intuition is that that because because you kind of said two things right so one
+00:52:36 is why would you want to basically replicate the husband Yeah right and the other is kind of implying that it's kind
+00:52:45 of hard to do so you like anytime you try you might build something very impressive but it'll be different I
+00:52:53 guess my question is about human nature it's like how hard is it to satisfy that role of the husband so removing any of
+00:53:05 the sexual stuff aside is the is more like the mystery detention the dance of relationships you think with robots
+00:53:13 that's difficult to build what's you I think that well it also depends I'm not reading about robots now in 50 years in
+00:53:24 like indefinite amount of time where I'm thinking abilities five or ten years five or ten years I think that robots at
+00:53:32 best will be like a more similar to the relationship we have with our pets than relationship that we have with other
+00:53:38 people I got it so what do you think it takes to build a system that exhibits greater and greater levels of
+00:53:45 intelligence like it impresses us with its intelligence you know a Roomba so you talk about ethical moral ization
+00:53:53 that doesn't i think intelligence is not required if i can tell us probably gets in the way sometimes like you mentioned
+00:54:02 but what do you think it takes to create a system where we sense that it has a human level intelligence something that
+00:54:11 obviously something conversational human level intelligence that problem is it'd be interesting to sort of hear your
+00:54:17 perspective not just purely that talked to a lot of people how hard is the conversational
+00:54:24 agents yeah how hard is it to pass a Turing test but my sense is it's it's easier than
+00:54:33 just solving it's easier than solving the pure and natural language processing problem because I feel like you can
+00:54:42 cheat yeah so yeah so how hard is it to pass the Turing test any of you I well I think again it's all about expectation
+00:54:48 management if you set up people's expectations to think that they're communicating with what was it a 13 year
+00:54:54 old boy from the Ukraine yeah that's right then they're not going to expect perfect English they're not going to expect
+00:55:00 perfect you know understanding of concepts or even like being on the same wavelength in terms of like conversation
+00:55:08 flow so it's much easier to pass in that case do you think you kind of alluded this to with audio do you think it needs
+00:55:18 to have a body I think that we definitely have so we treat physical things with more social agency because
+00:55:26 we're very physical creatures I think a body can be useful does it get in the way is there negative aspects like yeah
+00:55:39 there can be so if you're trying to create a body that's too similar to something that people are familiar with
+00:55:44 like I have this robot cat at home that Hasbro makes and it's very disturbing to watch because I'm constantly assuming
+00:55:52 that it's gonna move like a real cat and it doesn't because it's like a 100 dollar piece of technology so it's very
+00:56:01 like disappointing and it's very hard to treat it like it's alive so you can get a lot wrong with the body too but you
+00:56:09 can also use tricks same as you know the expectation management of the 13 year old boy from the Ukraine if you pick an
+00:56:14 animal that people aren't intimately familiar with like the baby dinosaur like the baby seal that people have
+00:56:20 never actually held in their arms you can get away with much more because they don't have these preformed expectations
+00:56:26 yeah I'm thinking a TED talk or something that clicked for me that nobody actually knows what a dinosaur looks
+00:56:34 so you can actually get away with a lot more that was great do you think he needs so what do you
+00:56:45 think about consciousness and mortality being displayed in a robot so not actually having consciousness but having
+00:56:57 these kind of human elements that are much more than just the interaction much more than just like you mentioned with a
+00:57:05 dinosaur moving kind of interesting ways but really being worried about its own death and really acting as if it's aware
+00:57:15 and self-aware and identity have you seen that done in robotics what do you think about doing that I think it does
+00:57:23 is that a is that a powerful good thing well it's a I think it can be a design tool that you can use for different
+00:57:30 purposes so I can't say whether it's inherently good or bad but I do think it can be a powerful tool the fact that the
+00:57:37 you know Clio mimics distress when you quote-unquote would hurt it his is a really powerful
+00:57:47 tool to get people to engage with it in a certain way I had a research partner that I did some of the empathy work with
+00:57:54 named Kailash Nandi and he had built a robot for himself that had like a life span and that would stop working after a
+00:58:01 certain amount of time just because he was interested in like whether he himself would treat it differently and
+00:58:07 we know from you know Tamagotchis those like those little games that that we used to have that we're extremely
+00:58:13 primitive that like people respond to like this idea of mortality and you know you can get people to do a lot with
+00:58:21 little design tricks like that now whether it's a good thing depends on what you're trying to get them to do
+00:58:27 have a deeper relationship have a deeper connection sign a relationship if it's for their own benefit that sounds great
+00:58:37 okay a lot of other reasons I see so what kind of stuff are you worried about so is this a mostly about manipulation
+00:58:42 of your emotions for like advertisement so on things like that yeah or data collect
+00:58:47 I mean you could think of governments misusing this to extract information from people it's you know just just like
+00:58:57 any other technological tool just raises a lot of questions what's if you if you look at Facebook if
+00:59:02 you look at Twitter and social networks there's a lot of concern of data collection now how what's from the legal
+00:59:13 perspective or in general how do we prevent the violation of sort of these companies crossing a line it's a gray
+00:59:21 area but crossing a line they shouldn't in terms of manipulating like we're talking about a manipulating our emotion
+00:59:29 manipulating our behavior using tactics that are not so savory yeah it's it's really difficult because we are starting
+00:59:39 to create technology that relies on data collection to provide functionality and there's not a lot of incentive even on
+00:59:47 the consumer side to curb that because the other problem is that the harms aren't tangible they're not really
+00:59:54 apparent to a lot of people because they kind of trickle down on a societal level and then suddenly we're living in like
+01:00:02 1984 which you know sounds extreme but that book was very prescient and I'm not worried about you know these systems you
+01:00:13 know I I I have you know Amazon's echo at home and and you know tell Alexa all sorts of stuff and and it helps me
+01:00:22 because you know Alexa knows what you know brand of diaper we use and so I can just easily order it again so I don't
+01:00:27 have any incentive to like ask a lawmaker to curb that but when I think about that data then being used against
+01:00:35 you know low income people to target them for you know scammy loans or education programs that's then a
+01:00:43 societal effect that I think is very severe and you know legislators should be thinking about well yeah there's the
+01:00:52 the Garrett gray area is the removing ourselves from consideration of like of explicitly defining objectives and
+01:01:00 more saying well we want to maximize engagement in our social network yeah and and then just because you're not
+01:01:09 actually doing a bad thing it makes sense you want people to to keep a conversation going to have more
+01:01:16 conversations to keep coming back again and again to have conversations and whatever happens after that you're kind
+01:01:24 of not exactly directly responsible you're only indirectly responsible so it's I think it's a really hard problem
+01:01:33 do I are you optimistic about us ever being able to solve it you mean the problem of capitalists like because the
+01:01:43 problem is that the companies are acting in the company's interests and not in people's interest and when those
+01:01:50 interests are aligned that's great but the completely free market doesn't seem to work because of this information
+01:01:56 asymmetry but it's hard to know how to so say you would try to do the right thing I guess I guess what I'm trying to
+01:02:03 say is I'm it's not obvious for these companies what the good thing for society is to do like I don't think they
+01:02:13 sit there and with I don't know whether it with a glass of wine and a cat like petting a cat evil cat and and there's
+01:02:20 two decisions and one of them is good for society one is good for the for the profit and they choose the profit I
+01:02:27 think they actually there's a lot of money to be made by doing the the right thing for society like that because
+01:02:36 Google Facebook have so much cash that day actually was especially Facebook was significantly benefit for making
+01:02:42 decisions that are good for society it's good for their brand right so but I don't know if they know what society
+01:02:51 that's the we I don't think we know what's good for society in terms of how yeah how we manage the conversation on
+01:03:03 Twitter or how we design will talk about robots like should we emotionally manipulate you
+01:03:10 into having a deep connection with Alexa or not yeah yeah you have optimism that we'll be able to solve some of these
+01:03:20 questions well I'm gonna say something that's controversial like in my circles which is that I don't think that
+01:03:26 companies who are reaching out to ethicists and trying to create interdisciplinary ethics boards I don't
+01:03:31 think that that's totally just trying to whitewash the problem and and and so that they look like they've done
+01:03:36 something I think that a lot of companies actually do like you say care about what the right answer is they
+01:03:43 don't know what that is and they're trying to find people to help them find them not in every case but I think I you
+01:03:49 know it's much too easy to just vilify the companies as like you said sitting there with their cat going her 1 million
+01:03:57 dollars that's not what happens a lot of people are well-meaning even within companies I think that what we do
+01:04:08 absolutely need is more interdisciplinarity both within companies but also within the
+01:04:16 policy-making space because we're you know we've hurdled into the world where technological progress is much faster it
+01:04:24 seems much faster than it was and things are getting very complex and you need people who understand the technology but
+01:04:30 also people who understand what the societal implications are and people who are thinking about this in a more
+01:04:36 systematic way to be talking to each other there's no other solution I think you've also done work on intellectual
+01:04:44 property so if you look at the algorithms these companies are using like YouTube Twitter Facebook so on and
+01:04:52 that's kind of the those are mostly secretive in the recommender systems behind behind these algorithms do you do
+01:05:00 you think about it IP and transparency about how goes like this like what the responsibility these companies to
+01:05:07 open-source the algorithms or at least reveal to the public what's how these algorithms work so I personally don't
+01:05:15 work on that there are a lot of people who do though and there are a lot of people calling for transparency in fact
+01:05:21 Europe's even trying to legislate transparency maybe they even have at this point where like if if an
+01:05:28 algorithmic system makes some sort of decision that affects someone's life that you need to be able to see how that
+01:05:38 decision was made I you know it's it's a it's a tricky balance because obviously companies need to have you know some
+01:05:43 sort of competitive advantage and you can't take all that away or you stifle innovation but yeah for some of the ways
+01:05:49 that these systems are already being used I think it it is pretty important that people understand how they work
+01:05:56 what are your thoughts in general on intellectual property in this weird age of software AI robotics oh that it's
+01:06:05 broken I mean the system is just broken so did can you describe I actually I don't even know what intellectual
+01:06:13 property is in the space of software what it means to I mean I so I believe I have a patent on a piece of software
+01:06:22 from my PhD you believe you don't know no we went through a whole process yeah I do
+01:06:28 the spam emails like will frame your patent for you yes much like a thesis so  but that's useless right or not what
+01:06:40 word is IP stand in this age what what is what's the right way to do it what's the right way to protect and own ideas
+01:06:48 and why don't when it's just code and in this mishmash of something that feels much softer than a piece of machinery
+01:06:57 yeah idea I mean it's hard because you know there are different types of intellectual property and they're kind
+01:07:01 of these blunt instruments they're they're like it's like patent law is like a wrench like it works really well
+01:07:06 for an industry like the pharmaceutical industry but when you try and apply it to something else it's like I don't know
+01:07:11 I'll just like hit this thing with the wrench and hope it works so software you know software you have a couple
+01:07:20 different options software like any code that's written down in some tangible form is automatically copyrighted so you
+01:07:27 have that protection but that doesn't do much because if someone takes the basic idea that the
+01:07:35 code is executing and just does it in a slightly different way they can get around the copyright so that's not a lot
+01:07:41 of protection then you can patent software but that's kind I mean getting a patent cost I don't know if you
+01:07:50 remember what yours costs or like was it an institution yes during university yeah they it was insane there's so many
+01:07:58 lawyers so many meetings and it made me feel like it must have been hundreds of thousands of dollars yeah crazy it's
+01:08:05 it's insane the costs of getting a patent and so this idea of like protecting the like inventor in their
+01:08:10 own garage like came up with a great idea is kind of that's the thing of the past it's all just companies trying to
+01:08:17 protect things and it costs a lot of money and then with code it's oftentimes like you know by the time the patent is
+01:08:24 issued which can take like five years you probably your code is obsolete at that point so it's it's a very again a
+01:08:32 very blunt instrument that doesn't work well for that industry and so you know at this point we should really have
+01:08:38 something better but we don't do like open source yeah it's open so it's good for society you think all of us should
+01:08:46 open source code well so at the Media Lab at MIT we have an open source default because what we've noticed is
+01:08:52 that people will come in there like write some code and they'll be like how do I protect this and we're like mmm
+01:08:58 like that's not your problem right now your problem isn't that someone's gonna steal your project your problem is
+01:09:03 getting people to use it at all like there's so much stuff out there like we don't even know if you're gonna get
+01:09:08 traction for your work and so open sourcing can sometimes help you know get people's work out there but ensure that
+01:09:15 they get attribution for it for the work that they've done so I like I'm a fan of it in a lot of contexts obviously it's
+01:09:23 not like a one-size-fits-all solution so what I gleaned from your Twitter is your mom I saw a quote a reference to baby
+01:09:36 bot what have you learned about robotics and AI from raising a human baby bot well I think that my child has made it
+01:09:46 more apparent and that the systems we're currently creating aren't like human intelligence
+01:09:52 like it there's not a lot to compare there it's just you he has learned and developed in such a different way than a
+01:10:01 lot of the AI systems were creating that that's not really interesting to me to compare but what is interesting to me is
+01:10:10 how these systems are going to shape the world that he grows up in and so I'm like even more concerned about kind of
+01:10:17 the societal effects of developing systems that you know rely on massive amounts of data collection for example
+01:10:25 so is you going to be allowed to use like Facebook or Facebook is over kids don't use that at snapchat what do they
+01:10:34 use Instagram Jets over to I don't know I just heard that tick tock is over which I've never even seen so I don't
+01:10:41 know no we're old we don't know twitch and you just I'm gonna start gaming and streaming my my gameplay so what do you
+01:10:51 see is the future of personal robotic social robotics interaction with our robots like what are you excited about
+01:10:57 if you were to sort of philosophize about what might happen the next 5-10 years that would be cool to see oh I
+01:11:05 really hope that we get kind of a home robot that makes it that's a social robot and not just Alexa like it's you
+01:11:14 know I really loved the Anki products I thought Gebo was had some really great aspect so I'm hoping that a company
+01:11:24 cracks that meet you so okay it was wonderful talking today likewise thank you so much it's fun
+01:11:30 thanks for listening to this conversation with Kate darling and thank you to our sponsors expressvpn and
+01:11:37 master class please consider supporting the podcast by signing up to master class and master class comm slash flex
+01:11:45 and getting expressvpn at expressvpn comm / lex pod if you enjoy this podcast subscribe on youtube review it with five
+01:11:54 stars on Apple podcast supported on patreon or simply connect with me on Twitter at Lex Friedman and now let me
+01:12:02 leave you with some tweets from Kate darling first tweet is the pandemic has fundamentally changed Who I am I now
+01:12:12 drink the leftover milk in the bottom of the cereal bowl second tweet is I came on here to complain that I had a really

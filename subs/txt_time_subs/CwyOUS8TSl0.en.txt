@@ -1,0 +1,756 @@
+00:00:01 the following is a conversation with Dimitri korkin he's a professor of bioinformatics and computational biology
+00:00:08 at WPI Worcester Polytechnic Institute where he specializes in bioinformatics of complex diseases computational
+00:00:16 genomics systems biology and biomedical data analytics I came across Dimitri's work one in February his group used the
+00:00:25 viral genome of the Cova 19 to reconstruct the 3d structure of its major viral proteins and their
+00:00:31 interaction with the human proteins in effect creating a structural genomics map of the coronavirus  and making this
+00:00:38 data open and available to researchers everywhere we talked about the biology of covert 19 SARS and viruses in general
+00:00:46 and how computational methods can help us understand their structure and function in order to develop antiviral
+00:00:55 drugs and vaccines this conversation was recorded recently in the time of the coronavirus  pandemic for everyone
+00:01:01 feeling the medical psychological and financial burden of this crisis I'm sending love your way stay strong
+00:01:07 we're in this together we'll beat this thing this is the artificial intelligence podcast if you enjoy it
+00:01:14 subscribe on YouTube review it with five stars in a podcast supported on patreon or simply connect with me on Twitter
+00:01:23 Alex Friedman spelled Fri DM a.m. this show is presented by cash app the number-one finance app in the App Store
+00:01:29 when you get it you just called Lex podcast cash app lets you send money to friends buy Bitcoin and invest in the
+00:01:36 stock market with as little as $1 since cash app allows you to buy Bitcoin let me mention that cryptocurrency in the
+00:01:42 context of the history of money is fascinating I recommend a cent of money as a great book on this history debits
+00:01:50 and credits on Ledger's started around 30,000 years ago the US dollar created over two hundred years ago and Bitcoin
+00:01:57 the first decentralized cryptocurrency released just over ten years ago so given that history cryptocurrency is
+00:02:05 still very much in his early days of development but it's still aiming to and just my redefined the nature of money
+00:02:14 so again if you get cash out from the App Store Google Play and use the code let's podcast you get ten dollars in
+00:02:21 cash app will also donate ten dollars the first an organization that is helping to advance robotics and STEM
+00:02:27 education for young people around the world and now here's my conversation with Demetri korkin do you find viruses
+00:02:38 terrifying or fascinating when I think about viruses I think about them I mean I imagine them as those villains that do
+00:02:54 their work so perfectly well that's that is impossible not to be fascinated with them so what do you imagine when you
+00:03:01 think about a virus do you imagine the individual so these hundred nanometer particle things or do you imagine the
+00:03:11 whole pandemic like Society level the when you say the efficiency at which they do their work do you think of
+00:03:19 viruses as the millions that him and that occupy human body or a living organism Society level like spreading as
+00:03:27 a pandemic or do you think of the individual little guy yes this is I think this is a unique a unique concept
+00:03:37 that allows you to move from micro scale to the macro scale all right so the dividers itself I mean it's it's not a
+00:03:44 living organism it's a machine to me it's a machine but it is perfected to the way that it
+00:03:55 essentially has a limited number of functions it needs to do necessary some functions and essentially has enough
+00:04:06 information just to do those functions as well as the ability to modify itself so you know it's it's a machine it's an
+00:04:18 intelligent machine so yeah look maybe on that point you're in danger of reducing the power of this thing by
+00:04:27 calling it a machine right but you now mention that it's also possibly intelligent it seems that there's these
+00:04:35 elements of brilliance that a virus has of intelligence of maximizing so many things about its behavior in to ensure
+00:04:48 its survival and its and its success so do you see it as intelligent so you know I think the it's a different
+00:04:58 understanding differently than you know I think about you know intelligence over human kind or intelligence of of the of
+00:05:08 the you know of the artificial intelligence mechanisms I think the intelligence of a virus is
+00:05:20 in its simplicity the ability to do so much with so little material and information but also I
+00:05:37 think it's it's interesting it keeps me thinking you know it gives me wondering whether or not it's also the an example
+00:05:51 of the basic swarm intelligence where you know essentially the viruses act as the whole and extremely efficient in
+00:06:03 that so what do you attribute the incredible simplicity and the efficiency - is it the evolutionary process - maybe
+00:06:12 another way to ask that if you look at the next hundred years are you more worried about the natural
+00:06:20 pandemics or the engineered pandemics so how hard is it to build a virus yes it's it's a very very interesting
+00:06:28 question because obviously there is a lot of conversations about the you know whether we are capable of engineering a
+00:06:41 you know anyone worse the virus I personally expect in a mostly concerned with the naturally occurring
+00:06:53 viruses simply because we keep seeing that we keep seeing new strains of influenza emerging some of them becoming
+00:07:03 pandemic we keep seeing new strains of coronaviruses emerging this is a natural process and I think this is why it's so
+00:07:20 powerful you know if you ask me you know did I've read papers about scientists trying to study the capacity of the
+00:07:34 modern you know by technology to alter the viruses but I hope that that you know it in it won't be our main concern
+00:07:47 in the near future do you mean by hope well you know if you look back and look at the history of the
+00:08:02 of the most dangerous viruses right so that's the first thing that comes into mind is a smallpox so right now there is
+00:08:16 perhaps a handful of places where this you know the the strains of this virus are stored right so this is essentially
+00:08:27 the effort of the whole society to limit the access to those viruses I mean in a lab in a controlled environment in order
+00:08:37 to study and then smallpox is one of the viruses for which should be stated there's a vaccine is
+00:08:45 developed yes yes and that's you know it's until seventies it wasn't in my opinion it was perhaps the most
+00:08:56 dangerous think that was there is there a very different virus then then the influenza and coronaviruses it is it is
+00:09:08 different in several aspects biologically it's a so-called double-stranded DNA virus but also in
+00:09:23 the way that it is much more contagious so they are not for so this is this is the what are not are not is essentially
+00:09:37 an average number as person infected by the virus can spread to other people so then the average number of people that
+00:09:51 he or she can spread it to and you know the there is still some you know discussion about the estimates of the
+00:10:01 current virus you know the estimations vary between you know one point five and three in case of smallpox it was five to
+00:10:15 seven and we're talking about the exponential growth right so that's that's a very big difference it's not
+00:10:26 the most contagious one measles for example it's I think 15 and up so so it's it's you know but it's definitely
+00:10:39 definitely more contagious that that the seasonal flu then the current coronavirus were stars for
+00:10:50 that matter so what makes a what makes a virus more contagious or the I'm sure there's a lot of variables that come
+00:10:57 into play but is it is it that whole discussion of aerosol and like the size of droplets if if it's airborne or
+00:11:03 there's some other stuff that's more biology centered I mean there are a lot of components and and there are
+00:11:10 biological components that there are also you know social components the ability of the virus to you know the the
+00:11:21 ways in which the virus is spread is definitely one the ability to virus to stay on the surfaces to survive the
+00:11:33 ability of the virus to replicate fast also you know once it's in the cell or whatever once it's inside the host and
+00:11:42 interesting enough something that I think we didn't pay that much attention to is the incubation period the were you
+00:11:54 know hosts are symptomatic and now it turns out that another thing that we one really needs to take into account the
+00:12:03 percentage of the asymptomatic population because those people still shared this virus and still are you know
+00:12:14 they still are contagious as other than the Iceland study which i think is probably the most impressive size-wise
+00:12:22 shows 50 percent asymptomatic this virus I also recently learned the swine flu is like just a number of people who got
+00:12:36 infected was in the billions it was some crazy number it was like it was like like 20 percent of poverty percent of
+00:12:44 population something crazy like that so the lucky thing there is the fatality rate is low but the fact that a virus
+00:12:52 can just take over an entire population so quickly it's terrifying I think I mean this is
+00:13:01 you know that's perhaps my favorite example of a butterfly effect because it's really I mean it's it's even tinier
+00:13:10 they'd then a butterfly and look at you know and with you know if you think about it right so it used to be in in
+00:13:21 those bad species and perhaps because of you know a couple of small changes in in the in the viral genome his first had
+00:13:33 you know become capable of jumping from bats to human and then it became capable of jumping from human to human
+00:13:41 alright so this is this is I mean it's not even the size of a virus it's the size of several you know several atoms
+00:13:51 or says you know few atoms and our sudden this change has such a major impact so is that a mutation like on a
+00:14:03 single virus is that like so if we talk about those the the flap of a butterfly wing like what's the first flap well I
+00:14:12 think this is the the the mutations that make that made this virus capable of jumping from bat species to human and of
+00:14:23 course there's you know the scientists are still trying to find I mean they still even trying to find the the who
+00:14:30 was the first in fact it is the patient zero the first human the first human infected right I mean the fact that
+00:14:38 there are coronavirus es different strains of coronavirus es in various bat species I mean we know that so so we you
+00:14:47 know viola gist absurdum they studied them they look at their and genomic sequences they're trying of course to
+00:14:56 understand what make this virus is to jump from from bats to human there was you know similar to that and in you know
+00:15:06 in influenza that was I think a few years ago there was this you know interesting story where several groups
+00:15:19 of scientists studying influenza virus essentially you know made experiments to show that this virus can jump from one
+00:15:31 species to another you know by changing I think just a couple of residues and and and of course it was very
+00:15:40 controversial I think there was a moratorium on this study for a while but then the study was released it was
+00:15:49 published so that was their moratorium is because it shows through engineering it through modifying it you can make a
+00:16:00 jump yes yeah I I personally think it is important to study this I mean we should be inform to should try to understand as
+00:16:11 much as possible in order to prevent it but so then the engineering aspect there is can't you then just start searching
+00:16:19 because there's so many strands of viruses out there can't you just search for the ones in
+00:16:26 bats that are the deadliest from the virologist perspective and then just try to engineer try to see how to but see
+00:16:38 that's a there's a nice aspect to it the really nice thing about engineering viruses it has the same problems nuclear
+00:16:47 weapons is it's hard for it to not only to mutual self-destruction so you can't control a virus it can't be used as a
+00:16:55 weapon right yeah that's why I you know in the beginning I said you know I I'm hopeful because that definitely the
+00:17:03 definitely regulations to be needed to be introduced and I mean as the scientific society is we are in charge of
+00:17:17 you know making the right actions making the right decisions but I think we we will benefit tremendously by
+00:17:28 understanding the mechanisms by which the virus can jump by which the virus can become more you know more more
+00:17:42 dangerous to humans because all this answers with you know eventually to to designing better vaccines hopefully
+00:17:51 Universal vaccines right and that would be a triumph of the you know science so what's the universe of vaccines is that
+00:18:01 something that well how universal is universal well I mean you know so what's the dream I guess because you kind of
+00:18:07 mentioned the dream of this I would be extremely happy if you know we designed the vaccine that is able I mean I'll
+00:18:17 give you an example right so so every year we do a seasonal flu shot the reason we do it is because you know we
+00:18:26 are in the arms race you know our vaccines are in the arms race with with constantly changing virus right now if the
+00:18:38 neck's pandemic influenza pandemic will a cure most likely this vaccine would not save us right although it's it's you
+00:18:48 know it's the same virus might be different strain so if we're able to essentially design a vaccine against you
+00:19:01 know influenza A virus no matter what's the strain no matter which species did jump from that would be I think that
+00:19:12 would be a huge huge progress and advancement you mentioned the smallpox until the seventies might have been something that
+00:19:20 he would be worried the most about what about these days well we're sitting here in the middle of a cove in nineteen
+00:19:30 pandemic but these days nevertheless what is your biggest worry virus wise what are you keeping your eye are on it
+00:19:41 looks like and you know based on the past several years of the of the new viruses emerging I think we're still
+00:19:54 dealing with different types of influence I mean so so the eight seven and nine avian flu that was that emerged
+00:20:07 I think a couple of years ago in China I think the the mortality rate was incredible I mean it was you know I
+00:20:17 think above thirty percent you know so this is this is fuchsia I mean luckily for us this strain was not
+00:20:28 pandemic alright so it was jumping from birds to human but I don't think it it it was actually transmittable between
+00:20:36 the humans and you know this is actually a very interesting question which scientists tried to understand
+00:20:44 right so the balance the delicate balance between the virus being very contagious right so
+00:20:52 efficient in spreading and virus to be very pathogenic you know causing you know harms you know and and that's to
+00:21:07 their horse so it looks like that the more pathogenic the viruses the less contagious it is is that a property
+00:21:18 biology or what is it was I I don't have an answer to that and III think this is this is still an
+00:21:24 open question but you know if you look at you know you know with the coronavirus  for example if you look at you
+00:21:33 know the the deadlier relative Merce Merce was never in a pandemic virus right but the you know did again the the
+00:21:46 mortality rate from nurseries far above you know I think twenty or thirty percent so so whatever is making this
+00:21:57 all happen doesn't want us dead because it's balancing yeah nicely I mean how do you explain that one not dead yet like
+00:22:08 because there's so many viruses and they're so good at what they do why do they keep us alive I mean we will also
+00:22:18 have you know a lot of protection right so the immune system and so I mean we do have you know ways to to fight against
+00:22:34 those viruses and I think with the I now weigh much better equipped right so with the discoveries of vaccines and you know
+00:22:42 there are vaccines against the the viruses that maybe two hundred years ago would wipe us out completely but because
+00:22:53 of this vaccines we are actually we're capable of eradicating pretty much fully as is the case with smallpox so if we
+00:23:01 could can we go to the basics a little bit of the biology of the virus how does the
+00:23:09 virus infect the body so I think there are some key steps that the virus needs to perform and of course the first one
+00:23:20 the viral particle needs to get attached to the host cell in the case of coronavirus  there is a lot of evidence that it
+00:23:30 actually interacts in the same way of the as the SARS coronavirus so it gets attached to a c2 human receptor and so
+00:23:42 there is I mean as we speak there is a growing number of papers suggesting it moreover a most recent I think most
+00:23:53 recent results suggest that this virus attaches more efficiently to this human receptor then SARS just a sore back off
+00:24:05 so there is a family viruses the coronavirus es and SARS whatever the heck for that respite or wherever that stands for
+00:24:16 so SARS actually stands for the disease that you get is the syndrome of acute respiratory so SARS is the first strand
+00:24:28 and there's Merce Merce and there is yes but people scientists actually know more than three strains I mean so there is
+00:24:36 the mhv strain which is considered to be a canonical model disease model in mice
+00:24:49 and so there is a lot of work done on on this virus because it's but he hasn't jumped to humans yet no no yes it's
+00:25:01 fascinating so any mention a c2 so the when you say attached proteins are involved yeah on both sides yes so so we
+00:25:10 have you know so we have this infamous spike protein on the surface of the virion particle and
+00:25:17 does look like a spike and I mean that's essentially because of this protein you know we called the coronavirus
+00:25:25 coronavirus so that what makes Corona on top of the surface so so this via this protein it actually it acts so it
+00:25:37 doesn't act alone it actually it makes a three copies and it's it makes so-called trimer so this trimer is essentially a
+00:25:46 functional unit a single functional unit that in starts interacting with the AC two receptor so this is again another
+00:25:58 protein that now sits on the surface of a human cell host cell I would say and that's essentially in that way the virus
+00:26:15 anchors itself to the host cell because then it needs to actually it needs to get inside you know it fuses its
+00:26:24 membrane with the host membrane it releases the the key components it releases its you know RNA and then
+00:26:36 essentially hijacks the the machinery of the cell because none of the viruses that we know of have ribosome the the
+00:26:49 machinery that allows us to print out proteins so in order to print out proteins that are necessary for
+00:26:56 functioning of this virus it actually needs to hijack the host ribosomes the virus is an RNA wrapped in a bunch of
+00:27:05 proteins one of which is this functional mechanism with by protein that does the attachment so yeah so you know so if you
+00:27:12 look at this virus that there are you know several basic components right so we start with the Spike protein this is
+00:27:20 not the only surface protein the the protein that lives on the surface of the the protein with the highest number of
+00:27:34 copies is the membrane protein so it's essentially it forms the capsid sorry the envelope of the protein of the viral
+00:27:48 particle and essentially you know helps to maintain a certain curvature helps to make a certain curvature then there is a
+00:27:59 another protein called envelope protein or a protein and it it actually occurs in in far less quantities and still
+00:28:10 there is ongoing research what exactly does this protein do so these are sort of the three major surface proteins that
+00:28:21 you know make the divider envelope and when we go inside then we have another structural protein called nuclear
+00:28:31 protein and the the purpose of this protein is to protect the viral RNA it actually binds to the viral RNA creates
+00:28:41 a capsid and so the rest of the virus viral information is inside of this you know RNA and you know if you compare the
+00:28:55 amount of the genes or you know proteins that are made of these genes it's much you know it's significantly higher than
+00:29:05 of influenza virus for example influenza virus has I think around eight or nine proteins where this one has at least 29 Wow
+00:29:15 that has to do with the length of the RNA strand I mean so I mean so it's it it affects the length of the RNA strand
+00:29:23 right so so so because you essentially need to have sort of the minimum amount of information to encode those genes how
+00:29:34 many proteases you say 2909 protease yes so this is this is you know something definitely interesting because you know
+00:29:41 believe it or not we've been studying you know coronaviruses for over two decades we've
+00:29:50 yet to uncover all functionalities of his proteins could we maybe take a small tangent and can you can you say how one
+00:30:00 would try to figure out what a function of a particular protein is so you've mentioned people are still trying to
+00:30:07 figure out what the function of the envelope protein might be or what's the process so this is where the research
+00:30:17 that computational scientists do might be of help because you know in the past several decades was that we actually
+00:30:27 have collected a pretty decent amount of knowledge about different proteins in different viruses so what we can
+00:30:38 actually try to do and this is sort of could be sort of the our first lead to a possible function is to see whether
+00:30:48 those you know say we have this genome of the coronavirus  other of the novel coronavirus and we identify the potential proteins
+00:30:59 then in order to infer the function what we can do can actually see whether those proteins are similar to those ones that
+00:31:09 we already know okay in such a way we can you know for example clearly identified you know some critical
+00:31:17 components that RNA polymerase or different types of proteases these are the proteins that essentially clip the
+00:31:30 protein sequences and so this works in many cases however in some cases you have truly novel proteins and this is a
+00:31:42 much more difficult task now as a small pause when you say similar like what if some parts are different and some parts
+00:31:50 are similar like how do you disentangle that you know it's it's a big question of course you know what by informatics does
+00:32:00 it does predictions right so those predictions and they have to be validated by experiments functional or
+00:32:09 structural predictions both I mean we we do structural predictions with the functional predictions we do
+00:32:15 interactions predictions things you just generate a lot of predictions like reasonable predictions based on
+00:32:22 structure and function interaction like you said and then here you go that's the power of bioinformatics is
+00:32:31 data grounded good predictions of what should happen so we you know in the way I see it we're helping experimental
+00:32:41 scientists to streamline the discovery process yeah and the experimental scientists is that what a virologist is
+00:32:49 solely about virology is one of the experimental sciences that you know focus on viruses they often work with
+00:32:58 other experimental scientists for example the molecular imaging scientists right so the the viruses often can be
+00:33:09 viewed and reconstructed through electron microscopy techniques so but these are you know specialists that are
+00:33:17 not necessarily by biologists they've worked with small small particles more by whether it's viruses or is it an
+00:33:29 organelle of a you know of a human cell whether it's a you know complex molecular machinery so the techniques
+00:33:38 that are use are very similar in in surfing in its in their essence and so yeah so so typically me and in we see it
+00:33:54 now the research on you know that is emerging and that is needed often involves the
+00:34:03 collaborations between biologists you know biochemist you know people from from pharmaceutical sciences computational
+00:34:19 sciences so we have to work together so from my perspective is to step back sometimes I look at this stuff it's the
+00:34:27 how much we understand about RNA DNA how much we understand about protein like your work the amount of proteins that
+00:34:36 you're exploring is it surprising to you that we were able we descendants of apes were able to figure all of this out like
+00:34:46 how so your computer scientists so for me from computer science perspective I I know how to write a Python program
+00:34:53 things are clear but biology is a giant mess it feels like to me from an outsider's perspective is how surprising
+00:35:02 is it amazing is it that we were able to figure this stuff out you know if you look at the you know how computational
+00:35:11 science and computer science was evolving right I think it was just a matter of time that we would approach
+00:35:18 biology so so we we started from you know applications to much more fundamental systems physics you know and
+00:35:30 now we are or you know small chemical compounds right so now we are approaching the more complex biological
+00:35:42 systems and I think it's a natural evolution of you know of the computer science of mathematics sure that's the
+00:35:51 computer science I just might even in in higher level so that to me surprising that computer science can offer help in
+00:35:58 this messy world but I just mean it's incredible that the biologists and the chemists can figure all this out or is
+00:36:06 it you sound ridiculous to you that that of course they would it just seems like a very complicated set of problems
+00:36:13 like the the variety of the kinds of things that could be produced in the body the just just like you said 20 and
+00:36:20 I approach I mean just getting a hand of in a hang of it so quickly it just seems impossible to me I agree I mean it's and
+00:36:30 I have to say we are you know in the very very beginning of this journey I mean we we've yet to I mean we've yet to
+00:36:43 comprehend not even try to understand and figure out all the details but we've yet to comprehend the complexity of the
+00:36:55 cell we know that neuroscience is not even at the beginning of understanding human mind
+00:37:03 so where's biology said in terms of understanding the function deeply understanding the function of viruses
+00:37:12 and cells so there sometimes it's easy to say when you talk about function what you really refer to it's perhaps not a
+00:37:19 deep understanding but more of a understanding sufficient to be able to mess with it using a antiviral like mess
+00:37:28 with it chemically to prevent some of its function or do you understand the function well I think equally I think
+00:37:35 we're much farther in terms of understanding of the complex genetic disorders such as cancer where you have
+00:37:43 layers of complexity and we you know as in my laboratory we're trying to contribute to that research but we're
+00:37:50 also in a way overwhelmed with how many different layers of complexity different layers of mechanisms that can be
+00:38:02 hijacked by cancer simultaneously and so you know I think biology in the past 20 years again from the perspective of the
+00:38:13 outsider because I'm not a biologist but I think it has advanced tremendously and one thing that we're computational
+00:38:27 scientists and data scientists are now becoming very very helpful is in the fact it's kind of from the fact that we
+00:38:38 are now able to generate a lot of information about the cell whether it's next-generation sequencing or
+00:38:50 transcriptomics whether it's life imaging information where it is you know complex interactions between proteins or
+00:39:00 between proteins and small molecules such as drugs we we are becoming very efficient in generating this information
+00:39:10 and now the next step is to become equally efficient in processing this information and extracting the the key
+00:39:21 knowledge from that they could then be validated with the experiment yeah yeah so maybe then going all the way back
+00:39:29 we're talking you said the first step is seeing if we can match the new proteins you found in the virus against something
+00:39:36 we've seen before to figure out its function and then you also mentioned that but there could be cases where it's
+00:39:43 a totally new protein is there something biron firm addicts can offer when it's a totally new protein this is where many
+00:39:51 of the methods and you probably are aware of you know the the case of machine learning many of these methods
+00:40:00 rely on the previous knowledge right so things that where we try to do from scratch are incredibly difficult you
+00:40:09 know something that we call a Benicia and this is I mean it's not just the function I mean you know we've yet to
+00:40:18 have a robust method to predict the structures of these proteins in a Benicia you know by not using any templates
+00:40:32 of other related proteins so protein is a chain of amino acids residues as residues yeah and then however somehow
+00:40:44 magically maybe you can tell me they seem to fold in incredibly weird and complicated 3d shapes yes so and that's
+00:40:56 where actually the idea of protein folding or just not the idea but the problem of figuring out how the hell it
+00:41:02 wants up the concept how they fold into those weird shapes comes in so that's another side of computational work so
+00:41:11 what can you describe what protein folding from the computational side is and maybe your thoughts on the folding
+00:41:17 at home efforts that a lot of people know they you can use your machine to to do protein folding
+00:41:24 so yeah broad protein folding is you know one of that those 1 million dollar price challenges right so the reason for
+00:41:34 that is we've yet to understand precisely how the protein gets folded so efficiently to the point that in many
+00:41:47 cases where you you know where you try to unfold it due to the high temperature it actually folds back into its original
+00:41:56 state right so we know a lot about the mechanisms right but put putting those mechanisms together and making sense
+00:42:09 it's a computationally very expensive task in general the proteins fold can they fold in arbitrary large number of
+00:42:18 ways it is they usually fold in a very small number no it's it's typically I mean you we tend to think that you know
+00:42:25 there is a one sort of canonical fold for protein although that there are many cases where the proteins you know upon
+00:42:34 the stabilization it can be folded into a different conformation and this is especially true when you
+00:42:43 look at sort of proteins that in that include more than one structural unions so those structural unions we call them
+00:42:50 protein domains essentially protein domain is a single unit that typically is evolutionary preserved that typically
+00:42:59 carries out the single function and typically has a very distinct fault structure 3d structure organization but
+00:43:09 turns out that if you look at human an average protein in a human cell would have to a bit of two or three such
+00:43:22 subunit and how they are trying to fold into the sort of you know next level fold right
+00:43:33 so within subunit is folding and then and then they fold into the larger 3d structure right and and all that there's
+00:43:42 some wonder saying the basic mechanisms but not to put together to be able to fold it we're still I mean we're still
+00:43:48 struggling I mean we're we're getting pretty good about folding relatively small proteins up to hundred residues
+00:43:58 which I mean but we're still far away from folding you know larger proteins and some of them are notoriously
+00:44:07 difficult for example transmembrane proteins proteins that that sit in the in the membranes of the cell they're
+00:44:16 incredibly important but they are incredibly difficult to solve and so basically there's a lot of degrees of
+00:44:24 freedom how it folds and so it's a combinatorial problem or just explodes there's so many dimensions Hey well it
+00:44:31 is a combinatorial problem but it doesn't mean that we cannot approach it from the non canal not from the boot for
+00:44:42 a force approach and so the machine learning approaches you know have been emerged that try to tackle it so folding
+00:44:49 at home I don't know how familiar with it but is that used machine learning or is it more
+00:44:56 brute force no so folding at home it was originally and I remember I was a it was a long time ago I was a postdoc and we
+00:45:06 we learned about this you know this game because it was originally designed as the game and we you know I took a look
+00:45:16 at it and it's interesting because it's it's really you know it's very transparent very intuitive so and from
+00:45:26 what I heard a via to introduce it to my son but you know kids are actually getting very good at folding the
+00:45:36 proteins and it was you know it came to me as they as the not as a surprise but actually as the sort of manifest of you
+00:45:50 know our capacity to do this kind of to solve these kind of problems when a paper was published published in one of
+00:46:03 these top journals with the coasters been the actual players of this game so and what happened is was that they
+00:46:15 managed to get better structures than the scientists themselves so so that you know that was very I mean it was kind of
+00:46:28 profound you know revelation that problems that are so challenging for a computational science maybe not that
+00:46:38 challenging for a human brain well that's a really good that's a hopeful message always when there's a the proof
+00:46:49 of existence the existence proof that it's possible that's really interesting but the it seems what are the best ways
+00:46:59 to do protein folding now so if you look at what deep mind does with alpha fall alpha fold yes so they kind of is that's
+00:47:07 a learning approach what's your sense I mean your backgrounds in machine learning but is this a learnable problem
+00:47:15 is this still a brute-force away in the garry kasparov deep blue days are we in the alphago playing the game of go days
+00:47:26 of folding well I think we are we are advancing towards this direction I mean if you look so there is a sort of
+00:47:34 olympic game for protein folders called CASP and it's essentially it's you know it's a competition where different teams
+00:47:46 are given exactly the same protein sequences and they try to predict their structures right and of course there's
+00:47:57 different sort of subtasks but in the recent competition half a fault was among the top performing teams if not
+00:48:06 the top performing team so there is definitely a benefit from the data that had been generated you know in the past
+00:48:16 several decades the structural data and certainly you know we are now at the capacity to summarize this data to
+00:48:29 generalize this data and to use those principles you know in order to predict protein structures as one of the really
+00:48:37 cool things here is there's maybe you can comment on it there seems to be these open datasets of protein how did
+00:48:45 that with the protein databank the a protein databank I mean as create is this a recent thing for just the
+00:48:54 coronavirus  or it's it's been for many many years I believe the first protein databank was designed on flash cards so
+00:49:08 on the so yes it's so this I mean this is a great example of the community efforts of everyone contributing cause every
+00:49:21 time you solve a protein or a protein complex this is where you submit it and you know the scientists get access to it
+00:49:35 scientists get to test it and we went from occasions use this information to you know to make predictions so there's
+00:49:46 no there's no culture like hoarding discoveries here so that's I mean you've you've you've released a few or a bunch
+00:49:55 of proteins they were matching its whatever we'll talk about details a little bit but it's kind of amazing that
+00:50:05 that's the the it's kind of amazing how open the culture here is it is and I think this pandemic actually
+00:50:16 demonstrated the ability of scientific community to you know to solve this challenge collaboratively and this is I
+00:50:27 think it if anything it actually moved us to a brand new level of collaborations of the efficiency in
+00:50:36 which people establish new collaborations in in which people offer their help to each other scientists
+00:50:44 offer their help to each other and publish results to it's very interesting we're now trying to figure out as a few
+00:50:51 journals that are trying to sort of do the very accelerated review cycle but so many preprints so just hosting a paper
+00:50:58 going out I think it's fundamentally changing the the way we think about papers yes I mean
+00:51:08 the way we think about knowledge now let's say no yes because yes I completely agree I think now it's the knowledge
+00:51:22 is becoming sort of the the core value not the paper or the journal where this knowledge is published and I think this
+00:51:31 is again this is we are living in the in the times where it becomes really crystallized that the idea that the most
+00:51:43 important value is in the knowledge so maybe you can comment like what do you think the future of that knowledge
+00:51:48 sharing looks like so you have this paper that will I hope you get a chance to talk about a little bit but it has
+00:51:54 like a really nice abstract and the introduction and related like it has all the usual I mean probably took a long
+00:52:03 time to put together so but is that going to remain like you could have communicated a lot of fundamental ideas
+00:52:12 here in much shorter amount that's less traditionally acceptable by the journal context so so well you know so the first
+00:52:24 version that we posted not even on a bi archive because by archive back then it was essentially you know overwhelmed
+00:52:34 with the number of submissions so so our submission I think it took five or six days to just for it to be screened and
+00:52:45 and and put online so we you know essentially we put the first pre pre n't on our website and you know it was
+00:52:57 started getting accessed right away so and and you know so this original preprint was in a much rougher shape
+00:53:09 than this paper and but we tried I mean we honestly try to be as compact as possible with you know
+00:53:20 introducing the the information that is necessary that to explain our you know our results so maybe you can dive right
+00:53:30 in if it's okay sure so it's a paper called structured of Tsarskoe how do you even pronounce
+00:53:40 our scurvy - Co V - yeah by The Cove it is such a terrible name but it stuck and yes Tsarskoe V - indicates
+00:53:47 evolutionary conserved functional regions of viral proteins so this is looking at all kinds of proteins that
+00:53:56 are part of the this novel coronavirus and how they match up against the previous other kinds of coronavirus es
+00:54:04 and there's a lot of beautiful figures I was wondering if you could I mean there's so many questions I could ask
+00:54:10 her but maybe a tough how do you get started at doing this paper so how do you start to figure out the 3d structure
+00:54:17 of a novel virus yes so there is actually a little story behind it and so the story actually dated back in
+00:54:29 September of 2019 and you probably remember that back then we had another dangerous virus Triple E virus its
+00:54:39 eastern equine encephalitis virus and can you maybe linger in it I have to admit I was sadly completely unaware so
+00:54:48 so that was actually a virus outbreak that happened in New England only the the danger in this virus was that it
+00:55:00 actually it targeted your brain so so the word deaths from this virus it was it was transferred you know transfer the
+00:55:13 main vector was mosquitoes and obviously full-time is you know the time where you have a lot of them in New England and
+00:55:24 you know on one hand people realize this is this is this actually very dangerous thing so it had an impact on the local
+00:55:36 economy the schools were closed past six o'clock no activities outside for the kids because the kids were suffering
+00:55:45 quite tremendously from you know what infected from this virus and how do I not know about this was impacted it was
+00:55:55 in the news I mean it was not impacted to to high degree in in Boston necessarily but in the Metro West area
+00:56:05 and actually spread around I think all the way to New Hampshire Connecticut and you mentioned affecting the brain that's
+00:56:12 one other comment we should make so you mentioned a AC two for the coronavirus  so these viruses
+00:56:22 kind of attach to something in the body so it essentially attaches to the to these proteins in those cells in the
+00:56:31 body where those proteins are expressed where they actually have them in in abundance so sometimes that could be in
+00:56:38 the lungs that could be a brain that could be so I think what they right now from what I read they have the
+00:56:51 epithelial cells inside in so did the cells essentially inside the you know the it's the cells that are covering the
+00:57:01 surface you know so inside the nasal surfaces the this road the lung cells and I believe liver as a couple of other
+00:57:11 organs where they are actually expressing in abundance that's for the AC tuition for 318 two percenters okay
+00:57:20 so back back to the story yes in the fall so now the these you know the impact of this virus is significant
+00:57:33 however it's a pre local problem to the point that you know this something that we would call a neglected disease
+00:57:44 because it's not big enough to make you know the the drug design companies to design a new antiviral or in York seen
+00:57:57 it's not big enough to generate a lot of grants from the nation of finding agencies so so does it mean we cannot do
+00:58:11 anything about it and so what I did is I taught a by informatics class and is in Worcester Polytechnic Institute and we
+00:58:25 are very much problem learning institution so I thought that that would be a perfect you know perfect project in
+00:58:36 case study so so I asked it you know so so I we essentially designed a study where we tried to use by informatics to
+00:58:45 to understand as much as possible about this virus and a very substantial portion of the study was to understand
+00:58:55 the structures of the proteins to understand how they interact with with each other and with the with the host
+00:59:05 proteins try to understand the evolution of this virus it's obviously you know a very important
+00:59:13 question how where it will evolve further how you know how it happened here you know so so we did all this you know
+00:59:26 projects and now I'm trying to put them into a paper where all these undergraduate students will be coasters
+00:59:35 but essentially the projects were finished right about mid-december and a couple of weeks later I heard about this
+00:59:46 mysterious new virus that was discovered in you know was reported in in Wuhan province and immediately I thought that
+00:59:58 well we just did that can't we do the same thing with this virus and so we started waiting for the genome to be
+01:00:05 released because that's essentially the first piece of information that is critical once you have the genome
+01:00:11 sequence you can doing a lot using my informatics when you see genome sequence that's referring
+01:00:18 to the sequence of letters that make up the RNA so the sequence that make up the entire information encoded in the
+01:00:31 protein right so so that includes all 29 genes what are genes what's the encoding of information sosigenes is essentially is
+01:00:46 a basic functional unit that we can consider so so each gene in the virus would correspond to a protein that so
+01:00:56 gene by itself doesn't do it function it needs to be converted or translated into the protein that will become the actual
+01:01:08 functional unit like you said the printer so so we need the printer for that we need to print it okay so the the
+01:01:16 first step is to figure out that the genome the sequence of things that to be then used for printing the protein so
+01:01:26 okay so then then the next step so once we have this and so we use the existing information about Sarkis the Czar's
+01:01:38 genomics has been done in abundance so we have different strains of SARS and actually other related coronaviruses
+01:01:51 MERS the bat coronavirus and we started by identifying the potential genes because right now it's just the sequence
+01:01:58 right it's a sequence that is roughly it's less than 30,000 nucleotide long and this the raw sequence it's a rose
+01:02:10 ignore the information really and we now need to define the boundaries of the genes that would then be used to identify the
+01:02:22 proteins and protein structures how hard is that problem it's not I mean it's pretty straightforward
+01:02:30 so you know so because we use the existing information about SARS proteins and SARS genes
+01:02:38 so once again we kind of we are relying on the yes so and then once we get there this is where sort of the first more
+01:02:52 traditional bind phonetic steps step begins we are trying to use these protein sequences and get the 3d
+01:03:05 information about those proteins so this is where we are relying heavily on the structure information specifically from
+01:03:14 the protein data bank that we are talking about and here you're looking for similar proteins yes so so the the
+01:03:23 concept that we are operating when we do this kind of modeling it's called homology or template based modeling so
+01:03:32 essentially using the concept that if you have two sequences that are similar in terms of the letters the structures
+01:03:42 of these sequences are expected to be similar as well and this is at the micro at a very local scale and at the scale
+01:03:50 of the whole protein at the whole protein I saw actually so you know so of course the devil is any details and this
+01:04:03 is why we need actually pre once we get these structures of the individual proteins we try to see
+01:04:23 whether or not this proteins act alone or they have to be forming protein complexes in order to perform this
+01:04:32 function and again so this is sort of the next level of the modeling because now you need to understand how proteins
+01:04:40 interact and it could be the case that the protein interacts with itself and makes sort of a multi marek complex the
+01:04:53 same protein just repeated multiple times and we have quite quite a few such proteins in Tsarskoe v2 specifically
+01:05:07 spike protein needs three copies to function and load protein needs five copies to function and there are some
+01:05:19 other multimeric complexes that we mean by interacted with itself and you see multiple copy so how do you how do you
+01:05:25 make a good guess whether something's going to interact well again so there are two approaches right so one is look
+01:05:34 at the previously solved complexes now we're looking not at the individual structures but the structures of the
+01:05:42 whole complex complex is upon multiple proteins yes so it's a bunch of proteins essentially glued together and and when
+01:05:49 you say glued that's the interaction that's the interaction so so the different forces different sort of
+01:05:57 physical forces behind this as I certainly keep asking dumb questions but is it is the glue is that the
+01:06:05 interaction fundamentally structural or is it functional like in the way you're thinking about it that's actually a very
+01:06:14 good way to ask this question because turns out that the interaction is structural but in the way it forms this truck
+01:06:25 it actually also carries out the function so interaction is often needed to carry out very specific function or
+01:06:37 protein but in terms of an earth-sized figuring out you're really starting at the structure before you figure out the
+01:06:46 function so there's a beautiful figure two in the paper of all the different proteins that make up the able to figure
+01:06:57 out the makeup the the new the novel current virus what what are we looking at right so these are like that's this
+01:07:08 through the the step to the mentioned when you try to guess at the possible proteins that's what you're going to get
+01:07:17 is these blue blue cyan blobs yes so those are the individual proteins for which we have at least some information
+01:07:29 from the previous studies right so there is advantage and disadvantage of using previous studies the biggest well the
+01:07:36 disadvantage is that you know we may not necessarily have the coverage of all 29 proteins however the biggest advantage
+01:07:46 is that the accuracy in which we can model these proteins is very high much higher compared to a Benicia methods
+01:07:55 that do not use any template information so but nevertheless this figure also has incision beautiful and I love these
+01:08:06 pictures so much you've as it has like the pink parts yes there are the parts that are different so you're
+01:08:13 highlighting so the difference you find is on the 2d sequence and then you try to infer what I would look like on the
+01:08:21 3d yeah so the difference actually is on 1d sequence one d1 design idea so and and so this is one of these first
+01:08:32 questions that we try to answer is that well if you take this new virus and you take the closest relatives which are SARS and
+01:08:47 a couple of bad coronavirus strains they are already the closest relatives that we are aware of now what are the
+01:08:56 difference between this virus and its close relatives right and what if you look DIPA Klee when you take a sequence
+01:09:06 those differences could be quite far away from each other so what make what 3d structure makes those difference to
+01:09:16 do they very often they tend to cluster together interesting and over sudden the differences that may look completely
+01:09:26 unrelated actually relate to each other and sometimes they are there because they correspond they attack the
+01:09:37 functional side right so they are there because this is the functional side that is highly mutated so that's a
+01:09:47 computational approach to figuring something out when when it comes together like that that's kind of a nice
+01:09:54 clean indication that there's something this could be actually indicative of what's what's happening yes I mean so we
+01:10:03 need this information and you know 3d the 3d structure gives us just a very intuitive way to look at this
+01:10:16 information and then start to ask you know start asking questions such as so this place of this protein that is
+01:10:29 highly mutated does it does it is it the functional part of the protein so does this part of the protein interact with
+01:10:40 some other protein so maybe with some other ligands small small molecules right so we would try now to
+01:10:50 functionally inform this 3d structure so so you have a bunch of these mutated parts is like I don't know how like how
+01:11:02 many are there in the new novel coronavirus being compared it's ours oh we're talking about hundreds of
+01:11:08 thousands like these these pink region all know did much less than that and it's very interesting that if you look
+01:11:14 at that you know so the first thing that you you start seeing right you know you look at patterns right and the first
+01:11:23 pattern that becomes obvious is that some of the proteins in the new coronavirus are pretty much intact right
+01:11:33 so they're pretty much exactly the same as SARS as the bat coronavirus where some others are heavily mutated so
+01:11:46 so it looks like that the you know the evolution is not is not a curing you know uniformly across the entire you
+01:11:59 know viral genome but actually target very specific proteins what do you do with that like from the Sherlock Holmes
+01:12:07 perspective well you know so one of the of the most interesting findings we had was the fact that the viral so the the
+01:12:25 binding sites on the viral surfaces that get targeted by the known small molecules the world pretty much not
+01:12:36 affected at all and so that means that the same small drugs or small small drug like compounds can be efficient for the
+01:12:54 this all actually maps to the drug compounds - like so so you're actually mapping out what old stuff is gonna work
+01:13:03 on this thing and then possibilities for new stuff to work by mapping out the things I've mutated yes so so we
+01:13:11 essentially know which parts is in behave differently and which parts are likely to behave similar and again you
+01:13:22 know of course all our predictions need to be validated by experiments but hopefully that sort of helps us to
+01:13:33 delineate the regions of this virus that you know can be promising in terms of the drug discovery you kind of you kind
+01:13:42 of mentioned this already but maybe you can elaborate so how different from this structural and functional perspective
+01:13:50 does the new coronavirus  appear to be relative to SARS we now are trying to understand the overall structural
+01:14:00 characteristics of this virus because I mean that's that's our next step trying to model the viral particle of a single
+01:14:09 viral particle of this virus so that means you have the individual proteins you think you said you have to figure
+01:14:16 out what their interaction is as you have this is that where this graph kind of interact on so so internet so so the
+01:14:24 interactome at the site is essentially a so our prediction on the potential interactions some of them that we
+01:14:33 already deciphered from the structural knowledge but some of them that essentially are deciphered from the
+01:14:40 knowledge of the existing interactions that people previously obtained for SARS for MERS or other related viruses so is
+01:14:53 there kind of interact ohms am i pronouncing that correctly weather interaction yeah are those already
+01:15:02 converged towards for SARS for so do I think there is there are a couple of papers that now investigate the sort of
+01:15:16 the large-scale set of sets of interactions between the new czars and its hosts and so I think that's that's
+01:15:26 an ongoing study I think and the success of that the result would be an interact on yes
+01:15:33 and so when you say not trying to figure out the entire the article the entire wrinkle right so if you look you know so
+01:15:41 structure right so what this viral particle looks like right so as I said it's it's you know the surface of it is
+01:15:50 an envelope which is essentially a so-called lipid bilayer with proteins integrated into the surface so how so so
+01:16:07 an average particle is around 18 nanometers right so this particle can have about 5,200 spike proteins so at
+01:16:23 least we suspect it and you know based on the micrographs images it's very comparable
+01:16:32 to m hv virus in mice and SARS virus micrographs are actual pictures of the actual virus okay so these are models
+01:16:39 this is that at least so they did actual meat images right what do they sorry for the tangents but what are these things
+01:16:46 so when you look on the internet the models and the pictures are in pen and the models you have here just gorgeous
+01:16:53 and beautiful when you actually take pictures of them or the micrograph like what what do we look well
+01:17:00 they typically are not perfect it's also the most of the images that you see now is the is the sphere with those spikes
+01:17:11 you actually see bikes yes yes you do see the spikes and now you know the our Benjamin Moomin he actually in the
+01:17:27 recent paper about SARS he proposed and there is some actually evidence behind it that the particle is not a sphere but
+01:17:41 is actually is elongated ellipsoid like particles so so that's what we are trying to incorporate into our model and
+01:17:54 the reaiiy mean you know if you look at the actual micrographs you see that those particles are you know are not
+01:18:04 symmetric so there's some of them and of course you know it could be due to the treatment of the of the material it
+01:18:14 could be due to the some noise in the imaging so there's a lot of uncertainty so it's okay so structurally figuring
+01:18:21 out the entire part by the way again sorry for the tangents but why the term particle or is it just it's it's a
+01:18:30 single you know so we could you know we call it the virion so very unparticle it's essentially a single virus single
+01:18:39 virus but just feels like this particle to me from the physics perspective feels like this the most basic unit because
+01:18:47 there seems to be so much going on inside the virus yeah it doesn't feel like a particle - yes well yeah it's
+01:18:54 probably I think it's the the you know variant is is a good way to call it so okay so trying to figure out trying to
+01:19:04 figure out the entirety of the system yes so you know so you know so this is so severe ian has 5,200 spikes a trimer
+01:19:25 membrane protein dimers and those are arranged in there very nice lattice so you can actually see sort of the it's
+01:19:33 it's like a it's a carpet of on the surface again exactly on the surface and occasionally
+01:19:42 you also see this envelope protein inside and some of the one we don't know what it does actually exactly the one
+01:19:49 that that forms the pentamer this very nice pentameric ring and so you know so this is what we're trying to you know
+01:19:57 we're trying to put now all our knowledge together and see whether we can actually generate this overall
+01:20:11 variant model with an idea to understand you know well first of all to understand how how it looks like how far it is from
+01:20:21 those images that were generated but I mean the implications are you know there is a potential for the you know
+01:20:33 nanoparticle design that will mimic this variant particle is the process of nanoparticle design meaning artificially
+01:20:41 designing something that looks similar yes you know so the one that can potentially compete with the actual
+01:20:52 variant particles and therefore reduce the effect of the infection so is this the idea of like what is a vaccine so
+01:21:02 vaccine vaccine so so that yes so there are two ways of essentially treating and in the case of vaccine is preventing the
+01:21:15 infection so vaccine is you know a way to train our immune system so our immune system becomes aware of this new danger
+01:21:28 and therefore is capable of generating the antibodies then we'll essentially bind to the spike proteins because
+01:21:40 that's the main target for the end of for the vaccines design and block its found if you have the spike with the antibody
+01:21:54 on top and can no longer interact with a co2 receptor so the the process of designing vaccine and is you have to
+01:22:03 understand enough about the structure the virus itself to be able to create an artificial our official particle well I
+01:22:13 mean so so so the nanoparticle is is a very exciting and new research so there are already established ways to you know
+01:22:24 to make vaccines and several different ones right so so there is one where essentially the the virus gets through
+01:22:35 the cell culture multiple times so it becomes essentially account you know adjusted to the to the specific
+01:22:43 embryonic cell and as a result become becomes less I you know compatible with the you know host human cells so
+01:22:56 therefore it's sort of the idea of the life vaccine where the particles are there but they are not so efficient you
+01:23:07 know so they cannot replicate you know as rapidly as you know before the vaccine and that they can be introduced
+01:23:16 to the immune system the immune system will learn and the person who gets this vaccine one won't get you know sick or
+01:23:28 you know will have mild you know mild symptoms so then there is sort of different types of the way to introduce
+01:23:39 the non-functional non-functional part of this virus or the virus where some of the information is stripped down for
+01:23:49 example device with no genetic material so so we ignore our age you know exactly so you cannot replicate it cannot
+01:23:57 essentially perform most of its functions that saying well what is the big hurtle to design one of these to arrive
+01:24:07 one of these is it the work that you're doing in the fundamental understanding of this new virus or is it in the from
+01:24:16 our perspective a complicated world of experimental validation and sort of showing that this like going through the
+01:24:22 whole process of showing this is actually gonna work with FDA approval all that kind of stuff I think it's both
+01:24:28 I mean you know our understanding of the molecular mechanisms will allow us to you know to design to have more
+01:24:40 however they once you design the vaccine it it needs to be tested but when you look at the 18 months and the different
+01:24:47 projections which seems like an exceptionally from historically speaking maybe you can correct me but it's even
+01:24:53 18 months seems like a very accelerated timeline it is it is I mean I remember reading about the you know in a book
+01:25:05 about some previous vaccines that it could take up to 10 years to design and you know properly test a vaccine before
+01:25:15 its mass production so yeah we you know everything is accelerated these days I mean for better for worse but but you
+01:25:24 know we we definitely need that well especially the corner virus and in the scientific community is really stepping
+01:25:28 up and working together the collaborative aspect is really interesting you mentioned so the vaccine
+01:25:34 is one and then there's antivirals antiviral drugs so antiviral drugs so we're you know vaccines are typically
+01:25:42 needed to prevent the infection right but once you have an infection one you know so what we try to do try to stop it
+01:25:51 so we try to stop virus from functioning and so the antiviral drugs are designed to block some critical function of the
+01:26:05 of the proteins from the viral from the virus so there are a number of interesting candidates and I think you
+01:26:14 know if you ask me I you know I think remedy severe is perhaps the most promising it's it
+01:26:31 has been shown to be you know an efficient and effective antiviral for SARS originally it was the the antiviral
+01:26:45 drug developed for completely different virus I think for a ball and bar Marburg and high level you know how it works so
+01:26:57 it tries to mimic one of the nucleotides in RNA and essentially that that stops the replication from so messes I guess
+01:27:08 that's what so anywhere all drugs mess some aspect of this yes process so you know so essentially we try to stop
+01:27:17 certain functions of the virus there are some other ones you know that are designed to inhibit the protease the the
+01:27:32 thing that clips protein sequences there is one that was originally designed for malaria which is a bacterial you know
+01:27:43 bacterial disease so this is so cool so but that's exactly where your work steps in is you're figuring out the functional
+01:27:50 then the structure these different so like providing candidates for where drugs can plug in exactly well yes
+01:27:59 because you know one thing that we don't know is whether or not so let's say we have a perfect drug candidate that is
+01:28:08 efficient against SARS and again Smurfs now is it going to be efficient against New South Korea too we don't know that
+01:28:20 and there are multiple aspects that can affect this efficiency so for instance if the the binding site so the the part
+01:28:30 of the protein where this ligand gets attached if this site is mutated then the ligand may not be attachable to this
+01:28:43 part any longer and you know our work and the work of other by informatics groups you know essentially are trying
+01:28:52 to understand whether or not that will be the case or and it looks like for for the ligands that we looked at the ligand
+01:29:05 binding sites are pretty much intact which is very promising so if we can just like zoom out for a second
+01:29:17 what are you optimistic so this - well there's three possible ends - the coronavirus  pandemic so one is there's or
+01:29:27 drugs or vaccines get figured out very quickly probably drugs first the other is the the the pandemic runs its course
+01:29:38 for this wave at least and then the the third is you know things go much worse and some in some dark bad very bad
+01:29:48 direction do you see let's focus on the first two do you see the anti-drugs of the work you're doing being relevant for
+01:30:03 us right now in stopping the pandemic or do you hope that the pandemic will run its course
+01:30:10 so the social distancing things like wearing masks all those discussions that we're having will be the the method with
+01:30:20 which we fight coronavirus in the short term or do you think that it'll have to be antiviral drugs I think I think
+01:30:33 antivirals would be I would view that as the at least the short term solution I see more and more cases in
+01:30:45 news of those new drug candidates been administered in hospitals and I mean this is right now the best what we have
+01:30:58 but do we need it to reopen the economy I mean we definitely need it i i cannot sort of speculate on how that will
+01:31:10 affect reopening of the economy because we are you know we are kind of deep in into the pandemic and it's not just the
+01:31:21 the states it's also you know worldwide you know of course you know there is also the possibility of the second wave
+01:31:35 as we you know as you mentioned and this is why you know we need to be super careful we need to follow all the
+01:31:49 precautions that the doctors tell us to do are you worried about the mutation the virus so it's of course a real
+01:32:03 possibility now how to what extent this virus can mutate it's an open question I mean we know that it is able to mutate
+01:32:13 to jump from one species to another and to to become transmissible between humans right so will it you know so
+01:32:25 let's imagine that we have the new antiviral will this virus become eventually resistant to this antiviral
+01:32:35 we don't know I mean this is what needs to be studied this is such a beautiful and terrifying process that a virus some
+01:32:46 viruses may be able to mutate to respond to the mutate around the thing we've put before it can you explain that process
+01:32:54 like how does that happen just is that just the way of evolution I would say so yes I mean it's it's the
+01:33:04 evolutionary mechanisms there is nothing imprinted into this virus that makes it you know it just the way it it walls and
+01:33:16 actually it's the way it Cory walls with its host it's just amazing it's especially the evolution mechanism is
+01:33:26 especially amazing given how simple the virus is it's incredible that it's I mean it's beautiful
+01:33:35 it's beautiful because it's the one of the cleanest examples of evolution working well I think I mean the one of
+01:33:45 the sort of the reasons for its simplicity is because it does not require all the necessary functions to
+01:33:55 be stored right so it actually can hijack they may the majority of the necessary function from the host cell
+01:34:04 and it's so so so so the ability to do so in my view reduces the complexity of this machine drastically although if you
+01:34:15 look at the you know most recent discoveries right so the scientists discovered viruses that are as large as
+01:34:24 bacteria right so this mini viruses and Mama viruses it actually those discoveries made scientists to
+01:34:36 reconsider the origins of the virus you know and what are the mechanisms and how you know what are the mechanisms the
+01:34:44 evolution mechanisms that leads to the appearance of the viruses by the way I mean you did mention that viruses are I
+01:34:51 think you mentioned that they're now living yes they are not living organisms so let me ask that questioning and why
+01:34:59 do you think they're not living organisms well because they they are dependent the majority of the functions of the
+01:35:12 virus are dependent on the on the host so let me do the devil's advocate let me be the philosophical that was advocate
+01:35:21 here and say while humans which we would say our living need our host planet to survive so you can basically take every
+01:35:33 living organism that we think of as definitively living it's always going to have some aspects of it this host that
+01:35:44 it needs of its environment so is that really the key aspect of why a virus is that dependence because it seems to be
+01:35:55 very good at doing so many things that we consider to be intelligent it's just that dependence part well I mean it yeah
+01:36:10 it's it's difficult to answer in this way I mean I the way I think about the virus is you know in order for it to
+01:36:25 function it needs to have the critical component the critical tools that it doesn't have so I mean that's that's you
+01:36:41 know in my way you know the it's not autonomous I sense and that that's how I separate the the idea of the living work
+01:36:49 is on a very high level yes between the living organism and and you have some no we have I mean this is just terms and
+01:36:57 perhaps they don't mean much but we have some kind of sense of what autonomous you've also done excellent work in the
+01:37:14 epidemiological modeling the simulation of these things so the zooming out outside of the body
+01:37:19 during the aging based simulation so that's where you actually simulate individual human beings and then the
+01:37:27 spread of viruses from one to the other how does at a high level agent-based simulation work all right so it's it's
+01:37:40 also one of this I irony of timing because I mean way we we've worked on this project for the past five years and
+01:37:51 the New Year's Eve I got an email from my Fiji student that you know the last experiments were completed and you know
+01:38:01 the three weeks after that we get we get this diamond princess story and emailing each other with the same you know the
+01:38:11 same news saying okay so the damn place is a cruise ship yes and what was the project that you working so I project I
+01:38:19 mean it's you know the codename it started with the bunch of undergrad use the code name was zombies on a cruise
+01:38:29 ship so they they wanted to essentially model the the you know zombie apocalypse apocalypses on a cruise ship and and you
+01:38:39 know after having you know some fun we then thought about the fact that you know if you look at the cruise ships I
+01:38:47 mean the infectious outbreak is has been one of the biggest threat you know threats to the cruise ship economy so
+01:38:58 perhaps the most you know frequently occurring via is the normal choirs and this is essentially one of this stomach
+01:39:10 flus that you have and you know it it can be quite devastating you know so there are occasionally there are cruise
+01:39:20 ships get you know they get canceled they get returned to the back to the to the origin
+01:39:28 and so we wanted to study and this is very different from the traditional epidemiological studies where this scale
+01:39:35 is much larger so we wanted to study this in a confined environment which is a cruise ship it could be a school it
+01:39:45 could be other you know other places such as you know these large large company where people are in interaction
+01:39:58 and the benefit of this model is we can actually track that in the real time so we can actually see the whole course of
+01:40:08 the evolution or the whole course of the interaction between the infected pass infected horse and you know the host and
+01:40:23 the pathogen etcetera so so agent based system multi-agent system to be precisely is a good way to approach this
+01:40:42 problem because we can introduce the behavior of the of the passengers of the cruise and what we did for the first
+01:40:53 time that's where you know we introduced knology is we introduced a pathogen agent explicitly so that allowed us to
+01:41:06 essentially model the behavior on the host site as well on the pathogen site and over sudden weekends we can have a
+01:41:19 flexible model that allows us to integrate all the key parameters about the infections so for example the virus
+01:41:32 right so the ways of of transmitting the virus between the the horse how long does virus survive on the
+01:41:50 surface for might what is you know how much of the viral particles does a host shed when he or she is asymptomatic
+01:42:03 versus symptomatic you can encode all of that into this pattern just for people who don't know so agent-based simulation
+01:42:10 usually the agent represents a single human being and then there's some graphs like contact graphs that represent the
+01:42:18 interaction between those human being so yes so we so essentially is you know social agents are you know individual
+01:42:30 programs that are run in parallel and we're saying we can provide instructions for these agents how to interact with
+01:42:41 each other how to exchange information in this case exchange the infection but in this case in your case you've added a
+01:42:50 pathogen as an Asian I mean that's kind of fascinating it's a it's kind of a brilliant simple like a brilliant way to
+01:43:00 condense the parameters to aggregate to bring the parameters together that represent them in the pathogen the virus
+01:43:05 yes that's fascinating actually so yeah it was a you know we realized that you know by bringing in
+01:43:14 the virus we can actually start modeling I mean we were not no longer bounded by very specific sort of aspects of the
+01:43:26 specific virus so we end up we started with you know Norwalk virus and of course zombies but we continued to
+01:43:37 modeling Ebola virus outbreak flu SARS and because I felt that we need to add a little bit more
+01:43:50 of excitement for our undergraduate students so we actually modeled the virus from the contagion movie yes
+01:44:03 so MeV won and you know unfortunately that virus and we we try to extract as much information luckily the this movie
+01:44:13 was the scientific consultant was Ian Lipkin a virologist from Columbia University who is actually who provided
+01:44:24 I think he designed this virus for this movie based on Nipah virus and I think with some ideas behind source of flu
+01:44:36 like airborne viruses and you know the it the movie surprisingly contained enough details for us to extract and to
+01:44:45 model it I was hoping you'd like publish a paper of how this virus works yeah we're planning to publish I would
+01:44:51 love it if you guys will be nice if the you know of the origin of the virus but you're now actually being a scientist
+01:45:00 and studying the virus from that perspective but the origin of the virus you do you know you know the first time
+01:45:08 actually so this movie is assignment number one in my band families class that they give because it it also tell
+01:45:18 it tells you that you know by informatics can be of use because if if I don't know you watch the have you
+01:45:25 watched it a long time so so there is you know approximately a week from the you know virus detection we see a
+01:45:36 screenshot of scientists looking at the structure of the surface protein and this is where I tell my students that
+01:45:43 you know if you ask experimental biologists they will tell you that it's impossible because it takes months maybe
+01:45:53 years to get the crystal structure of this you know the structure that is represented if you ask you buy from a
+01:46:00 Titian they tell you why not just get it modeled and and yes but it was very interesting to to see
+01:46:13 that there is actually you know and if you do it do screenshots you actually see they feel a genetic tree is the
+01:46:21 evolutionary tree that relate this virus with other viruses so it was a lot of scientific thought put into the movie
+01:46:30 and one thing that I was actually you know it was interesting to to learn is that the origin of this virus was a
+01:46:41 there were two animals that led to the you know the the the you know the zoonotic original dis virus were fruit
+01:46:53 bat and as a peak so you know so so this is this doesn't feel like well this this definite views like we're living in a
+01:47:05 simulation okay but maybe a big picture agent-based simulation now larger scale sort of not focused on a cruise ship a
+01:47:13 larger scale are used now to drive some policy so politicians use them to tell stories and narratives and try to figure
+01:47:21 out how how to move forward and there's so much so much uncertainty but in your sons are agent-based simulation useful
+01:47:31 for actually predicting the future or are they useful mostly for comparing relative comparison of different
+01:47:40 intervention methods well I think both because you know in the case of new coronavirus we essentially learning that
+01:47:52 the current intervention methods may not be efficient enough one thing that one important aspect that I find to be so
+01:48:09 critical and yet something that was over looked you know during the past pandemics is the effect of the
+01:48:20 symptomatic period this virus is different because it has such a long symptomatic period and over sudden that
+01:48:32 creates a completely new game when trying to contain this virus it enters the dynamics of the infection exactly I
+01:48:41 do also I don't know how close you're tracking this but do you also think that there's a different like rate of
+01:48:50 infection from when you're asymptomatic like that that aspect or does a virus not care so there were a couple of works
+01:49:03 so one important parameter that tells us how contagious the the person with a symptomatic device versus are
+01:49:14 symptomatic is looking at the number of viral particles this person sheds you know as a function of time so so far
+01:49:31 what I saw is the study that tells us that the you know the person during the asymptomatic period is already
+01:49:41 contagious and it said the person says enough viruses to infect yeah and another horse and I think there's too
+01:49:51 many excellent papers coming up but I think I just saw so maybe a nature paper that said the first week is when you're
+01:50:00 symptomatic or asymptomatic you're the most contagious so the highest level of the like there's a plot sort of in the
+01:50:08 14-day period they collected a bunch of subjects and I think the first week is one is the most yeah I I think I mean
+01:50:17 I'm waiting I'm waiting to see sort of more more populated studies where I just it was kinda
+01:50:29 my one of my favorite styles was again very recent one where scientists so so there is you know so there is no
+01:50:45 viral shedding down through three tears so they found one wick moist thing that's not contagious and I mean there's
+01:50:56 a lot of I'm personally been I'm gonna serve a paper somehow that's looking at masks and there's been so much
+01:51:04 interesting debate on the efficacy of masks and there's a lot of work and there's a lot of interesting work on
+01:51:13 whether this virus is airborne and it's a totally open question is it's leaning one way right now but it's a totally
+01:51:20 open question whether it can travel and aerosols long distances I mean do you have us do you think about the stuff do
+01:51:26 you track this stuff are you focused on them yeah I mean I'm at it I mean did this is this is a very important aspect
+01:51:38 for our epidemiology study I think the I mean and it's sort of a very simple sort of idea but I agree with people who say
+01:51:53 that they mask the masks work in both stay in both ways so it not only it protects you from the you know incoming
+01:52:03 viral particles it also protect you know it it you know makes the potentially contagious person not to spread the
+01:52:12 right of party noise when they're asymptomatic may not even know that they're in fact it seems to be there's
+01:52:20 evidence that they don't surgical and certainly homemade masks which is what's needed now actually because there's a
+01:52:27 huge shortage of they don't work as to protect you that while they work much better to protect others it's it's a
+01:52:36 motivation for us to all wear one exactly because I mean you know very you don't know where you know inside you
+01:52:44 know about 30% as far as I remember at least 30% of the asymptomatic cases are completely asymptomatic here right so
+01:52:54 you don't really care you don't I mean you don't have any symptoms yet you shed viruses do you think it's possible that
+01:53:02 we'll all wear masks so I wore masks at a grocery store and you just you get looks I mean it was like we could go
+01:53:10 maybe it's already changed because I think CDC or somebody's I think the CDC has said that we should be wearing masks
+01:53:18 like la they starting to happen but you it just seems like something that this country will really struggle doing or no
+01:53:27 I hope not I mean you know it it was interesting I was looking through the through the old pictures during the
+01:53:38 Spanish flu and you could see that the you know pretty much everyone was wearing masks with some exceptions and
+01:53:47 they were like you know sort of iconic photograph of the thing it was San Francisco this tram who was refusing to
+01:53:57 let in a you know someone without the mask so I think well you know it's also you know it's related to the fact you
+01:54:11 know how much we are scared right so how much do we treat this problem seriously and you know my take on it is we should
+01:54:28 because it is very serious yeah I i from a psychology perspective just worried about the entirely the
+01:54:37 entire big mess the of a psychology experiment that this is whether masks will help it or heard it you know the
+01:54:46 masks have a way of distancing us from others by removing the emotional and all that kind of stuff but at the
+01:54:56 same time masks also signal that I care about your well-being exactly so it's a really interesting trade-off that's just
+01:55:03  yeah it's it's interesting right about distancing  aren't we distance enough right exactly
+01:55:13 Hey and when we tried to come closer together when they do reopen the economy that's going to be a long road of
+01:55:21 rebuilding trust and not not all being huge germophobes let me ask sort of you have a bit of a Russian accent Russian
+01:55:31 or no Russian accent  were you born in Russia yes and the you you're too kind
+01:55:42 I have a pre thick Russian accent what are your favorite memories of Russia so I so I moved first to Canada and then to
+01:55:55 the United States back in 99 so by that time I was 22 so you know whatever Russian accent III got back then you
+01:56:06 know it's that use me for the rest of my life you know it's yeah so I you know by the time the Soviet Union collapsed I was
+01:56:22 you know I was a kid but through you know old enough to to realize that there are changes and did you want to be a
+01:56:31 scientist back then oh yes oh yeah I mean my first the first sort of ten years of my sort of you know a juvenile
+01:56:48 life I wanted to be a pilot of a passenger jet plane Wow so yes it was like you know I was
+01:56:58 getting ready you know to go to a college to get the degree but I've been always fascinated by science
+01:57:10 and you know so not just by mass of course math was one of my favorite subjects but you know biology chemistry
+01:57:20 physics somehow I you know I liked those four subjects together and guess so so so essentially after a certain period of
+01:57:36 time I wanted to actually back then it was a very popular sort of area of science called cybernetics so it's sort
+01:57:45 of it's not really computer science but it's it was like you know computation or robotics yes in this sense and so I
+01:57:56 really wanted to do that and but then you know I you know I realized that you know my biggest passion was in
+01:58:10 mathematics and later I you know when you know studying in Moscow State University I also realized that I really
+01:58:20 want to apply the the knowledge so I really wanted to to mix you know the mathematical knowledge that I get with
+01:58:32 real-life problems and that could be you mentioned chemistry and now biology and I sort of does it make you sad maybe I'm
+01:58:47 wrong on this but it seems like it's difficult to be in collaboration to do open big science in Russia from my
+01:58:57 distant perspective in computer science I don't I'm not like we can go to conferences in Russia I sadly don't have
+01:59:05 many collaborators in Russia I don't know many people doing great a I work in Russia does it make does
+01:59:12 that make you sad am I wrong and seeing it this way well I mean I am
+01:59:20 I have to tell you I am privileged to to have collaborators in biometrics in Russia and I think this is the divine
+01:59:28 thematic school in Russia is very strong we have in Moscow in Moscow in Novosibirsk in st. Petersburg have great
+01:59:43 collaborators in cousin and so at least you know in terms of you know my area of research strongly people there
+01:59:55 yes strong people a lot of great ideas very open to collaborations so I perhaps you know it's my luck but you know I
+02:00:09 haven't experienced you know any difficulties in establishing collaborations that's why informatics it could be bad
+02:00:18 from a text to an ink yeah it's it could be person by person related but I just don't feel the warmth and love that I
+02:00:26 would you know you talk about the seminal people who are French in artificial intelligence France welcomes
+02:00:34 him with open arms in so many ways I just don't feel the love from Russia I I do on the human beings like people in
+02:00:43 general like friends and and just cool interesting people but from the scientific community
+02:00:49 no conferences no big conferences and it's  yeah it's actually you know I I'm trying to think yeah I cannot recall
+02:01:01 any any big AI conferences in Russia it has an effect on for me I haven't sadly been back to Russia so I
+02:01:09 should but my problem is it's very difficult so I am now I have to renounce the citizenship I was alright I mean I'm
+02:01:16 a citizen in the United States and it makes it very difficult there's a mess now right so I want to be able to travel
+02:01:27 like you know legitimately yeah and it's it's not it's not an obvious process they don't make it super easy I mean that's
+02:01:32 that like you know it should be super easy for me to travel there well you know hopefully this unfortunate
+02:01:42 circumstances that we are in will actually promote the remote collaborations yes and I think we weave
+02:01:54 jr' experiencing right now is that you still can do science you know being current in in your own homes yeah
+02:02:02 especially when it comes I mean you know I I certainly understand there is a very challenging time for experimental
+02:02:08 scientists and and I have many collaborators who are you know who are affected by that but for computational
+02:02:15 scientists they are really leading into the remote communication nevertheless I had to force you to talk to you in
+02:02:22 person because there's something that you just can't do in terms of conversation like this I don't know why
+02:02:29 but in person it's very much needed so I really appreciate you doing it you have a collection of science bobbleheads yes
+02:02:39 which look amazing which which bobblehead is your favorite and which real-world version which scientist is
+02:02:48 your favorite yeah so yeah by the way I was trying to bring it in but they're cranking now in my in my office they
+02:02:56 sort of demonstrate the social distance so they're nicely spaced away from each other but so you know it's interesting
+02:03:06 so I've been I've been collecting those bubble has for the past maybe twelve or thirteen years and it you know
+02:03:15 interesting enough it started with the interestingly enough my last bubble had in this collection for now and my
+02:03:30 favorite one cuz I felt so good when I got it was the rosalind Franklin and so so you know when I go who's the full
+02:03:43 group so I have what some Creek Newton Einstein Marie Curie Tesla of course Charles Darwin Sir Charles Darwin and wasn't
+02:04:00 Franklin I am definitely missing quite a few of my favorite scientists and but so you know if I were to add to this
+02:04:13 collection so I would add of course Kolmogorov injustice that's that's you know I've been always fascinated by his
+02:04:25 well his dedication to science but also his dedication to educating young people the next generation so it's it's it's
+02:04:36 very inspiring he's one of the right okay yeah he's one of the Russia's great yes only yes so he also you know the
+02:04:46 school the high school that I attended was named after him and he was great you know so he founded this core school and
+02:04:58 he actually taught there is this is a Moscow yes so but then I mean you know other people that I would definitely
+02:05:12 like to see in my collections was would be Alan Turing would be John von Neumann yeah you're a little bit later in the
+02:05:22 computer scientists yes well I mean they don't they don't make them you know III still I'm amazed they they haven't made
+02:05:33 Alan Turing yeah yet yes and and and I would also add the Linus Pauling line is falling so with Linus point so this is
+02:05:44 this is to me is one of the greatest chemists and the person who actually discovered secondary structure of proteins was very
+02:06:01 close to solving the DNA structure and you know people argue but some of them were pretty sure that if not for this
+02:06:12 you know photograph 51 by rosalind Franklin that you know what Sun Cree got access to he
+02:06:26 would be he would be the one who so let me ask the biggest the most ridiculous question so you've kind of
+02:06:42 studied the human body and its defenses and these enemies that are about from a biological perspective and from a tax
+02:06:50 perspective a computer scientist perspective how is that made you see your own life sort of the meaning of it
+02:07:01 or just even seeing your what it means to be human well it certainly makes me realizing how
+02:07:13 fragile the human life is if you think about this little tiny thing can impact the life of the whole human kind to such
+02:07:29 extent so you know it's it's something to appreciate and to you know to remember that that you know we are
+02:07:48 fragile we have to bond together as a society and you know it also gives me sort of hope that what we do a scientist is
+02:08:06 useful I don't think there's a better way to end it means you take it so much for talking today it was an honor thank
+02:08:11 you very much thanks for listening to this conversation with Mitra korkin and thank
+02:08:16 you to our presenting sponsor cash app please consider supporting the podcast by downloading cash app and using code
+02:08:24 lex podcast if you enjoy this podcast subscribe on youtube review it with five stars an apple podcast supported on
+02:08:30 patreon or simply connect with me on Twitter at lex friedman and now let me leave you with
+02:08:37 some words from edward osborne Wilson Leo Wilson the variety of genes and the planet and viruses exceeds or is likely

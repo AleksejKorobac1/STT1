@@ -1,0 +1,499 @@
+00:00:01 the following is a conversation was Bob Langer professor at MIT and one of the most cited researchers in history
+00:00:09 specializing in biotechnology fields of drug delivery systems and tissue engineering he has bridged theory and practice by
+00:00:18 being a key member and driving force in launching many successful biotech companies out of MIT this conversation
+00:00:25 was recorded before the outbreak of the coronavirus  pandemic his research and companies are at the forefront of
+00:00:31 developing treatments for covert 19 including a promising vaccine candidate quick summary of the ads to sponsors
+00:00:41 cash up a master class please consider supporting the podcast by downloading cash app and using code Lex podcast and
+00:00:48 signing up a masterclass comm slash Lex click on the links buy this stuff it really is the best way to support this
+00:00:56 podcast and in general the journey I'm on to my research and startup this is the artificial intelligence podcast if
+00:01:03 you enjoy it subscribe bye YouTube review it with five stars in a podcast supported on patreon or connect with me
+00:01:09 on Twitter Lex Friedman as usual I'll do a few minutes of ads now and never any ads in
+00:01:15 the middle that can break the flow of the conversation this show is presented by cash app the number one finance app
+00:01:24 in the App Store when you get it use collects podcast cash app lets you send money to friends buy bitcoin and invest
+00:01:31 in the stock market with as little as one dollar since cash app allows you to send and receive money digitally let me
+00:01:37 mention a surprising fact related to physical money of all the currency in the world roughly eight percent of it is
+00:01:45 actual physical money the other 92 percent of money only exists digitally so again if you get cash app from the
+00:01:52 App Store or Google Play and use the collects podcast you get ten dollars and cash wrap will also donate ten dollars
+00:01:59 the first an organization that is helping to advance robotics and STEM education for young people around the
+00:02:07 world this show sponsored by masterclass sign up a master class complex to get a discount and to support this podcast
+00:02:15 when I first heard about master class I thought it was too good to be true for one hundred and eighty dollars a year
+00:02:21 you get an all-access pass to watch courses from to list some of my favorites Chris Hadfield on space
+00:02:27 exploration Neil deGrasse Tyson a scientific thinking and communication will write to crater some city and Sims
+00:02:35 on game design Carlos Santana on guitar Europa is probably one of the most beautiful guitar instrumentals ever
+00:02:42 garry kasparov on chests daniel negreanu on poker and many more Chris Hadfield explaining how Rockets work and the
+00:02:48 experience of being launched into space alone is worth the money you can watch it basically any device once again sign
+00:02:58 up a master class calm slash flex to get a discount and to support this podcast and now here's my conversation with Bob
+00:03:08 Langer you have a bit of a love for magic do you see a connection between magic and science I do
+00:03:17 I think magic can surprise you and you know and I think science can surprise you and there's something magical about
+00:03:23 about science I mean making discoveries and things like that you know so on then on the magic side is there some kind of
+00:03:29 engineering scientific process to the tricks themselves do you see because there's a duality to it one is your the
+00:03:39 your you're sort of the person inside there knows how the whole thing works how the universe of the magic trick
+00:03:44 works and then from the outside observer which is kind of the role of the scientists you the people that observe
+00:03:51 the magic trick don't know at least initially anything that's going on do you see that kind of duality well I
+00:03:57 think the duality that I see is fascination you know I think of it you know when I watch Magic myself I'm
+00:04:05 always fascinated by it sometimes it's a puzzle to think how it's done but just the sheer fact that's something that you
+00:04:10 never thought could happen does happen and I think about that in science too you know sometimes you it's something
+00:04:19 that you might dream about and helping to discover maybe you do or in some way or form what is the most amazing magic
+00:04:26 trick you've ever seen well there's one I like which is called the invisible pack and the way it works
+00:04:34 is you have this pack and you hold it up but first you say to somebody is this is invisible and this deck and you say well
+00:04:44 shuffle it and I shuffle it but you know there's sort of make-believe and then you say okay I'd like you to pick a card
+00:04:48 any card and show it to me and you show it to me and and I look at it and let's say it's
+00:04:57 the three of hearts and said we'll put it back in the deck but what I'd like you to do is turn it upside down from
+00:05:02 every other cards in the deck so they they do that imaginary and I said you want to shuffle it again they shuffle it
+00:05:09 and I said well so there's still one card upside down from every other card in the deck I said what is that and they
+00:05:14 said all three hearts so it just so happens in my back pocket I have this deck it's you know it's a real deck I
+00:05:20 show - you know it's just open it up and there's just one card and and you can do this trick I can i-55
+00:05:34 don't I would have probably brought it all right well beautiful let's get into the into the science as of today you
+00:05:41 have over two hundred ninety five thousand citation an h-index of 269 you're one of the most sighted people in
+00:05:50 history and the most cited engineer in history and yet nothing great I think is ever achieved without failure so the
+00:06:00 interesting part what rejected papers ideas efforts in your life or most painful or had the biggest impact on
+00:06:05 your life well it's interesting I mean I've had plenty of rejection to you know I but I
+00:06:11 suppose one way I think about this is that when I first started and this certainly had an impact both ways you
+00:06:19 know I first started we made two big discoveries and they were kind of interrelated I mean one was I was trying
+00:06:25 to isolate with my post-doctorate advisor Judah Folkman substances that could stop blood vessels from growing
+00:06:35 and nobody done that before and so that was part a let's say a Part B is we had to develop a way to study that and what
+00:06:41 was critical to study that was to have a way to slowly release those substances for you know more than a day I you know
+00:06:50 maybe months and that had never been done before either so we published the first one we sent to nature the journal
+00:06:59 and they rejected it and then we sent it revise tenets of science and they accepted it and the other the opposite
+00:07:07 happened we sent it to science and they rejected it and then we sent it to nature and they accepted it but I have
+00:07:13 to tell you when we got the rejections it was really upsetting I thought you know I did some really good work and dr.
+00:07:18 Folkman thought we've done some really good work and and but it was very depressing to you know get rejected like
+00:07:26 that if you can linger on just the feeling or the thought process when you get the rejection especially early on in
+00:07:32 your career what I mean you don't know now people know you as  as as a brilliant
+00:07:43 scientist but at the time I'm sure you're full of self-doubt and did you believe that maybe this idea is actually
+00:07:52 quite terrible that it could been done much better or is the underlying confidence what was the feelings well
+00:07:58 you feel to feel depressed that I felt the same way when I got grants rejected which I did a lot in the beginning I
+00:08:05 guess part of me you know you have multiple emotions one is being sad and being upset and also being maybe a
+00:08:14 little bit angry because the you to feel the reviewers didn't get it but then as I thought about it more I thought well
+00:08:19 maybe I just didn't explain it well enough and you know that you go through stages and so you say well okay I'll
+00:08:26 explain it better next time and certainly you get reviews and what you get the reviews you see what they either
+00:08:31 didn't like or didn't understand and then you try to incorporate that into your next versions mmm you've given
+00:08:38 advice to students to do something big do something that really can change the world rather than something incremental
+00:08:45 how did you yourself seek out such ideas is there a process is there a sort of a rigorous process or is it more
+00:08:53 spontaneous it's more spontaneous I mean part of its exposure to things part of its seeing other people like I mentioned
+00:09:00 dr. Folkman he was my post doctoral adviser he was very good at that you could sort of see that he had big ideas
+00:09:06 and I certainly met a lot of people who didn't and and I think you could spot an idea that might have potential when you
+00:09:12 see it you know because it could have a very broad implications where a lot of people might just keep doing derivative
+00:09:22 stuff and so but it's not something that I've ever done systematically I don't think so in the space of ideas how many
+00:09:31 are just when you see them it's just magic it's something that you see that could be impactful if if if you dig
+00:09:39 deeper yeah it's it's sort of hard to say because there's there's multiple levels of ideas
+00:09:47 one type of thing is like a new you know creation like that you could engineer tissues for the first time or make
+00:09:52 dishes from scratch from the first time but another thing is really just deeply understanding something and that's
+00:10:01 important too so and and that may lead to other things so sometimes you could think of a new technology or I thought
+00:10:09 of a new technology but other times things came from just the process of trying to discover things so it's never
+00:10:17 and and and you don't necessarily know like people talk about aha moments but I don't know if I've I mean I certainly
+00:10:24 feel like I've had some ideas that I really like but it's taken me a long time to go from the thought process of
+00:10:34 starting it to all of a sudden knowing that it might work so if you if you take drug delivery for example is the notion
+00:10:41 is the initial notion kind of a very general one that we should be able to do something like this yeah and then you
+00:10:49 start to ask the questions of well how would you do it and then and then digging and digging and digging I think
+00:10:54 that's right I think it depends I mean there are many different examples the example I gave about delivering large
+00:11:01 molecules which we used to study these blood vessel inhibitors I mean there we had it invent something that would do
+00:11:09 that but other times it's it's it's different sometimes it's really understanding what goes on in terms of
+00:11:15 understanding the mechanisms and so it's it's it's not a single thing and there are many different parts to it you know
+00:11:22 over the years we've invented different discover different principles for aerosols for delivering you know genetic
+00:11:30 therapy agents you know all kinds of things so let's explore some of the key ideas you've touched on in your life
+00:11:37 some let's let's start with the basics okay so first let me ask how complicated is the biology and chemistry of the
+00:11:45 human body from the perspective of trying to affect some parts of it in a positive way it's but so that you know
+00:11:52 for me especially coming from the field of computer science and computer engineering and robotics it's
+00:11:58 that the human body is exceptionally complicated and how the heck you can figure out anything is amazing well I
+00:12:03 agree with you I think it's super complicated I mean we're still just scratching the surface in many ways but
+00:12:09 I feel like we have made progress in different ways and some of its by really understanding things like we were just
+00:12:17 talking about other times you know you might or somebody might we or others might invent technologies that might be
+00:12:24 helpful on exploring that and I think over many years we've understood things better and better but we still have such
+00:12:31 a long ways to go are there I mean if you just look are there other things that are there knobs that are reliably
+00:12:41 controllable about the human body if you could service is there is it so if you start to think about controlling various
+00:12:50 aspects of when we talk about drug delivery a little bit but controlling various aspects chemically of the human
+00:12:57 body is there a solid understanding across the populations of humans that are solid reliable knobs that can be
+00:13:05 controlled I think that's hard to do about on the other hand whenever we make a new drug or medical device to a
+00:13:10 certain extent we're doing that you know in a small way what you just said but I don't know that they're that they're
+00:13:17 great knobs I mean and we're learning about those knobs all the time but if there's a biological pathway or
+00:13:23 something that you can affect or understand I mean then that might be such a knob so what is pharmaceutical
+00:13:31 drug how do you do how do you discover a specific one how do you test it how do you understand it
+00:13:38 how do you ship it yeah well I'll give an example which goes back to what I said before so when I was doing my
+00:13:45 postdoctoral work with Judah Folkman we wanted to come up with drugs that would stop blood vessels from growing or
+00:13:50 alternatively make them grow and actually people didn't even believe that that those things could happen but could
+00:13:58 we pause on that for a sec sure what is the blood vessel what does it mean for a blood vessel to grow and shrink and why
+00:14:04 is that important sure so a blood vessel is could be an artery or vein or a capillary and it it you know provides oxygen it
+00:14:18 provides nutrients gets rid of waste so you know two different parts of your body if you soso the blood vessels end
+00:14:25 up being very very important and you know if you have cancer blood vessels grow into the tumor and that's part of
+00:14:33 what enables the tumor to get bigger and that's also part of what enables the tumor to metastasize event which means
+00:14:39 spread throughout the body and ultimately kill somebody so that was part of what we were trying to do we
+00:14:45 shot what we wanted to see if we could find substances that could stop that from happening so first I mean there are
+00:14:51 many steps first we had to develop a bio essay to study blood vessel growth again there wasn't one that's where we needed
+00:14:58 polymer systems because the blood vessels grew slowly took months that so after we had the polymer system and we
+00:15:06 had the bioassay then I had isolated many different molecules initially from cartilage and almost all of them didn't
+00:15:16 work but we were fortunate we found one it wasn't purified but we found one that did work and that paper that was this
+00:15:24 paper I mentioned in science in 1976 those were really the isolation of some of the very first angiogenesis of blood
+00:15:30 vessel inhibitors so there's a lot of words there yeah that's the the first of all polymer molecules big big molecules
+00:15:39 so the water polymers what's bio sa the the what is the process is trying to isolate this whole
+00:15:46 thing simplified to where you can control and experiment with it polymers are like plastics or like plastics or
+00:15:55 rubber what were some of the other questions sorry so a polymer some plastics and rubber and that means
+00:16:00 something that has structure and that could be useful for what well in this case it would be something that could be
+00:16:08 useful for delivering a molecule for a long time so it could slowly diffuse out of that at a controlled rate to where
+00:16:15 you wanted it to go so then you would find the ideas that there would be particular blood vessels that you can
+00:16:23 target say they're connected some Auto tumour you could target and over a long period of time to be able to place
+00:16:32 the polymer there and it be delivering a certain kind of chemical that's correct I think what you said it's good so so
+00:16:39 that it would deliver the the molecule or the chemical that would stop the blood vessels from going over a long
+00:16:44 enough time so that it really could happen so that was sort of the what we call the bio sa is the way that we would
+00:16:52 study that so size of what is a by us which part is the bio sa all of it in other words the bio SAS is the way you
+00:17:02 study blood vessel growth the blood vessel growth and you can control this somehow with is there an understanding
+00:17:08 what kind of chemicals can control the growth of a blood sure well now there is but then when I started there wasn't and
+00:17:14 that that gets to your original question so you go through various steps we did the first steps we showed that a such
+00:17:20 molecules existed and then we developed techniques for studying them and we said even isolated fractions you know groups
+00:17:28 of substances that would would do it but what would happen over the next we did that in 1976 we published that what
+00:17:35 would happen over the next twenty eight years as other people would follow in our footsteps I mean we tried to do some
+00:17:42 stuff too but ultimately to make a new drug takes billions of dollars so what happened was there were different growth
+00:17:49 factors that people would isolate sometimes using the techniques that we developed and then they would figure out
+00:17:57 using some of those techniques ways to stop those growth factors and ways to stop the blood vessels from growing I
+00:18:03 thought like you say it took 28 years it took billions of dollars and work by many companies like Genentech but in
+00:18:13 2004 28 years after we started the first one of those Avastin got approved by the fda and that that be that's become you
+00:18:22 know one of the top biotech selling drugs in history and it's been approved for all kinds of cancers and actually
+00:18:28 for many eye diseases to where you have abnormal blood vessel growth macula so in general one of the key ways you can alleviate
+00:18:40 so what's the hope in terms of tumors associated with cancerous tumors they what can you help by being able to
+00:18:48 control the growth of vessels so if you cut off the blood supply you cut off the it's kind of like a war almost right you
+00:18:56 if you have if the nutrition is going to the tumor and you and you and you can cut it off I mean you starve the tumor
+00:19:03 and it becomes very small it may disappear or it's going to be much more amenable to other therapies because it
+00:19:10 is tiny you know like you know chemotherapy or immunotherapy is gonna be have a much easier time against a
+00:19:16 small tumor than a big one is that an obvious idea I mean it seems like a very clever strategy in this war against yeah
+00:19:26 cancer well you know in retrospect it's an obvious idea but when dr. Folkman and my boss first proposed it it wasn't a
+00:19:32 lot of people didn't thought it was pretty crazy and so they in what sense if you could sort of linger on it when
+00:19:40 you're thinking about this ideas at the time were you feeling you're out in the dark so how much mystery is there about
+00:19:48 the whole thing how much just blind experimentation if you can put yourself in that mindset from years ago yeah well
+00:19:56 there was I mean for me actually it wasn't just the idea was that I didn't know a lot of biology or biochemistry so
+00:20:01 I've certainly felt a host in the dark but I I kept trying and I kept trying to learn and I kept plugging but but I mean
+00:20:09 a lot of it was being in the dark so the human body is complicated right we'll establish this quantum mechanics and
+00:20:16 physics is a theory that works incredibly well but we don't really necessarily understand the underlying
+00:20:20 nature of it so our drugs the same and that you can you're ultimately trying to show that
+00:20:29 the thing works to do something that you try to do but you don't necessarily understand the fundamental mechanisms by
+00:20:36 which it's doing it it really varies I think sometimes people do know them because they've figured out pathways and
+00:20:43 wish to interfere them with them other times is shooting in the dark is it really has varied okay
+00:20:48 and sometimes people make sure--and Jupitus discoveries and they don't even realize what they did so what is the
+00:20:57 discovery process for a drug ze said a bunch of people of trying to work with this is it is it a kind of mix of
+00:21:08 serendipitous discovery and art or is there a systematic science to trying different chemical reactions and how
+00:21:16 they how they affect whatever you trying to do like shrink blood vessels yeah I don't think there's a single way you
+00:21:23 know single way to go about something in terms of characterizing the entire drug discovery process if I look at the blood
+00:21:30 vessel one yeah they're the first step was to do to have that those kinds of theories that dr. Folkman had the second
+00:21:37 step was to have the techniques where you could study blood vessel growth for the first time and at least quantitate
+00:21:42 or semi-quantitative a third step was to find substances that would stop blood vessels from growing
+00:21:51 for step was to maybe purify those substances there are many other steps too I mean before you have an effective
+00:21:58 drug you have to show that it's safe you have to show those effective and you start with animals you ultimately go to
+00:22:04 patients and there are multiple kinds of clinical trials you have to do if you step back is it amazing to you that we
+00:22:12 descendants of great apes are able to create things there you know are the create drugs chemicals that are able to
+00:22:21 improve some aspects of our bodies Hey or is it quite natural that we were able to discover these kinds of things well
+00:22:28 at a high level it is amazing I mean evolution is amazing yeah you know the way I look at
+00:22:34 your question the fact that we evolved have evolved the way we've done I mean it's pretty remarkable so let's talk
+00:22:41 about drug delivery what are the difficult problems in drug delivery what is drug delivery you know from starting
+00:22:49 from your early seminal work in the field that today well drug delivery is getting a drug to to be good to go where
+00:22:58 you want it at the level you want it in a safe way some of the big challenges
+00:23:02 I mean there are a lot I mean I'd say one is could you target the right cell like we talked about cancers or some way
+00:23:10 to deliver a drug just to the cancer cell and no other cell another challenge is to get drugs across different
+00:23:16 barriers like could you ever give insulin orally could you give a train you know or give it passively
+00:23:22 transdermally can you get drugs across the blood-brain barrier I mean there are lots of big challenges can you make
+00:23:29 smart drug delivery systems that might respond to physiologic signals in the body oh it's just think so smart
+00:23:37 smart they have some kind of sense a chemical sensor or is this something more than a chemical sense that it's
+00:23:42 able to respond to something in the body could be either one I mean you know I I mean one example might be if you that
+00:23:51 were diabetic if you had more it got more glucose could you get more insulin but I don't but that but that's just an
+00:23:58 example is there some way to control the actual mechanism of delivery in a response to what the body's doing yes
+00:24:04 there is I mean one of the things that we've done is encapsulate what are called beta cells those are insulin
+00:24:10 producing cells in a way that they're safe and protected and then what will happen is glucose will go in and you
+00:24:19 know to sell so we'll make insulin and so that that's an example so from an AI robotics perspective how
+00:24:29 close are these drug delivery systems to something like a robot or they're totally wrong to think about them as
+00:24:36 intelligent agents and how much room is there to add that kind of intelligence into these delivery systems perhaps in
+00:24:43 the future yeah I think it depends on the particular delivery system you know of course one of the things people are
+00:24:48 concerned about is cost and if you add a lot of bells and whistles to something it'll cost more but I mean we for
+00:24:54 example have made what I'll call intelligent microchips that can don't you know where you can send a signal and
+00:25:00 you know release drug in response to that say no and I think systems like that microchip someday have the
+00:25:06 potential to do it you and I were just talking about that there could be a signal like glucose and it could have
+00:25:11 some instruction to say when there's more glucose deliver more insulin so do you think it's possible that there
+00:25:18 that could be robotic type systems roaming our body sort of long-term and be able to deliver certain kinds of
+00:25:25 drugs in the future you see you see that kind of future someday I don't think we're very close to it yet but someday
+00:25:31 you know that that's nanotechnology and that would mean even miniaturizing some of the things that I just discussed and
+00:25:37 we're certainly not at that point yet but someday I expect we will be so some of it is just the shrinking of the
+00:25:45 technology that's a part of it that's one of the things in general what role do you see AI sort of there there's a
+00:25:55 lot of work now with using data to make intelligent and create systems that make intelligent decisions do you see any of
+00:26:05 that data-driven kind of computing systems having a role in any part of this into the delivery and drugs the the
+00:26:14 design of drugs and any part of the chain I do I think that AI can be useful and a number of parts of the chain I
+00:26:22 mean one I think if you get a large amount of information you know say you have some chemical data because you've
+00:26:29 done high throughput screens and let's out I'll just make this up but let's say I have I'm trying to come up with a drug
+00:26:36 to treat disease X and whatever that disease is and I have a test for that and hopefully a fast test and let's say
+00:26:46 I test ten thousand chemical substances you know and a couple work most of them don't work so I maybe work a little but
+00:26:53 if I had a few with the right kind of artificial intelligence maybe you could look at the chemical structures and look
+00:26:58 at what works and see if there's certain commonalities look at what doesn't work and see what commonalities there are and
+00:27:05 then maybe use that somehow to project the next generation of things that you would test as a tangent what are your
+00:27:12 thoughts on our society's relationship with pharmaceutical drugs do we and perhaps I apologize if this is a
+00:27:20 philosophical broader question but do we over rely on them do we properly prescribed them and what ways the system
+00:27:28 working well what way can improve well I think you know pharmaceutical drugs are really important I mean the
+00:27:36 life expectancy and life quality of people over many many years has increased tremendously and I think
+00:27:43 that's a really good thing I think one thing that would also be good as if we could extend that more and more to
+00:27:48 people in the developing world which is something that our lab has been doing with the Gates Foundation or trying to
+00:27:55 do I saw I think ways in which it could improve I mean our if there was some way to reduce costs you know that that's
+00:28:01 certainly an issue people are concerned about if there was some way to help people and in poor countries that would
+00:28:07 also be a good thing and then of course we still need to make better drugs for so many diseases I mean cancer diabetes
+00:28:16 I mean we you know it's hard to see some rare diseases there are many many situations where it would be great if we
+00:28:23 could do better and help more people can we talk about another exciting another exciting space which is tissue engineering
+00:28:30 what is tissue engineering or regenerative medicine you know so that tissue engineering regenerative medicine
+00:28:37 have to do with building an organ or tissue from scratch so you know someday maybe we can build the liver you know or
+00:28:47 make new cartilage and also would enable you to you know someday create organs on a chip which people we and others are
+00:28:53 trying to do which might lead to better drug testing and maybe less testing on animals for people organs and I chip it
+00:29:03 sounds fascinating so what what are the various ways to generate tissue and how do so is it you know that one is of
+00:29:10 course from stem cells is there are other methods what are the different possible flavors here yeah well I think
+00:29:17 I mean there's multiple components one is having generally some type of scaffold that's what Jay Vacanti and I
+00:29:24 started many many years ago and then on that scaffold you might put different cell types which could be a cartilage
+00:29:31 cell a bone cell could be a stem cell though it might differentiate into different things could be more than one
+00:29:36 cell and the scaffold sorry to interrupt is kind of like a canvas that it's a structure that you
+00:29:41 can on which the the Susskind girl I think that's a good explanation when you just enough to use
+00:29:47 that the caskets that's good yeah so I think that that's fair you know when the chip could be such a
+00:29:54 canvas some could be fibers that are made of plastics and that you'd put in the body someday and we need a chip do
+00:29:59 you mean electronic chip like necessarily it could be though but it doesn't have to be it could just be a
+00:30:08 structure that's not not in vivo so to speak that's you know that's outside the body so is there a nervousness it's not
+00:30:17 a bad word says there possibility to weave into the scanner as a computational component so if we talk
+00:30:25 about electron ships some some ability to sense control some aspect of this growth process for the tissue I would
+00:30:33 say the answer to that is yes I think right now people are working mostly on validating these con chips for saying
+00:30:43 well it does work as effectively or hopefully as just putting something in the body but I think someday will you
+00:30:50 suggest it you certainly would be possible so what kind of tissues can we engineer today what would yeah yeah well
+00:30:57 well so skin has already been made and approved by the FDA their advanced clinical trials like what are called
+00:31:04 phase three trials that are at complete or near completion for making new blood vessels one of my former students Lorin
+00:31:13 Nicholson led a lot of that he thought that's amazing this human skin can be grown that's already approved through
+00:31:21 the entire the FDA process so that means what so the one that means you can grow that tissue and do various kinds of
+00:31:32 experiments in terms of in terms of drugs and so on but what is that does that mean that some kind of healing and
+00:31:40 treatment of different conditions for on human beings yes I mean they've been approved now for how many different
+00:31:45 groups have made them different companies and different professors but they've been approved for burn victims
+00:31:52 and for patients with diabetic skin ulcers that's amazing okay so skin what else well at different
+00:32:03 stages people are like skin blood vessels there's clinical trials going now for helping patients here better for
+00:32:12 patients that might be paralyzed for patients that have different hai problems I'm you know at different
+00:32:18 groups have worked on just about everything new liver and who kidneys I mean there have been all kinds of work
+00:32:25 done in this area some of its early but but there's certainly a lot of activity what about neural tissue yeah nurten the
+00:32:34 nervous system and even the brain while there have been people out of working on that too we've done a little bit with
+00:32:38 that but there are people who've done a lot on neural stem cells and I know Evan Schneider who's been one of our
+00:32:44 collaborators on some of our spinal cord works done work like that and ever been other people as well as their challenges
+00:32:52 for the when it is part of the human bodies there's challenges to getting the the body to accept this new tissue
+00:32:58 that's being generated how do you solve that kind of challenge there can be problems with it accepting it I think
+00:33:05 maybe in particular you might mean rejection by the body so there are multiple ways that people are trying to
+00:33:12 deal with that one way is which was what we've done and with Dan Anderson one of my former postdocs and I mentioned this
+00:33:18 a little bit before for a painted pancreas is encapsulating the cell so immune immune cells or antibodies can't
+00:33:27 get in and attack them so that's a way to protect them other strategies could be making the
+00:33:34 cells not immuno genic which might be done by different either techniques which might mask them or using some gene
+00:33:41 editing approaches so they're different ways that people are trying to do that and of course if you use the patient's
+00:33:47 own cells or cells from a close relative doubt might be another way and it increases the likelihood that they'll
+00:33:53 get accepted if you use the patient's own cells yes and then finally there's some you know suppressive drugs which
+00:33:59 you know will suppress the immune response that's right now what's done say for a liver transplant the fact that
+00:34:06 this whole thing works just fascinating at least from my outside perspective well we one day be
+00:34:13 able to regenerate any organ or part of the the human body in your view and it's exciting to think about future
+00:34:21 possibilities of tissue engineering is do you see some tissues more difficult than others what are the possibilities
+00:34:28 here yeah Wow of course I'm an optimist and I also feel a timeframe if we're talking about some day some day could be
+00:34:35 hundreds of years but I think that yes some day I think we will be able to regenerate many things and our different
+00:34:42 strategies that one might use the one might use some cells themselves one might use you know some molecules that
+00:34:50 might help regenerate the cells and so I think there are different possibilities what do you think that means for
+00:34:56 longevity if we look maybe not someday but 10 20 years out are the possibilities that tissue engineering
+00:35:03 the possibilities of the research that you're doing does it have a significant impact on the longevity human life I
+00:35:11 don't know that we'll see a radical increase in longevity but I think that in certain areas we'll see people live
+00:35:20 better lives and maybe so somewhat longer lives with the most beautiful scientific idea in biology nearing that
+00:35:28 you've come across in your years of research I apologize for the romantic no that's an interesting question I
+00:35:37 certainly think what is happening right now with CRISPR is a beautiful idea that certainly wasn't wasn't my idea I mean
+00:35:44 but you know I think it's very interesting here what what people have capitalized on is that there's a
+00:35:53 mechanism by which bacteria are able to destroy viruses and that understanding that let leads the machinery to to put
+00:36:03 you know to sort of cut and paste genes and and you know fix the cell so that kind of you see a promise for that kind
+00:36:13 of ability to copy and paste I mean everything like we said the human body is complicated
+00:36:23 is that Mele difficult to do I think it is exceptionally difficult to do but that doesn't mean they won't be done
+00:36:29 there's a lot of companies and people trying to do it and I think in some areas it will be done some of the ways
+00:36:36 that make you might lower the bar are not you know are just taking look like not necessarily doing it directly but
+00:36:43 you know you could take a cell that might be useful but you want to give it some cancer-killing capabilities
+00:36:50 something collect what's called the cart C cell and that might be a different way of somehow making a cart C cell and
+00:36:56 maybe making it better so there might be sort of easier things and rather than just fixing the whole body so the way a
+00:37:04 lot of things have moved to in medicine over time is stepwise so I can see things that might be easier to do than
+00:37:12 say fix a brain that would be very hard to do but maybe someday that'll happen too so in terms of stepwise that's the
+00:37:20 interesting notion do you see that if you look at medicine or bioengineering do you see that there is these big leaps
+00:37:31 that happen every decade or so or some distant period or is it a lot of incremental work not I don't mean to
+00:37:39 reduce its impact by saying it's incremental but yeah is there sort of phase shifts in in the science big big leaps
+00:37:50 I think there's both you know every so often a new technique or new technology comes out
+00:37:55 I mean genetic engineering was an example I mentioned CRISPR you know I think every so often things happen that
+00:38:03 you know make a big difference but still there's to try to really make progress make a new drug make a new device
+00:38:11 there's a lot of things I don't know if I'd call them incremental but there's a lot a lot of work that needs to be done
+00:38:19 absolutely so you have over numbers could be off but it's a big amount you have over 1100 current or pending
+00:38:26 patents that have been licensed sub license to over 300 companies what's your view
+00:38:34 would in your view are the strengths and what are the drawbacks of the patenting process well I think for the most part
+00:38:40 their strengths I think that if you didn't have patents especially in medicine you'd never get the funding that it
+00:38:48 takes to make a new drug or a new device I mean which according to Tufts to make a new drug costs over two billion
+00:38:54 dollars right now and nobody would even come close to giving you that money any of that money if if it weren't for the
+00:39:02 patent system because and then anybody else could do it that that that then leads to the negative though you know
+00:39:11 sometimes somebody does up a very successful drug and you certainly want to try to make it available to everybody
+00:39:21 and and so the patent system allows it allowed it happen in the first place but maybe it'll impede it after a little bit
+00:39:28 or certainly to some people or some companies you know once it's once it is out there what's the on the point of the
+00:39:37 cost what would you say is the most expensive part of the two billion dollars of making the drug given
+00:39:45 clinical trials that is by far the most in terms of money or pain or both well money but a pain goes hard to know I
+00:39:54 mean but but usually doing proving things that are that are proving that something new is safe and effective
+00:40:00 in people this is almost always the biggest expense could you linger on that for just a little longer and describe
+00:40:07 what it takes to prove for people that don't know in general what it takes to prove that something is effective on
+00:40:17 humans well you'd have to take at this particular disease but what the process is you start out with so usually you
+00:40:23 start out with cells then you'd go to animal models usually you have to do a couple of animal models and of course
+00:40:28 the animal models aren't perfect for humans and then you have to do three sets of clinical trials at a minimum a
+00:40:34 phase one trial to show that it's safe and small number of patients face to trial to show that it's effective in a
+00:40:40 small number of patients and a phase three trial to show that a safe and effective in a large number of pay
+00:40:47 and you know that could end up being hundreds or thousands of patients and they have to be really carefully
+00:40:54 controlled studies and you know you'd have to manufacture the drug you'd have to you know really watch those patients
+00:41:01 you have to be very concerned if you know that that it is gonna be safe and and and and you look at see does it
+00:41:07 doesn't treat the disease better than what the whatever the gold standard was before that if there was assuming there
+00:41:13 was one that's a really interesting line show that it's safe first and then that it's effective first do no harm
+00:41:23 first do no harm that's right so how again if you can linger it a little bit how does the patenting process work yeah
+00:41:31 well you you do a certain amount of research though that's not necessarily has to be the case but you for us
+00:41:38 usually it is usually we do a certain amount of research and make some findings and you know we had a
+00:41:46 hypothesis let's say we prove it or we make some discovery we need to invent some technique and then we write
+00:41:52 something up what's called a disclosure we give it to MIT technology transfer office they then give it to some patent
+00:42:00 attorneys and they use that and plus talking to us and you know work on writing a patent and then you go back
+00:42:08 and forth with the USPTO that's the United States Patent and Trademark Office and you know they may not allow
+00:42:14 it the first second or third time but they will tell you why they don't and you may adjust it and maybe you'll
+00:42:21 eventually get it and maybe you won't so you've been part of launching 40 companies together worth again numbers
+00:42:29 could be outdated but an estimated twenty three billion dollars you've described your thoughts on a formula for
+00:42:37 startup success so perhaps you can describe that formula in general describe what does it take to build a
+00:42:45 successful startup well I I break that down into a couple categories and I'm I'm a scientist and certainly from the
+00:42:50 science standpoint I'll go over that but I actually think that really the most important thing is probably the business
+00:42:57 people then that work with and you know they when I look back at the companies that have done
+00:43:02 well it's been because we've had great business people and when they haven't done as well we have it as good business
+00:43:08 people but from a science standpoint I think about that we've made some kind of discovery that is almost what I'd call a
+00:43:16 platform that you could use it for different things and certainly the drug delivery system example that I gave
+00:43:22 earlier z' is a good example of that you could use it for drug ABCDE and so forth and that I'd like to think that we've
+00:43:30 taken it far enough so that we've written at least one really good paper and a top journal hopefully a number
+00:43:37 that we've reduced it to practice in animal models that we've filed patents maybe I had issued patents that of what
+00:43:48 I'll call very good and broad claims that's sort of the key in a patent and then in our case a lot of times when
+00:43:55 we've done it a lot of times it's somebody in the lab like a postdoc or graduate student spent a big part of
+00:44:02 their life doing it and that they want to work at that company because they have this passion that they want to see
+00:44:07 something they did make a difference in people's lives maybe you could mention the business component it's funny to
+00:44:15 hear great side to say that there's value to business folks oh yeah well that always said so what
+00:44:24 what value what business instinct is valuable to make a startup successful a company successful I think the business
+00:44:34 aspects are you have to be a good judge of people so that you hire the right people you have to be strategic so you
+00:44:41 figure out if you do of that platform that could be used for all these different things what one are you and
+00:44:46 knowing that medical research is so expensive what thing are you gonna do first second third fourth and fifth I
+00:44:53 think you need to have a good Lex what I'll call FDA regulatory clinical trial trial strategy I think you have to be
+00:45:00 able to raise money incredibly so there are a lot of things you have to be a good good with people
+00:45:06 good manager people so the the money in the people part I get but this the stuff before in
+00:45:14 deciding the ABCD if you have a platform which trucks the first and taking testing you see nevertheless scientist
+00:45:21 is not being too always too good at that process well I think there a part of the process but I'd say there's probably I'm
+00:45:29 gonna just make this up but maybe six or seven criteria that you want to use and it's not just science I mean the kinds
+00:45:35 of things that I would think about is is the market big or small is the art there are there good animal models for it so
+00:45:42 that you could test it and it wouldn't take you know fifty years are the clinical trials that could be set up
+00:45:51 ones that you know have clear end points where you can make a judgement and and another issue would be competition are
+00:46:00 there other ways that some companies out there or doing it another issue would be reimbursement you know can I get
+00:46:08 reimbursed so a lot of things that you have manufacturing issues you'd want to consider is it not so I think there are
+00:46:14 really a lot of things that go into whether you do what you do for a second third or fourth so you lead one of the
+00:46:23 largest academic labs in the world with over ten million dollars in annual grants and over 100 researchers probably
+00:46:32 over a thousand since the labs beginning researchers can be individualistic and eccentric I don't put it nicely
+00:46:40 there you go eccentric so what insights into research leadership can you give having to run such a successful lab was
+00:46:49 so much diverse talent well I don't know that I'm any expert I think that what you do to me I mean I just want that
+00:46:56 missus gonna sound very simplistic but I just want people in the lab to be happy to be doing things that I hope will make
+00:47:03 the world a better place to be working on science that can make the world a better place and I guess my feeling is
+00:47:11 if we're able to do that you know Peter it kind of runs itself so how do you make a researcher happy in general what
+00:47:19 I think when people feel I mean this is going to sound like again simplistic or maybe like motherhood and apple pie but
+00:47:26 I think if people feel they're working on something really important that can affect many other people's lives and
+00:47:32 they're making some progress they'll feel good about it they'll feel good about themselves and they'll be happy
+00:47:39 but through brainstorming and so on what's your role and how difficult it is as a group in this in this collaboration
+00:47:48 to arrive at these big questions that might have impact well the big questions come from many different ways sometimes
+00:47:57 it's trying to things that I might think of or somebody in the lab might think of which could be a new technique or to
+00:48:03 understand something better but gee we've had people like Bill Gates and the Gates Foundation come to us and Juvenile
+00:48:10 Diabetes Foundation come to us and say gee could you help us on these things and I mean that's good too it doesn't
+00:48:18 happen just one way and I mean you've kind of mentioned it happiness but is there something more how do you inspire
+00:48:27 a researcher to do the best work of their life so you mentioned passion and passion is a kind of fire do you see
+00:48:35 yourself having a role to keep that fire going to to build it up to inspire the researchers through the you know pretty
+00:48:45 difficult process of going from idea to too big question to big answer I think so I think I try to do that by talking
+00:48:57 to people going over their ideas and their progress I try to do it as an individual you know certainly when I
+00:49:04 talk about my own career I had my setbacks s you know different times and people know that that know me and you
+00:49:13 know you just try to keep pushing and and so forth but but yeah I think I try to do that as the one who leads the lab
+00:49:22 so you have this exceptionally successful lab and and one of the great institutions in the world MIT what and
+00:49:32 yet sort of at least in my neck of the woods in computer science and artificial intelligence a lot of the
+00:49:41 research is kind of a lot of the great researchers not everyone but some are kind of going to industry a lot of them
+00:49:49 researchers moving to industry deep what do you think about the future of science in general is there drawbacks is a
+00:49:57 strength to the academic environment that you hope will persist how does it need to change what needs to stay the same
+00:50:05 what are your just thoughts in this whole landscape of science in its future well first I think going to industry is
+00:50:11 good but I think being an academia is good you know I have lots of students who have done both and they've had great
+00:50:19 careers doing both I I think from an academic standpoint I mean the biggest concern probably that people feel today
+00:50:26 you know at a place like MIT or other research heavy institutions is going to be funding and particularly funding
+00:50:34 that's not super directed you know so that you can do basic research I think that's probably the number one thing but
+00:50:42 you know it would be great if we as a society had come up with better ways to teach you know so that people all over
+00:50:50 could learn better you know so I think there were a number of things that would be good to be able to do better so again
+00:50:58 you're very successful in terms of funding but do you still feel the pressure of that of having to seek
+00:51:06 funding does it affect the science or is it or can you simply focus on doing the best work of your life and the funding
+00:51:14 comes along with that I'd say the last 10 or 15 years we've done pretty well funding but I always worry about it you
+00:51:23 know it's like you're still operating on more soft money than hard and and so I always worry about it but we've been
+00:51:32 fortunate that places have come to us like the Gates Foundation and others jovan Diabetes Foundation some companies
+00:51:39 and they're willing to give us funding and we've gotten government money as well we have a number of NIH grants and
+00:51:45 I've always had that and that's important to me too so so I worry about it but
+00:51:52 you know I just view that as a part of the process now if you put yourself in the shoes of a philanthropist it like
+00:52:01 say I gave you a hundred billion dollars right now but you couldn't spend on your own research mm-hmm
+00:52:11 so how how hard is it to decide which labs to invest in which ideas which problems which solutions you know cuz
+00:52:19 funding is so much such an important part of progression of science in today's society if you put yourself in
+00:52:26 the position of philanthropist how hard is that problem how would you go about solving it sure well I think what I do
+00:52:32 for the first thing is different philanthropists have different visions and I think the first thing is to form a
+00:52:38 concrete vision of what you want some people I mean I'll give just give you two examples of people that I know David
+00:52:46 Koch was very interested in cancer research and part of that was that he had cancer and prostate cancer and a
+00:52:55 number of people are do that along those lines they've had somebody they've either had cancer themselves or somebody
+00:53:00 they loved had cancer and they want to put money into cancer research bill gates on the other hand I think when he
+00:53:07 had got his fortune I mean he thought about it and felt well how could he have the greatest impact and he thought about
+00:53:12 you know helping people in the developing world and and and and medicines and different things like that
+00:53:18 that like vaccines that might be really helpful for people in the developing world and and so so I think first you
+00:53:26 start out with that vision once you start out with that vision whatever vision it is then I think you try to ask
+00:53:35 the question who in the world does the best work if that was your goal I mean but you really I think have to have a
+00:53:42 defined vision vision first yeah that that comes and and and I think that's what people do I mean I have never seen
+00:53:49 anybody do it otherwise I mean and and that by the way it may not be the best thing overall I mean I think I think
+00:53:55 it's good that all those things happen but you know what you really want to do and I'll make a contrast in a second in
+00:54:02 addition to funding important areas like what both of those people is to help young people and that they
+00:54:10 may be at odds with each other because a farm or a lab like ours which is you know I'm older is you know might be very
+00:54:18 good at addressing some of those kinds of problems but you know I'm not young I trained a lot of people who are young
+00:54:24 but it's not the same as helping somebody who's an assistant professor someplace so I think what's I think been
+00:54:32 good about our thing our society or things overall or that there are people who come at it from different ways and
+00:54:39 the combination the confluence of the government funding the certain foundations that that fund things and
+00:54:46 other foundations that you don't want to see disease treated well then they can go seek out people or they can put a
+00:54:53 request for proposals and see who does the best you know I'd say both David Koch and Bill Gates did exactly that
+00:55:01 they sought out people most of them you know or what are their foundations that they were involved in so I doubt people
+00:55:09 like myself but they also had requests for proposals now you mentioned young people and that
+00:55:14 reminds me something he said in an interview of written somewhere that said you're some of your initial struggles in
+00:55:25 that terms of finding a faculty position or so on they eat in quite for people fit into a particular bucket a
+00:55:37 particular right can you speak to that how do you see limitations to the academic system that it does have such
+00:55:47 buckets there's is there how can we allow for people who are brilliant but outside the disciplines of the previous
+00:56:00 decade yeah well I think that's a great question I think that I think the department has have to have a vision you
+00:56:08 know and some of them do every so often you know there are Institute's or labs that do that I mean at MIT I think
+00:56:18 that's done sometimes I know annika engineering department just had a search and they hired geo Traverso who
+00:56:26 was one of my he was a fellow with me and but he's he's actually a molecular biologist Anna and and a
+00:56:33 gastroenterologist and you know he's one of the best in the world but they but he's also done some great mechanical
+00:56:38 engineering and designing some new pills and things like that and they picked a man boy I give them a lot of credit I
+00:56:46 mean that's that's that's vision to pick somebody and I think you know they'll be the richer for I think the Media Lab is
+00:56:52 certainly hired you know people I get Boyden and others who depth on you know very different things and so I think
+00:57:00 that you know is that that that's part of the vision of the leadership who who do things like that do you think one day
+00:57:07 you mentioned David Koch and cancer do you think one day will cure cancer yeah I do I mean I coached one day I don't
+00:57:14 know how long that they will come soon but yeah so soon no but I mean I think do you think it is a grand challenge it
+00:57:20 is a grand challenges it's not just solvable within a few years not so I don't think very many things are
+00:57:26 solvable in a few years there's some good ideas that people are working on but I mean all cancers that's that's
+00:57:33 pretty tough if we do get the cure what will the Cure look like do you think which mechanisms which disciplines will
+00:57:40 help us arrive at that cure from all the amazing work you've done as touched on cancer no I think it'll be a combination
+00:57:47 of biology and engineering I think it'll be biology to understand the right genetic mechanisms to to solve this
+00:57:54 problem and maybe the right immunological mechanisms and engineering in the sense of you know producing the
+00:58:01 molecules developing the right delivery systems targeting it or whatever else needs to be done well that's a beautiful
+00:58:09 vision for engineering so on a lighter topic I've read that you love chocolate and mention two places venom Bill's
+00:58:17 chocolate thorium and the chocolate cookies the the Soho globs from Rosie's bakery Chestnut Hill I went to their
+00:58:25 website and I was trying to finish the paper last night there's a deadline today and yet house wasting way too much
+00:58:32 time at three instead of writing the paper staring at the rosey breakers cookies which or just
+00:58:39 look incredible the so whole globs just look incredible but for me oatmeal white raisin cookies
+00:58:45 it's not one my heart just from the pictures do you think one day we'll be able to engineer the perfect cookie with
+00:58:53 the help of chemistry and maybe a bit of data-driven artificial intelligence or is cookies something that's more art
+00:59:03 than engineering I think there's some of both I think I think engineer will probably help someday and what about
+00:59:10 chocolate same thing same thing you have to go to see some of David Edwards stuff you know he he was one of my postdocs
+00:59:16 and he's a professor at Harvard but he also started cafe arts sciences and you know it's just a really cool restaurant
+00:59:25 here but he also has companies that do you know ways of looking at fragrances and and trying to use engineering and in
+00:59:33 new ways and so I think that's just an example but I expect someday that AI and engineering will play a role and almost
+00:59:41 everything including creating the perfect cookie yes well I dream of that day as well so when you look back at
+00:59:48 your life having accomplished an incredible amount of positive impact on the world through science and
+00:59:55 engineering what are you most proud of my students you know I mean I really feel when I look at that I mean we've
+01:00:01 probably had you know close to a thousand students go through the lab and I mean they've done incredibly well I
+01:00:09 think 18 are in the National Academy of Engineering 16 and the National Academy of Medicine I mean they're you know
+01:00:14 they've been CEOs of companies presidents of universities I mean and Dave I mean they've done I think eight or
+01:00:22 faculty MIT maybe about 12 at Harvard I mean so you know it really makes you feel good to think that the people you
+01:00:29 know they're not my children but they're close to my children and in a way and you know makes you feel really good to
+01:00:34 see them have such great lives and them do so much good and be happy well I think that's the perfect way to end it
+01:00:41 Bob thank you so much for talking it was an honor good good questions thank you
+01:00:46 thanks for listening to this conversation with Bob Langer and thank you that sponsors cash app and master
+01:00:53 class please consider supporting the podcast by downloading cash app and using collects podcast and signing up at
+01:01:03 masterclass comm / Lex click on the links buy all the stuff it's the best way to support this podcast and the
+01:01:09 journey I'm on in my research and startup if you enjoy this thing subscribed by YouTube review it with
+01:01:16 five stars and half of podcast supported on patreon or connect with me on Twitter and Lex Friedman spelled without the e
+01:01:26 just Fri D ma N and now let me leave you some words for Bill Bryson in his book a short history of nearly everything if
+01:01:34 this book has a lesson is that we're awfully lucky to be here and by we I mean every living thing to obtain any
+01:01:42 kind of life in this universe of ours appears to be quite an achievement as humans were doubly lucky of course we
+01:01:49 enjoy not only the privilege of existence but also the singular ability to appreciate it and even in a multitude

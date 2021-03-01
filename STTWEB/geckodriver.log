@@ -1,0 +1,487 @@
+1612448087843	geckodriver	INFO	Listening on 127.0.0.1:64062
+1612448090862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofiled5sQ5v"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612448096882	Marionette	INFO	Listening on port 64070
+1612448097120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612448097138	Marionette	ERROR	[15] No reply from Marionette:Register
+1612448099328	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612448114015	Marionette	INFO	Stopped listening on port 64070
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612448261252	geckodriver	INFO	Listening on 127.0.0.1:64172
+1612448264269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofilenKQ2K8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612448268537	Marionette	INFO	Listening on port 64180
+1612448269019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612448269034	Marionette	ERROR	[15] No reply from Marionette:Register
+1612448303092	Marionette	INFO	Stopped listening on port 64180
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofileAC7Nrx"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612448274279	Marionette	INFO	Listening on port 64234
+1612448274707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612448274723	Marionette	ERROR	[15] No reply from Marionette:Register
+1612448276839	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:64307
+1612448327624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofileQYsOHq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612448332057	Marionette	INFO	Listening on port 64315
+1612448332367	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612448332381	Marionette	ERROR	[15] No reply from Marionette:Register
+1612448354036	Marionette	INFO	Stopped listening on port 64315
+2448335416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofilegDE5Mg"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612448338506	Marionette	INFO	Listening on port 64370
+1612448338557	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612448338574	Marionette	ERROR	[15] No reply from Marionette:Register
+1612448339688	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612448341075	Marionette	INFO	Stopped listening on port 64370
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612448651260	geckodriver	INFO	Listening on 127.0.0.1:64492
+1612448726624	geckodriver	INFO	Listening on 127.0.0.1:64524
+1612448776453	geckodriver	INFO	Listening on 127.0.0.1:64543
+1612448779481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofileA3ge9v"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612448783067	Marionette	INFO	Listening on port 64551
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612448783198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612448783236	Marionette	ERROR	[15] No reply from Marionette:Register
+1612448785694	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612448930400	geckodriver	INFO	Listening on 127.0.0.1:64676
+1612448933481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofilerP7NTy"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612448937139	Marionette	INFO	Listening on port 64686
+1612448937619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612448937637	Marionette	ERROR	[15] No reply from Marionette:Register
+1612448940057	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 13152, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612449049224	Marionette	INFO	Stopped listening on port 64686
+p\\rust_mozprofileOhsUcU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612448994343	Marionette	INFO	Listening on port 64795
+1612448994530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612448994594	Marionette	ERROR	[15] No reply from Marionette:Register
+1612448997011	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+1612449109390	geckodriver	INFO	Listening on 127.0.0.1:64925
+1612449112429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofileZFWrPx"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612449115640	Marionette	INFO	Listening on port 64934
+1612449116069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612449116085	Marionette	ERROR	[15] No reply from Marionette:Register
+1612449118174	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1612449225537	geckodriver	INFO	Listening on 127.0.0.1:65057
+1612449228562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofileV0hyga"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612449231226	Marionette	INFO	Listening on port 65067
+1612449231704	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612449231720	Marionette	ERROR	[15] No reply from Marionette:Register
+1612449233768	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612449234161	Marionette	INFO	Stopped listening on port 65067
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1612454436264	geckodriver	INFO	Listening on 127.0.0.1:53479
+1612454439504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofileTRZL8V"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612454444998	Marionette	INFO	Listening on port 53488
+1612454445401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612454445439	Marionette	ERROR	[15] No reply from Marionette:Register
+1612454448086	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612454453459	Marionette	INFO	Stopped listening on port 53488
+1612454503825	geckodriver	INFO	Listening on 127.0.0.1:53593
+1612454506851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofileMnxFvJ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612454510817	Marionette	INFO	Listening on port 53604
+1612454511001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612454511020	Marionette	ERROR	[15] No reply from Marionette:Register
+1612454513454	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612454518724	Marionette	INFO	Stopped listening on port 53604
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612454682453	geckodriver	INFO	Listening on 127.0.0.1:53890
+1612454685467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofilez3OhC6"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612454689082	Marionette	INFO	Listening on port 53898
+1612454689614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612454689640	Marionette	ERROR	[15] No reply from Marionette:Register
+1612454692110	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612454697359	Marionette	INFO	Stopped listening on port 53898
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612454889988	geckodriver	INFO	Listening on 127.0.0.1:54001
+1612454893008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofileMjl6mE"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612454895935	Marionette	INFO	Listening on port 54009
+1612454896149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612454896164	Marionette	ERROR	[15] No reply from Marionette:Register
+1612454898621	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612454903892	Marionette	INFO	Stopped listening on port 54009
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612454971797	geckodriver	INFO	Listening on 127.0.0.1:54093
+1612454974816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofilexhRgYL"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612454977734	Marionette	INFO	Listening on port 54101
+1612454977952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612454977966	Marionette	ERROR	[15] No reply from Marionette:Register
+1612454980086	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612454985294	Marionette	INFO	Stopped listening on port 54101
+1612455656776	geckodriver	INFO	Listening on 127.0.0.1:54337
+1612455659791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofilemmrjJp"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612455663232	Marionette	INFO	Listening on port 54345
+1612455663436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612455663454	Marionette	ERROR	[15] No reply from Marionette:Register
+1612455666080	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612455671273	Marionette	INFO	Stopped listening on port 54345
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612456027447	geckodriver	INFO	Listening on 127.0.0.1:54483
+1612456030476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofileyDrmbf"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612456034529	Marionette	INFO	Listening on port 54491
+1612456034622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612456034643	Marionette	ERROR	[15] No reply from Marionette:Register
+1612456037769	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612456043213	Marionette	INFO	Stopped listening on port 54491
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612456662204	geckodriver	INFO	Listening on 127.0.0.1:54603
+1612456665216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofilexy707n"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612456669084	Marionette	INFO	Listening on port 54611
+1612456669362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612456669381	Marionette	ERROR	[15] No reply from Marionette:Register
+1612456671740	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612456677015	Marionette	INFO	Stopped listening on port 54611
+1612457101309	geckodriver	INFO	Listening on 127.0.0.1:54720
+1612457104346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofileIgkJ5q"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612457109190	Marionette	INFO	Listening on port 54728
+1612457109624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612457109649	Marionette	ERROR	[15] No reply from Marionette:Register
+1612457111999	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612457117284	Marionette	INFO	Stopped listening on port 54728
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612458798851	geckodriver	INFO	Listening on 127.0.0.1:55068
+1612458801911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofilePLlXi8"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612458807139	Marionette	INFO	Listening on port 55076
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612458807659	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612458807680	Marionette	ERROR	[15] No reply from Marionette:Register
+1612458810137	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612458815415	Marionette	INFO	Stopped listening on port 55076
+1612458918037	geckodriver	INFO	Listening on 127.0.0.1:55151
+1612458921058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofileDfl1Ds"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612458923675	Marionette	INFO	Listening on port 55159
+1612458924194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612458924229	Marionette	ERROR	[15] No reply from Marionette:Register
+1612458926307	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612458931657	Marionette	INFO	Stopped listening on port 55159
+1612460177952	geckodriver	INFO	Listening on 127.0.0.1:55314
+1612460180998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofileHDAcLJ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612460185125	Marionette	INFO	Listening on port 55324
+1612460185253	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612460185266	Marionette	ERROR	[15] No reply from Marionette:Register
+1612460187370	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612460192759	Marionette	INFO	Stopped listening on port 55324
+1612466048752	geckodriver	INFO	Listening on 127.0.0.1:59379
+1612466051763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofileYCdn6w"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612466056482	Marionette	INFO	Listening on port 59387
+1612466057017	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612466057036	Marionette	ERROR	[15] No reply from Marionette:Register
+1612466057696	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612466064738	Marionette	INFO	Stopped listening on port 59387
+1612466301656	geckodriver	INFO	Listening on 127.0.0.1:59491
+1612466304683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile8mXUZk"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612466309144	Marionette	INFO	Listening on port 59499
+1612466309490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612466309513	Marionette	ERROR	[15] No reply from Marionette:Register
+1612466310337	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612466318421	Marionette	INFO	Stopped listening on port 59499
+JavaScript error: /_/mss/boq-identity/_/js/k=boq-identity.ConsentUi.en.xGAVctZd5fQ.es5.O/am=E4A/d=1/excm=_b,_tp,displayintroui/ed=1/dg=0/wt=2/ct=zgms/rs=AOaEmlGriH9A_pIxEWx9mMZV5ieGAqP5yA/m=_b,_tp, line 491: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: /_/mss/boq-identity/_/js/k=boq-identity.ConsentUi.en.xGAVctZd5fQ.es5.O/am=E4A/d=1/excm=_b,_tp,displayintroui/ed=1/dg=0/wt=2/ct=zgms/rs=AOaEmlGriH9A_pIxEWx9mMZV5ieGAqP5yA/m=_b,_tp, line 491: NS_ERROR_NOT_INITIALIZED: 
+1612466319319	geckodriver	INFO	Listening on 127.0.0.1:59576
+1612466322335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofilezZZj0C"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612466325587	Marionette	INFO	Listening on port 59584
+1612466325976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612466325997	Marionette	ERROR	[15] No reply from Marionette:Register
+1612466326679	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612466333552	Marionette	INFO	Stopped listening on port 59584
+JavaScript error: /_/mss/boq-identity/_/js/k=boq-identity.ConsentUi.en.xGAVctZd5fQ.es5.O/am=E4A/d=1/excm=_b,_tp,displayintroui/ed=1/dg=0/wt=2/ct=zgms/rs=AOaEmlGriH9A_pIxEWx9mMZV5ieGAqP5yA/m=_b,_tp, line 491: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612466416188	geckodriver	INFO	Listening on 127.0.0.1:59667
+1612466419200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofileBCCTB7"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612466422851	Marionette	INFO	Listening on port 59675
+1612466423050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612466423072	Marionette	ERROR	[15] No reply from Marionette:Register
+1612466424307	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612466431791	Marionette	INFO	Stopped listening on port 59675
+2466429938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile4FDFj7"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612466433968	Marionette	INFO	Listening on port 59748
+1612466434395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612466434411	Marionette	ERROR	[15] No reply from Marionette:Register
+1612466435113	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612466441861	Marionette	INFO	Stopped listening on port 59748
+JavaScript error: /_/mss/boq-identity/_/js/k=boq-identity.ConsentUi.en.xGAVctZd5fQ.es5.O/am=E4A/d=1/excm=_b,_tp,displayintroui/ed=1/dg=0/wt=2/ct=zgms/rs=AOaEmlGriH9A_pIxEWx9mMZV5ieGAqP5yA/m=_b,_tp, line 491: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612469328093	geckodriver	INFO	Listening on 127.0.0.1:60264
+1612469331129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile2qbx1Y"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612469334872	Marionette	INFO	Listening on port 60272
+1612469335279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612469335298	Marionette	ERROR	[15] No reply from Marionette:Register
+1612469335982	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612469343041	Marionette	INFO	Stopped listening on port 60272
+JavaScript error: /_/mss/boq-identity/_/js/k=boq-identity.ConsentUi.en.xGAVctZd5fQ.es5.O/am=E4A/d=1/excm=_b,_tp,displayintroui/ed=1/dg=0/wt=2/ct=zgms/rs=AOaEmlGriH9A_pIxEWx9mMZV5ieGAqP5yA/m=_b,_tp, line 491: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612474998137	geckodriver	INFO	Listening on 127.0.0.1:61058
+1612475001181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofilePc3dIe"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612475006417	Marionette	INFO	Listening on port 61066
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612475006926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612475006944	Marionette	ERROR	[15] No reply from Marionette:Register
+1612475007652	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612475014687	Marionette	INFO	Stopped listening on port 61066
+1612519790490	geckodriver	INFO	Listening on 127.0.0.1:62352
+1612519793571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile5Sce9Y"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612519798810	Marionette	INFO	Listening on port 62360
+1612519799349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612519799481	Marionette	ERROR	[15] No reply from Marionette:Register
+1612519802038	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612519809610	Marionette	INFO	Stopped listening on port 62360
+JavaScript error: /_/mss/boq-identity/_/js/k=boq-identity.ConsentUi.en.xGAVctZd5fQ.es5.O/am=E4A/d=1/excm=_b,_tp,displayintroui/ed=1/dg=0/wt=2/ct=zgms/rs=AOaEmlGriH9A_pIxEWx9mMZV5ieGAqP5yA/m=_b,_tp, line 491: NS_ERROR_NOT_INITIALIZED: 
+1612531351736	geckodriver	INFO	Listening on 127.0.0.1:63893
+1612531354779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofilel7jZn1"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612531359018	Marionette	INFO	Listening on port 63901
+1612531359530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612531359548	Marionette	ERROR	[18] No reply from Marionette:Register
+1612531360504	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612531367760	Marionette	INFO	Stopped listening on port 63901
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612533465863	geckodriver	INFO	Listening on 127.0.0.1:64219
+1612533468970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile58dOPQ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612533473346	Marionette	INFO	Listening on port 64227
+1612533473721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612533473738	Marionette	ERROR	[15] No reply from Marionette:Register
+1612533474998	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1612533481888	Marionette	INFO	Stopped listening on port 64227
+JavaScript error: /_/mss/boq-identity/_/js/k=boq-identity.ConsentUi.en.xGAVctZd5fQ.es5.O/am=E8A/d=1/excm=_b,_tp,displayintroui/ed=1/dg=0/wt=2/ct=zgms/rs=AOaEmlFtkGjSK9WHN1gWXxE3WcQDKYHEEQ/m=_b,_tp, line 491: NS_ERROR_NOT_INITIALIZED: 
+1613221570292	geckodriver	INFO	Listening on 127.0.0.1:53802
+1613221573302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofileNgDPFx"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613221577757	Marionette	INFO	Listening on port 53810
+1613221578053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613221578073	Marionette	ERROR	[15] No reply from Marionette:Register
+1613221578782	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1613221585686	Marionette	INFO	Stopped listening on port 53810
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614363688424	geckodriver	INFO	Listening on 127.0.0.1:53253
+1614363691529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofile39rukL"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614363696449	Marionette	INFO	Listening on port 53261
+1614363696783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614363696801	Marionette	ERROR	[15] No reply from Marionette:Register
+1614363697779	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1614528859675	geckodriver	INFO	Listening on 127.0.0.1:50040
+1614528862694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofileZcLTgs"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614528866970	Marionette	INFO	Listening on port 50048
+1614528867448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614528868153	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614528875484	Marionette	INFO	Stopped listening on port 50048
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614618940816	geckodriver	INFO	Listening on 127.0.0.1:55176
+1614618943849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofileOb26I8"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614618949785	Marionette	INFO	Listening on port 55184
+1614618950102	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614618950723	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614618957418	Marionette	INFO	Stopped listening on port 55184
+1614618995892	geckodriver	INFO	Listening on 127.0.0.1:55257
+1614618998929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\HOME\\AppData\\Local\\Temp\\rust_mozprofileuNsKvw"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614619001476	Marionette	INFO	Listening on port 55266
+1614619001602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614619002259	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1614619009297	Marionette	INFO	Stopped listening on port 55266
+JavaScript error: /_/mss/boq-identity/_/js/k=boq-identity.ConsentUi.en.L41yXZDbn_0.es5.O/am=C0A/d=1/excm=_b,_tp,displayintroui/ed=1/dg=0/wt=2/ct=zgms/rs=AOaEmlEyE6xly1Cm8sdvETHf_aiNhc9TuA/m=_b,_tp, line 489: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

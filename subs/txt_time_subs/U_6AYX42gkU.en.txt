@@ -1,0 +1,1294 @@
+00:00:01 the following is a conversation with grant sanderson his second time on the podcast he's
+00:00:06 known to millions of people as the mind behind three blue one brown a youtube channel
+00:00:12 where he educates and inspires the world with the beauty and power of mathematics quick summary of the sponsors
+00:00:19 dollar shave club doordash and cash app click the sponsor links in the description to get a discount
+00:00:24 and to support this podcast especially for the two new sponsors dollar shave club and doordash let me
+00:00:30 say as a side note i think that this pandemic challenged millions of educators to rethink how
+00:00:35 they teach to rethink the nature of education as people know
+00:00:41 grant is a master elucidator of mathematical concepts that may otherwise seem difficult or out
+00:00:47 of reach for students and curious minds but he's also an inspiration to teachers researchers and people who just enjoy sharing
+00:00:54 knowledge like me for what it's worth it's one thing to give a semester's worth of multi-hour lectures
+00:01:00 it's another to extract from those lectures the most important interesting beautiful and difficult concepts
+00:01:07 and present them in a way that makes everything fall into place that is the challenge that is worth
+00:01:12 taking on my dream is to see more and more of my colleagues at mit and world experts across the world
+00:01:17 summon their inner three blue one brown and create the canonical explainer videos on a topic
+00:01:24 that they know more than almost anyone else in the world amidst the political division the
+00:01:28 economic pain the psychological medical toll of the virus masterfully crafted educational content
+00:01:36 feels like one of the beacons of hope that we can hold on to if you enjoy this thing subscribe on
+00:01:42 youtube review it with 5 stars on apple podcast follow on spotify support on patreon or connect with me on twitter
+00:01:50 at lex friedman of course after you go immediately which you already probably have done a long time ago
+00:01:55 and subscribe to three blue one brown youtube channel you will not regret it as usual i'll do
+00:02:01 a few minutes of as now and no ads in the middle i try to make these interesting but i
+00:02:06 give you timestamps so you can skip but still please do check out the sponsors by clicking the links in the description
+00:02:12 especially the two new ones doordash and dollar shave club they're evaluating us looking at how
+00:02:17 many people go to their site and get their stuff in order to determine if they want to
+00:02:21 support us for the long term so you know what to do it's the best way to support this
+00:02:26 podcast as always this show is sponsored by a dollar shave club try them out
+00:02:31 with a one-time offer for only five dollars in free shipping at dollarshaveclub.com lex
+00:02:38 starter kit comes with a six blade razor refills and all kinds of other stuff that makes shaving feel great
+00:02:44 i've been a member of dollar shave club for over five years now and actually signed up when i first
+00:02:49 heard about them on the joe rogan podcast and now we have come full circle i feel like i've made it
+00:02:56 now that i can do a read for them just like joe did all those years ago for the most part i've just used the
+00:03:02 razor and refills but they encouraged me to try the shave butter which i've never used before
+00:03:08 so i did and i love it i'm not sure how the chemistry of it works out but it's translucent somehow which is a
+00:03:13 cool new experience again try the ultimate shave starter set today for just five bucks
+00:03:18 plus free shipping at dollarshaveclub.com lex this show is also sponsored by doordash
+00:03:26 get five bucks off and zero delivery fees on your first order of fifteen dollars or more
+00:03:30 when you download the doordash app and enter code lex i have so many memories of working
+00:03:36 late nights for deadline with a team of engineers and eventually taking a break to argue about which door dash restaurant to
+00:03:41 order from and when the food came those moments of bonding of exchanging ideas
+00:03:48 of pausing to shift attention from the programs to the humans or special these days for a bit of time
+00:03:56 i'm on my own sadly so i miss that camaraderie but actually doordash is still there for me there's a million options that fit
+00:04:03 into my keto diet ways also it's a great way to support restaurants in these challenging times
+00:04:09 once again download the doordash app and enter code lex to get five bucks off as your delivery fees on
+00:04:15 your first order of 15 or more finally this shows presented by cash app the number one finance app in
+00:04:22 the app store when you get it use collects podcast cash app lets you send money to friends
+00:04:28 buy bitcoin and invest in the stock market with as little as one dollar it's one of the best design interfaces
+00:04:34 of an app that i've ever used to me good design is when everything is easy and natural
+00:04:39 that design is when the app gets in the way either because it's buggy because it tries too hard to be helpful
+00:04:46 i'm looking at you clippy anyway there's a big part of my brain and heart that love to design things and also to
+00:04:52 appreciate great design by others so again if you get cash app from the app store google play
+00:04:58 and use code lex podcast you get ten dollars and cash up will also donate ten dollars to first an organization that is helping
+00:05:04 you to advance robotics and stem education for young people around the world
+00:05:10 and now here's my conversation with grant sanderson you've spoken about richard feynman as someone
+00:05:18 you admire i think last time we spoke we ran out of time so i wanted to talk to you about him um
+00:05:26 who is  richard feynman to you in your eyes what impact did he have on you i mean i think a ton of people like
+00:05:32 feynman he's probably it's a little bit cliche to say that you like fineman right that's
+00:05:36 almost like when you don't know what to say about sports and you just point to the super bowl or something it's
+00:05:41 something you enjoy watching but i do actually think there's a layer to feynman that
+00:05:45 like sits behind the iconography one thing that just really struck me was this letter that he wrote to his
+00:05:51 wife two years after she died so during the manhattan project she had polio tragically she died
+00:05:58 they were just young madly in love and you know the the icon of feynman is this almost this like
+00:06:05 mildly sexist womanizing philanderer at least on the personal side but you read this letter and i can try
+00:06:10 to pull it up for you if i want and it's just this absolutely heartfelt letter to his wife
+00:06:15 saying how much he loves her even though she's dead and kind of what she means to him how no woman can ever
+00:06:23 measure up to her and it shows you that the fineman that we've all seen in like surely you're joking is different from
+00:06:28 the feynman in reality and i think the same kind of goes in his science where
+00:06:34 you know he kind of sometimes has this output of being this ah shucks character like everyone else is coming in this
+00:06:38 with these fancy flute and formulas but i'm just gonna try to whittle it down to its essentials
+00:06:43 which is so appealing because we love to see that kind of thing but when you get into it
+00:06:48 like what he was doing was actually quite deep very much mathematical that should go
+00:06:53 without saying but i remember reading a book about feynman in a cafe once and this woman looked at me and
+00:06:58 was like  saw that it was about findman she was like oh i love him i read shirley you're joking
+00:07:02 and she started explaining to me how he was never really a math person and  i don't understand how that could
+00:07:09 possibly be a public perception about any physicist but for whatever reason that like worked into his or that
+00:07:14 he sort of shoot off math in place of true science the reality of it is he was deeply in love with math and was much
+00:07:19 more going in that direction and had a clicking point into seeing that physics was a way to
+00:07:23 realize that and all the creativity that he could output in that direction was instead
+00:07:28 poured towards things like fundamental not even fundamental theories just emergent phenomena and everything like that
+00:07:35 so to answer your actual question like what what i like about  his way of going at things is this
+00:07:40 constant desire to reinvent it for himself like when he would consume papers the way he
+00:07:45 described it he would start to see what problem he was trying to solve and then just try to solve it himself to get a
+00:07:49 sense of personal ownership and then from there see what others had done is that how you see problems
+00:07:54 yourself like that's actually an interesting point when you first
+00:08:00 are inspired by a certain idea that you maybe want to teach or visualize or just explore on your own
+00:08:06 i'm sure you're captured by some possibility and magic of it do you read the work of others like do
+00:08:12 you go through the proof see do you try to rediscover everything yourself so i think the
+00:08:16 things that i've like learned best and have the deepest ownership of are the ones that have some
+00:08:21 element of rediscovery the problem is that really slows you down and this is for my for my part it's
+00:08:26 actually a big fault like this is part of why i'm i'm not an active researcher i'm not
+00:08:30 like at the depth of the field a lot of other people are the stuff that i do learn i try to learn
+00:08:34 it really well but other times you do need to get through it at a certain pace you do need
+00:08:39 to get to a point of a problem you're trying to solve so obviously you need to be well equipped to read things
+00:08:44  without that reinvention component and see how others have done it but i think if you choose a few core
+00:08:48 building blocks along the way and you say i'm really going to try to approach this before i see how this
+00:08:55 person went at it i'm really going to try to approach it for myself no matter what you gain all sorts of
+00:09:00 inarticulatable intuitions about that topic which aren't going to be there if you simply go through the proof
+00:09:06 for example you're going to be trying to come up with counter examples you're going to try to come up with um
+00:09:11 intuitive examples all sorts of things where you're populating your brain with data and the
+00:09:14 ones that you come up with are likely to be different than the one that the text comes up with
+00:09:19 and that like lends it a different angle so that aspect also slowed feynman down in a lot
+00:09:23 of respects i think there was a period when like the rest of physics was running away from him but in so far he's got
+00:09:31 it got him to where he was  i i i kind of resonate with that i just i would i would be nowhere near
+00:09:35 it because i not like him at all but it's like a state to aspire to you know just
+00:09:44 to look at a small point you made that you're not a quote-unquote active researcher do you you're swimming often
+00:09:54 in reasonably good depth about a lot of topics do you sometimes want to like dive deep at a certain moment and say like because
+00:10:02 you probably built up a hell of an amazing intuition about what is and isn't true
+00:10:09 within these worlds do you ever want to just dive in and see if you can discover something new yeah
+00:10:17 i think one of my biggest regrets from undergrad is not having built better relationships with the
+00:10:22 professors i had there and i think a big part of success in research is that element of like mentorship and
+00:10:27 like people giving you the kind of scaffolded problems to carry along for my own like goals right now i feel
+00:10:32 like i'm pretty good at exposing math to others and
+00:10:38 like want to continue doing that for my personal learning i are you familiar with like the
+00:10:43 hedgehog fox dynamic i think this was either the ancient greeks came up with it or
+00:10:50 it was pretended to be something drawn from the ancient creek said i don't know who to
+00:10:53 point it to but they had probably mocked twain it is that you've got two types of people or especially two types
+00:10:59 of researchers there's the fox that knows many different things and then the hedgehog that knows one
+00:11:04 thing very deeply so like von neumann would have been a fox he's someone who knows many
+00:11:08 different things just very foundational a lot of different fields einstein would have been more of
+00:11:13 a hedgehog thinking really deeply about one particular thing and both are very necessary for making
+00:11:18 progress so between those two i would definitely see myself as like the fox
+00:11:23 where  i'll try to get my paws in like a whole bunch of different things and at the moment i just think i don't
+00:11:28 know enough of anything to make like a significant contribution to any of them but i do see value in like having a decently
+00:11:35 deep understanding of a wide variety of things like most people who  know computer science
+00:11:40 really deeply don't necessarily know physics very deeply or many of the aspects like different
+00:11:47 fields in math even let's say you have like an analytic number theory versus an algebraic number theory like these two
+00:11:50 things end up being related to very different fields like some of them more complex analysis some
+00:11:55 of them more like algebraic geometry and then when you just go out so far as to take those adjacent fields place one
+00:12:01 you know phd student into a seminar of another one they don't understand what the other one's saying at all
+00:12:05 like you take the complex analysis specialist inside the algebraic geometry seminar they're as lost as you or i would be but
+00:12:12 i think  going around and like trying to have some sense of what this big picture is certainly has
+00:12:16 personal value for me i don't know if i would ever make like new contributions in those fields but i
+00:12:21 do think i could make new like expositional contributions where there's kind of a notion of
+00:12:27  things that are known but like haven't been explained very well well first of all i think most people
+00:12:33 would agree your videos your teaching the way you see the world is fundamentally often new
+00:12:41 like you're creating something new and it almost feels like research even just like the visualizations
+00:12:47  the multi-dimensional visualization we'll talk about i mean you're revealing something very interesting
+00:12:54 that  yeah just feels like research feels like science feels like the cutting edge of the very thing
+00:13:01 of which like new ideas and new discoveries are made of i do think you're being a little bit
+00:13:06 more generous than is necessarily and i promise that's not even false humility because i sometimes think when
+00:13:12 i research a video i'll learn like 10 times as much as i need for the video itself and it ends up feeling
+00:13:17 kind of elementary so i have a sense of just how far away like the stuff that i cover is from the
+00:13:22 actual depth i think that's natural but i think that could also be a mathematics thing
+00:13:27 i feel like in the machine learning world you like two weeks in you feel like you've
+00:13:34 basically mastered in mathematics it's like well everything is either trivial or impossible and it's like a shockingly
+00:13:39 thin line between the two where you can find something that's totally impenetrable and then after you
+00:13:44 get a feel for it's like oh yeah that whole that whole subject is actually trivial in some way
+00:13:50 so maybe that's what goes on every researcher is just on the other end of that hump and it feels like it's so far
+00:13:54 away but one step actually gets them there what do you think about
+00:13:59 sort of feynman's teaching style or another perspective is of use of  visualization
+00:14:07 well his teaching style is interesting because people have described like the feynman effect where while you're watching
+00:14:12 his lectures or while he's reading his lectures everything makes such perfect sense so as an entertainment session it's wonderful
+00:14:21 because it gives you this this intellectual satisfaction that you don't get from anywhere else
+00:14:26 that you like finally understand it but the feynman effect is that you can't really recall what it is that gave you
+00:14:30 that insight you know even a week later and this is this is true of a lot of books in a
+00:14:35 lot of lectures where the retention is never quite what we hope it is um
+00:14:42 so there is a risk that  the stuff that i do also fits that same bill
+00:14:47 where at best it's giving this kind of intellectual candy on giving a glimpse of feeling like you understand something
+00:14:53 but unless you do something active like reinventing it yourself like doing problems to solidify it even things like
+00:15:00 space repetition memory to just make sure that you have like the building blocks of what do all
+00:15:04 the terms mean unless you're doing something like that it's not actually gonna stick
+00:15:09 so the very same thing that's so admirable about findman's lectures which is how damn satisfying they are to consume
+00:15:18 might actually also reveal a little bit of the flaw that we should as educators all look out for which is
+00:15:22 that that does not correlate with long-term learning we'll talk about it a little bit i think
+00:15:27 well you've done some interactive stuff i mean even in your videos the awesome thing that feynman couldn't
+00:15:34 do at the time is you could since it's programmed you can like tinker like play with stuff you could
+00:15:42 take this value and change it you can like here let's take the value of this variable and change it
+00:15:48 to build up an intuition to move along a surface or to to change the shape of something i think
+00:15:53 that's almost an equivalent of you doing it yourself it's not quite there but
+00:16:01 you as a viewer yeah do you think there's some value in that interactive element yeah well so what's
+00:16:06 interesting is you're saying that and the videos are non-interactive in the sense that
+00:16:10 there's a play button and a pause button and you could ask like hey while you're programming these things why
+00:16:14 don't you program it into an interactable version that you know make it a jupyter notebook that people
+00:16:19 can play with which i should do and that like would be better i think the thing about interactives
+00:16:25 though is most people consuming them just sort of consume what the author had in mind 
+00:16:30 and that's kind of what they want like i have a ton of friends who make interactive explanations
+00:16:35 and when you look into the analytics of how people use them there's a small sliver that
+00:16:39 genuinely use it as a playground to have experiments and maybe that small sliver is actually who you're targeting and the rest don't matter
+00:16:45 but most people consume it just as a piece of like well-constructed literature that maybe you tweak with the example a
+00:16:51 little bit to see what it's getting at but in that way i do think like a video can get most of the benefits of the interactive
+00:16:59 like the interactive app as long as you make the interactive for yourself and you decide what the best narrative
+00:17:02 to spin is as a more concrete example like my process with
+00:17:08 i made this video about sir models for epidemics and it's like this agent-based bottling
+00:17:12 thing where you tweak some things about how the epidemic spreads and you want to see how that affects
+00:17:19 its evolution my my  format for making that was very different than others where rather than scripting it
+00:17:23 ahead of time i just made the playground and then i played a bunch
+00:17:27  and then i saw what stories there were to tell within that yeah that's cool so your video had
+00:17:33 that kind of structure it had  like five or six stories or whatever it was and like it was basically okay here's a
+00:17:41 simulation here's a model what can we discover with this model and here's five things i found after
+00:17:48 playing with it well because here the thing is a way that you could do that project is
+00:17:52 you make the model and then you put it out and you say here's a thing for the world to play with like come to my
+00:17:56 website where you interact with this thing and and people did like sort of remake it in a javascript way so that
+00:18:02 you can go to that website and you can test your own hypotheses but i think a meaningful part of the
+00:18:08 value to add is not just the technology but to give the story around it as well and like that's kind of my job it's not
+00:18:13 just to like make the  the visuals that someone will look at it's to
+00:18:18 be the one to decide what's the interesting thing to walk through here and even though there's lots of other
+00:18:23 interesting paths that one could take that can be kind of daunting when you're just sitting there in a sandbox and
+00:18:27 you're given this tool with like five different sliders and you're told to like play and
+00:18:31 discover things it's like where do you do what do you start what are my hypotheses what should i be asking
+00:18:37 like a little bit of guidance in that direction can be what actually sparks curiosity to make someone want to
+00:18:43 imagine more about it a few videos i've seen you do i don't know how often you do it but
+00:18:49 there's almost a tangential like pause where you here's a cool thing you say like here's a cool thing
+00:18:55 but it's outside the scope of this video essentially but i'll leave it to you as homework essentially to like figure out it's a
+00:19:02 cool thing to explore i wish i could say that wasn't a function of laziness
+00:19:07 right and that's like you've worked so hard on  making the 20 minutes already that to extend it out even further it
+00:19:11 would take more time and one of your cooler videos the homomorphic like from the mobius strip to the
+00:19:19 described rectangle yeah that's the super and you're like yeah you can't  you can't transform the
+00:19:28 mobius strip into  into a surface without it intersecting itself but i'll leave it to you to to see why
+00:19:37 that is i hope that's not exactly how i phrase it because i think what my hope would be
+00:19:41 is that i leave it to you to think about why you would expect that to be true
+00:19:47 and then to want to know what aspects of a mobius strip do you want to formalize such that you can prove that intuition
+00:19:51 that you have because at some point now you're starting to invent
+00:19:58 algebraic topology if  you have these vague instincts like i want to get this mobius strip i want
+00:20:02 to fit it such that it's all above the plane but its boundary
+00:20:08 sits exactly on the plane i don't think i can do that without crossing itself but that feels really vague how do i
+00:20:12 formalize it and as you're starting to formalize that that's what's going to get you to try to
+00:20:17 come up with a definition for what it means to be orientable or not orientable and like once you have that motivation a
+00:20:22 lot of the otherwise arbitrary things that are sitting at the very beginning of a topology
+00:20:26 textbook start to make a little more sense yeah and i mean that that whole video beautifully was a motivation for
+00:20:32 topology is cool that was my well my hope with that is i feel like topology is i don't want to
+00:20:37 say it's taught wrong but i do think sometimes it's popularized in the wrong way where  you know you'll hear these
+00:20:44 things of people saying oh topologists they're very interested in surfaces that you can bend and stretch but you can't cut
+00:20:52 or glue are they why yeah there's all sorts of things you can be interested in with random like imaginative
+00:20:57 manipulations of things is that really what like mathematicians are into and the short answer is not not really that's
+00:21:05  it's not as if someone was sitting there thinking like i wonder what the properties of clay are
+00:21:10 if i had some arbitrary rules about what when i can't cut it and when i can't glue it instead it's
+00:21:16 there's a ton of pieces of math that can actually be equivalent to like these very general structures
+00:21:23 that's like geometry except you don't have exact distances you just want to maintain a notion of closeness
+00:21:27 and once you get it to those general structures constructing mappings between them translate into non-trivial facts about
+00:21:34 other parts of math and that i just i don't think that's actually pub like popularized um
+00:21:40 i don't even think it's emphasized well enough when you're starting to take a topology class
+00:21:43 because you kind of have these two problems it's like either it's too squishy you're just talking about coffee
+00:21:47 mugs and donuts or it's a little bit too rigor first and you're talking about
+00:21:53 the axiom systems with open sets and an open set is not the opposite of closed set so sorry about that everyone
+00:21:59 we have a notion of clopin sets for ones that are both at the same time yeah and
+00:22:05 just it's not it's not an intuitive axiom system in comparison to other fields of math
+00:22:08 so you as the student like really have to walk through mud to get there and you're constantly confused about how
+00:22:13 this relates to the beautiful things about coffee mugs and mobius strips and such and it takes a
+00:22:18 really long time to actually see that like c topology in the way that mathematicians see topology
+00:22:23 but i don't think it needs to take that time i think there's this is making me feel like i need to
+00:22:28 make more videos on the topic because i think you do but you know i've also seen it in my narrow view
+00:22:35 of  like i'm i find game theory very beautiful and i know topology has been used  elegantly to prove things in game theory yeah you
+00:22:43 have like facts that seem very strange like i could tell you you stir your coffee and after you stir
+00:22:48 it and like let's say all the molecules settle to like not moving again one of the molecules will be basically
+00:22:53 in the same position it was before you have all sorts of fixed point theorems like this right
+00:22:58 that kind of fixed point theorem directly relevant to nash equilibriums right um
+00:23:03 so you can imagine popularizing it by describing the coffee fact but then you're left to wonder like who cares
+00:23:08 about if a molecule of coffee like stays in the same spot is this what we're paying our mathematicians for
+00:23:13 you have this very elegant mapping onto economics in a way that's very concrete or very i shouldn't say concrete very 
+00:23:19 tangible like actually adds value to people's lives through the predictions that it makes
+00:23:25 but that line isn't always drawn because like you have to get a little bit technical in order to
+00:23:31 properly draw that line out and often i think popularized forms of media just shy away from being
+00:23:37 a little too technical for sure oh by the way for people who are watching the video i do not condone
+00:23:42 the message and this mug it's the only one i have which is this the snuggle is real
+00:23:48 by the way for anyone watching i do condone the message of that mug the struggle the snuggle is real okay so you mentioned
+00:23:58 the sir model i think there are certain ideas there of growth of exponential
+00:24:05 growth what maybe have you learned about pandemics from from making that video
+00:24:12 because it was kind of exploratory you were kind of building up an intuition and it's again people should watch the
+00:24:19 video it's kind of an abstract view it's not really modeling in detail the whole field of epidemiology
+00:24:28 those those people they go really far in terms of modeling like how people move about i don't know if you've seen
+00:24:34 it but like they're it's really their mobility patterns like how like they try like how many people
+00:24:39 you encounter in certain situations when you go to a school when you go to a mall
+00:24:45 they like model every aspect of that for a particular city like they have maps of actual city streets they model it
+00:24:52 really well and natural patterns of the people have it's crazy so you don't do any of that
+00:24:56 you're just doing an abstract model to explore different ideas i'm an epidemiologist like we have a ton
+00:25:04 of armchair epidemiologists and the spirit of that was more like  can we through a little bit of play 
+00:25:12 draw like reasonable-ish conclusions and also just like  get ourselves in a position where we can
+00:25:19 judge the validity of a model like i think people should look at that and they should criticize it they should
+00:25:22 point to all the ways that it's wrong because it's definitely naive right in the way that it's set up but
+00:25:27 to say like what what lessons from that hold like thinking about the are not value and
+00:25:32 what that represents and what it can imply or not so are not is if you are infectious and you're in a
+00:25:39 population which is completely susceptible what's the average number of people that you're
+00:25:44 going to infect during your infectiousness so certainly during the beginning of
+00:25:50 an epidemic this basically gives you kind of the exponential growth rate like if every
+00:25:55 person infects two others you've got that one two four eight exponential growth pattern as it goes
+00:26:00 on and let's say it's something  endemic where you've got like a ton of people
+00:26:06 who have had it and are recovered then  you would the r naught value
+00:26:12 doesn't tell you that as directly because a lot of the people you interact with aren't susceptible
+00:26:17 but in the early phases it does and this is like the fundamental constant that it seems like epidemiologists look
+00:26:21 at and you know the whole goal is to get that down if you can get it below one then
+00:26:26 it's no longer epidemic if it's equal to one then it's endemic and it's above one then you're epidemic
+00:26:33 so  like just teaching what that value is and giving some intuitions on how do certain changes in behavior
+00:26:39 change that value and then what does that imply for exponential growth i think those are general enough
+00:26:44 lessons and they're like resilient to all of the chaoses of the world
+00:26:51 that it's still like valid to take from the video i mean one of the interesting aspects of that is just exponential
+00:26:56 growth and we think about growth is that one of the first times you've done a video on
+00:27:06 on  no of course not the whole  oilers identity okay so sure i've done a lot of videos about exponential growth
+00:27:12 in the circular direction  only minimal in the normal direction i mean
+00:27:18 another way to ask like do you think we're able to reason intuitively about exponential growth
+00:27:26 it's it's funny i think it's i think it's extremely intuitive to humans and then we train it out of ourselves
+00:27:32 such that it's then really not intuitive and then i think it can become intuitive again when you study a technical field
+00:27:38  so what i mean by that is have you ever heard of these studies where in a  like anthropological
+00:27:43 setting where you're studying a group that has been disassociated from a lot of like modern society and you ask
+00:27:51 what number is between one and nine and maybe you would ask you you've got like one rock and you've
+00:27:55 got nine rocks you're like what pile is halfway in between these and our instinct is usually to say five
+00:28:00 that's the number that sits right between one and nine but sometimes when  numeracy and 
+00:28:07 the kind of just basic arithmetic that we have isn't in a society the natural instinct is three because it's
+00:28:13  in between in an exponential sense and a geometric sense that one is three times bigger and then the
+00:28:18 next one is three times bigger than that so it's like what's you know if you have one friend versus a hundred friends
+00:28:23 what's in between that yeah ten friends seems like the social status in between those two
+00:28:27 states so that's like deeply intuitive to us to think logarithmically like that and for some reason we kind of train
+00:28:34 it out of ourselves to start thinking linearly about things so in the sense yeah the early early basic math
+00:28:42 is  yeah it forces us to take a step back it's it's the same criticism if there's any of science
+00:28:50 is the lessons of science make us like see the world in a slightly narrow sense
+00:28:57 to where we we have an over-exaggerated confidence that we understand everything as opposed to just understanding a small
+00:29:03 slice of it but i think that probably only really goes for small numbers because the real
+00:29:08 counterintuitive thing about exponential growth is like as the numbers start to get big
+00:29:12 so i bet if you took that same setup and you asked them oh if i keep tripling the size of this rock pile you know um
+00:29:18 seven times how big will it be i bet it would be surprisingly big even to like an
+00:29:23 a society without numeracy and that's the side of it that i think is pretty counter-intuitive
+00:29:28 to us  but that you can basically train into people like i think computer scientists
+00:29:33 and physicists when they're looking at the early numbers of like
+00:29:38 kovid were they were the ones thinking like oh god this is following an exact exponential curve
+00:29:44 yeah and i heard that from a number of people  so it's and almost all of them are
+00:29:48 like techies in some capacity probably just because i like live in the bay area but but for sure
+00:29:55 they're cognizant of this kind of this kind of growth is present in a lot of natural systems and a lot of
+00:30:01 in a lot of in a lot of systems  i don't know if you've seen like i mean there's a lot of ways to visualize this
+00:30:04 obviously but ray kurzweil i think was the one that had this like chess board
+00:30:12 where every every square in the chessboard you double the number of stones or something in that chessboard
+00:30:18 i've heard this is like an old proverb where you know someone the king offered him a gift and he said  the only gift
+00:30:24 i would like very modest give me a single grain of rice right so the first chessboard and then
+00:30:29 two grains of rice for the next square then twice that for the next square and just continue on that's my only modest ask
+00:30:34 you're sire yeah and like then it's all you know more grains of rice than there are
+00:30:40  anything in the world by the time you get to the end and i i my intuition falls apart there like i
+00:30:46 would have never predicted that like for some reason that's a really compelling  illustration how poorly breaks down
+00:30:55 just like you said maybe we're okay for the first few piles but of rocks but after a while it's
+00:31:01 game over you know the other classic example for gauging someone's intuitive understanding of exponential growth
+00:31:08 is  i've got like a lily pad on a on lake really big lake okay like lake michigan and that lily
+00:31:14 pad replicates it doubles one day and then it doubles the next day and it doubles the next day
+00:31:20 and after 50 days it actually is going to cover the entire lake okay so after how many days does it
+00:31:27 cover half the lake 49. so you you have a good instinct for exponential growth right
+00:31:33 so i think a lot of  like the knee-jerk reaction is sometimes to think that it's like
+00:31:37 half the amount of time or to at least be like surprised that like after 49 days you've only
+00:31:42 covered half of it yeah i mean that's the reason you heard a pause from me
+00:31:48 i literally thought that can't be right right yeah exactly exactly so even when you know the fact and you
+00:31:52 do the division it's like wow so you've gone like that whole time and then day 49 it's only covering half
+00:31:58 and then after that it gets the whole thing but i think you can make that even more visceral if rather than going one day
+00:32:03 before you say how long until it's covered one percent of the lake right and it's
+00:32:08  so what would that be how many times you have to double to get over a hundred like seven six and a half
+00:32:13 times something like that right so at that point you're looking at 43 44 days into it you're not even at one
+00:32:19 percent of the lake so you've you've experienced you know 44 out of 50 days and you're like ah that
+00:32:24 lilly bad it's just one percent of the lake but then next thing you know it's the entire lake
+00:32:30 are you wearing a spacex sure so let me ask you sure let me ask you one one person  who
+00:32:34 talks about exponential you know just the miracle of the exponential function
+00:32:42 in general is elon musk so he kind of advocates the idea of exponential thinking you
+00:32:51 know realizing that technological development can at least in the short term
+00:32:57 follow exponential improvement which breaks apart our intuition our ability to reason about
+00:33:02 what isn't isn't impossible so he's a big one it's a good leadership kind of style of saying like
+00:33:09 look the thing that everyone thinks is impossible is actually possible because exponentials but
+00:33:17 what what's your sense about about that kind of way to see the world well so i think it's it can be very inspiring
+00:33:25 to note when something like moore's law is another great example where you have this exponential pattern that holds
+00:33:29 shockingly well and it enables just better lives to be led i think the people who took
+00:33:35 moore's law seriously in the 60s we're seeing that wow it's not going to be too long before like
+00:33:40 these giant computers that are either batch processing or time shared you could actually have one small enough
+00:33:45 to put on your desk on top of your desk and you could do things and if they took it seriously like you
+00:33:49 have people predicting smartphones like a long time ago and it's only out of like kind of this i
+00:33:55 don't want to say faith in exponentials but an understanding that that's what's happening what's more interesting i
+00:33:59 think is to really understand why exponential growth happens and that the mechanism behind it is when
+00:34:07 the rate of change is proportional to the thing in and of itself so the reason the technology would grow
+00:34:12 exponentially is only going to be if the rate of progress is proportional to the amount that you have
+00:34:18 so that the software you write enables you to write more software and i think we see this with the
+00:34:24 internet like the advent of the internet makes it faster to learn things which makes it
+00:34:29 faster to  create new things i think this is  oftentimes why like investment will grow exponentially that
+00:34:36 the more resources a company has if it knows how to use them well the more
+00:34:41  the more it can actually grow so i mean you know you reference elon musk i think he seems to really be into vertically
+00:34:47 integrating his companies i think a big part of that is because you have the sense what you want is to make sure that
+00:34:51 the things that you develop you have ownership of and they enable further development of the adjacent
+00:34:57 parts right so it's not just this you you see a curve and you're blindly drawing a line through it what's
+00:35:02 much more interesting is to ask when do you have this proportional growth property because
+00:35:07 then you can also recognize when it breaks down like in an epidemic as you approach
+00:35:12 saturation that would break down as you do anything that skews what that proportionality constant is
+00:35:18 you can make it maybe not break down as being an exponential but it can seriously slow what that exponential
+00:35:21 rate is so the opposite of a pandemic is you want in terms of ideas you want
+00:35:30 to minimize barriers that  prevent the spread you want to maximize the spread of impact so like you wanted to
+00:35:36 to grow when you're doing technological development is so that you do hold up that rate holds up
+00:35:44 and that's all that's almost like a like an operational challenge of like how you run a company how you run a
+00:35:49 group of people is that any one invention has a ripple that's unstopped
+00:35:56 and that ripple effect then has its own ripple effects and so on and that continues yeah like moore's law is fascinating and the
+00:36:04 like on a psychological level on a human level because it's not exponential it's it's just a consistent
+00:36:11 set of like what you would call like s-curves which is like it's constantly like breakthrough innovations
+00:36:18 non-stop that's a good point like it might not actually be an example of exponential because of something which
+00:36:23 grows in proportion to itself but instead it's almost like a benchmark that was set out
+00:36:28 that everyone's been pressured to meet and it's like all these innovations and micro inventions along the way rather than
+00:36:35 some consistent sit back and just let the lily pad grow across the lake phenomenon and it's also there's a human
+00:36:41 psychological level for sure of like the four-minute mile like it's there's something about it like
+00:36:46 saying that look there is you know moore's law it's a law so like it's  it's
+00:36:56 certainly an achievable thing you know we've achieved it for the last decade the last two decades the last
+00:37:02 three decades you just keep going and it somehow makes it happen i mean it makes people
+00:37:08 i'm continuously surprised in this world how few people do the best work in the world
+00:37:15 like in that particular whatever that field is like it's very often that like the genius
+00:37:24 i mean you couldn't argue that community matters but it's certain like i've been in groups of engineers where
+00:37:28 like one person is clearly like doing an incredible amount of work
+00:37:35 and just is the genius and it's fascinating to see basically it's kind of the steve jobs
+00:37:43 idea is maybe the whole point is  to create an atmosphere where the genius can discover themselves like
+00:37:51 like have the opportunity to do the best work of their life and yeah and that the exponential is
+00:37:57 just milking that it's like rippling the idea that it's possible and that idea that it's possible finds
+00:38:04 the right people for the four minute mile the idea that it's possible finds the right runners to run it
+00:38:10 and then expose the number of people who can run faster than four minutes it's kind of interesting to i don't know
+00:38:16 basically the positive way to see that is most of us are way more intelligent have way more
+00:38:22 potential than we ever realize i guess that's kind of depressing but i mean like the ceiling for most of us is
+00:38:28 much higher than we ever realized that is true a a good book to read if you want that sense is peak
+00:38:34 which essentially talks about peak performance in a lot of different ways like you know
+00:38:38 chess london cab drivers of how many push-ups people can do short-term memory tasks and if there's one it's meant to be like
+00:38:46 a concrete manifesto about deliberate practice and such but the one sensation you come out with is
+00:38:51 wow no matter how good people are at something they can get better and like way better than we think they could
+00:38:57 i don't know if that's actually related to exponential growth but i do think it's a true phenomenon
+00:39:02 that's interesting yeah i mean there's certainly no law of exponential growth in human
+00:39:09 innovation well i don't know well kind of there is like there's i think it's really interesting to see
+00:39:14 when innovations in one field allow for innovations in another like the advent of computing seems like
+00:39:19 a prerequisite for the advent of chaos theory you have this truth about physics and the world that
+00:39:25 in theory could be known you could find lorenz's equations without computers but in practice it was just never going
+00:39:31 to be analyzed that way unless you were doing like a bunch of simulations and that you could
+00:39:36 computationally see these models so it's like physics allowed for computers computers allowed for better physics
+00:39:43 and you know wash rinse and repeat that self-proportionality that's exponential so i think
+00:39:48 i wouldn't i don't think it's too far to say that that's a law of some kind yeah a fundamental law of the universe
+00:39:54 is that these descendants of apes will exponentially improve their technology
+00:40:02 and one day take be taken over by the agi that's some that's built in this similar they'll make the video game fun whoever
+00:40:08 created this thing  so i mean since you're wearing a space actually let me let me ask  so
+00:40:17 i didn't realize that i apologize yeah so crew dragon the first  crude mission out into space
+00:40:29 since the the space shuttle and just by first time ever by a commercial company i mean
+00:40:36 it's an incredible accomplishment i think but it's also just an incredible it inspires imagination amongst people
+00:40:45 that this is the first step in a long like vibrant journey of humans into space
+00:40:52 oh yeah so what do you what are your how do you feel is this you know is this exciting to you yeah it
+00:40:57 is i think it's great the idea of seeing it basically done by smaller entities instead of by governments i mean it's a
+00:41:02 it's a heavy collaboration between spacex and nasa in this case but moving in the direction of not necessarily
+00:41:08 requiring an entire country and its government to make it happen but that you can have  something
+00:41:14 closer to a single company doing it we're not there yet because it's not like they're
+00:41:18 unilaterally saying like we're just shooting people up into space it's just a sign that we're able to do
+00:41:23 more powerful things with smaller groups of people  i find that inspiring innovate quickly
+00:41:30 i hope we see people land on mars in my lifetime do you think we will i think so i mean i think there's a ton
+00:41:36 of challenges there right like radiation being kind of the biggest one and i think there's a
+00:41:39 ton of people who  look at that and say why why would you want to do that
+00:41:45 let's let the robots do the science for us but i think there's enough people who are like genuinely
+00:41:50 inspired about broadening like the worlds that we've touched or people who think about things like
+00:41:55 backing up the light of consciousness with like super long-term visions of terraforming like as long as
+00:41:59 there's backing up the light of consciousness yeah yeah the thought that  you know if we if earth goes to hell we
+00:42:06 gotta have a backup somewhere a lot of people see that as pretty out there and it's like not in the short
+00:42:11 term future but i think that's an inspiring thought i think that's a reason to like get up in
+00:42:14 the morning and i feel like most employees at spacex feel that way too
+00:42:21 do you think we'll colonize mars one day no idea like either agi kills us first or if we're like allowed i don't know if
+00:42:26 it'll take loud well like honestly it takes it would take such a long time
+00:42:31 like okay you might have a small colony right something like what you see in the martian but not like people living
+00:42:40 comfortably there but if you want to talk about actual like second earth kind of
+00:42:46 stuff that that's just like way far out there and the future moves so fast that it's hard to predict like we might just
+00:42:52 kill ourselves before that even becomes viable i yeah i mean there's there's a lot of possibilities where it could be
+00:42:58 just it doesn't have to be on a planet we could be floating out in space have  have a have a space faring
+00:43:06 backup solution that doesn't have  that doesn't have to deal with the constraints at a planet but i mean a
+00:43:11 planet provides a lot of possibilities and resources but also some constraints yeah i mean
+00:43:18 for me for some reason it's a deeply exciting possibility oh yeah all of the people who are like skeptical
+00:43:24 about it or like why why do we care about going to mars it's like what makes you care about
+00:43:28 anything that's not inspiring it's hard actually it's hard to hear that because
+00:43:34 exactly as you put it on a philosophical level it's hard to say why do anything i don't know it's
+00:43:43 you know i've been doing like an insane challenge last 30 something days your pull-ups and to pull up some
+00:43:50 push-ups and like you know a bunch of people are like awesome you're insane but awesome
+00:43:59 and then some people are like why why do anything i i don't know at this there's a calling it's 
+00:44:07 i i'm with jfk a little bit is because we do these things because they're hard there's something in the human spirit
+00:44:12 that says like same with like a math problem there's something you fail once
+00:44:19 and it's like this feeling that you know what i'm not going to back down from this there's something to be discovered in
+00:44:24 overcoming this thing well so what i like about it is and i also like this about the moon missions
+00:44:30 sure is kind of arbitrary but you can't move the target so you can't make it easier and say that
+00:44:36 you've accomplished the goal and when that happens it just demands actual innovation right like protecting humans from the radiation
+00:44:44 in space on the flight there while there heart problem demands innovation you can't move the
+00:44:49 goal post to make that easier almost certainly the innovations required for things like that will be
+00:44:53 relevant in a bunch of other domains too so like the idea of doing something merely because it's hard
+00:44:59 it's like loosely productive great but as long as you can't move the goal posts there's probably going to be these
+00:45:05 secondary benefits that like we should all strive for yeah i mean it's hard to formulate the mars
+00:45:12 colonization problem as something that has a deadline which is the problem but if there was a deadline
+00:45:20 then the amount of things we would come up with by forcing ourselves to figure out how
+00:45:25 to colonize that place would be just incredible this is what people like the internet
+00:45:33 didn't get created because people sat down and tried to figure out how do i 
+00:45:39 you know  send tick tock videos of myself dancing to people they you know it was there's an application
+00:45:46 i mean actually i don't even know what do you think the application for the internet was when it was
+00:45:51 it must have been very low level basic network communication within darpa like military based like how do i send
+00:45:59 like a networking how do i send information securely between two places maybe it was an encryption
+00:46:05 i'm totally speaking totally outside of my knowledge but like it was probably intended for a very
+00:46:10 narrow small group of people well so i mean it was there was like this small community of people who are
+00:46:14 really interested in time sharing computing and like interactive computing in contrast with  batch processing
+00:46:21 and then the idea that as you set up like a time sharing center  basically meaning you have multiple
+00:46:26 people like logged in and using that like central computer why not make it accessible to others
+00:46:31 yeah and this was kind of what i had always thought like oh is this like fringe group that was interested in this
+00:46:35 new kind of computing and they all like got themselves together but the thing is like darpa wouldn't act
+00:46:41 you wouldn't have the us government funding that just for the funds of it right in some sense that's what arpa was
+00:46:46 all about was  like just really advanced research for the sake of having advanced research
+00:46:51 and it doesn't have to pay out with utility soon but the core parts of its development were happening
+00:46:57 like in the middle of the vietnam war when there was budgetary constraints all over the place
+00:47:02  i only learned this recently actually like if you look at the documents basically justifying the budget for
+00:47:10 the arpanet as they were developing it and not just keeping it where it was but actively
+00:47:14 growing it while all sorts of other departments were having their funding cut because of the war a big part of it was
+00:47:21 national defense in terms of having like a more robust communication system like the idea of packet switching versus
+00:47:27 circuit switching you could kind of make this case that in some calamitous circumstance where
+00:47:31 you know a central location gets nuked  this is a this is a much more resilient way to still have your
+00:47:36 communication lines that like traditional telephone lines weren't as resilient to which i just
+00:47:43 found very interesting that that even something that we see is so happy-go-lucky is just a bunch of
+00:47:49 computer nerds trying to get like interactive computing out there the actual like thing that made it 
+00:47:55 funded and thing that made it advance  when it did was because of this direct national security
+00:48:01 question and concern i don't know if you've read it i haven't read it i've been meaning to read it but neil
+00:48:06 degrasse tyson actually came out with a book that talks about like science and the context of the military like basically saying
+00:48:14 all the great science we've done in the in the 20th century was like because of the military i mean
+00:48:19 he paints a positive it's not like a critical it's not you know a lot of people say like military
+00:48:25 industrial complex and so on another way to see the military and national security is like a source of
+00:48:30 like you said deadlines and like hard things you can't move like almost
+00:48:36 you know almost like scaring yourself into being productive it is that i mean manhattan project is a
+00:48:41 perfect example probably the quintessential example that one  is a little bit more macabre than
+00:48:47 others because of like what they were building but in terms of how many focused smart hours of human intelligence get pointed towards
+00:48:57 a topic per day you're just maxing it out with that sense of worry in that context everyone there was saying like we've got
+00:49:02 to get the bomb before hitler does and that like that just lights a fire under you that
+00:49:08 i again like the circumstances macabre but i think that's actually pretty healthy especially for researchers that are
+00:49:13 otherwise going to be really theoretical to take these like theorizers and say make this real physical thing happen
+00:49:19 meaning a lot of it is going to be unsexy a lot of it's going to be like young firemen sitting there kind of inventing
+00:49:27 a notion of computation in order to like compute what they needed to compute more quickly with like the rudimentary
+00:49:34 automated tools that they had available i think you see this with bell labs also where you've got
+00:49:39 otherwise very theorizing minds in very pragmatic contexts that i think is like really helpful for
+00:49:43 the theory as well as for the applications  so i think that stuff can be positive for progress you mentioned bell
+00:49:52 labs and manhattan project this kind of makes me curious for the things you've
+00:49:58 create which are quite singular like if you look at all youtube or just not youtube it doesn't matter
+00:50:04 what it is it's just teaching content art doesn't matter it's like yup that's that's grant right that's unique i know
+00:50:15 your teaching style and everything does it manhattan project and bell labs was like famously a lot of
+00:50:22 brilliant people but there's a lot of them they play off of each other so like my question for you is that does it get lonely
+00:50:31 honestly that right there i think is the biggest part of my life that i would like to
+00:50:36 change in some way that  i i look at a bell labs type situation and i'm like god damn i love that
+00:50:41 whole situation and i'm so jealous of it and you're like reading about hamming and then you see that he also shared an
+00:50:46 off with with shannon and you're like of course he did of course they shared an office that's how these ideas get like
+00:50:52 and they actually very likely worked separately yeah totally fine totally separate but there's a literally
+00:50:57 i'm sorry to interrupt there's a literally magic that happens when you run into each other
+00:51:04 like on the way to like get getting a snack or something conversations you overhear it's other projects you're pulled into
+00:51:09 it's like puzzles that colleagues are sharing like all of that i i have some extent of it just
+00:51:15 because i just try to stay well connected in communities of  people who think in
+00:51:19 similar ways but it's not it's not in the day-to-day in the same way
+00:51:25 which i would like to fix somehow that's one of the i would say  one of the biggest well
+00:51:33  one of the many drawbacks negative things about this current pandemic
+00:51:40 is that  whatever the term is but like chance collisions are significantly reduced i i saw um
+00:51:47 i don't know why i saw this but on my on my brother's work calendar  he had a scheduled slot with someone
+00:51:54 that he scheduled a meeting and the the title of the whole meeting was no specific agenda i just missed the
+00:52:00 happenstance serendipitous conversations that we used to have which the pandemic and remote work has so
+00:52:05 cruelly taken away from us brilliant that was the only title of the match i'm like that's the way to do it
+00:52:11 you just schedule those things schedule the serendipitous interaction it's like i mean you can't do an
+00:52:16 academic setting but it's basically like going to a bar and sitting there just for the strangers
+00:52:20 you might meet just the strangers or striking up a conversation with strangers on the train
+00:52:29 harder to do when you're deeply like maybe myself or maybe a lot of academic types
+00:52:36 who are like introverted and avoid human contact as much as possible so it's nice when it's forced those
+00:52:41 chance collisions but maybe scheduling is a possibility but for the most part do you
+00:52:49 work alone like i'm sure you struggle like a lot like like this like this you probably hit moments when
+00:52:57 you you look at this and you say like this is the wrong way to show it it's a long way to visualize it
+00:53:03 i'm making it too hard for myself i'm going down the wrong direction this is too long this is too short
+00:53:09 all those self-doubt that's like could be paralyzing okay what do you do in those honestly
+00:53:17 i actually much prefer like work to be a solitary affair for me that's like a personality quirk
+00:53:21 i would like it to be in an environment with others and like collaborative in the sense of ideas exchanged
+00:53:25 but those phenomena you're describing when you say this is too long this is too short this visualization sucks
+00:53:31 it's way easier to say that to yourself than it is to say to a collaborator and i know that's just a thing that
+00:53:37 i'm not good at so in that way it's it's very easy to just throw away a script because the script
+00:53:40 isn't working it's hard to tell someone else they should do the same actually last time we
+00:53:45 talked i think it was like very close to me talking don knuth it was kind of cool
+00:53:50 like two people that yes you got that interview yeah it's the heart hit  no can i brag
+00:53:55 about something please  my favorite thing is don knuth after he did the interview
+00:54:02 he offered to go out to hot dogs with me to get hot dogs that was never like people ask me what's
+00:54:07 the favorite interview you've ever done man that has to be but unfortunately i couldn't i had a thing
+00:54:14 after so i had to turn down don knuth you missed knuth dogs canoe dogs sorry so that was a little
+00:54:19 bragging but the the hot dog is such a sweet so but the reason i bring that up is he
+00:54:27 he works through problems alone as well he prefers that struggle the struggle of it you know
+00:54:36 writers like stephen king you know often talk about like their process of you know what they do like what they eat
+00:54:42 when they wake up like  when they sit down like how they like their desk
+00:54:49 you know on a on a perfectly productive day like what they like to do how long they like to work for
+00:54:56 what enables them to think deeply all that kind of stuff hunter s thompson did a lot of drugs 
+00:55:01 you know everybody has their own thing  what's do you have a thing is there if you were to lay out a perfect
+00:55:09 productive day what would that schedule look like do part of that's hard to answer because i
+00:55:18 like the mode of work i do changes a lot from day to day like some days i'm writing the thing i have to do is write
+00:55:23 a script some days i'm animating the thing i have to do is animate sometimes i'm like working on the
+00:55:27 animation library the thing i have to do is like a little i'm not a software engineer but
+00:55:31 something in the direction of software engineering some days it's like a variant of research it's like learn this topic well
+00:55:37 and try to learn it differently so those is like four very different modes of what it
+00:55:42 some days is like get through the email backlog of people i've been the tasks i've been putting off it
+00:55:48 goes research scripting like the idea starts with the research and then there's scripting
+00:55:53 and then there's programming and then there's the  show time and the research side by the
+00:55:58 way like what's i think a problematic way to do it is to say i'm starting this project
+00:56:03 and therefore i'm starting the research instead it should be that you're like ambiently learning a ton of things
+00:56:09 just in the background and then once you feel like you have the understanding for one you put it on the list of things that
+00:56:15 there can be a video for otherwise either you're gonna end up roadblocked forever or you're just not gonna
+00:56:21 like have a good way of talking about it but still some of the days it's like the thing to do is learn new things
+00:56:26 so what's the most painful one i think you mentioned scripting scripting is yeah that's the worst yeah
+00:56:32 right writing is the worst so what's your on a perfectly so let's take the hardest one what's a perfectly productive day
+00:56:39 you wake up and it's like damn it this is the day i need to do some scripting and like you didn't do anything last two
+00:56:44 days so you came up with excuses to procrastinate so today must be the day yeah i  i wake up early i i guess i exercise
+00:56:58 if we're writing yeah that's that's what's required is having the internet off and then
+00:57:02 maybe you keep notes on the things that you want to google when you're allowed to have the internet again
+00:57:06 i'm not great about doing that but when i do  that makes it happen and then when i hit writer's block
+00:57:11 like the solution to writer's block is to read it doesn't even have to be related just read something different just for
+00:57:18 like 15 minutes half an hour and then go back to writing that when it's a nice cycle i think
+00:57:22 can work very well and when you when you're writing the script you don't know where it ends
+00:57:28 right like you have a like problem solving videos i know where it ends expositional videos i don't know where
+00:57:34 it ends like coming up with  with the magical thing that makes this whole story like ties this whole story together
+00:57:42 is that when does that happen that's that's the thing that makes it such that a topic gets put on the list of like
+00:57:47 oh that's an issue you shouldn't start the project unless there's one of those  and you have you have so many nice
+00:57:53 bag that you haven't such a big bag of aha moments already that you could just pull at it
+00:58:00 that's one of the things and one of the sad things about time and that nothing lasts forever
+00:58:05 and that we're all mortal let's not get into that discussion  is you know
+00:58:14 if i see like even when i ask for people to ask like ask i did a call for questions and
+00:58:19 people want to ask you questions i mean so many requests from people about like certain videos that would love you to do
+00:58:26 it's such a pile and i i think that's a that's a sign of like admiration from people for sure
+00:58:32 but it's like it makes me sad because like whenever i see them people give ideas they're all like
+00:58:38 very often really good ideas and it's like it's such a makes me sad in the same kind of way when i
+00:58:46 go through a library or through a bookstore you see all these amazing so so yeah so so you yeah gotta enjoy
+00:58:56 the ones that you have enjoy the books that are open and don't let yourself
+00:59:02 lament the ones that stay closed what else is there any other magic to that day do you try to dedicate like a certain
+00:59:08 number of hours do you   cal newport has this deep work kind of idea i'm there's systematic
+00:59:15 people who like get really on top of you know the checklist of what they're going to do in the day and they
+00:59:20 like count their hours and i am not a systematic person in that way it's which is probably a problem
+00:59:26 i very likely would get more done if i was systematic in that way but that doesn't happen so
+00:59:32 you know maybe you talk to me talk to me later in life and maybe i'll have like changed my ways and give you a
+00:59:37 very different answer i think benjamin franklin like later in life figured out the rigor
+00:59:42 he has these like very rigorous schedules and what how how to be productive i think those schedules are much
+00:59:48 more fun to write like it's very fun to like write a schedule and make a blog post about like the perfect productive day
+00:59:54 that like might work for one person but i don't know how much people get out of like reading them or trying to
+00:59:59 adopt someone else's style and i'm not even sure that they've ever followed yeah exactly you're always going to
+01:00:05 write it as the best version of yourself you're not going to explain the phenomenon of like wanting to get out of
+01:00:11 the bed but not really wanting to get out of bed and all of that and just like zoning out
+01:00:15 for random reasons or or the one that people probably don't touch at all is
+01:00:22 i try to check social media once a day but i'm like only so i post and that's it when i
+01:00:28 post i checked the previous days that's like my what i try to do  that's what i do like 90 of the days but
+01:00:35 then i'll go i'll have like a two week period where it's just like i'm checking the internet like i mean it's some
+01:00:43 probably some scary number of times and i think a lot of people can resonate with that i think it's a legitimate
+01:00:48 addiction it's like it's a dopamine addiction and it's i don't know if it's a problem
+01:00:53 because as long as it's the kind of socializing like if you're actually engaging with friends and engaging with
+01:00:57 other people's ideas  i think it can be really useful well i don't know so like
+01:01:04 for sure i agree with you but i'm it's a it's definitely an addiction because for me i think it's true for a
+01:01:09 lot of people i am very cognizant of the fact i just don't feel that happy
+01:01:16 if i look at a day where i've checked social media a lot like if i just aggregate i did a
+01:01:22 self-report i'm sure i would find that i'm just like literally on like less happy with my life
+01:01:29 and myself after i've done that check when i check it once a day i'm very like i'm happy
+01:01:36 even like because i've seen it okay one way to measure that is when somebody says something not nice to you on the internet
+01:01:44 it's like when i check it once a day i'm able to just like like i smile like like i virtually i
+01:01:49 think about them positively empathetically i send him love i don't don't ever respond but i just feel
+01:01:55 positively about the whole thing if i check if i check like more than that it starts eating at me like it start
+01:02:04 there's an eating thing that that happens like anxiety  it occupies a part of your mind
+01:02:10 that's not doesn't seem to be healthy same with i mean you you put stuff out on youtube
+01:02:17 i think it's important i think you have a million dimensions that are interesting to you but
+01:02:22 yeah one one of the interesting ones is the study of education and the psychological aspect
+01:02:28 of putting stuff up on youtube i like now have completely stopped checking statistics of any kind i've released an
+01:02:36 episode  100 with my dad conversation with my dad he checks
+01:02:44 he's probably listening to this stop he checks the number of views on his on his video
+01:02:50 on his conversation so he discovered like a reason he's new to this whole addiction and he just checks and he like he'll
+01:03:00 dawkins yeah so he's  oh can i tell you a funny story in that effect of like
+01:03:10 parental use of youtube  early on in the channel  my mom would like text me she's like
+01:03:18  the chat the channel has had 990 000 views the channel's had 991 thousand views i'm like oh that's cute she's going to the
+01:03:23 little part on the about page where you see the total number of channel views no she didn't know about that she had
+01:03:28 been going every day through all the videos and then adding them up
+01:03:33 adding them up and she thought she was like doing me this favor of providing me this like global analytic that
+01:03:39  otherwise wouldn't be visible it's just like this addiction where you have some number you want to follow
+01:03:44 and then like yeah it's funny that your dad had this i think a lot of people have it i think that's
+01:03:48 probably a beautiful thing for like parents because they're legitimately they're proud
+01:03:55 yeah they're yes it's born of love it's great the downside i feel one one of them is this is one
+01:04:03 interesting experience that you probably don't know much about because comments on your videos are super
+01:04:08 positive  but people judge the quality of how something went
+01:04:14 like i see that with these conversations by the comments yeah like i'm not talking about like
+01:04:21 you know people in their 20s and their 30s i'm talking about like ceos of major companies who don't have time they basically they literally
+01:04:31 this is their evaluation metric they're like oh the comments seem to be positive that's really concerning to me most
+01:04:37 important lesson for any content creator to learn is that the commenting public is not representative of the actual public
+01:04:44 and this is easy to see ask yourself how often do you write comments on youtube videos most people will realize i never do it
+01:04:50 some people realize they do but the people who realize they never do it should understand that that's a sign
+01:04:55 the kind of people who are like you aren't the ones leaving comments and i think this is important a number
+01:05:01 of respects like  in my case i think i would think my content was better than it was
+01:05:05 if i just read comments because people are super nice the thing is the people who are bored by it are
+01:05:10 are put off by it in some way or frustrated by it usually they just go away they're
+01:05:14 certainly not going to watch the whole video much less leave a comment on it so there's a huge
+01:05:19 under-representation of like negative feedback like well-intentioned negative feedback because very few
+01:05:23 people actively do that like watch the whole thing that they dislike figure out what they disliked articulate
+01:05:28 what they dislike there's plenty of negative feedback that's not well-intentioned but
+01:05:34 for like that golden kind i think a lot of youtuber friends i have  at least have gone through phases of like anxiety about
+01:05:43 the nature of comments that stem from basically just this that it's like people who aren't necessarily
+01:05:48 represented who they were going for or misinterpreted what they're trying to say or whatever have you or
+01:05:53 we're focusing on things like personal appearances as opposed to like substance and they come away thinking like oh that's what
+01:05:59 everyone thinks right that's what everyone's response to this video was but a lot of the people
+01:06:04 who had the reaction you wanted them to have like they probably didn't write it down so very important to learn it also 
+01:06:12 translates to realizing that you're not as important as you might think you are right because
+01:06:16 all of the people commenting are the ones who love you the most and are like really asking you to like create certain
+01:06:21 things or like mad that you didn't create like a past thing i don't i have such a problem
+01:06:27 like i have a very real problem with making promises about a type of content that i'll make and then
+01:06:32 either not following up on it soon or just like never following up on it yeah you actually last time we talked i think
+01:06:38 prom i'm not sure promised to me that you'll have music incorporated into your like  i'll share with you a private
+01:06:44 link but so there's an example of like what i had in mind i like did a version of it
+01:06:49 and i'm like i think there's a better version of this that might exist one day so it's now on the like the back burner
+01:06:56 it's like it's sitting there it was like a live performance at this one thing i think next next circumstance
+01:07:00 that i'm like doing another recorded live performance that like fits having that then in a better
+01:07:05 recording maybe i'll make it nice and public maybe a while but exactly right the point i was
+01:07:10 gonna make though is like i know i'm bad about following up on stuff  which is an actual problem it's born
+01:07:16 of the fact that i have a sense of what will be like good content when it won't be
+01:07:21 but this can actually be incredibly disheartening because a ton of comments that i see
+01:07:26 are people who are like  frustrated usually in a benevolent way that like i haven't followed through on like x and
+01:07:31 x which i get and i should do that but what's comforting thought for me is that when there's a topic i
+01:07:37 haven't promised but i am working on and i'm excited about it's like the people who would really
+01:07:41 like this don't know that it's coming and don't know to like comment to that effect and like the
+01:07:45 commenting public that i'm seeing is not representative of like who i think this other project will
+01:07:50 touch meaningfully yeah so focus on the future on the thing you're creating now just like the  yeah the art of it one
+01:07:57 of the people is really inspiring to me in that regard because i've really seen it
+01:08:04 in persons joe rogan he doesn't read comments but not just that he doesn't give a damn he like legitimate
+01:08:14 he's not like clueless about it he's like just like the richness and the depth of a smile he has
+01:08:20 when he just experiences the moment with you like offline you can tell he doesn't give a damn
+01:08:25 about like like about anything about what people think about whether if it's on a podcast
+01:08:32 you talk to him or whether offline about just it's not there like what other people think
+01:08:40 how how  even like what the rest of the day looks like it's just deeply in the moment  or like
+01:08:46 especially like is is what we're doing gonna make for a good instagram photo or something like that
+01:08:54 it doesn't think like that at all it's i think for actually quite a lot of people he's an inspiration in that way
+01:08:58 but it was and in real life a show that you can be very successful
+01:09:06 not giving a damn about about comments and it sounds it sounds bad not to read comments because it's like
+01:09:13 well there's a huge number of people who are deeply passionate about what you do so you're what ignoring them but at the
+01:09:18 same time the nature of our platforms is such that the cost of listening to all the
+01:09:26 positive people who are really close to you who are incredible people have been you know
+01:09:31 made a great community that you can learn a lot from the cost of listening to those folks is also
+01:09:41 the cost of your psychology slowly being degraded by the natural underlying toxicity of the internet
+01:09:49 engage with a handful of people deeply rather than like as many people as you can in a shallow way
+01:09:53 i think that's a good lesson for social media usage like platforms in general yeah choose
+01:09:59 choose just a handful of things to engage with and engage with it very well in a way that you feel proud of
+01:10:04 and don't worry about the rest honestly i think the best social media platform is texting
+01:10:10 that's my favorite that's my go-to social media platform well yeah the best social media interactions
+01:10:16 like real life not social media but social interaction well yeah no no question there i think
+01:10:21 everyone should agree with that which sucks because  it's been challenged now with the current situation
+01:10:28 and we're trying to figure out what kind of platform can be created that we can do remote communication that still is effective
+01:10:34 it's important for education it's important for just that's the question of education right now
+01:10:40 yeah so on that topic you've done a series of live streams called lockdown math and you know you went live which is
+01:10:48 different than you usually do maybe one can you talk about how'd that feel what's that experience like like in your
+01:10:56 own when you look back like is that an effective way did you find being able to teach and if so
+01:11:05 is there lessons for this world where all of these educators are now trying to figure out how the
+01:11:10 heck do i teach remotely for me it was very different as different as you can get i'm on camera
+01:11:15 which i'm usually not i'm doing it live which is nerve wracking it was a slightly
+01:11:19 different like level of topics although realistically i'm just talking about things i'm
+01:11:24 interested in no matter what i think the reason i did that was this thought that a ton of people are
+01:11:29 looking to learn remotely the rate which i usually put out content is too slow to be actively helpful
+01:11:34 let me just do some bi-weekly lectures that if you're looking for a place to point your students if you're a student
+01:11:38 looking for a place to be edified about math just tune in at these times and in that sense i think it was
+01:11:44 you know a success for those who followed with it it was a really rewarding experience for me to see how people
+01:11:51 engaged with it part of the fun of the live interaction was to actually like i'd do these live quizzes and see
+01:11:56 how people would answer and try to shape the lesson based on that or see what questions people were asking in the audience
+01:12:01 i would love to if i did more things like that in the future kind of tighten that feedback loop even more
+01:12:08 i think for you know you ask about like if this can be relevant to educators like 100 online teaching is basically a
+01:12:15 form of live streaming now and usually it happens through zoom i think if teachers view what they're doing as a
+01:12:22 kind of performance and a kind of live stream performance that would probably be pretty healthy because
+01:12:29 zoom can be kind of awkward and i wrote up this little blog post actually just on like
+01:12:33 just what our setup looked like if you want to adopt it yourself and how to integrate um
+01:12:38 like the broadcasting software obs with zoom or things like that it was really sorry to pause on that i
+01:12:42 mean yeah maybe we could look at the blog post but it looked really nice the thing is i
+01:12:47 knew nothing about any of that stuff before i started i had a friend who knew a fair bit
+01:12:51 and so he kind of helped show me the roots one of the thing that i realized is that you could as a teacher
+01:12:57 like it doesn't take that much to make things look and feel pretty professional like one component of it is as soon
+01:13:03 as you hook things up with a broadcasting software rather than just doing like screen
+01:13:07 sharing you can set up different scenes and then you can like have keyboard shortcuts to transition between those two
+01:13:12 scenes so you don't need a production studio with a director calling like go to camera three go to camera two like
+01:13:16 onto the screen instead you can have control of that and it took a little bit of practice and i
+01:13:20 would mess it up now and then but i think i had it decently smooth such that
+01:13:25 you know i'm talking to the camera and then we're doing something on the paper then we're doing like a
+01:13:29 playing with a desmos graph or something and something that i think in the past would
+01:13:33 have required a production team you can actually do as a solo operation and in particular as a teacher and i
+01:13:39 think it's worth it to try to do that because  two reasons one you might get more engagement from the students
+01:13:45 but the biggest reason i think one of the like best things that can come out of this pandemic education-wise
+01:13:50 is if we turn a bunch of teachers into content creators and if we take lessons that are usually done in these
+01:13:55 one-off settings and like start to get in the habit of sometimes i'll use the phrase commoditizing
+01:14:03 explanation where what you want is whatever a thing a student wants to learn it just seems inefficient to me that
+01:14:09 that lesson is taught millions of times over in parallel across many different classrooms in the
+01:14:15 world like year to year you've got a given algebra 1 lesson that's just taught like literally millions of times by
+01:14:21 different people what should happen is that there's the small handful of explanations online
+01:14:27 that exist so that when someone needs that explanation they can go to it that the time in classroom is spent on
+01:14:32 all of the parts of teaching and education that aren't explanation which is most of it
+01:14:37 right and the way to get there is to basically have more people who are already explaining
+01:14:42 publish their explanations and have it in a publicized forum so if during a pandemic you can have people
+01:14:49 automatically creating online content because it has to be online but getting in a habit of doing it in a
+01:14:54 in a way that doesn't just feel like a zoom call that happened to be recorded but it actually feels like a
+01:15:00 a piece that was always going to be publicized to more people than just your students that can be really powerful and there's
+01:15:08 an improvement process there like so being self-critical and growing like you know
+01:15:14 like i guess youtubers go through this process of like putting out some content and like nobody
+01:15:21 caring about it and then trying to figure out like basically improving figure out like why
+01:15:26 did nobody care   what can i you know and they come up with all kinds of answers which may
+01:15:32 or may not be correct but doesn't matter because the answer leads to improvement
+01:15:37 so you're being constantly self-critical or self-analytical it should be better to say so you think of like how
+01:15:42 can i make the audio better like all the basic things maybe one one question to ask
+01:15:49 because  well by way of  russ dedrick he's a robotics professor at mit one of my favorite people
+01:15:56 a big fan of yours  he watched our first conversation i just interviewed him a couple weeks ago
+01:16:03 he  he teaches this course in under-actuated robotics which is like robotic systems when
+01:16:11 you can't control everything like when you're like we as humans when we walk we're
+01:16:16 always falling forward which means like it's gravity you can't control it you just hope you can catch yourself but
+01:16:21 that's not all guaranteed it depends on the surface so like that's under-actuated you can't control everything
+01:16:29 all the the number of actuators  the degrees of freedoms you have is not enough to fully control the system
+01:16:34 so i don't know it's a really i think beautiful fascinating class he puts it online it's quite popular he does an
+01:16:41 incredible job teaching he puts online every time but he's kind of been interested in like
+01:16:45 crisping it up like you know making it  you know innovating in different kinds of ways
+01:16:52 and he was inspired by the work he do because i think in his work he can do
+01:16:57 similar kind of explanations as you're doing like revealing the beauty of it and spending like months and preparing a
+01:17:03 single video  and he's interested in how to do that that's why he listened to the
+01:17:09 conversation he's playing with madam but he had this question of you know of  you know like in my apartment where
+01:17:18 we did the interview i have like curtains like the for like a black curtain not this
+01:17:26  this is this is a adjacent mansion that we're in that i also but you basically just i have like a black
+01:17:33 curtain whatever that you know makes it really easy to set up a filming situation with
+01:17:37 cameras that we have here these microphones he was asking you know what kind of equipment do you
+01:17:42 recommend i guess like your blog post is a good one i said i don't recommend this is excessive and actually really
+01:17:48 hard to work with so i i wonder i mean is there something you would recommend
+01:17:55 in terms of equipment like is is it direct do you think like lapel mics like usb
+01:18:01 mics what do you for my narration i use a usb mic for the streams that used a lapel mic
+01:18:07  the narration it's a blue yeti i'm forgetting actually the name of the lapel mic but it was
+01:18:14 probably like a road of some kind but is it hard to figure out how to make the audio sound good
+01:18:19 oh i mean listen to all the early videos on my channel and clearly like i'm terrible at this for for some
+01:18:23 reason i just couldn't get audio for a while i think i it's weird when you hear your
+01:18:29 own voice yeah so here you're like this sounds weird and it's hard to know does it sound
+01:18:32 weird because you're not used to your own voice or they're like actual audio artifacts at play um
+01:18:40 so  and then video is just for the lockdowns just the camera like you said it was probably streaming
+01:18:45 somehow through the yeah there were two gh5 cameras one that was mounted overhead
+01:18:49 over a piece of paper you could also use like an ipad or a wacom tablet to do your writing
+01:18:54 electronically but i just wanted the paper feel on on the face there's two um
+01:19:01 again i don't know i'm like just not actually the one to ask this because i like animate stuff usually but
+01:19:06  each of them like has a compressor object that makes it such that the camera output goes into the computer
+01:19:12 usb but like gets compressed before it does that the the live aspect of it do you do you regret doing it live
+01:19:22 not at all i think i do think the content might be like much less sharp and tight than if it
+01:19:26 were something even that i just recorded like that and then edited later
+01:19:32 but i do like something that i do to be out there to show like hey this is what it's like raw this is what it's like
+01:19:36 when i make mistakes this is like the pace of thinking i like the live interaction of it i think
+01:19:43 that made it better i probably would do it on a different channel i think if i did
+01:19:47 series like that in the future just because it's it's a different style it's probably a different target audience and
+01:19:53 kind of keep clean what three blue and brown is about versus  the benefits of like live lectures
+01:20:00 do you  suggest like in this time of covid that people like russ or other educators try to go
+01:20:09 like the the shorter like 20 minute videos that are like really well planned out or scripted you
+01:20:13 really think through you slowly design so it's not live do you see like that being an important
+01:20:19 part of what they do yeah well what i think teachers like russ should do
+01:20:25 is choose the small handful of topics that they're going to do just really well they want to create the best
+01:20:30 short explanation of it in the world that will be one of those handfuls in a world where you have commoditized
+01:20:35 explanation right most of the lectures should be done just normally still put thought and planning into it i'm sure
+01:20:39 he's a wonderful teacher and like knows all about that but maybe choose a small
+01:20:44 handful of topics do what beneficial for me sometimes if i do sample lessons with people on
+01:20:50 that topic to get some sense of how other people think about it let that inform how you want to
+01:20:56 edit it or script it or whatever format you want to do some people are comfortable just explaining it and
+01:21:00 editing later i'm more comfortable like writing it out and thinking in that setting yeah it's kind of sorry to interrupt 
+01:21:08 it's it's a little bit sad to me to see how much knowledge is lost like just just like you mentioned
+01:21:14 there's professors like we can take my dad for example to blow up his ego a little bit but he's
+01:21:19 a great teacher and he knows plasma plasma chemistry plasma physics really well so he can
+01:21:27 very simply explain some beautiful but otherwise  complicated concepts and it's sad that like if you google plasma
+01:21:36 or like for plasma physics like there's no videos and just imagine if every one of those
+01:21:41 excellent teachers like your father like russ even if they just chose one topic this year
+01:21:46 they're like i'm gonna make the best video that i can on this topic if every one of the great teachers did that
+01:21:51 the internet would be replete and it's already replete with great explanations but it would be even more so with all
+01:21:56 the niche great explanations and like anything you want to learn and there's a self-interest to it for in
+01:22:01 terms of teachers in terms of even so if you take ross for example it's not that he's teaching something
+01:22:07 like he teaches his main thing his thing he's deeply passionate about
+01:22:14 and from a selfish perspective it's also just like i mean it's a it's a it's like
+01:22:23 publishing a paper in a really like nature has like letters like accessible publication
+01:22:29 it's just going to guarantee that your work that your passion is seen by a huge number of people whatever the
+01:22:38 definition of huge is doesn't matter it's much more than it otherwise 
+01:22:44 would be and it's those lectures that tell early students what to be interested in yeah
+01:22:48 at the moment i think students are disproportionately interested in the things that are well represented on youtube
+01:22:53 so to any educator out there if you're wondering hey i want more like grad students in my department
+01:22:58 like what's the best way to recruit grad students it's like make the best video you can and then wait eight years
+01:23:02 and then you're gonna have a pile of like excellent grad students for that department and one of the lessons i think your
+01:23:09 channel teaches is there's appeal of explaining just something beautiful
+01:23:16 explaining it cleanly technically not doing a marketing video about why topology is great
+01:23:22 there's yeah that's the there's people interested in this stuff yeah i mean  one of the greatest channels like matt
+01:23:29 it's not even a math channel but the channel with greatest math content is vsauce yeah you like interviewed if imagine you
+01:23:35 were to propose making a video that explains the binochtarsky paradox substantively right not not shying around it maybe not
+01:23:42 describing things in terms of like the group theoretic terminology that you'd usually see in a paper but
+01:23:48 the actual  results that went into this idea of like breaking apart a
+01:23:55 sphere proposing that to like a network tv station saying yeah i'm gonna i'm gonna do this
+01:23:59 in-depth talk of the binocular ski paradox i'm pretty sure it's gonna reach 20 million people
+01:24:04 it's like get out of here like no no one cares about that no one's interested in anything even
+01:24:09 anywhere near that but then you have michael's quirky personality around it and just people that are actually hungry
+01:24:15 for that kind of depth then you don't need like the approval of some higher
+01:24:20 network you can just do it and let the people speak for themselves so i think you know if your father was
+01:24:25 to make something on plasma physics or if we were to have like  underactualized robotics under actuated under actuated
+01:24:34 yes not underactualized plenty actualized under-actuated robotics yeah most robotics is under actualized current
+01:24:42 that's true so even if it's things that you might think are niche i bet you'll be surprised by how many
+01:24:47 people actually engage with it really deeply although i just psychologically watching
+01:24:52 him i can't speak for a lot of people i speak for my dad i think there's a there's a little bit
+01:24:57 of a skill gap but i think that could be overcome that's pretty basic you know what none
+01:25:02 of us know how to make videos when we start the first step i made was terrible in a number of respects like
+01:25:06 look at the earliest videos on any youtube channel except for captain disillusion and they're all like
+01:25:12 terrible versions of whatever they are now but the thing i've noticed especially like with world experts
+01:25:20 is it's the same thing that i'm sure you went through which is like fear of like embarrassment like they they
+01:25:29 definitely it's it's the same reason like i feel that anytime i put out a video i don't know if you still feel that but
+01:25:38 like i don't know it's this impostor syndrome like who am i to talk about this and that that's true for
+01:25:43 like even things that you've studied for like your whole life  i don't know
+01:25:50 it's scary to post stuff on youtube it is scary  i honestly wish that more of the
+01:25:54 people who had that modesty to say who am i to post this were the ones actually posting it that's
+01:26:02 right i mean the honest problem is like a lot of the educational content is posted by people who
+01:26:07 like we're just starting to research it two weeks ago and are on a certain schedule and who maybe should think like who am i to
+01:26:15 explain and choose your favorite topic quantum mechanics or something and the people who have the self-awareness
+01:26:23  to not post are probably the people also best positioned to give a good honest explanation of it that's
+01:26:28 why there's  a lot of value in a channel like numberphile where they basically trap
+01:26:35 a really smart person and force them to explain stuff on a broad sheet of paper so but of course that's not scalable as
+01:26:41 a single channel if they if there's anything beautiful that they could be done as
+01:26:47 people take it in their own hands  educators which is again circling back i do think the pandemic will serve to
+01:26:54 force a lot of people's hands you're gonna be making online content anyway it's happening right just hit that
+01:27:02 publish button and see how it goes yeah see how it goes the cool thing about youtube
+01:27:08 is it might not go for a while but like 10 years later right yeah it'll be like this the thing this
+01:27:13 what people don't understand with youtube at least for now at least that's my hope with it is  it's a leg it's a
+01:27:22 it's literally better than publishing a book in terms of the legacy it's it will live for a long long time
+01:27:31 of course it's  one of the things i mentioned joe rogan before it's kind of there's a sad thing because i'm a fan
+01:27:39 he's moving to spotify yeah yeah nine digit numbers will do that to you yeah but he doesn't really
+01:27:45 that he's one a person that doesn't actually care that much about money like having talked to him he it it
+01:27:50 wasn't because of money it's because he legitimately thinks that they're going to do
+01:28:00 like a better job like so they're so from his perspective youtube you have to understand where they're coming from
+01:28:07 youtube has been cracking down on people who they you know joe rogan talks to alex jones and conspiracy theories
+01:28:15 and youtube was really like careful that kind of stuff and that's not a good feeling like and
+01:28:21 joe didn't doesn't feel like youtube was on his side you know he's often has videos that
+01:28:27 they don't put in trending that like are obviously should be in trending because they're nervous
+01:28:33 about like you know if this concept is this is this content  going to you know upset people that all that kind of stuff
+01:28:41 have misinformation and that's not a good place for a person to be in
+01:28:46 and spotify is giving them  we're never going to censor you we're never going to do that but the
+01:28:52 reason i bring that up whatever you think about that i personally think that's because
+01:28:57 podcasting should be free and not constrained to a platform it's pirate radio what the hell
+01:29:03 you can't as much as i love spotify you can't just you can't put fences around it
+01:29:10 but  anyway the reason i bring that up is  joe's going to remove his entire library from youtube
+01:29:16 whoa really that's going to his full-length the clips are going to stay but the full-length videos
+01:29:22 are all i mean made private or deleted that's part of the deal and like that's the first time where i was like
+01:29:29 oh youtube videos might not live forever like things you find like okay sorry this is why you need um
+01:29:35 ipfs or something where it's like if there's a content link are you familiar with this system at all
+01:29:40 like right now if you have a url that points to a server there's like a system where the address
+01:29:45 points to content and then it's like distributed so you you can't actually delete what's at an address because it's
+01:29:51 it's content addressed and as long as there's someone on the network who hosts it it's always accessible at the address
+01:29:56 that it once was but i mean that raises a question i'm not going to put you on the spot but
+01:30:02 like somebody like vsauce right spotify comes along and gives him let's say 100 billion dollars okay let's
+01:30:10 say some crazy number and then removes it from youtube right it's maybe i don't know
+01:30:18 for some reason i thought youtube is forever i don't think it will be i mean you know another variant that
+01:30:23 this might take is like  that you know you fast forward 50 years and
+01:30:29  you know google or alphabet isn't the company that it once was and it's kind of struggling to make ends meet and you
+01:30:35 know it's been supplanted by the whoever wins on the ar game or whatever it might be
+01:30:41 and then they're like you know all of these videos that we're hosting are pretty costly so
+01:30:45 we're just we're going to start deleting the ones that aren't watched that much and tell people to like try to back them up
+01:30:51 on their own or whatever it is or even if it does exist in some form forever it's like if people are
+01:30:57 not habituated to watching youtube in 50 years they're watching something else which seems pretty likely
+01:31:03 like it would be shocking if youtube remained as popular as it is now indefinitely into the future that's true
+01:31:08 so  it won't be forever it makes me sad still but
+01:31:14 because it's such a nice it's like just like you said of the canonical videos sorry i don't
+01:31:18 interrupt you know you should get juan bennett on the  on the thing and then talk to him about permanence
+01:31:23 i think you would have a good conversation who's that so he's the one that founded this thing called ipfs that i'm
+01:31:30 talking about and if you have him talk about basically what you're describing like oh it's sad that this isn't forever
+01:31:35 then you'll get some articulate quantification around it yeah that's like been pretty well
+01:31:40 thought through  but yeah i do see youtube just like you said as a as a place like what your channel creates which is like
+01:31:48 a set of canonical videos on a topic now others could create videos on that topic as well but as a
+01:31:54 collection it creates a nice set of places to go if you're curious about a particular topic
+01:32:01 and it seems like coronavirus is a nice opportunity to put that knowledge out there in the
+01:32:07 world at mit and beyond i have to talk to you a little bit about machine learning
+01:32:14 deep learning and so on again we talked about last time you have a set of beautiful videos on
+01:32:20 your networks  let me ask you first what is the most beautiful aspect of neural networks
+01:32:30 and machine learning to you like for making those videos from watching how the field is evolving
+01:32:39 is there something mathematically or an applied sense just beautiful to you about them
+01:32:44 well i think what i would go to is the layered structure and how you can have what feel like
+01:32:50 qualitatively distinct things happening going from one layer to another but that are following the same
+01:32:55 mathematical rule because you look at it as a piece of math it's like you got a non-linearity and then you've
+01:33:00 got a matrix multiplication that's what's happening on all the layers but especially if you look at like
+01:33:06 some of the visualizations that like chris ola has done with respect to like convolutional nets that have been
+01:33:13 trained on imagenet trying to say what does this neuron do what do this does this family of neurons do what you
+01:33:18 can see is that the ones closer to the input side are picking up on very low level ideas like
+01:33:23 the texture right and then as you get further back you have higher level ideas like what is the
+01:33:29 where the eyes in this picture and then how do the eyes form like an animal is this animal a cat or a dog
+01:33:34 or a deer you have this series of qualitatively different things happening even though it's the same
+01:33:39 piece of math on each one so that's a pretty beautiful idea that you can have like a generalizable
+01:33:46 object that runs through the layers of abstraction which in some sense constitute intelligence as having
+01:33:53 those many different layers of an understanding to something yeah form abstractions in a
+01:33:58 automated way exactly it's automated abstracting which i mean that just feels very powerful and the idea that it can be so simply
+01:34:06 mathematically represented i mean a ton of like modern email research seems a little bit like you do a bunch of ad hoc things
+01:34:11 then you decide which one worked and then you retrospectively come up with the mathematical reason that it always
+01:34:16 had to work but you know who cares how you came to it when you have like that elegant
+01:34:20 piece of math  it's hard not to just smile seeing it work in action well and when you talked
+01:34:26 about topology before one of the really interesting things is it's beginning to be investigated under
+01:34:33 kind of the field of like science and deep learning which is like the craziness of the surface
+01:34:42 that  is trying to be optimized  in neural networks i mean the the amount of local
+01:34:49 minima local optima there is in these surfaces and somehow a dumb gradient descent algorithm is able to find really good
+01:34:56 solutions that's like that's really surprising well so on the one hand it is but also it's like not
+01:35:04 it's not terribly surprising that you have these interesting points that exist when you make your space so high
+01:35:10 dimensional like gpt3 what did it have 175 billion parameters so it it doesn't feel as
+01:35:17 mesmerizing to think about oh there's some surface of intelligent behavior in this crazy
+01:35:22 high-dimensional space it's like there's so many parameters that of course but what's more interesting is like how
+01:35:26 how is it that you're able to efficiently get there which is maybe what you're describing
+01:35:30 that something as dumb as gradient descent does it but like the re the reason the gradient descent works well
+01:35:37 with neural networks and not just you know choose however you want to parameterize the space and then like
+01:35:41 apply gradient descent to it is that that layered structure lets you decompose the derivative in a way that
+01:35:46 makes it computationally feasible yeah it's just that that there's so many good solutions
+01:35:54 probably infinitely infinitely many good solutions not best solutions but good solutions
+01:36:00 that's that's what's interesting it's similar to  stephen wolfram has this idea of like
+01:36:07 the if you just look at all space of computations of all space of basically algorithms that you'd be surprised how many of them
+01:36:15 are actually intelligent like if you just randomly pick from the bucket that's surprising we tend to think like
+01:36:23 a tiny tiny minority of them would be intelligent but his sense is like it seems weirdly easy to find
+01:36:31 computations that do something interesting well okay so that from like a common gore kolmogorov
+01:36:38 complexity standpoint almost everything will be interesting what's fascinating is to find the stuff that's
+01:36:43 describable with low information but still does interesting things  like one fun example of this you know
+01:36:50 shannon's noisy coding in theorem  noisy coding theorem and  information theory
+01:36:55 that basically says if you know i want to send some bits to you  maybe  some of them are gonna get
+01:37:00 flipped  there's some noise along the channel i can come up with some way of coding it that's resilient to that noise
+01:37:08 that's very good and then he quantitatively describes how very good is what's funny about how he proves the
+01:37:14 existence of good error correction codes is rather than saying like here's how to construct it or even like a sensible
+01:37:20 non-constructive proof the nature of his non-constructive proof is to say if we chose a random encoding it
+01:37:25 would be almost at the limit which is weird because then it took
+01:37:30 decades for people to actually find any that were anywhere close to the limit and what his proof was saying is choose
+01:37:36 a random one and it's like the best kind of encoding you'll ever find but what's
+01:37:42 what that tells us is that sometimes when you choose a random element from this ungodly huge set
+01:37:47 that's a very different task from finding an efficient way to actively describe it
+01:37:51 because in that case the random element to actually implement it as a bit of code you would just have this huge
+01:37:56 table of like telling you how to encode one thing into another that's totally computationally infeasible
+01:38:03 so on the side of like how many possible programs are interesting in some way it's like yeah all tons of
+01:38:07 them but the much much more delicate question is when you can have a low information description
+01:38:13 of something that still becomes interesting and thereby that kind of gives you a blueprint for how to
+01:38:18 engineer that kind of thing right yeah chaos theory is another good instance there where it's like
+01:38:23 yeah a ton of things are hard to describe but how do you have ones that have a simple set of
+01:38:28 governing equations that remain like arbitrarily hard to describe well let me ask you  you mentioned
+01:38:35 gpt3 it's interesting to ask  what are your thoughts about the recently released openai gbt3 model that i
+01:38:44 believe is already trying to learn how to communicate like grant sanderson you know i think
+01:38:49 i got an email a day or two ago about someone who wanted to try to use gpd3 with manum where you
+01:38:55 would like give it a high-level description of something and then it'll like automatically create
+01:39:00 the mathematical animation i mean it probably won't put you out of a job but it'll create something
+01:39:09 visually beautiful for sure i would be surprised if that worked as stated but maybe there's like
+01:39:16 variants of it like that you can get to i mean like a lot of those demos it's interesting i think
+01:39:23  there's a lot of failed experiments like depending on how you prime the thing you're going to have a lot of failed i'm
+01:39:29 certainly with code no program synthesis most of it won't even run but eventually i think if you
+01:39:36 if you're if you pick the right examples you'll be able to generate something cool and i think even that's good enough even
+01:39:41 though if if it's if you're being very selective it's still cool that something can be generated
+01:39:48 yeah that that's huge value i mean think of the writing process sometimes a big part of it is just getting a bunch
+01:39:53 of stuff on the page and then you can decide what to whittle down to so if it can be used in like a
+01:39:58 man-machine symbiosis where it's just giving you a spew of potential ideas that then you can refine down
+01:40:05 like it's serving as the generator and then the human serves as the refiner that seems like a pretty powerful dynamic
+01:40:11 yeah have you  have you gotten a chance to see any of the demos like on twitter is there a favorite you've seen or oh my
+01:40:17 absolute favorite yeah  so tim blay who runs a channel called a cappella science he was
+01:40:23 like tweeting a bunch about playing with it and so he so gpt3 was trained on the
+01:40:29 internet from before kovid so so in a sense it doesn't know about the coronavirus
+01:40:34 so what he seeded it with was just a short description about like a novel virus  emerges in wuhan China  and starts to
+01:40:41 spread around the globe what follows is a month by month description of what happens january colon
+01:40:47 right that's what he sees it with so then what gpt3 generates is like january then a paragraph of description
+01:40:52 february and such and it's the funniest thing you'll ever read because it predicts a zombie apocalypse
+01:40:59 which of course it would because it's trained on like the internet zombie stories but what you see
+01:41:04 unfolding is a description of covet 19 if it were a zombie apocalypse and like the early aspects of it are
+01:41:11 kind of shockingly in line with what's reasonable and then it gets out of hand so quickly
+01:41:16 and the other flip side of that is  i wouldn't be surprised if it's on to something at some point
+01:41:22 here when you know 2020 has been full of surprises who knows like we might
+01:41:28 i'll be in like this crazy militarized zone as it predicts just a couple months off yeah i think is
+01:41:34 this definitely an interesting tool of storytelling it has struggled with mathematics which is interesting or in just even numbers
+01:41:42 it's able to it's not able to generate like patterns you know like you give it in like five digit numbers and it's not
+01:41:52 able to figure out the sequence you know or like  i didn't look in too much but i'm talking about like
+01:41:59 sequences like the fibonacci numbers and to see how far it can go because obviously it's leveraging stuff
+01:42:04 from the internet and it starts to lose it but it is also cool that i've seen it
+01:42:09 able to generate some interesting patterns that are mathematically correct yeah i i honestly haven't dug into like
+01:42:17 what's going on within it  in a way that i can speak intelligently to
+01:42:22 i guess it doesn't surprise me that it's bad at numerical patterns because i mean maybe i should be more impressed
+01:42:29 with it but like that requires having a weird combination of intuitive and  and formulaic worldview
+01:42:36 so you're not just going off of intuition when you see fibonacci numbers you're not saying like intuitively what
+01:42:41 do i think will follow the 13. like i've seen patterns a lot where like 13s are followed by 21s
+01:42:46 instead it's the like the way you're starting to see a shape of things is by knowing what hypotheses to test
+01:42:51 where you're saying oh maybe it's generated based on the previous terms or maybe it's
+01:42:55 generated based on like multiplying by a constant or whatever it is you like have a bunch of different hypotheses
+01:43:00 and your intuitions are around those hypotheses but you still need to actively test it and it seems like gpt3 is
+01:43:08 extremely good at like that sort of pattern matching recognition that usually is very hard
+01:43:13 for computers that is what humans get good at through expertise and exposure to lots
+01:43:17 of things it's why it's good to learn from as many examples as you can rather than just
+01:43:21 from the definitions it's to get that level of intuition but to actually concretize it into a piece
+01:43:29 of math you do need to like test your hypotheses and if not prove it um
+01:43:34 like have an actual explanation for what's going on not just a a pattern that you've seen yeah and but
+01:43:40 then the flip side to play devil's advocate that's a very kind of probably correct intuitive understanding of
+01:43:47 just like we said a few a few layers creating abstractions but it's been able to form
+01:43:56 something that looks like a a compression of the data that it's seen that looks
+01:44:01 awfully a lot like it understands what the heck is talking about well i think a lot of understanding is
+01:44:06 like i don't mean to  denigrate pattern recognition pattern recognition is most of understanding and
+01:44:12 it's super important and it's super hard and so like when it's demonstrating this kind of real understanding
+01:44:16 compressing down some data like that that might be pattern recognition at its finest
+01:44:22 my only point would be that like what differentiates math i think to a large extent is that the
+01:44:29 pattern recognition isn't sufficient and that the kind of patterns that you're recognizing are
+01:44:34 not like the end goals but instead they're they are the little bits and paths that get you to the end goal
+01:44:40 so that's only true for mathematics in general it's an interesting question if that might for certain kinds of series
+01:44:47 of numbers it might not be true like you might because that's a basic
+01:44:53 you know like taylor's like certain kinds of series it feels like compressing the internet 
+01:45:01 is is enough to figure out because those patterns in some form appear in the text somewhere well i mean
+01:45:07 there's there's all sorts of wonderful examples of false patterns in math where one of the earliest videos i put on
+01:45:13 the channel was talking about you're kind of dividing a circle up using these chords and you see this
+01:45:18 pattern of one two four eight sixteen i was like okay pretty easy to see what that pattern is
+01:45:22 it's powers of two you've seen it a million times but it's not powers of two the next
+01:45:27 term is thirty one and so it's like almost a power of two but it's a little bit shy
+01:45:31 and there's there's actually a very good explanation for what's going on but i think it's a good test of whether
+01:45:37 you're thinking clearly about mechanistic explanations of things
+01:45:43 how quickly you jump to thinking it must be powers of two because the problem itself there's really no
+01:45:49 no good way to i mean there can't be a good way to think about it as like doubling a set because ultimately
+01:45:54 it doesn't but even before it starts to it's not something that screams out as being a doubling
+01:46:00 phenomenon so at best if it did turn out to be powers of two it would have only been so very subtly
+01:46:04 and i think the difference between like you know a math student making the mistake and a mathematician who's experienced
+01:46:09 seeing that kind of pattern is that they they'll have a sense from what the problem itself is
+01:46:13 whether the pattern that they're observing is reasonable and how to test it and like  i would just be very
+01:46:21 impressed if there was any algorithm that was actively accomplishing that goal yeah like a learning based algorithm
+01:46:29 yeah like a little scientist i guess yeah basically yeah it's a it's a fascinating thought
+01:46:35 because gpg three these language models are already accomplishing way more than i've
+01:46:39 expected so i'm learning not to doubt but i bet we'll get there
+01:46:45 yeah i'm not saying i'd be impressed but like surprised like i'll be impressed but i
+01:46:50 i think we'll get there on algorithms doing math like that so one of the amazing things you've done
+01:46:57 for the world is to some degree open sourcing the tooling that you use to make your
+01:47:05 videos with madam this python library now it's quickly evolving because i think you're inventing new
+01:47:12 things every time you make a video in fact i wanted i've been working on playing around with something i wanted
+01:47:19 to do like an ode three blue one brown like i love playing hendrix i want to do like a cover you know of a
+01:47:26 concept i wanted to visualize and and use madam and i saw that you had like a little piece of code on like
+01:47:31 mobius strip and i tried to do some cool things with spinning a mobius strip like continue
+01:47:40 twisting it i guess is the term  and it was easier to  it was tough so i haven't figured out
+01:47:47 yet well so i guess the question i want to ask is so many people love it  that you've
+01:47:52 put that out there they want to  do the same things they do with hendrix they want to cover it they want to
+01:47:56 explain an idea using the tool including russ how would you recommend they try to i'm very sorry they try to go
+01:48:07 they try to go by  about it well so and what kind of choices should they choose
+01:48:13 to be most effective oh that i can answer so i always feel guilty if this comes up
+01:48:18 because i think of it like the scrappy tool that's like a math teacher who put
+01:48:22 together some code people asked what it was so they made it open source and they kept scrapping it together and
+01:48:27 there's a lot like a lot of things about it that make it harder to work with than it needs to be
+01:48:31 that are a function of like me not being a software engineer i i've put some work this year trying to
+01:48:37 like make it better and more flexible that is still just kind of like
+01:48:44 a work in process one thing i would love to do is just get my act together about
+01:48:48 properly integrating with what like the community wants to work with and like what stuff i work on and making that
+01:48:57 not like deviate  and just like actually fostering that community in a way that i've
+01:49:00 i've been like shamefully neglectful of so i'm just always guilty if it comes up so let's put that guilt aside just okay
+01:49:06 send like all right i'll pretend like it isn't terrible for someone like russ um
+01:49:11 i think step one is like make sure that what you're animating should be done so programmatically because a lot of things
+01:49:17 maybe shouldn't like if you're just making a quick graph of something if it's a graphical intuition that maybe
+01:49:22 has a little motion to it use desmos use grapher use geogebra use mathematica certain things that are like really
+01:49:29 oriented around ground georgia is kind of cool it's amazing you can get very very far
+01:49:35 with it and in a lot of ways like it would make more sense for some stuff that i do to just do in geogebra
+01:49:40 but i kind of have this cycle of liking to try to improve mana by doing videos and such so
+01:49:46 do as i say not as i do the original like thought i had in making manam was that there's so many different ways of
+01:49:52 representing functions other than graphs in particular things like transformations like use
+01:49:57 movement over time to communicate relationships between inputs and outputs instead of like x direction and y direction
+01:50:04 or like vector fields or things like that so i wanted something that was flexible enough that you didn't feel
+01:50:09 constrained into a graphical environment by graphical i mean like graphs with  like x coordinate y coordinate kind of stuff
+01:50:18 but also make sure that you're taking advantage of the fact that it's programmatic you have loops you have
+01:50:23 conditionals you have abstraction if any of those are like well fit for what you want to teach to
+01:50:28 you know have a scene type that you tweak a little bit based on parameters or to have conditionals so that things
+01:50:33 can go one way or another or loops so that you can create these things of like arbitrarily increasing
+01:50:37 complexity that's the stuff that's like meant to be animated programmatically if it's just like writing some text on
+01:50:43 the screen or shifting around objects or something like that things like that you should probably
+01:50:47 just use keynote right you'll be a lot simpler so try to find a workflow that distills
+01:50:54 down that which should be programmatic into manum and that which doesn't need to be
+01:50:59 into like other domains again do as i say not as i do i mean python is an integral part of it
+01:51:05 and just for the fun of it let me ask  what  what's your most and least favorite
+01:51:10 aspects of python oh most and least i mean i love that it's like
+01:51:17 object-oriented and functional i guess that you can kind of like get both of those  benefits
+01:51:24 for how you structure things so if you just want to quickly whip something together the functional aspects are nice
+01:51:29 it's your primary language like for programmatically generating stuff yeah it's home
+01:51:34 for me by calling home yeah sometimes you travel but it's home got it it's home  i mean the biggest disadvantage is
+01:51:39 that it's slow so when you're doing computationally intensive things either you have to like think about it
+01:51:44 more than you should how to make it efficient or that just like takes long do you run into that at all like with your work
+01:51:52 well so  certainly old man is like way slower than it needs to be because of  how it renders things on the back end
+01:51:58 is like kind of absurd i've rewritten things such that it's all done with like shaders in such a way
+01:52:03 that it should be just like live and actually like interactive while you're coding it if
+01:52:08 you want to to you know you have like a 3d scene you can move around you can have elements respond to where your
+01:52:13 mouse is or things that's not something that user of a video is going to get to experience
+01:52:18 because there's just a play button and a pause button but while you're developing that can be nice
+01:52:23 so it's gotten better in speed in that sense but that's basically because the hard work is being done in the
+01:52:28 language that's not python but glsl right but yeah there are some times when it's like a um
+01:52:35 there's just a lot of data that goes into the object that i want to animate that then it just like python is slow
+01:52:42 well let me ask quickly ask what do you think about the walrus operator if you're familiar with it at all
+01:52:47 the reason it's interesting there's a new operator in python 3.8 i find it psychologically interesting
+01:52:53 because it the toxicity over it led guido to resign to step down from this actually true or
+01:52:57 was it like there's a bunch of surrounding things that also was it actually the walrus operator that well
+01:53:04 it was it was a text it was an accumulation of toxicity but that was the the most that was the
+01:53:09 most toxic one like the discussion that's the most number of python core developers that
+01:53:16 were opposed to guido's decision he didn't particularly i don't think cared about either way
+01:53:21 he just thought it was a good idea this is where you approve it and like the structure of the idea of a
+01:53:27 bdfl is like you listen everybody hear everybody out you make a decision and you move forward
+01:53:34 and he didn't like the negativity that burdened him after that people like
+01:53:39 some parts of the benevolent dictator for life mantra but once the dictator does things different than you want
+01:53:44 suddenly dictatorship doesn't seem so great yeah i mean they still liked it he just couldn't because he truly is
+01:53:51 the bee in the benevolent he's really he really is a nice guy he i mean and i think he can't it's a lot
+01:53:57 of toxicity it's difficult it's a difficult job that's why alana's terrible is perhaps
+01:54:02 the way he is you have to have a thick skin to fight off fight off the warring masses it's kind of surprising to me how many
+01:54:09 people can like threaten to murder each other over whether we should have braces or not or whether
+01:54:16 like it's incredible yeah i mean that's my knee-jerk reaction to the walrus operator is like i don't actually care
+01:54:20 that much either way i'm not going to get irritably passionate my my initial reaction was like
+01:54:24 yeah this seems to make things more confusing to read but then again so does list comprehension until you're used to it
+01:54:31 so like if there's a use for it great if not great but like let's just all calm down about our
+01:54:35 spaces versus tabs debates here and like be chill yeah to me just represents the  the value of great leadership
+01:54:43 even in open source communities does it represent that if he stepped down as a leader well
+01:54:49 he fought for no he got it passed i guess but i i guess right it could represent
+01:54:54 multiple things too it can represent like failed dictatorships or it could it could represent a lot of things but to me
+01:55:05 great leaders take risks even if it even if it's a mistake at the end like you have to make decisions
+01:55:10 the thing is this world won't go anywhere if you const if whenever there's a divisive
+01:55:15 thing you wait until the division is no longer there like that's the paralysis we
+01:55:20 experience with like congress and political systems it's good to be slow when there's
+01:55:27 indecision  when there's a people disagree it's good to take your time but like at a certain point it
+01:55:32 results in paralysis and you just have to make a decision the background of the site whether it's yellow
+01:55:39 blue or red can cause people to like go to war over each other i've seen this with design people are
+01:55:44 very touchy on color color choices at the end of the day just make a decision
+01:55:51 and go with it i think that that's what the walrus operator represents to me is it
+01:55:56 represents the fighter pilot instinct of like quick action is more important than  than just like caring everybody out and
+01:56:03 really thinking through it because that's going to lead to paralysis yeah like if that's the actual
+01:56:09 case that you know it's something we're consciously hearing people's  disagreement
+01:56:14 disagreeing with that disagreement and saying he wants to move forward anyway that's an admirable aspect of leadership
+01:56:23 so we don't have much time but i want to ask just because it's  some beautiful
+01:56:27 mathematics involved 2020 brought us a couple of in the physics world  theories of everything
+01:56:36 eric weinstein kind of i mean he's been working for probably decades but he put out this
+01:56:40 idea of geometric unity or started sort of publicly thinking and talking about it more
+01:56:48 stephen wolfram put out his physics project which is kind of this hypograph view of the theory of everything
+01:56:56 do you  find  interesting beautiful things to these theories of everything what do you think about the physics world and
+01:57:02 sort of  the beautiful interesting insightful mathematics in in that world whether we're talking
+01:57:09 about quantum mechanics which you touched on in a bunch of your videos a little bit
+01:57:13 quaternions like just the mathematics involved or general relativity which is more about surfaces and
+01:57:19 topology all that stuff well i think as far as like popularized science is concerned
+01:57:25 people are more interested in theories of everything than they should be like because the problem is whether
+01:57:30 we're talking about trying to make sense of weinstein's lectures or wolfram's project or let's
+01:57:35 just say like listening to  witten talk about string theory whatever proposed path to a theory of
+01:57:41 everything you're not actually going to understand it some physicists will but like
+01:57:47 all you're just not actually going to understand the substance of what they're saying what i think is way way more productive
+01:57:53 is to let yourself get really interested in the phenomena that are still deep but which you have a chance of understanding
+01:58:00 because the path to getting to like even understanding what questions these theories of everything are trying to answer
+01:58:05 involves like walking down that i mean i was watching a video before i came here about from steve mold talking about why
+01:58:12 sugar polarizes light in a certain way so fascinating like really really interesting it's not
+01:58:17 like this novel theory of everything type thing but to understand what's going on there really
+01:58:22 requires digging in in depth to certain ideas and if you let yourself think past what the video tells you about
+01:58:28 what does circularly polarized light mean and things like that it actually would get you to a pretty good
+01:58:32 appreciation of like two state states and quantum systems in a way that just trying to read
+01:58:37 about like oh what's the what are the hard parts about resolving quantum field theories
+01:58:42 with general relativity is never gonna get you so as far as popularizing science is concerned
+01:58:49 like the audience should be less interested than they are in theories of everything the
+01:58:54 popularizers should be less emphatic than they are about that for like actual practicing physicist
+01:59:01 you know it might be the case maybe more people should think about fundamental questions but it's difficult to create  like a
+01:59:07 three blue one brown video on the theory of everything so basically we should really try to find the beauty
+01:59:16 and mathematics of physics by looking at concepts that are like within reach yeah i think that's super important i mean
+01:59:23 so you see this in math too with the big unsolved problems so like the clay millennium problems riemann hypothesis
+01:59:29 have you ever done a video on fermat's last name no i have not yet no but if i did do you know what i
+01:59:34 would do i would talk about proving foreign theorem in the specific case of n equals three
+01:59:41 okay is that still accessible though yes actually barely mathologer might be able to do like a great job on this he does a good
+01:59:47 job of taking stuff that's barely accessible and making it but the the core ideas of proving it for
+01:59:53 n equals three are hard but they do get you real ideas about algebraic number theory um
+01:59:58 it involves looking at a number field that's  it lives in the complex plane it looks like a hexagonal lattice
+02:00:03 and you start asking questions about factoring numbers in this hexagonal lattice so it takes a while but i've talked
+02:00:08 about this sort of like lattice arithmetic in other contexts and you can get to a okay understanding of that and the
+02:00:17 things that make fairmont's last theme hard are actually quite deep and so the cases that we can solve it
+02:00:22 for it's like you can get these broad sweeps based on some hard but like accessible bits of number theory but before you can
+02:00:31 even understand why the general case is as hard as it is you have to walk through those
+02:00:35 and so any other attempt to describe it would just end up being like shallow and not really productive for the viewers time
+02:00:43 i think the same goes for  most like unsolved problem type things where i think you know as a kid i was actually
+02:00:48 very inspired by the twin prime conjecture that like totally sucked me in as this
+02:00:52 thing that was understandable i kind of had this dream like oh maybe i'll be the one to prove the twin prime conjecture
+02:00:57 and new math that i would learn would be like viewed through this lens of like oh maybe i can apply it to that in
+02:01:02 some way but  you sort of mature to a point where you you should spend your brain cycles on
+02:01:10 problems that you will see resolved because then you're going to grow to see what it feels like for these
+02:01:15 things to be resolved rather than spending your brain cycles on something where it's not it's not going to pan out
+02:01:21 and the people who do make progress towards these things like james maynard  is a great example here of like young
+02:01:27 creative mathematician who like pushes in the direction of things like the twin prime conjecture
+02:01:32 rather than hitting that head on just see all the interesting questions that are hard for similar reasons but become
+02:01:37 more tractable and let themselves really engage with those so i think people should get in that
+02:01:42 habit i think the popularization of physics should encourage that habit through things like the physics of
+02:01:47 simple everyday phenomena because it can get quite deep and yeah i think you know i've heard a lot
+02:01:55 of the interest that you know people send me messages asking to explain weinstein's thing or asking to explain
+02:01:59 wolfram's thing one i don't understand them but more you shouldn't be interested in those
+02:02:09 right it's a giant sort of  ball of interesting ideas there's probably a million of
+02:02:14 interesting ideas in there that individually could be explored effectively and to be clear you should
+02:02:20 be interested in fundamental questions i think that's a good habit to ask what the fundamentals of things are
+02:02:26 but i think it takes a lot of steps to like certainly you shouldn't be trying to answer that unless you
+02:02:31 actually understand quantum field theory and you actually understand general relativity that's the cool thing about like your
+02:02:35 videos people who haven't done mathematics like if you really give it time watch it a couple of times and like
+02:02:42 try to try to reason about it you can actually understand the concept that's being explained
+02:02:46 and it's not a coincidence that the things i'm describing aren't like the most up-to-date  progress
+02:02:52 on the riemann hypothesis cousins or like there's context in which the analog of the roman hypothesis
+02:02:58 has been solved in like more  discrete feeling finite settings that are more well-behaved
+02:03:04 i'm not describing that because it just takes a ton to get there and instead i think it'll be like
+02:03:09 productive to have an actual understanding of something that can you can pack into 20 minutes i
+02:03:14 think that's beautifully put ultimately that's where like the most satisfying thing is when you really understand
+02:03:21 yeah really understand build a habit of feeling what it's like to actually come to resolution yeah yeah as opposed to
+02:03:29 which it can also be enjoyable but just being in awe of the fact that you don't understand anything yeah that's not like
+02:03:35 i don't know maybe people get entertainment out of that but it's not as fulfilling as understanding
+02:03:41 you won't grow yeah and but also just the fulfilling it really does feel good when you
+02:03:48 first don't understand something and then you do that's a beautiful feeling hey let me ask you one last last time we
+02:03:56 got awkward and weird about  a fear of mortality which you made fun of me off but let me ask you on the
+02:04:03 the other absurd question is what do you think is  the meaning of our life of meaning of life
+02:04:09 i'm sorry if i made fun of you about much no you didn't i'm just joking it was it was great i don't think life
+02:04:15 has a meaning i think like meaning i don't understand the question
+02:04:19 i think meaning is something that's ascribed to stuff that's created with purpose there's a meaning to  like this water
+02:04:26 bottle label in that someone created it with the purpose of conveying meaning and there was like one consciousness
+02:04:30 that wanted to get its ideas into another consciousness most things don't have that property
+02:04:36 it's a little bit like if i asked you like what is the height all right so it's all relative yeah
+02:04:44 you'd be like the height of what you can't ask what is the height without an object you can't ask what is the
+02:04:47 meaning of life without like an intentful consciousness putting it
+02:04:53 like i guess i'm revealing i'm not very religious but you know the mathematics of everything seems kind of beautiful
+02:05:01 it seems like it seems like there's some kind of structure relative to which i mean you could
+02:05:07 calculate the height well so but what i'm saying is i don't understand the question what is the
+02:05:11 meaning of life in that i think people might be asking something very real i don't understand what they're
+02:05:15 asking are they asking like why does life exist like how did it come about what are the natural laws
+02:05:21 are they asking as i'm making decisions day by day for what should i do what is the guiding light that inspires
+02:05:26 like what should i do i think that's what people are kind of asking but also like why
+02:05:33 the thing that gives you joy about education about mathematics what the hell is that
+02:05:40 like what interactions with other people interactions with like-minded people i think is the meaning of
+02:05:44 in that sense bringing others joy essentially like in something you've created it connects
+02:05:50 with others somehow and the same and the vice versa i think that that is what
+02:05:56 when we use the word meaning to mean like you're sort of filled with a sense of happiness and energy to create more
+02:06:02 things like i have so much meaning taken from this like that yeah that's what fuels fuels my pump at least
+02:06:09 so a life alone on a deserted island will be kind of meaningless yeah you want to be alone together with someone
+02:06:15 i think we're all alone together i think there's no better way to end it grant you've been first time
+02:06:20 we talked it's amazing again it's a huge honor that you make time for me i appreciate talking with
+02:06:25 you thanks man awesome thanks for listening to this conversation with grant sanderson
+02:06:31 and thank you to our sponsors dollar shave club doordash and cash app click the sponsor
+02:06:36 links in the description to get a discount and to support this podcast if you enjoy this thing
+02:06:42 subscribe on youtube review it with 5 stars on apple podcast follow on spotify support on patreon or
+02:06:47 connect with me on twitter at lex friedman and now let me leave you with some words from
+02:06:55 richard feynman i have a friend who's an artist and has sometimes taken a view which i don't agree with very well
+02:07:02 he'll hold up a flower and say look how beautiful it is and i'll agree then he says i as an artist can see how
+02:07:08 beautiful this is but you as a scientist take this all apart and it becomes a dull thing
+02:07:16 and i think he's kind of nutty first of all the beauty that he sees is available to other people and to me too
+02:07:23 i believe although i may not be quite as refined aesthetically as he is i can appreciate the beauty of a flower
+02:07:29 at the same time i see much more about the flower than he sees i can imagine the cells in there the
+02:07:35 complicated actions inside which also have a beauty i mean it's not just beauty at this dimension
+02:07:40 at one centimeter there's also beauty of smaller dimensions the inner structure also the processes
+02:07:47 the fact that the colors in the flower evolved in order to attract insects to pollinate it is interesting
+02:07:52 it means that insects can see the color it adds a question does this aesthetic sense also exist in
+02:07:59 the lower forms why is it aesthetic all kinds of interesting questions which the science
+02:08:04 knowledge only adds to the excitement the mystery and the awl of a flower

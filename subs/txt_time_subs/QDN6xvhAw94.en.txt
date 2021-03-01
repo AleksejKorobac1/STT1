@@ -1,0 +1,440 @@
+00:00:01 the following is a conversation with Kevin Scott the CTO of Microsoft before that he was the senior vice president of
+00:00:10 engineering and operations at LinkedIn and before that he oversaw mobile ads engineering at Google he also has a
+00:00:19 podcast called behind the tech with Kevin Scott which I'm a fan of this was a fun and wide-ranging conversation that
+00:00:26 covered many aspects of computing it happened over a month ago before the announcement that Microsoft's investment
+00:00:32 open the eye that a few people have asked me about I'm sure there'll be one or two people in the future they'll talk
+00:00:40 with me about the impact of that investment this is the artificial intelligence podcast if you enjoy it
+00:00:48 subscribe on YouTube give it five stars in iTunes supported on a patreon or simply connect
+00:00:53 with me on Twitter at lex friedman spelled fri d-m am and I'd like to give a special thank you to Tom and a lot the
+00:01:02 big housing for their support of the podcast on patreon thanks Tom and alon the-- hope I didn't mess up your last
+00:01:09 name too bad your support means a lot and inspires me to keep the series going and now here's my conversation with
+00:01:19 Kevin Scott you described yourself as a kid in a candy store at Microsoft because of all the interesting projects
+00:01:26 that are going on can you  try to do the impossible task and give a brief whirlwind view of all the spaces that
+00:01:35 Microsoft is working in it was the research and product if you include research it becomes even even more
+00:01:47 difficult so so like I think broadly speaking Microsoft's product portfolio includes everything from a big cloud
+00:01:58 business like a big set of SAS services we have you know sort of the original or like some of what are among the original
+00:02:08 productivity software products that everybody uses we have an operating system business we have a hardware
+00:02:15 this where we make everything from computer mice and headphones high-end high-end personal computers and laptops
+00:02:27 we have a fairly broad ranging research group where like we have people doing everything from economics research so
+00:02:35 like this is really a really smart young economist Glenn Weil who like my group works with a lot who's doing this
+00:02:43 research on these things called radical markets like he's written an entire entire technical book about about this
+00:02:51 whole notion of a radical market so like the research group sort of spans from that human-computer interaction to
+00:02:58 artificial intelligence and we have a we have github we have LinkedIn we have a search advertising and news business and
+00:03:07 and like probably a bunch of stuff that I'm embarrassingly not recounting and in this gaming to Xbox and so on yeah
+00:03:15 gaming for sure like I was I was having a super fun conversation this morning with with Phil Spencer so when I was in
+00:03:23 college there was this game that Lucas arts made called day of the tentacle that my friends and I played forever and
+00:03:32 like we're you know doing some interest in collaboration now with the folks who made day of the tentacle and I was like
+00:03:40 completely nerding out with Tim Schafer like the guy who wrote a day of the tentacle this morning just a complete
+00:03:48 fanboy which you know sort of it like happens a lot like you know Microsoft has been doing so much stuff it's such
+00:03:55 breadth for such a long period of time that you know like being CTO like most of the time my job is very very serious
+00:04:05 and sometimes like I get to I get caught up and like how amazing it is to be able to have the conversations that I have
+00:04:14 with the people I get to have them with you had to reach back into the sentimental and what's the the wreck of
+00:04:20 radical markets and they and they had economics so there the idea with radical markets is like can you come
+00:04:31 up with new market-based mechanisms - you know I think we have this we're having this debate right now like does
+00:04:39 capitalism work like free markets work can the incentive structures that are built into these systems produce
+00:04:49 outcomes that are creating sort of equitably distributed benefits for every member of society you know and I think
+00:04:57 it's a reasonable reasonable set of questions to be asking and so what Glenn and so like you know one motor thought
+00:05:04 they're like if you have doubts that the that the markets are actually working you can sort of like tip towards like
+00:05:10 okay let's let's become more socialist and you know like have central planning and you know governments or some other
+00:05:16 central organization it's like making a bunch of decisions about how you know sort of work gets done and you know like
+00:05:25 where the you know where the investments and where the outputs of those investments get distributed Glenn's
+00:05:34 notion is like lean more into like the market-based mechanism so like for instance you know this is one of the
+00:05:42 more radical ideas like suppose that you had a radical pricing mechanism for assets like real estate where you were
+00:05:53 you could be bid out of your position and in in your home you know for instance so like if somebody came along
+00:06:02 and said you know like I've I can find higher economic utility for this piece of real estate that you're running your
+00:06:11 your business and like then like you either have to you know sort of bid to sort of stay or like the thing that's
+00:06:20 got the higher economic utility you know sort of takes over the asset and which would make it very difficult to have the
+00:06:27 same sort of rent seeking behaviors that you've got right now because like if you did speculative bidding like you would
+00:06:39 you very quickly like lose a whole lot of money and so like the prices of the assets would be sort of like very
+00:06:47 closely index to like the value that they can produce and like because like you'd have this sort of real-time
+00:06:54 mechanism that would force you to sort of mark the value of the asset to the market then it could be taxed
+00:06:59 appropriately like you couldn't sort of sit on this thing and say oh like this house is only worth ten thousand bucks
+00:07:04 when like everything around it is worth ten million let's finish so it's an incentive
+00:07:11 structure that where the prices matched the value much better yeah so the Anglin does a much much better
+00:07:17 job than I do at selling and I probably picked the world's worst example you know and and in but like in its it's
+00:07:24 intentionally provocative you know so like this whole notion like I you know like I I'm not sure whether I like this
+00:07:30 notion that like we could have a set of market mechanisms where I could get bit out of faith that was my property you
+00:07:36 know but but you know like if you're thinking about something like Elizabeth Warren's wealth tax for instance like
+00:07:44 you would have I mean you'd be really interesting in like how you would actually set the the price on the assets
+00:07:51 and like you might have to have a mechanism like that if you put a tax like that in place it's really
+00:07:55 interesting that that kind of research at least tangentially is touching Microsoft Research yeah
+00:08:02 the years really thinking broadly that maybe you can speak to this connects to AI so we have a candidate Andrew yang
+00:08:12 who kind of talks about artificial intelligence and the concern that people have about art you know automations
+00:08:20 impact on society and arguably Microsoft is at the cutting edge of innovation in all these kinds of ways and so it's
+00:08:27 pushing AI forward how do you think about combining all our conversations together here with radical markets and
+00:08:36 socialism and innovation in a item that Microsoft is doing and then Andrew Yang's worried that that that will that
+00:08:46 will result in job loss for the low and so on how do you think about that I think it's sort of one of the most important
+00:08:53 shins and Technology like maybe even in society right now about how is AI going to develop over the course of the next
+00:09:02 several decades and like what's it going to be used for and like what what benefits will it produce and what
+00:09:09 negative impacts will it produce and you know how who gets to steer this whole thing you know I'll say it at the
+00:09:19 highest level one of the real joys of getting to do what I do at Microsoft is Microsoft has this heritage as a
+00:09:28 platform company and so you know like Bill Bill's has this thing that he said a you know a bunch of years ago where
+00:09:35 you know the the measure of a successful platform is that it produces far more economic value for the people who build
+00:09:43 on top of the platform than is creative for the the platform owner or builder and I think we have to think about AI
+00:09:52 that way like satellite form yeah it has to like it has to be a platform that other people can use to build businesses
+00:10:01 to fulfill their creative objectives to be entrepreneurs to solve problems that they have in their work and in their
+00:10:09 lives it can't be a thing where there are a handful of companies sitting in a very small handful of city cities
+00:10:18 geographically who are making all the decisions about what goes into the AIA and and and like and then on top of like
+00:10:27 all this infrastructure then build all of the commercially valuable uses for it so like I think like that's bad from a
+00:10:36 you know sort of you know economics and sort of equitable distribution of value perspective like you know sort of back
+00:10:42 to this whole notion of you know like do the markets work but I think it's also bad from an innovation perspective
+00:10:50 because like I have infinite amounts of faith in human beings that if you you know give folks powerful tools they will
+00:10:59 go do interesting things and it's more than just a few tens of thousands of people with the interesting tools it
+00:11:04 should be millions of people with the tools so sort of like you know you think about the the steam
+00:11:12 engine and the late 18th century like it was you know maybe the first large-scale substitute for human labor that we've
+00:11:21 built like a machine and you know in the beginning when these things are getting deployed the folks who got most of the
+00:11:28 value from the steam engines were the folks who had capital so they could afford to build them and like they built
+00:11:34 factories around them in businesses and the experts who knew how to build and maintain them but access to that
+00:11:43 technology democratized over time like now like like an engine is not a it's not like a differentiated thing like
+00:11:50 there isn't one engine company that builds all the engines and all of the things that use engines are made by this
+00:11:55 company and like they get all the economics from all of that like never like fully democratize like they're
+00:12:01 probably you know we're sitting here in this room and like even though they don't that they're probably things you
+00:12:08 know like the the MEMS gyroscope that are in both of our float like there's like little engines you know sort of
+00:12:14 everywhere they they're just a component and how we build the modern world like AI DS to get there yeah so that's a
+00:12:20 really powerful way to think if we think of AI is a platform versus a tool that Microsoft owns as a platform that
+00:12:29 enables creation yeah on top of it that's a way to democratize it that's really absolutely interesting actually
+00:12:36 and Microsoft in its history has been positioned well to do that and the you know the tie back to the to this radical
+00:12:45 markets thing like the so my team has been working with Glenn on this and Jaron Lanier actually did just so Jaron
+00:12:54 is the like the sort of father of virtual reality like he's one of the most interesting human beings on the
+00:13:03 planet like a sweet sweet guy and so Jaron and Glen and folks in my team have been working on this notion of data as
+00:13:12 labor or like they call it data dignity as well and so the the idea is that if you you know again going back to this
+00:13:20 you know sort of industrial analogy if you think about data is the raw material that is consumed by the machine of AI in
+00:13:31 order to do useful things then like we're not doing a really great job right now and having transparent marketplaces
+00:13:39 for valuing those data contributions so like and we all make them like explicitly like you go to LinkedIn you
+00:13:45 sort of set up your profile on LinkedIn like that's an explicit contribution like you know exactly the information
+00:13:50 that you're putting into the system and like you put it there because you have some nominal notion of like what value
+00:13:57 you're gonna get in return but it's like only nominal like you don't know exactly what value you're getting in return like
+00:14:03 service is free you know like it's low amount of like procedure and then you've got all this indirect contribution that
+00:14:08 you're making just by virtue of interacting with all of the technology that's in your daily life and so like
+00:14:17 what Glen and Jaron and and this data Dignity team are trying to do is like can we figure out a set of mechanisms
+00:14:24 that let us value those data contributions so that you could create an economy and like a set of controls
+00:14:33 and incentives that would allow people to like maybe even in the limit like earn part of their living through the
+00:14:41 data that they're creating and like you can sort of see it in explicit ways they're these companies like scale AI
+00:14:47 and like they're a whole bunch of them in in China right now that are basically data labeling companies so like you
+00:14:54 you're doing supervised machine learning you need you need lots and lots of label training data and like those people are
+00:15:01 getting competent like who worked for those companies are getting compensated for their data contributions into the
+00:15:08 system and so that's easier to put a number on their contribution because they're explicitly labeling they're
+00:15:13 correct but you're saying that we're all contributing data in all kinds of ways and it's fascinating to start to
+00:15:20 explicitly try to put a number on it do you think that's you that's possible I don't know it's hard it really is
+00:15:29 because you know we don't have as much transparency as is I think we need in like how the data
+00:15:38 is getting used and it's you know super complicated like you know we we you know I think it's technologists sort of
+00:15:43 appreciate like some of the subtlety there it's like you know the data the data gets created and then it gets you
+00:15:53 know it's not valuable like the the data exhaust that you give off or the you know the explicit data that I am putting
+00:16:02 into the system isn't value valuable it's super valuable atomically like it's only valuable when you sort of aggregate
+00:16:10 it together and you know sort of large numbers it's true even for these like folks who are getting compensated for
+00:16:15 like labeling things like for supervised machine learning now like you need lots of labels to train a you know a model
+00:16:22 that performs well and so you know I think that's one of the challenges it's like how do you you know how do you sort
+00:16:28 of figure out like because this data is getting combined in so many ways like through these combinations like how the
+00:16:36 value is flowing yeah that's that's that's tough yeah and it's fascinating that you're thinking about this and I
+00:16:43 wish I wasn't even going to this conversation expecting the breadth of research really that Microsoft broadly
+00:16:51 is thinking about you are thinking about it Microsoft so if we go back to 89 when Microsoft released office or 1990 when
+00:17:04 they at least windows 3.0 house.the in your view I know you weren't there the entire you know there was history but
+00:17:10 how is the company changed in the 30 years since as you look at it now the good thing is it's started off as a
+00:17:19 platform company like it's still a platform company like the parts of the business that are like thriving and most
+00:17:25 successful or those that are building platforms like the mission of the company now is the missions change it's
+00:17:33 like changing a very interesting way so you know back in 89 90 like they were still on the original mission which was
+00:17:43 like put a PC on every desk and in every home like in it was basically about democratizing access to
+00:17:49 this new personal computing technology which when Bill started the company integrated circuit micro processors were
+00:17:58 a brand-new thing and like people were building you know homebrew computers you know from kits like the way people build
+00:18:09 ham radios right now yeah and I think this is sort of the interesting thing for folks who build platforms in general
+00:18:17 Bill saw the opportunity there and what personal computers could do and it was like it was sort of a reach like you
+00:18:22 just sort of imagined like where things were you know when they started the company versus where things are now like
+00:18:28 in success when you've democratized a platform it just sort of vanishes into the platform you don't pay attention to
+00:18:33 it anymore like operating systems aren't a thing anymore like they're super important like completely critical and
+00:18:40 like you know when you see one you know fail like you you just you sort of understand but like you know it's not a
+00:18:45 thing where you're you're not like waiting for you know the next operating system thing in the same way that you
+00:18:53 were in 1995 right that's like in 1995 like you know we have Rolling Stones on the stage with the windows 95 rollout
+00:18:58 like it was like the biggest thing in the world everybody was lined up for it the way that people used to line up for
+00:19:04 iPhone but like you know eventually and like this isn't necessarily a bad thing like it just sort of you know it the
+00:19:12 success is that it's sort of it becomes ubiquitous it's like everywhere and like human beings when their technology
+00:19:17 becomes ubiquitous they just sort of start taking it for granted so the mission now that Satya Ari articulated
+00:19:25 five plus years ago now when he took over as CEO of the company a mission is to empower every individual
+00:19:35 and every organization in the world to be more successful and so you know again like that's a platform mission and like
+00:19:45 the way that we do it now is is different it's like we have a hyper scale cloud that cloud or building our
+00:19:52 applications on top of like we have a bunch of AI infrastructure that people are building their AI applications on
+00:19:59 top of we have you know we have a productivity suite of software like Microsoft Dynamics which you know some
+00:20:07 people might not think is the sexiest thing in the world but it's like helping people figure out how to automate all of
+00:20:12 their business processes and workflows and you know like help those businesses using it to like grow and be more so so
+00:20:23 it's it's a much broader vision in a way now than it was back then like it was sort of very particular thing and like
+00:20:29 now like we live in this world where technology is so powerful and it's like such a basic fact of life that it you
+00:20:40 know that it it both exist and is going to get better and better over time or at least more and more powerful over time
+00:20:47 so like you know what you have to do is a platform player is just much bigger right there's so many directions in
+00:20:53 which you can transform you didn't mention mixed reality yeah you know that's yep that's that's probably early
+00:21:00 days or depends how you think of it but if we think on a scale of centuries just the early days of mixed reality
+00:21:07 oh for sure and so yeah with hololens the Microsoft is doing some really interesting work there do you touch that
+00:21:14 part of the effort what's the thinking do you think of mixed reality as a platform to know sure when we look at
+00:21:20 what the platform's of the future could be so like fairly obvious that like AI is one like you don't have to I mean
+00:21:27 like that's you know you sort of say it like someone and you know like they get it but like we also think of the like
+00:21:37 mixed reality and quantum is like these two interesting you know potential computing yeah okay so let's get crazy
+00:21:47 then so so you're talking about some futuristic things here well the mixed reality Microsoft is
+00:21:52 really it's not even feature a stick is here it is incredible stuff and it in look and it's heaven and it's having
+00:21:57 impact right now like one of the one of the more interesting things this happened with NYX reality over the past
+00:22:03 couple of years that I didn't clearly see is that it's become the computing device for for folks who for doing their
+00:22:15 work who haven't used any computing device at all to do their work before so technicians and service folks and people
+00:22:23 who are doing like machine maintenance some factory floors so like they you know but because they're mobile and like
+00:22:30 they're out in the world and they're working with their hands and you know sort of servicing these like very
+00:22:37 complicated things they're they don't use their mobile phone and like they don't carry a laptop with them and you
+00:22:43 know they're not tethered to a desk and so mixed reality like where it's getting traction right now where hololens is
+00:22:51 selling a lot of a lot of units is for these sorts of applications for these workers and it's become like I mean like
+00:22:58 the people love it they're like oh my god like this is like for them like the same sort of productivity boost that you
+00:23:05 know like an office worker had when they got their first personal computer yeah but you did mention it's really obvious
+00:23:14 AI as a platform but can we dig into it a little bit red how does a I begin to infuse some of the products in Microsoft
+00:23:24 so currently providing training of for example neural networks in the cloud yeah we're providing put pre train
+00:23:34 models or just even providing computing resources whatever different inference that you want to do using you on that
+00:23:41 works yep well how do you think of AI infusing the as a platform that Microsoft can provide yeah I mean I
+00:23:48 think it's it's super Android it's like everywhere and like we we run these we run these review meetings
+00:24:00 now where it's be and satya and like members of sathyas leadership team and like a cross-functional group of folks
+00:24:06 across the entire company who are working on like either AI infrastructure or like have some substantial part of
+00:24:20 their of their product work using AI in some significant way now the important thing to understand is like when you
+00:24:27 think about like how the AI is gonna manifest in like an experience for something that's gonna make it better
+00:24:35 like I think you don't want the a eyeness to be the first-order thing it's like whatever the product is and like
+00:24:43 the thing that is trying to help you do like the AI just sort of makes it better and it you know this is a gross
+00:24:50 exaggeration but like i yet people get super excited about like where the AI is showing up in products and i'm like do
+00:24:56 you get that excited about like where you using a hash table that code like it's just another just the tool it's a
+00:25:04 very interesting programming tool but it's sort of a like it's an engineering tool and so like it shows up everywhere
+00:25:12 so like we've got dozens and dozens of features now in office that are powered by like fairly sophisticated machine
+00:25:21 learning our search engine wouldn't work at all if you took the machine learning out of it the like increasingly you know
+00:25:32 things like content moderation on our Xbox and X cloud platform you know when you mean moderation to be like the
+00:25:39 recommenced it's like showing what you want to look at next no no it's like anti-bullying so that's that so you use
+00:25:46 your social network stuff they yeah deal with yeah correct but it's like really it's targeted it's targeted towards a
+00:25:52 gaming audience so it's like a very particular type of thing where you know the the line between playful banter and
+00:26:01 like legitimate bullying is like a subtle one and like you have to like it's sort of tough like I have
+00:26:09 I'd love to if we could dig into it because you're also you let the engineering efforts to LinkedIn yep and
+00:26:16 if we look at if we look at LinkedIn as a social network yeah and if we look at the Xbox gaming is the social components
+00:26:23 the very different kinds of I imagine communication going on on the two platforms yeah right and the line in
+00:26:29 terms of bullying and so on is different on the GUP platforms so how do you I mean in such a fascinating philosophical
+00:26:37 discussion of where that line is I don't think anyone knows the right answer Twitter folks are under fire now Jack a
+00:26:44 Twitter for trying to find that line nobody knows what that line is but how do you try to find the line for you know
+00:26:58 trying to prevent abusive behavior and at the same time let people be playful and joke around and that kind of thing I
+00:27:04 think in a certain way like even if you have what I would call vertical social networks it gets to be a little bit
+00:27:13 easier so like if you have a clear notion of like what your social network should be used for or like what you are
+00:27:23 designing a community around then you don't have as many dimensions to your sort of content safety problem as you
+00:27:33 know as you do in a general purpose I mean so like on on LinkedIn like the whole social network is about connecting
+00:27:41 people with opportunity whether it's helping them find a job or to you know sort of find mentors or to you know sort
+00:27:51 of help them like find their next sales leave or to just sort of allow them to broadcast their their you know sort of
+00:28:02 professional identity to their their network of peers and collaborators and you know sort of professional community
+00:28:09 like that is I mean in like in some ways like that's very very broad but in other ways it's sort of you know it's narrow
+00:28:19 and so like you can build a eyes like machine learning systems that are you know capable with those boundaries
+00:28:27 of making better automated decisions about like what is you know sort of inappropriate and offensive comments or
+00:28:34 dangerous comments or illegal content when you have some constraints you know same thing with the same thing with like
+00:28:43 the gaming gaming social network sufferance it's like it's about playing games not having fun and like the thing
+00:28:49 that you don't want to have happen on the platform it's why bullying is such an important thing like bullying is not
+00:28:55 fun and also you want to do everything in your power to encourage that not to happen and yeah I but I think it's it's
+00:29:04 sort of a tough problem in general it's one where I think you know eventually we're gonna have to have some sort of
+00:29:13 clarification from our policymakers about what it is that we should be doing like where the lines are because it's
+00:29:23 tough like you don't like in democracy right like you don't want you want some sort of democratic involvement like
+00:29:31 people should have a say in like where where the lines lines are drawn like you don't want a bunch of people making like
+00:29:40 unilateral decisions and like we are in a we're in a state right now for some of these platforms where you actually do
+00:29:46 have to make unilateral decisions where the policy-making isn't gonna happen fast enough in order to like prevent
+00:29:52 very bad things from happening but like we need the policy-making side of that to catch up I think is as quickly as
+00:30:00 possible because you want that whole process to be a democratic thing not a you know not not some sort of weird
+00:30:06 thing where you've got a non representative group of people making decisions that have you know like
+00:30:12 national and global impact as fascinating because the digital space is different than the physical space and
+00:30:18 which nations and governments were established and so what policy looks like globally what bullying looks like
+00:30:27 globally what healthy communication looks like global is there's open question and we're offering and freaking
+00:30:31 it out yeah I mean with you know sort of fake news for instance and deep fakes and
+00:30:43 fake news generated by humans yeah so even we can talk about defects like I think that is another like you know sort
+00:30:48 of very interesting level of complexity but like if you think about just the written word right like we have you know
+00:30:54 we invented papyrus what's three thousand years ago where we you know you could sort of put put word on on paper
+00:31:05 and then five hundred years ago like we we get the printing press like where the word gets a little bit more ubiquitous
+00:31:13 and then like you really really didn't get ubiquitous printed word until the end of the nineteenth century when the
+00:31:21 offset press was invented and then you know just sort of explodes and like you know the cross-product of that and the
+00:31:30 industrial revolutions need for educated citizens resulted in like this rapid expansion of literacy and the rapid
+00:31:36 expansion of the word but like we had three thousand years up to that point to figure out like how to you know like
+00:31:45 what's what's journalism what's editorial integrity like what's you know what's scientific peer review and so
+00:31:52 like he built all of this mechanism to like try to filter through all of the noise that the technology made possible
+00:32:01 to like you know sort of getting to something that society could cope with and like if you think about just the
+00:32:08 piece the PC didn't exist fifty years ago and so in like this span of you know like half a century like we've gone from
+00:32:17 no digital you know no ubiquitous digital technology to like having a device that sits in your pocket where
+00:32:23 you can sort of say whatever is on your mind to like what would it Mary Heaven or mary meeker just released her new
+00:32:32 like slide deck last week you know we've got 50 percent penetration of the the internet to the global population like
+00:32:39 they're like three and a half billion people who are connected now it's it's like it's crazy crazy croelick
+00:32:45 inconceivable like how all of this happens so you know it's not surprising that we haven't figured out
+00:32:52 what to do yet but like I gotta like we got a really like lean into this set of problems because like we basically have
+00:33:00 three millennia worth of work to do about how to deal with all of this and like probably what yeah amounts to the
+00:33:07 next decade worth of time so since were on the topic of tough tough you know tough challenging problems let's look at
+00:33:15 more on the tooling side in AI that Microsoft is looking at space recognition software so there's there's
+00:33:21 a lot of powerful positive use cases yeah for face recognition but there's some negative ones and we're seeing
+00:33:27 those in different governments in the world so how do you how does Microsoft think about the use of face recognition
+00:33:36 software as a platform in governments and companies yeah how do we strike an ethical balance here yeah I think we've
+00:33:47 articulated a clear point of view so Brad Smith wrote a blog post last fall I believe this sort of like outline like
+00:33:57 very specifically what you know whatever what our point of view is there and you know I think we believe that there are
+00:34:03 certain uses to which face recognition should not be put and we believe again that there's a need for regulation there
+00:34:11 like the the government should like really come in and say that you know this is this is where the lines are and
+00:34:19 like we very much wanted to like figuring out where the lines are should be a democratic process but in the short
+00:34:24 term like we've drawn some lines where you know we push back against uses of face recognition technology you know
+00:34:33 like this city of San Francisco for instance I think is completely outlawed any government agency from using face
+00:34:42 recognition tech and like that may prove to be a little bit overly broad but for like certain law enforcement things like
+00:34:53 you you really III would personally rather be overly sort of cautious in terms of restricting use of it until
+00:34:59 like we have you know to find a reasonable democratically determined regulatory framework for like
+00:35:08 where we we could and should use it and you know the the other thing there is like we've got a bunch of research that
+00:35:15 we're doing and a bunch of progress that we've made on on bias there and like there all sorts of like weird biases
+00:35:23 that these models can have like all the way from like the most noteworthy one underrepresented minorities who are like
+00:35:34 underrepresented in the training data and then you start learning like strange things but like they're they're even you
+00:35:43 know other weird things like we've I think we've seen in the public research like models can learn strange things
+00:35:53 like all doctors or men for instance just yeah i mean so like it really is a thing where it's very important for
+00:36:04 everybody who is working on these things before they push publish they launch the experiment they you know push the code
+00:36:16 you know online or they even publish the paper that they are at least starting to think about what some of the potential
+00:36:25 negative consequences are some of this stuff i mean this is where you know like the deep fake stuff I find very
+00:36:35 worrisome just because there gonna be some very good beneficial uses of like Gann generated imagery and I and funny
+00:36:48 enough like one of the places where it's actually useful is we're using the technology right now to generate
+00:36:58 synthetic synthetic visual data for training some of the face recognition models to get rid of the bias right so
+00:37:05 like that's one like super good use of the tech but like you know it's getting good enough now
+00:37:10 where you know it's gonna sort of challenge normal human beings ability to like now you're just sort of say like
+00:37:19 it's it's very expensive for someone to fabricate a photorealistic fake video and like ganzar gonna make it
+00:37:27 fantastically cheap to fabricate a photorealistic fake video and so like what you assume you can sort of trust as true versus
+00:37:37 like be skeptical about is about to change yeah and like we're not ready for it I don't think the nature of truth right
+00:37:44 that's  it's also exciting because I think both you and I probably would agree that the way to solve to take on
+00:37:52 that challenge is with technology yeah right there's probably going to be ideas of ways to verify which which kind of
+00:38:00 video is legitimate which kind of is not so to me that's an exciting possibility most most likely for just the comedic
+00:38:09 genius that the internet usually creates with these kinds of videos yeah and hopefully will not result in any serious
+00:38:17 harm yeah and it could be you know like I think we will have technology too that may be able to detect whether or not
+00:38:26 something's fake a real although yeah the the fakes are pretty convincing even like when you subject them to machine
+00:38:36 scrutiny but you know that we we also have these increasingly interesting social networks you know that are under
+00:38:43 fire right now for some of the bad things that they do like one of the things you could choose
+00:38:50 to do with a social network is like you could you could use crypto and the networks to like have content signed
+00:39:00 where you could have a like full chain of custody that accompanied every piece of content so like when you're viewing
+00:39:07 something and like you want to ask yourself like how you know how much can I trust this like you can click
+00:39:14 something and like have a verified chain of custody that shows like oh this is coming from you know from this source
+00:39:20 and it's like sign I like someone whose identity I trust yeah yeah I think having that you know
+00:39:26 having that Chain of Custody like being able to like say oh here's this video like it may or may not have been
+00:39:33 produced using some of this deep fake technology but if you've got a verified Chain of Custody where you can sort of
+00:39:38 trace it all the way back to an identity and you can decide whether or not like I trust this identity like oh no this is
+00:39:43 really from the White House or like this is really from the you know the office of this particular presidential
+00:39:50 candidate or it's really from you know Jeff Weiner CEO of of LinkedIn or Satya Nadella CEO Microsoft like that might
+00:39:58 that might be like one way that you can solve some of the problems and so like that's not the super high tech like
+00:40:03 we've had all of this technology forever and back but I think you're right like it has to it has to be some sort of
+00:40:13 technological thing because the the underlying tech that is used to create this isn't not going to do anything but
+00:40:19 get better over time and the genie is sort of out of the bottle there's no stuffing it back in and
+00:40:24 there's a social component which i think is really healthy for a democracy where people be skeptical about the thing they
+00:40:33 watch yeah in general so you know which is good skepticism in general is good and it's good content so deep fakes in
+00:40:41 that sense of creating global skepticism about can they trust what they read it encourages further research I come from
+00:40:51 the Soviet Union where basically nobody trusted the media because you knew it was propaganda and that encouraged that
+00:40:58 kind of skepticism encouraged further research about ideas yeah posters just trusting any one
+00:41:03 source look I think it's one of the reasons why the the you know the scientific method and our apparatus of
+00:41:12 modern science is so good like because you don't have to trust anything like you like the whole notion of you know
+00:41:20 like modern science beyond the fact that you know this is a hypothesis and this is an experiment to test the hypothesis
+00:41:26 and you know like this is a peer review process for scrutinizing published results but like stuffs also supposed to
+00:41:34 be reproducible so like you know it's been better by this process but like you also are
+00:41:38 expected to publish enough detail where you know if you are sufficiently skeptical of the thing you can go try to
+00:41:45 like reproduce it yourself and like I I don't know what it is like I think a lot of Engineers are like this where like
+00:41:52 you know sort of this like your brain is sort of wired for for scepticism like you don't just first order trust
+00:42:00 everything that you see an encounter and like you're sort of curious to understand you know the next thing but
+00:42:07 like I think it's an entirely healthy healthy thing and like we need a little bit more of that right now so I'm not a
+00:42:17 large business owner so I'm just I'm just a huge fan of many of Microsoft products I mean I still actually in
+00:42:26 terms of I generate a lot of graphics and images and I still use PowerPoint to do that it beats illustrator for me even
+00:42:33 professional a sort of is this fascinating so I wonder what is the future of let's say windows and office
+00:42:44 look like is do you see it I mean I remember looking forward to XP wasn't exciting yep when XP was released just
+00:42:50 like you said I don't remember when 95 was released but xp for me it was a big celebration and and 110 came out I was
+00:42:57 like okay what's nice it's a nice improvement but yeah so what do you see is the future of these products and you
+00:43:04 know I think there's a bunch of exciting I mean though in the office front there's going to be this like increasing
+00:43:14 productivity winds that are coming out of some of these AI powered features that are coming like the products are
+00:43:20 sort of get smarter and smarter in like a very subtle way like there's not gonna be this Big Bang moment where you know
+00:43:27 like Clippy is gonna reimagined it's gonna wait a minute okay well have that wait wait wait
+00:43:33 Clippy coming back in but quite seriously so injection of AI there's not much or at least I'm not familiar sort of
+00:43:41 assistive type of stuff going on inside the office products in like a clippie style a
+00:43:47 assistant personal assistant do you think that there's a possibility of the future alright so I think they're a
+00:43:55 bunch of like very small ways in which like machine learning power and assistive things are in the product
+00:44:03 right now so there are there a bunch of interesting things like the auto response stuffs getting better and
+00:44:10 better and it's like getting to the point where you know it can auto respond with like okay let you know this person
+00:44:18 is clearly trying to schedule a meeting so it looks at your calendar and it automatically electrons to fines like a
+00:44:25 time in a space that's mutually interesting like we we have this notion of Microsoft search where it's like not
+00:44:35 just web search but it's like search across like all of your information that's sitting inside of like your
+00:44:45 office 365 tenant and like you know potentially in other products and like we have this thing called the Microsoft
+00:44:51 graph that is basically a API federated at you know sort of like gets you hooked up across the entire breadth of like all
+00:45:00 of the you know like what were information silos before they got woven together with the graph like that is
+00:45:08 like getting increasing with increasing effectiveness sort of plumbed into the into some of these auto-response things
+00:45:15 where you're gonna be able to see the system like automatically retrieve information for you like if you know
+00:45:21 like I frequently send out you know emails to folks were like I can't find a paper or a document or whatnot there's
+00:45:26 no reason why the system won't be able to do that for you and like I think the the its building towards like having
+00:45:34 things that look more like like a fully integrated you know assistant but like you'll have a bunch of steps that you
+00:45:43 will see before you like it will not be this like Big Bang thing where like Clippy comes back and you've got this
+00:45:49 like you know manifestation of you know like a fully fully powered assistant so I think that's that's definitely
+00:45:57 coming in like all of the you know collaboration co-authoring stuff's getting better you know it's like really
+00:46:04 interested like if you look at how we use like the office product portfolio at Microsoft like more and more of it is
+00:46:13 happening inside of like teams as a canvas and like it's this thing where you know you've got collaboration is
+00:46:22 like at the center of the product and like we we built some like really cool stuff that's some of which is about to
+00:46:30 be open source that are sort of framework level things for doing for doing co-authoring so in is there a
+00:46:40 cloud component to that so on the web or is it I forgive me if I don't already know this but with office 365 we still
+00:46:47 the collaboration would do if you're doing word which still send the file around no advice yeah this is it
+00:46:54 we're already a little bit better than that and like you know so the fact that you're unaware of it means we've got a
+00:46:59 better job to do feel like helping you discover discover this stuff but yeah I mean it's already like got a huge huge
+00:47:08 clock but and like part of you know part of this framework stuff I think we're calling it like I like we've been
+00:47:14 working on it for a couple years so like I know the the internal code name for it but I think when we launched it a bill
+00:47:23 is called a fluid framework and but like what fluid lets you do is like you can go into a conversation that you're
+00:47:28 having in teams and like reference like part of a spreadsheet that you're working on where somebody's like sitting
+00:47:36 in the Excel canvas like working on the spreadsheet with a you know chart or whatnot and like you can sort of embed
+00:47:42 like part of the spreadsheet in the team's conversation where like you can dynamically update it and like all of
+00:47:49 the changes that you're making to the to this object are like you know coordinate and everything is sort of updating in
+00:47:56 real time so you can be in whatever canvas is most convenient for you to get your work done so I out of my own sort
+00:48:04 of curiosity is engineer I know what it's like to sort of lead a team of 10 50 Engineers Microsoft has I don't know
+00:48:12 what the numbers are maybe fifty maybe sixty thousand engineers with a lot more genius I don't know exactly what the
+00:48:17 number is it's a lot it's it's tens of thousands sites this is more than ten or fifteen what I mean you've  you've led
+00:48:29 different sizes mostly large size of Engineers what does it take to lead such a large group into a continued
+00:48:39 innovation continue being highly productive and yet develop all kinds of new ideas and yet maintain like what
+00:48:46 does it take to lead such a large group of brilliant people I think the thing that you learn as you manage larger and
+00:48:57 larger scale is that there are three things that are like very very important for big engineering teams like one is
+00:49:05 like having some sort of forethought about what it is that you're gonna be building over large periods of time like
+00:49:12 not exactly like you don't need to know that like you know I'm putting all my chips on this one product and like this
+00:49:18 is gonna be the thing but like it's useful to know like what sort of capabilities you think you're going to
+00:49:24 need to have to build the products of the future and then like invest in that infrastructure like whether and I like
+00:49:30 I'm not just talking about storage systems or cloud api's it's also like what does your development process look
+00:49:37 like what tools do you want like what culture do you want to build around like how you're you know sort of
+00:49:43 collaborating together to like make complicated technical things and so like having an opinion and investing in that
+00:49:49 is like it just gets more and more important and like the sooner you can get a concrete set of opinions like the
+00:49:58 better you're going to be like you can wing it for a while small scales like you know when you start a company like
+00:50:04 you don't have to be like super specific about it but like the biggest miseries that I've ever seen as an engineering
+00:50:13 leader are in places where you didn't have a clear enough opinion about those things soon enough and then you just
+00:50:19 sort of go create a bunch of technical debt and like culture debt that is excruciating ly painful to to clean up
+00:50:28 so like that's one bundle of things like the other the other you know another bundle of things is like it's just
+00:50:39 really really important to like have a clear mission that's not just some cute crap you say because like you think you
+00:50:49 should have a mission but like something that clarifies for people like where it is that you're headed together like I
+00:50:58 know it's like probably like a little bit too popular right now but you've all her re book sapiens one of the central
+00:51:12 ideas and in his book is that like storytelling is like the quintessential thing for coordinating the activities of
+00:51:20 large groups of people like once you get past Dunbar's number and like I've really really seen that just managing
+00:51:29 engineering teams like you you can you can just brute force things when you're less than 120 hundred fifty folks where
+00:51:37 you can sort of know and trust and understand what the dynamics are between all the people but like past that like
+00:51:43 things just sort of start to catastrophic ly fail if you don't have some sort of set of shared goals that
+00:51:51 you're marching towards and so like even though it sounds touchy-feely and you know like a bunch of technical people
+00:51:57 will sort of balk at the idea that like you need to like have a clear like the missions like very very very important
+00:52:05 you've always write write stories that's how our society that's the fabric that connects us all of us is these powerful
+00:52:12 stories and that works for companies - and it works for everything like it mean even down to like you know you sort of
+00:52:18 really think about like a currency for instance is a story a constitution is a story our laws or story I mean like we
+00:52:27 believe very very very strongly in them and thank God we do but like they are there they're just
+00:52:33 abstract things like they're just words it's like we don't believe in them they're nothing
+00:52:38 and in some sense those stories are platforms and the kinds some of which Microsoft is creating right you have
+00:52:46 platforms on which we define the future so last question what do you think if philosophical maybe bigger than you know Microsoft
+00:52:55 what do you think the next 20 30 plus years looks like for computing for technology for devices do you have crazy
+00:53:04 ideas about the future of the world yeah look I think we you know we're entering this time where we've got we have
+00:53:13 technology that is progressing at the fastest rate that it ever has and you've got you get some really big social
+00:53:23 problems like society scale problems that we have to we have to tackle and so you know I think we're gonna rise to the
+00:53:29 challenge and like figure out how to intersect like all of the power of this technology with all of the big
+00:53:35 challenges that are facing us whether it's you know global warming whether it's like the biggest remainder of the
+00:53:44 population boom is in Africa for the next 50 years or so and like global warming is gonna make it increasingly
+00:53:51 difficult to feed global population in particular like in this place where you're gonna have like the biggest
+00:53:59 population boom I think we you know like AI is gonna like if we push it in the right direction like you can do like
+00:54:07 incredible things to empower all of us to achieve our full potential and to you know like live better lives but like
+00:54:21 that also means focus on like some super important things like how can you apply it to health care to make sure that you
+00:54:29 know like air quality and cost oh and in sort of ubiquity of health coverage is is better and better over time like
+00:54:37 that's more and more important every day is like in the in the United States and like the rest of the industrialized were also
+00:54:46 in Europe China Japan Korea like you've got this population bubble of like aging working you know working aged folks who
+00:54:55 are you know at some point over the next 20-30 years they're gonna be largely retired and like you you're gonna have
+00:55:00 more retired people than working age people and then like you've got you know sort of natural questions about who's
+00:55:06 gonna take care of all the old folks and who's gonna do all the work and the the answers to like all of these sorts of
+00:55:11 questions like where you're sort of running into you know like constraints of the you know the the world and of
+00:55:20 society has always been like what tech is gonna like help us get around this you know like when I was when I was a
+00:55:26 kid in the seventies and eighties like we talked all the time about like oh like population boom population boom
+00:55:32 like we're gonna like we're not gonna be able to like feed the planet and like we were like right in the middle of the
+00:55:40 Green Revolution we're like this this massive technology driven increase in crop productivity like worldwide and
+00:55:48 like some of that was like taking some of the things that we knew in the West and like getting them distributed to the
+00:55:55 you know to the to the developing world and like part of it were things like you know just smarter biology like helping
+00:56:04 us increase and like we don't talk about like yep overpopulation anymore because like we can more or less we sort of
+00:56:12 figured out how to feed the world like that's a that's a technology story and so like I'm super super hopeful about
+00:56:22 the future and in the ways where we will be able to apply technology to solve some of these super challenging problems
+00:56:31 like I've I've like one of the things that I I'm trying to spend my time doing right now is trying to get everybody
+00:56:37 else to be hopeful as well because you know back to the Harare like we we are the stories that we tell like if we you
+00:56:43 know if we get overly pessimistic right now about like the the potential future of technology like we you know like we
+00:56:53 may fail to fail to get all the things in place that we need to like have our best possible future and that kind of
+00:57:00 hopeful optimism I'm glad that you have it because you're leading large groups of engineers that are actually defining
+00:57:06 that are writing that story that are helping build that future which is super exciting and I agree with everything you
+00:57:14 said except I do hope cliff he comes back haha we miss him I speak for the people Alan thank you so much for talking to
