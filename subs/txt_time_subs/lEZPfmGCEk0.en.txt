@@ -1,0 +1,328 @@
+00:00:01 the following is a conversation with Gilbert Strang he's a professor of mathematics at MIT and perhaps one of
+00:00:08 the most famous and impactful teachers of math in the world his MIT opencourseware lectures on linear
+00:00:14 algebra have been viewed millions of times as an undergraduate student I was one of those millions of students
+00:00:21 there's something inspiring about the way he teaches there's at once calm simple and yet full of passion for the
+00:00:28 elegance inherent to mathematics I remember doing the exercises in his book introduction of linear algebra and
+00:00:35 slowly realizing that the world of matrices of vector spaces of determinants and eigenvalues of
+00:00:41 geometric transformations and matrix decompositions reveal a set of powerful tools in the toolbox of artificial
+00:00:49 intelligence from signals to images from miracle optimization to robotics computer vision deep learning computer
+00:00:56 graphics and everywhere outside AI including of course a quantum mechanical study of our universe this is the
+00:01:04 artificial intelligence podcast if you enjoy it subscribe on YouTube give it five stars an apple podcast support on
+00:01:11 patreon or simply connect with me on Twitter Alex Friedman spelled Fri D ma N this podcast is supported by zip
+00:01:20 recruiter hiring great people is hard and to me is the most important element of a successful mission driven team I've
+00:01:28 been fortunate to be a part of and to lead several great engineering teams the hiring I've done in the past was mostly
+00:01:35 the tools that we built ourselves but reinventing the wheel was painful so zip recruiters a tool that's already
+00:01:41 available for you it seeks to make hiring simple fast and smart for example codable co-founder Gretchen
+00:01:49 Abner used the recruiter to find a new game artist to join her education tech company by using zip recruiter screening
+00:01:55 questions to filter candidates Gretchen found it easier to focus on the best candidates and finally hiring the
+00:02:03 perfect person for the role in less than two weeks from start to finish zip recruiter the smartest way to hire
+00:02:10 CY zip recruiter is effective for businesses of all sizes by signing up as I did for free a zip recruiter comm
+00:02:18 slash FlexPod that's zip recruiter calm slash Lex pod this show is presented by cash app the
+00:02:26 number one finance app in the App Store I personally use cash app to send money to friends but you can also use it to
+00:02:33 buy sell and deposit Bitcoin most Bitcoin exchanges take days for bank transfer to become investable through
+00:02:40 cash up it takes seconds cash app also has a new investing feature you can buy a fraction of stock which to me is a
+00:02:47 really interesting concept so you can buy $1 worth no matter what the stock price is brokerage services are provided
+00:02:55 by cash app investing a subsidiary of square and member si PC I'm excited to be working with cash app to support one
+00:03:03 of my favorite organizations that many of you may know and have benefited from called first best known for their first
+00:03:10 robotics and Lego competitions they educate and inspire hundreds of thousands of students in over 110
+00:03:17 countries and have a perfect rating and Charity Navigator which means the donated money is used to maximum
+00:03:25 effectiveness when you get cash app from the App Store or Google Play and use code Lex podcast you get ten dollars in
+00:03:32 cash app will also donate ten dollars to the first which again is an organization that I've personally seen inspire girls
+00:03:39 and boys to dream of engineering a better world and now here's my conversation with Gilbert Strang how
+00:03:49 does it feel to be one of the modern-day rock stars of mathematics I don't feel like a rock star that's kind of crazy
+00:03:59 for old math person but it's true that the videos in linear algebra that I made way back in 2000 I think I've been
+00:04:12 watched a lot and well it's partly the importance of linear algebra which way I'm sure you'll ask me and give me a
+00:04:19 chance to say that linear algebra as a subject has just surged in importance but also I it was a class that I taught
+00:04:28 a bunch of times so I kind of got it organized and any I'm enjoy doing it was just the videos were just the class so
+00:04:36 they're on OpenCourseWare and YouTube and translated that's fun but there's something about that chalkboard
+00:04:43 in the and the simplicity of the way you explain the basic concepts in the beginning I you know to be honest when I
+00:04:51 went to undergrad you know do linear algebra broadly of course this lineage I before going through the course at my
+00:05:01 university I was going through open courseware I was you were my instructor oh yeah you're right yeah and that I
+00:05:08 mean we're using your book and I mean that that the fact that there is thousands you know hundreds of thousands
+00:05:15 millions of people that watch that video I think that's yeah that's really powerful so how do you think the idea of
+00:05:24 putting lectures online would really MIT OpenCourseWare has innovated that was a wonderful idea
+00:05:32 you know I think the story that I've heard is the committee committee was appointed by the president president
+00:05:40 vest at that time a wonderful guy and the idea of the committee was to figure out how a mighty could make be like
+00:05:50 other universities market the market work we were doing and then they didn't see away and after a weekend and they
+00:05:58 had an inspiration came back to the president vest and said what if we just gave it away and he decided that was ok
+00:06:09 good idea so that's a crazy idea that's  if we think of a university is a thing that creates a product yes isn't
+00:06:18 knowledge right the you know the kind of educational knowledge isn't the products and giving that away are you surprised
+00:06:26 that you went through it the result that he did it well knowing a little bit president vest it was like him I think
+00:06:36 and and it was really the right idea you know MIT as I kind of it's known for being high level technical things and
+00:06:48 and this is the best way we can say tell we can show what MIT really is like because the the
+00:06:57 in my case those 1806 videos are just teaching the class they were there in 26100 they're kind of fun to look at
+00:07:07 people write to me and say oh you've got a sense of humor but I don't know where that comes through somehow I big
+00:07:14 friendly with a class I like students and and then your algebra the subject we got to give this subject most of the
+00:07:26 credit it it really has come forward and importance in these years so let's talk about linear algebra a little bit
+00:07:34 because it is such a it's both a powerful and a beautiful a subfield of mathematics so what's your favorite
+00:07:44 specific topic in linear algebra or even math in general to give a lecture on to convey to tell a story to teach students
+00:07:54 okay well on the teaching side so it's not deep mathematics at all but I I'm kind of proud of the idea of the four
+00:08:03 subspaces there are four fundamental subspaces which are of course known before long before my name for them but can you go
+00:08:15 through them can you go through the future I can yes so the first one to understand is so the matrix is maybe I
+00:08:23 should say the matrix what is the matrix what's a matrix well so we have a like a rectangle of numbers so it's got n columns
+00:08:34 got a bunch of columns and also got an M rows let's say and the relation between so of course the columns and the rows
+00:08:43 it's the same numbers so there's got to be connections there but they're not simple the they're much the columns
+00:08:50 might be longer than the rows and they've all different the numbers are mixed up first space to think about is
+00:08:58 take the columns so those are vectors those are points in n dimensions what's the vector so a physicist would imagine
+00:09:07 a vector or might imagine a vector as a arrow you know in space or the point it ends at in space for me it's a column of
+00:09:20 numbers does it you often think of this is very interesting in terms of linear algebra of a vector you think a little
+00:09:28 bit more abstract than the how it's very commonly used perhaps yeah you think this arbitrary Speight multi-dimensional
+00:09:37 right away I'm in high dimensions and in the room lands yeah that's right in the lecture I tried a so if you think of two
+00:09:47 vectors in ten dimensions I'll do this in class and I'll readily admit that I have no good image in my mind of a
+00:09:57 vector of arrow int n dimensional space but whatever you can a you can add one bunch of ten numbers to another bunch of
+00:10:06 ten numbers so you can add a vector to a vector and you can multiply a vector by three and that's if you know how to do those
+00:10:14 you've got linear algebra you know ten dimensions yeah you know there's this beautiful thing about math if we look
+00:10:21 string theory and all these theories which are really fundamentally derived through math yeah but it very difficult
+00:10:26 to visualize it yeah how do you think about the things like a 10 dimensional vector that we can't really visualize
+00:10:36 yeah do you and and yet math reveals some beauty Oh underlying me yeah our world in that weird thing we can't
+00:10:44 visualize how do you think about that difference well probably I'm not a very geometric person so I'm probably
+00:10:51 thinking in three dimensions and the beauty of linear algebra is that is that it goes on to ten dimensions with no
+00:10:59 problem I mean that if you're just seeing what happens if you add two vectors in 3d you then you can add them
+00:11:09 in ten D or you're just adding the ten components so so I I can't say that I have a picture but yet I try to push the
+00:11:19 class to think of a flat surface in ten dimensions so a plane in ten dimensions and so that's one of the spaces take all
+00:11:30 the columns of the matrix take all their combinations so on so much of this column so much of this one then if you
+00:11:37 put all those together you get some kind of a flat surface that I call a vector space space of vectors and and my
+00:11:47 imagination is just seeing like a piece of paper in 3d but anyway so that's one of the spaces that's space number one
+00:11:58 the column space of the matrix and then there's the row space which is as I said different but came came from the same
+00:12:07 numbers so we got the column space all combinations of the columns and then we've got the row space all combinations
+00:12:16 of the rows so those are those words are easy for me to say and I can't really draw them on a blackboard but I try with
+00:12:24 my thick chalk everybody everybody likes that railroad chalk and me too I wouldn't use anything else now
+00:12:33 and and then the other two spaces are perpendicular to those so like if you have a plane in 3d just a plane is just
+00:12:44 a flat surface in 3d then perpendicular to that plane would be a line so that would be the null space so we've got two
+00:12:53 we've got a column space a row space and they're two perpendicular spaces so those four fit together in the in a
+00:13:03 beautiful picture of a matrix yeah yeah it's sort of a fundamental it's not a difficult idea comes comes pretty early
+00:13:14 in 1806 and it's basic planes in these multi-dimensional spaces how how difficult of an idea is that to come to
+00:13:21 do you think if you if you look back in time yeah I think mathematically it makes sense but I don't know if it's
+00:13:30 intuitive for us to imagine just what we're talking about feels like calculus is easier to I see
+00:13:36 into it well calculus I have to admit calculus came earlier earlier than linear algebra so Newton and Leibniz
+00:13:44 were the great men to understand the key ideas of calculus but linear algebra to me is like okay it's the starting point
+00:13:53 because it's all about flat things calculus has got all the complications of calculus come from the curves the
+00:14:03 bending this is a curved surfaces linear algebra the surfaces are all flat nothing bends in linear algebra so it
+00:14:12 should have come first but it didn't and calculus also comes first in in high school classes in in college class it'll
+00:14:21 be freshman math I'll be calculus and then I say enough of it like okay get to get to the good stuff and that you think
+00:14:30 linear algebra should come first well it really yeah I'm okay with it not coming first but it should yeah
+00:14:39 it should it's simpler because everything is flat yeah everything's flat of course for that reason you
+00:14:47 sort of sticks to one dimension or so or eventually you do multivariate but that basically means two dimensions linear
+00:14:54 algebra you take off into ten dimensions no problem it just feels scary and dangerous to go beyond two dimensions
+00:15:02 that's all if everything is flat you can't go wrong so what concept or theorem in linear
+00:15:11 algebra or in math you find most beautiful it gives you pause that leaves you and oh well I'll stick with linear
+00:15:19 algebra here I hope that viewer knows that really mathematics is amazing amazing subject and deep deep
+00:15:29 connections between ideas that didn't look connected some they turned out they were but if we stick with linear algebra
+00:15:37 so we have a matrix that's like the basic thing a rectangle of numbers and might be a rectangle of data you're
+00:15:44 probably going to ask me later about data science where and often data comes in a matrix you have you know maybe
+00:15:57 every column corresponds to a to a drug in every row corresponds to a patient and and if the patient reacted favorably
+00:16:07 to the drug then you put up some positive number in there anyway rectangle of numbers a matrix is basic
+00:16:18 so the big problem is to understand all those numbers you got a big big set of numbers and what are the patterns what's
+00:16:29 going on and so one of the ways to break down that matrix into simple pieces is uses something called singular values
+00:16:41 and that's come on as fundamental in the last and certainly in my lifetime I can values bro you if you have viewers
+00:16:52 who've done engineering math or or more basic linear algebra eigenvalues were in there but those are restricted to square
+00:17:01 matrices and data comes in rectangular matrices so you got to take that you got to take that next step I'm I'm always
+00:17:10 pushing math faculty get on do it don't do it do it singular values so those are a way
+00:17:20 to break to make to find these the important pieces of the matrix which add up to the whole matrix so so you're
+00:17:29 breaking a matrix into simple pieces and the first piece is the most important part of the data the second piece is the
+00:17:38 second most important part and then often so a data scientist will like if if a data scientist can find those first
+00:17:48 and second pieces stop there the rest of of the data is probably round off you know we're yeah experimental error maybe
+00:17:59 so you're looking for the important part yeah so what do you find beautiful about singular values well yeah I didn't give
+00:18:07 the theorem so here's the here's the idea of singular values every matrix every matrix rectangular square whatever
+00:18:17 you can be written as a product of three very simple special matrices so that's the theorem every matrix can be written
+00:18:26 as a rotation times a stretch which is just a matrix diagonal matrix otherwise all zeros except on the one diagonal and
+00:18:36 then a third and the third factor is another rotation so rotation stretch rotation is the breakup of a of any
+00:18:47 matrix the structure that the ability that you can do that what do you find appealing what do you find beautiful
+00:18:53 bodies well geometrically as I freely admit the mate action of a matrix it's not so easy to visualize but everybody
+00:19:04 can visualize a rotation take-take-take two-dimensional space and just turn it around the around the center
+00:19:11 take three-dimensional space so a pilot has to know about well what are the three the yaw is one of them I've
+00:19:19 forgotten all the three turns that a pilot makes up to ten dimensions you've got ten ways to turn but you can
+00:19:29 visualize a rotation take the space and turn it and you can visualize a stretch so to break a a matrix with all those
+00:19:40 numbers in it into something you can visualize rotate stretch rotate it's pretty neat pretty neat that's pretty
+00:19:50 powerful on YouTube just consuming a bunch of videos and just watching what people connect with and what they really
+00:19:58 enjoy and are inspired by math seems to come up again and again I I'm trying to understand why that is perhaps you can
+00:20:06 help yeah I mean give me clues so it's not just to let the kinds of lectures that you give but it's also just other
+00:20:14 folks were like with numberphile there's a channel where they just chat about things that are extremely complicated actually
+00:20:21 yeah people nevertheless connect with them you know what do you think that is what it's wonderful isn't it I mean I
+00:20:28 wasn't really aware of it do so we're we're conditioned to think math is hard math is abstract math is just for a few
+00:20:37 people but it isn't that way a lot of people quite like math and they liked it I get messages from people saying you
+00:20:45 know now I'm retired I'm gonna learn some more math I get a lot of those it's really encouraging and I think what
+00:20:52 people like is that there's some order you know a lot of order and or you know things are not obvious but they're true
+00:21:03 so it's really cheering to think that that so many people really want to learn more about math yeah in terms of truth
+00:21:15 again sorry to slide into philosophy at times yeah math does reveal pretty strongly what things are true
+00:21:22 yeah I mean it's the whole point of proving things is and yet sort of our real world is messy and complicated what
+00:21:33 do you think about the nature of truth that math reveals oh wow because it is a source of comfort like you've mentioned
+00:21:39 yeah that's right well I have to say I'm not much of a philosopher I just like numbers you know
+00:21:47 I think yeah I would you this was before you had you had to go in when you're in the other filling your teeth yeah I kind
+00:21:57 of just take it yeah so I what I did was think about math you know like take powers of 2 2 4 8 16 up until the time
+00:22:06 the two stopped hurting and the dentist said you're through or Counting yeah so so that was the source of just such a
+00:22:17 piece almost yeah what what what what is it about math you think that brings that yeah what is that well you know where
+00:22:24 you are yeah symmetry it's it's certainty the fact that you know if you'd to if you multiply 2 by itself 10
+00:22:32 times you get a thousand 24 period that's everybody's gonna get that do you see math is a powerful tool or is an art
+00:22:41 form so it's both that's that's really one of the neat things you can you can be an artist and and like math you can
+00:22:51 be a engineer and use math which are you which am I what did you connect with most yeah I'm in here between I'm
+00:23:00 certainly not a artist type philosopher type person might sound that way this morning but I'm not yeah I I really
+00:23:10 enjoy teaching engineers because they they they go for an answer and yeah so of probably within the mountain MIT math
+00:23:22 department most people enjoy teaching people teaching students who get the abstract idea I'm okay with with I'm
+00:23:32 good with engineers who are looking for a way to find answers yeah actually that's a interesting
+00:23:39 question do you think do you think for teaching and in general but thinking about new concepts do you think it's
+00:23:47 better to plug in the numbers or to think more abstractly so looking at theorems and proving the theorems or
+00:23:56 actually you know building up a basically tuition of the theorem or the method the approach and then just
+00:24:02 plugging in numbers and seeing it work you know well certainly many of us like to see examples first we understand it
+00:24:13 might be a pretty abstract sounding example like a three dimensional rotation how are you gonna how are you
+00:24:23 gonna understand a rotation in 3d or in 10 D or but and then some of us like to keep going with it to the point where
+00:24:34 you got numbers where you got 10 angles 10 axes 10 angles but the best the great mathematicians is probably I don't know
+00:24:46 if they do that because they they for them for them an example would be a highly abstract thing to the rest of it
+00:24:56 right but nevertheless working within the space of examples yeah example it seems to examples of structure our brain
+00:25:04 seemed to connect with that yeah yeah so  I'm not sure if you're familiar with him but Andrew yang is the presidential
+00:25:14 candidate currently running yeah with the math in all capital letters and his hats as a slogan Isis stands for make
+00:25:24 America think hard okay I'll vote for it so and his name rhymes with yours yang strang so but he also loves math and
+00:25:32 then he comes from that world but he also looking at it makes me realize that math science and engineering are not
+00:25:42 really part of our politics right political discourse about political a government in general yeah what do you think
+00:25:50 that is well what are your thoughts on that in general well certainly somewhere in this system we need people who are
+00:25:57 comfortable with numbers comfortable with quantities you know if you if you say this leads to that they see it it's
+00:26:07 undeniable but isn't it strange to you that we have almost no I mean I'm pretty sure we have no elected officials in
+00:26:17 Congress or obviously the president yeah that is either it has an engineering degree or a mess yeah well that's too
+00:26:29 bad you know a few could a few who could make the connection yeah it would have to be people who are at the door who
+00:26:37 understand engineering or science and at the same time can make speeches and and lead yeah inspire people yeah yeah you
+00:26:49 were speaking of inspiration the president of the Society for industrial applied mathematics oh yeah as a major
+00:26:58 organization in math and Padma what do you see as a role of that society you know in our public discourse right yeah
+00:27:06 so well it was fun to be president at the at the time of years year two years around around 2000 his hope as president
+00:27:16 of a pretty small society but nevertheless it was a time when math was getting some more attention in
+00:27:26 Washington but yeah I got to give a little 10 minutes to into committee of the House of Representatives
+00:27:36 talking about why mint and then actually it was fun because one of the members of the house he had been a student had been
+00:27:45 in my class what do you think of that yeah as you say a pretty rare most most members of the House have had a
+00:27:52 different training different background but there was one from New Hampshire who who was my friend really bye-bye being
+00:28:01 in the class yeah so that those years were good then of course other things take take over
+00:28:13 and importance in Washington and maths math just at this point is not so visible but for a little moment it was
+00:28:23 there's some excitement some concern about artificial intelligence in Washington now yes about the future yeah
+00:28:29 and I think at the core of that is math well it is yeah yeah but maybe it's hidden maybe he's wearing a different
+00:28:37 hat but  well artificial intelligence and and particularly can I use the words deep learning it's a deep learning is a
+00:28:46 particular approach to understanding data again you've got a big a whole lot of data where data is just swapping the
+00:28:58 computers of the world and and - and understand it out of all those numbers to find what's important you know in
+00:29:06 climate in everything and artificial intelligence is two words for for one approach to data deep learning is a
+00:29:16 specific approach there which uses a lot of linear algebra so I got into it I thought okay I've got to learn about
+00:29:24 this so maybe from your perspective and I asked the this most basic question yeah how do you think of a neural
+00:29:31 network what is it and you're on the 1 yeah ok so can I start with a idea about deep learning what does that mean sure
+00:29:40 what is deep learning what is deep learning yeah so so we're trying to learn from all this day that we're
+00:29:48 trying to learn what's important what was some What's it telling us so you've you've got data you've got some inputs
+00:29:57 for which you know the right outputs the question is can you see the pattern there can you figure out a way for a new
+00:30:07 input which we haven't seen to to get the to understand what the output will be from that new input so we've got a
+00:30:15 million inputs with their out so we're trying to create some patterns some rule that'll take those inputs
+00:30:24 those million training inputs which we know about to the correct million outputs and this idea of a neural net is
+00:30:36 part of the structure of the of our new way to create a create a rule we're looking for a rule that will take these
+00:30:48 training inputs to the known outputs and then we're going to use that rule on new inputs that we don't know the output and
+00:30:56 see what comes the linear algebra is a big part of defining a finding that rule that's right linear algebra is a big
+00:31:03 part not all the part people were leaning on matrices that's good still do linear is something special
+00:31:12 it's all about straight lines and flat planes and and and data isn't quite like that you know it's it's more complicated
+00:31:22 so you got to introduce some complication so you have to have some function that's not a straight line and
+00:31:30 it not only doubt it on linear nonlinear nonlinear and it turned out that the it was enough to use the function that's
+00:31:37 one straight line and then a different one halfway that's so piecewise then he said one piece has one slope one piece
+00:31:47 the other piece has the second slope and so that introduced getting that nonlinear simple non-linearity in blue
+00:31:57 the problem open that little piece makes it sufficiently complicated to make things interesting because you're gonna
+00:32:03 use that piece over and over a million times so you so you it has a it has a fold in the in the graph the graph two pieces
+00:32:12 and but when you fold something a million times you've got you've got a pretty complicated function that's
+00:32:19 pretty realistic so that's the thing about neural networks is they have a lot of these a lot of these that's so why do
+00:32:28 you think neural networks by using a sort of formulating an objective function very not a plane yeah
+00:32:40 function holds lots of folds of the inputs the outputs why do you think they work to be able to find a rule that we
+00:32:50 don't know is optimal but it just seems to be pretty good in a lot of cases what's your intuition is it surprising
+00:32:58 to you as it is to many people you have an intuition of why this works at all well I'm beginning to have a better
+00:33:06 intuition this idea of things that are piecewise linear flat pieces but but with folds between them like think of a
+00:33:15 roof of a complicated infinitely complicated house or something that curved it almost curved but every piece
+00:33:25 is flat that that's been used by engineers that ideas been used by engineers is used by engineers big time
+00:33:33 something called the finite element method if you want to if you want to design a bridge design a building design
+00:33:44 airplane you're using this idea of piecewise flat as a good simple computable approximation to pay your you
+00:33:56 have a sense that that there's a lot of expressive power in this kind of piecewise linear yeah well that's
+00:34:00 combined together you use the right word if you measure the expressivity how how many how complicated a thing can can
+00:34:12 this piecewise flat guys express the answer is very complicated yeah what do you think are the limits of such
+00:34:22 piecewise linear or just neural networks its passivity of nool nose well you would have said a while ago that they're
+00:34:29 just computational limits it you you know you the problem beyond a certain size a supercomputer isn't going to do
+00:34:38 it but that does keep getting more powerful so that's that limit has been moved to allow more and more complicated
+00:34:50 surfaces so in terms of just mapping from inputs to the outputs looking at data yeah what do you think of you know
+00:35:00 in a context in your networks in general data is just tensor vectors matrices tensors how do you think about learning
+00:35:11 from data what how much of our world can be expressed in this way how useful is this process is the I guess that's
+00:35:18 another way to asking what are the limits of this well that's a good question yeah so I guess the whole idea
+00:35:24 of deep learning is that there's something there to learn if the data is totally random just produced by random
+00:35:33 number generators then the we're not going to find a useful rule because there isn't one so the extreme of having
+00:35:43 a rule is like knowing Newton's law you know if you hit a hit a ball and moves so that's where you had laws of physics
+00:35:52 Newton and and Einstein and other great great people have have found those laws and laws of the the the distribution of
+00:36:06 oil in a underground thing I mean that so so engineers petroleum engineers and understand how how oil will sit in a in
+00:36:19 an underground basin so there were rules now now the the new idea of artificial intelligence is learn the rules instead
+00:36:29 of instead of figuring out the rules by with help from Newton or Einstein the computer is looking for the rules so
+00:36:37 that's another step but if there are no rules at all for that the computer could find if it's totally random data well
+00:36:46 you've got nothing you've got no science to discover it's the automated search for the underlying rules yeah
+00:36:53 search for the rules yeah exactly yeah there will be a lot of random parts a lot I'm not knocking
+00:37:03 random because the that's there the the the there's a lot of randomness built in but there's got to be some basic it's
+00:37:11 almost always signature right in most there's got to be some signal yeah if it's all noise then there's there's
+00:37:17 you're not gonna get it anywhere well this world around us does seem to be this seem to always have a signal
+00:37:24 some kind yeah yeah they discovered right that's it so what excites you more the we just talked
+00:37:32 about a little bit of application what excites me more theory or the application of mathematics well for
+00:37:43 myself I'm probably a theory person I'm not I'm speaking here pretty freely about applications but I'm not a person
+00:37:54 who really I'm not a physicist or a chemist or a neuroscientist so for myself I like this structure and this
+00:38:09 flat subspaces and and and the relation of matrices columns to rows that's my part in the spectrum so the really
+00:38:22 science is a big spectrum of people from asking practical practical questions and answering them using some math than some
+00:38:33 math guys like myself or in the middle of it and then the geniuses of math and physics and chemistry and who are
+00:38:44 finding fundamental rules and doing doing really understanding nature that's at its lowest simplest level maybe just
+00:38:57 a quick in broad strokes from your perspective what is  where does the linear algebra sit as a subfield of
+00:39:06 mathematics what what are the various subfields a year okay a you think about in relation to linear algebra so the big
+00:39:18 fields of math or algebra as a whole and problems like calculus and differential equations so that's a second quite
+00:39:26 different field then maybe geometry deserves to be under sort of as a different field to understand the
+00:39:35 geometry of high dimensional surfaces so I think am I allowed to say this here I think this is where personal view
+00:39:50 comes and I think math for thinking about undergraduate math what millions of students study I think we overdo the
+00:40:00 calculus at at the cost of the algebra at the cost of linear dog titled calculus versus linear that's right and
+00:40:09 and you say that linear algebra wins so you can you want can you dig into that a little bit
+00:40:17 why does linear algebra win right well ok I'm the viewer is gonna think this guy is biased not true I'm just telling
+00:40:28 the truth as it is yeah so I feel linear algebra is just a nice part of math that people can get the idea of they can
+00:40:37 understand something it's a little bit abstract because once you get to ten or a hundred dimensions and very very very
+00:40:46 useful that's what's happened in in my lifetime is the the the importance of data which does come in matrix form so
+00:40:56 it's really set up for algebra it's not set up for a differential equation and now let me fairly add probability
+00:41:05 they're ideas of probability and statistics have become very very important i've also jumped forward so
+00:41:13 and that's not that's different from linear algebra quite different so now we really have three major areas to me
+00:41:26 calculus linear algebra of matrices and probability statistics and they all deserve a important place and and
+00:41:38 calculus has traditionally had a had a lion's share of the time and disproportionate share
+00:41:44 yes but thank you proportionate that's a good work of the the love and attention from the
+00:41:52 excited young minds yeah I know it's hard to pick favorites but what is your favorite matrix what's my
+00:42:00 favorite matrix okay so my favorite matrix is square I admit it's a square bunch of numbers and it has twos running
+00:42:11 down the main diagonal and on the next diagonal so think of top left to bottom right twos down down the middle of the
+00:42:21 matrix and minus ones just above those twos and minus ones just below those twos and otherwise all zeros so mostly
+00:42:31 zeros just three nonzero diagonals coming down what is interesting about it well all the different ways it comes up
+00:42:39 you see it in engineering you see it as analogous in calculus to second derivative so calculus learns about
+00:42:48 taking the derivative the figuring out how much how fast something's changing but second derivative now that's also
+00:42:57 important that's how fast the change is changing how fast the graph is bending how fast it's it's curving and my
+00:43:10 Feinstein showed that that's fundamental to understand space so second derivatives should have a bigger place
+00:43:21 in calculus second mice matrices which are like the linear algebra version of second derivatives are neat in in linear
+00:43:30 algebra yeah just everything comes out right with those guys beautiful what did you learn
+00:43:38 about the process of learning by having taught so many students math over the years whoo that is hard I'll have to admit
+00:43:50 here that I'm not I'm not really a good teacher because I don't get into the exam part the exams the part of my life
+00:44:00 that I don't like and grading them and giving the students a or B or whatever I do it
+00:44:09 because it's I'm supposed to do it but but I tell the class at the beginning I don't know if they believe me probably
+00:44:16 they don't I tell the class I'm here to teach you I'm here to teach you math and not to grade you and but they're
+00:44:26 thinking okay this guy it's gonna you know when's he gonna kids he's gonna give me an A - is he gonna give me a
+00:44:32 b-plus what what would have you learn about the process of learning of learning yeah well maybe to be elated to
+00:44:40 give you a legitimate answer about learning I should have paid more attention to the assessment the
+00:44:48 evaluation part at the end but I like the teaching part at the start that's the sexy part to tell somebody for the
+00:44:56 first time about a matrix Wow but is there are there moments so you are teaching a concept are there moments of
+00:45:05 learning that you just see in the students eyes you don't need to look at the grades yeah you see in their eyes
+00:45:13 that that you hooked them that you know that you connect with them in a way where you know what they fall in love
+00:45:21 with this yes beautiful world amazing see that it's got some beauty it's yeah or conversely yeah that they give up at
+00:45:30 that point is the opposite the darkest a the math I'm just not good at math and alcohol yeah yeah maybe because of the
+00:45:38 approach in the past they were discouraged but don't be discouraged it's it's too good to miss yeah I well
+00:45:48 if I'm teaching a big class do I know when I think maybe I do sort of I mentioned at the very start the four
+00:46:00 fundamental subspaces and the structure of the fundamental theorem of linear algebra the fundamental theorem of
+00:46:09 linear algebra that is the relation of those four subspaces those four spaces yeah so I think that I feel that the
+00:46:19 class gets it when they want to see the what advice do you have to a student just starting their journey mathematics
+00:46:26 today how do they get started Oh No yeah that's hard well I hope you have a teacher professor who is still
+00:46:40 enjoying what he's doing and what he's teaching they're still looking for new ways to teach and and to understand math
+00:46:51 because that's the pleasure to the moment when you see oh yeah that works so it's s about the material you yeah
+00:47:00 you study it's more about the source of the teacher being full of passion yeah more about the fun yeah there's a moment
+00:47:12 of of getting it but in terms of topics linear algebra well that's not my topic but oh there's beautiful things in
+00:47:21 geometry to understand what's wonderful is that in the end there there's a pattern there there's their rules that
+00:47:34 that that are followed in biology as imitation as as a hundred percent wonderful except for the great stuff
+00:47:50 yeah and the grades were great yeah when you look back at your life yeah what memories bring you the most joy and
+00:47:58 pride well that's a good question I certainly feel good when I maybe I'm giving a class in in 1806 that's mi
+00:48:08 t--'s linear algebra course that I started so sort of there's a good feeling that okay I started this course
+00:48:16 a lot of students take it quite a few like it yeah so I'm I'm sort of happy when I feel I'm helping helping make a
+00:48:27 connection between ideas and students between theory and the reader yeah it's I get a lot of very nice messages from
+00:48:41 people who've watched the videos and it's inspiring I just not maybe it's take this chance to say thank you
+00:48:50 well there's millions of students who you've taught and I am grateful to be one of them so good birth thank you so
+00:48:57 much has been an honor thank you for talking to it was a pleasure thanks thank you for listening to this
+00:49:03 conversation with Gilbert Strang and thank you to our presenting sponsor cash app downloaded used collects podcast
+00:49:11 you'll get ten dollars and ten dollars will go to first a stem education nonprofit that inspires hundreds of
+00:49:18 thousands of young minds to learn and to dream of engineering our future if you enjoy this podcast subscribe on youtube
+00:49:25 we had five stars in an apple podcast support on patreon I'll connect with me on Twitter finally
+00:49:32 some closing words of advice from the great Richard Fineman study hard would interest you the most in the most

@@ -1,0 +1,266 @@
+00:00:01 hey it's me destin welcome back to smarter every day this is a lunar lander that's a different series we're starting
+00:00:06 on smarter every day this is a nuclear submarine we are now really far
+00:00:11 into the nuclear submarine deep dive here on smarter every day and today we're going to answer a question that
+00:00:16 i've always wanted to know submarines are designed to stay underwater as long as possible and sometimes they can't
+00:00:21 even go to the surface if they want to like right now the uss toledo is currently under the ice which makes it
+00:00:27 impossible to surface to get fresh air how do you create oxygen on board a submarine because if you think about it
+00:00:33 if you're on board with a lot of your crewmates and we're taking in oxygen and we're breathing out carbon dioxide
+00:00:39 eventually the atmosphere on the inside of the submarine is going to become soured so today on smarter every day we
+00:00:44 are going to investigate how to create oxygen onboard a submarine and how to remove carbon dioxide from
+00:00:50 the atmosphere and we're going to have two ways to do both let's get on board the toledo
+00:00:56 and let's understand how to create breathable air on a submarine let's go get smarter
+00:01:00 every day okay so in order to keep people alive on the boat we have to have an atmosphere
+00:01:15 at each location where each body is that can keep that one body alive right so ventilation is key if you have
+00:01:21 different compartments that can be closed at different times on boats for different reasons for example a huge
+00:01:26 pileup of people in the place where everybody sleeps you're going to be creating a lot more carbon dioxide in
+00:01:31 that location than other places on the boat but we have to keep the entire atmosphere livable throughout the boat
+00:01:37 so in order to do this they monitor the atmosphere of every position in the boat that's important with a system called
+00:01:43 cams the central atmospheric monitoring system so the first thing we're going to do is go figure out how to measure the atmosphere
+00:01:50 at any place in the boat and then we'll address how we deal with it with carbon dioxide or oxygen or whatever anyway
+00:01:55 let's go check out cams i'm destin i'm dell dal i'm going how do you spell that d.o.w d.o.w dow jones awesome man where
+00:02:02 are you from i'm from ohio hello what's up cool man nice to meet you
+00:02:08 yeah so so what did what do you do up here so  sharon well i'm a machinist man auxiliary or anger
+00:02:15 they're basically mechanical hold though practically on the boat so where are you monitoring the oxygen levels
+00:02:22 so to mark the oxygen levels  some cup of middle level called cams yeah central atmosphere
+00:02:26 monitoring station and  we have a couple watching the monitors auction levels on there can you
+00:02:31 show me that yes yep let me get around you we're gonna see where the oxygen gets
+00:02:50 monitored yeah so this is in the middle of the boat yes and  it has different stations we can monitor
+00:02:58 and take samples of the air to monitor our atmospheres so right now you're looking at how much
+00:03:05 o2 is on the boat yes carbon monoxide i'm really glad that there's not any there r114 so that's refrigerant yes
+00:03:12 yeah so you're monitoring that as well basically monitoring the good gases and the bad gases basically
+00:03:17 gotcha and so you've got co2 hydrogen nitrogen water that's cool and so this is the total
+00:03:23 pressure on the boat it is that's cool well in each compartment it is like like i'm saying we have different
+00:03:30 can you show me yeah it's like we take different  sample like sampling  panel index
+00:03:36 we can turn the dial to different stations so right now you're looking at the fan range yes
+00:03:41 so if you wanted to go what what's okay to look at and so this is updated so it takes a
+00:03:51 second so this bar has to go all the way across for an update yeah kind of slow but
+00:03:59 so clearly you have some type of you have some type of alarm that has to oh yeah yeah if
+00:04:05 oxygen gets too high or if it gets too high or something gets too low it'll alarm it'll make a beeping sound
+00:04:11 so in the event that we have a bad gas that you know we have a leak of refrigerant for example
+00:04:17 do you have a way of finding the leak so i guess you could go to the panel and then you could select different
+00:04:23 sources and you can see where it's high yes and so that isolates it to that section of the boat right yes
+00:04:28 but then how do you find the actual leak like if it comes down to a pipe how do you find
+00:04:33 the leak on the pipe so for like  r134 we have  we call them sniffers and  they detect
+00:04:40  where r134 is coming out of the piping or the plant and a little alarm when  it attacks it so is it like it
+00:04:47 sounds like a geiger counter when you get closer to it or something yeah it does so can i see one yeah
+00:04:54 this is how the sausage gets made right here this is how you keep yourself alive on a sub
+00:05:01 okay they're like i guess we'll just show him the oxygen stuff and then i'm really excited about this
+00:05:12 you know go sniper sniffer can we get sniffers sure this is it yep so this is a universal
+00:05:28 refrigerant leak detector so can you show me how to use it yeah so this is what it looks like when we find
+00:05:38 a leak so that's how that's how you find the leak yes and then we can also switch
+00:05:44 to small medium large leaks so looking for a small leak  put this small because we won't
+00:05:49 detect it if it's large you gotta have a large setting so we'll you'll go through and you just drag
+00:05:59 you'll drag it through the piping very slowly just like coloring in kindergarten basically yes do you have something like
+00:06:06 this for each bad gas we have a trigger kit it monitors a it tests like
+00:06:11 the sample the air they look like little tubes get the brake and you have to pump air through it it'll indicate if there's
+00:06:18 that type of gas in here i also have a so called the ph.d6 that tells us the lower the lower level
+00:06:25 explosive limit so like for hydrogen for example yeah so you have a sniffer that does that
+00:06:32 is this the air conditioning no this is for the chilling freeze box hot people get cold
+00:06:37 oh really yes is it is that on the other side of the wall or something level so you got a chiller running up
+00:06:43 yeah this is a refrigeration plant yeah all right so the cam system taught us that not only is it important to monitor
+00:06:48 oxygen and carbon dioxide but any kind of gases that might leak out into the atmosphere and harm people
+00:06:53 so the next thing i told you there are two ways to create oxygen on the boat right so for the first way i got a little
+00:07:00 excited i made a little 3d printed thing we're gonna do a little experiment we're gonna use electrolysis to create oxygen
+00:07:07 very excited about this here's how this works you did this in like sixth grade science or something like
+00:07:12 that but you get two electrodes and you put them up in the water and you put electricity on one electrode and you
+00:07:18 complete the circuit and of course h2o breaks into hydrogen and oxygen right so this was my thinking when i got on
+00:07:26 the boat well i'm on a submarine there's sea water all around the submarine i can just take in as much sea
+00:07:31 water as i want i have a nuclear reactor i can just put electrodes hook them up to the nuclear reactor and
+00:07:38 then just put those in the sea water and i can provide oxygen for everybody on the boat i'm a
+00:07:42 hero right except i would have killed everybody on the boat and that i do not want to do
+00:07:48 that this is why if you run just straight up electrolysis on seawater
+00:07:55 with salt in an nacl you will liberate chlorine gas and hydrogen not oxygen and hydrogen and that's a really bad thing and that
+00:08:01 kills people so we don't want to do that before you run electrolysis on seawater you must first
+00:08:06 purify it and the way you do that is through a filtration system and also something called reverse
+00:08:11 osmosis now reverse osmosis is complicated and i don't want to go into the the
+00:08:17 great depths of that right now but there's a lot of stuff on screen right now and that's kind of what happens
+00:08:22 wonderful okay let's come back here so electrolysis the way we're going to do that is we have this
+00:08:29 super pure reverse osmosified water in our little contraption here but what we're going to do is we're going to add potassium
+00:08:36 hydroxide and when we add that and then we hook everything up to the nuclear reactor that potassium hydroxide acts like a catalyst
+00:08:43 and it more freely liberates the oxygen and the hydrogen for water and guess what you can breathe oxygen instead of
+00:08:48 the chlorine dustin was going to try to pump into the sub that's how that works look at how big
+00:08:52 the difference is here on the left we did electrolysis on salt water you can see we ended up with
+00:08:57 hydrogen and chlorine gas which actually damaged the container on the right we did it with purified water using
+00:09:04 potassium hydroxide as an electrolyte and that broke it down into hydrogen and oxygen which is fine for the crew to breathe
+00:09:11 you make oxygen by electrolysis up up near the newt is that what is that that's the aog
+00:09:16 automated electro automated automatic electrolytic oxygen generator and  we use
+00:09:27  water and chemical called koh or potassium hydroxide got it and we essentially shock the water
+00:09:34 which creates oxygen and so  takes water o2 or h2o and splits it from hydrogen and oxygen
+00:09:42 and we use oxygen to breathe obviously right and then we send the hydrogen overboard
+00:09:47 okay so i told you there were two methods to create oxygen on a submarine right the first method is electrolysis
+00:09:52 which i knew about the second method was a little bit counterintuitive to me this is a match
+00:09:58 burning and as you know from high school chemistry burning means oxidation meaning it is taking oxygen
+00:10:05 out of the atmosphere and creating a chemical reaction so right now this candle is now burning
+00:10:12 meaning it's oxidizing so when i heard someone on the boat say hey we're low on oxygen we need to go
+00:10:16 light a candle that was counter intuitive to me and what's about to go down oh we're about
+00:10:21 to burn chloride candles so make oxygen from the cans right over there behind you
+00:10:27 yep so you're gonna feel you're gonna burn this yeah so the way this works is the candle
+00:10:31 itself is actually inside this container and then we'll put them in a basket like this one right here
+00:10:40 yeah and the basket will go inside here but we open this up and on the tip of it is red phosphorus
+00:10:54 so what we'll do is we'll have it go through here and once the candles are in we'll take this
+00:10:59 push it down and twist it and that'll light the candles okay and it lights kind of like a
+00:11:03 cigarette from what i've heard i've never actually seen one late because we can't really leave the lid
+00:11:09 open when we light them because that's a class delta fire and we can't really put those out okay
+00:11:17 but yeah that's really about it that's it yeah okay and so and it makes oxygen as you do it how long does it burn so
+00:11:24 each candle will burn for about 45 minutes to an hour so both candles together they can burn somewhere between
+00:11:29 90 minutes to two hours really yes okay so you're gonna burn two at one time yes
+00:11:36 and so is this something you need to do or something you're just doing we mostly need to do it right now
+00:11:42 because our normal way of making oxygen with the aog that's currently down so this is sort
+00:11:48 of our backup method of creating oxygen got it and so you're monitoring the oxygen level back here
+00:11:54 yeah right so so you're monitoring the oxygen level here and if it's low then you burn the candle
+00:12:01 yep and that'll help bring the oxygen levels back out to where we need to be okay rock and roll
+00:12:11 learning exo science so is this your job  yeah this is one so
+00:12:26 because one of my jobs is to actually monitor the atmospheres themselves so whenever i notice that
+00:12:32 oxygen is getting low enough i would have to make the recommendations to burn the candles
+00:12:38 and then if the chief of the watch agrees then we'll burn the candles and this right here is a byproduct after
+00:12:44 we burn them okay  we call these clinkers honestly i have no idea why we call them fingers -huh
+00:12:53 and so you're opening the can back there sir yeah can you can you show it to me absolutely so this is the bottom of the camera let
+00:13:05 me take off this protective cloth pretty much helps keep the candle from being damaged while it's in the
+00:13:11 can do you have a flashlight no i don't have one on me that's the top of the kettle so see
+00:13:22 what's explaining to you about the striker that ignites it when the striker goes through the lid it
+00:13:27 presses down on this center piece here presses down on that yes and the striker has a foster's tip
+00:13:33 yes sir scandals can only be ignited due to a chemical reaction between the phosphorus and the chlorate of the candle
+00:13:39 the chlorate yes okay got it and so that'll get it going yes sir okay let me get out of your way here so
+00:13:47 this is a pretty hazardous activity then because it involves fire on a submarine
+00:13:58 everyone's still one one classifier knows what number somebody ever wants to do the class delta fire because it's
+00:14:04 self-oxidized plastic so it makes its own oxygen four and a half years of the next one
+00:14:22 so you're just slowly getting down to we burn two candles at a time so pretty much maximize that out oxygen
+00:14:46 output of the counter burns so this when you touch the end with red phosphorus
+00:15:00 starts burning slowly burns becomes this yes this is the striker we actually use just a nine inch nail
+00:15:07 and this is the red phosphorus we're talking about gotcha all right sorry for this part here i am
+00:15:13 going to step back a little bit because i probably pulled the old candles out and those are extremely hot
+00:15:18 yes sir which is why we got these so you're putting it in there and let it cool off so here it's
+00:15:35 pretty close to it you can just feel how hot it is just like put your hand right by it actually cook yeah
+00:15:41 definitely don't touch that don't touch it okay yes when these actually burn they end up burning with i believe it
+00:15:50 was not 500 btus yeah but they get extremely hot i let me hold it so we'd have a premature
+00:16:08 so you're about to ignite it oh now if you just grab i could tell the like for you
+00:16:21 if you grab the igniter press down and twist okay you hold the light right on it so push it down push down press it down
+00:16:27 and just  pull up on it i see the smoke so if you feel right here you go you can
+00:16:44 feel the pressure coming out of this pipe yeah and that is tells us that's where the oxygen is coming out yes sir
+00:16:53 and that's what tells us that the candle is ignited properly really yes sir so you're making oxygen now
+00:16:58 right now you are a creator of oxygen okay it was until i got off the sub when i totally
+00:17:05 understood what was going on here but the two main chemicals in this candle were iron and sodium chlorate
+00:17:13 when you burn iron that's adding oxygen to the iron and you're creating iron oxide you're actually creating
+00:17:20 heat that's the burning of the candle but when you do that there's also sodium chlorate in the candle and that heat from the
+00:17:27 iron oxide is liberating oxygen from the sodium chlorate and in doing so you actually
+00:17:34 get more oxygen from the chemical reaction now this is why this is important if you think about it if you're on the
+00:17:40 submarine and we had the nuclear reactor hooked up to the electrodes right or whatever
+00:17:46 that's great and you can just create as much oxygen as you want through electrolysis however
+00:17:51 if you ever lose power for whatever reason you can just light a candle and that requires
+00:17:57 no electricity whatsoever as long as you have a solid candle and a way to contain the fire without it
+00:18:02 damaging anything on the boat you can start that fire and create oxygen with no
+00:18:07 external power source whatsoever the beauty of this oxygen candle oxygen generation technique is that
+00:18:14 the solid oxygen candle is in a very small volume but it can create a tremendous amount of
+00:18:19 gas this is very important for things like spacecraft americans and russians have used oxygen candles in space for years
+00:18:25 and only one time did it get out of control on the space station mirror oxygen candles are amazing they're an
+00:18:30 effective efficient way to create oxygen onboard a submarine how often do you burn these things 
+00:18:36 typically when we have to buy candles we do we light two candles every two hours once in a fork apartment and once in the
+00:18:42 engine room yeah you alternate every two hours and you're constantly monitoring how much
+00:18:48 oxygen is yes that's his job to monitor the cams our citroen atmosphere monitoring system
+00:18:52 to verify auction double show off the ship okay and so can you literally watch the  the oxygen
+00:18:59 level rise here no it won't rise up instantaneously like that because it burns over time yeah so with that
+00:19:05 what we'll see is the o2 tour right here might go up by three or four by the end of an hour or so
+00:19:14 and then what we'll do is we'll take the pressure right here and the o2 torque because the other that's partial
+00:19:20 pressure yeah that's a partial pressure so we can figure out the option percentage of that
+00:19:25 so it usually doesn't change too much when we burn the candles because as they're burning
+00:19:29 people are breathing still so it might go up by a little bit but it won't be like a huge drastic but
+00:19:33 it's like a it's like a continuously solving equation you're just trying to like
+00:19:38 maintain you're not trying to rise yeah no we're not trying to really rise with these we're mostly trying to
+00:19:45 maintain a suitable atmosphere so that we can breathe still that's awesome all right great so we know how
+00:19:50 to get oxygen in the submarine in our environment now we've got candles and electrolysis but we still have the carbon dioxide
+00:19:56 problem as we breathe out we're creating carbon dioxide and we have to do what's called scrubbing the
+00:20:02 co2 from the atmosphere so to do that there's two processes we'll talk about the first one
+00:20:08 involves a liquid chemical we have  two marquee bravo co2 scrubbers right here right here  so this is
+00:20:13 what's letting us breathe it is yeah so what these machines are designed to do they take
+00:20:20 carbon dioxide out of the air  if you take it it's around 370 cubic feet of per minute
+00:20:26 air goes through so you use this chemical called mono ethanol amine or say it slower monoethanol amine okay or
+00:20:34 call for short mba or amin and  where does it go in so air will come in to here it comes down for the bedroom
+00:20:44 like the cycle goes air will go in from the blower it will suck it'll pull in air in and go through the blower tower
+00:20:52 yeah and  naming sprayed over top of the air and i'll absorbs all the co2 out of the
+00:20:56 air and the air goes back to the air purifier and then it gets it gets us back out
+00:21:02 so this is this is fresh air coming out yes and then from there  from the lord tower aiming the rich amine because it 
+00:21:13 has co2 in it it gets pumped from the amine pump into the heat exchanger which is right here
+00:21:19 which basically preheats the amine before the before gets to the boiler stripper and the boiler stripper it's under
+00:21:25 pressure  which causes a higher pressure causes things to have higher higher boiling temperature
+00:21:32 yeah so now that we boil the aiming and that removes the co2 it releases it yes so where does the co2 go so after there 
+00:21:41 it gets into the compressor and gets compressed to sea water depth so how deep we
+00:21:45 are and then we send it overboard what do you mean compress the sea water depth so it goes out as liquid co2 comes out as
+00:21:52  like gas co2 but like different depths the pressure water pressure is
+00:21:59 higher so it gets set off that way so it compresses it to however deep we are and then pushes out
+00:22:04 so it creates enough pressure to push it out oh i got it the water doesn't come back in
+00:22:10 i see okay let's break this down dow referred to the chemical being used as monoethanol amine or mea
+00:22:18 also known as amine a lot of submariners spouses complain about the aiming smell in their clothes
+00:22:23 once they get back from being on tour anyway this is a really interesting substance he referred to two adjectives to
+00:22:30 describe amine he said rich amine and he said lean amine if you think about rich amine it's like
+00:22:35 a fizzy drink co2 or carbon dioxide is in saturation in the liquid lean amine is like a flat coke
+00:22:44 it has the ability to absorb co2 but it's flat it doesn't possess any of the co2 in it at that time right so it's
+00:22:50 this ability to absorb co2 that makes monoethanol amine so fantastic i'm a visual learner so let's
+00:22:57 take a look at this dow said there are two main components to this system first there's the
+00:23:02 absorber tower and then there's the boiler stripper first air that has co2 in it is blown into the absorber tower where lean mea
+00:23:10 is sprayed through that air the reason it's sprayed is because that increases the surface area between the
+00:23:16 carbon dioxide in the air and the lean amine and that maximizing of the contact area promotes the
+00:23:23 absorption of co2 into the lean mea because the lean amine is flat and it wants to be fizzy
+00:23:29 it starts to absorb that carbon dioxide out of the air and then it falls down to the bottom of the absorber tower
+00:23:34 where it pulls together in a rich state meaning it has that co2 in solution i don't really understand
+00:23:39 this part but dao said there's a preheating function that happens before it moves over to the boiler stripper but
+00:23:44 once it's in the boiler the temperature of the rich amine is increased and the co2
+00:23:50 boils off turning rich amine back into lean amine that co2 that then boiled off is
+00:23:56 compressed like he said to whatever pressure it takes to push it overboard the deeper you are in the ocean the
+00:24:01 higher the pressure has to be in order to push it out the side of the submarine once the co2 is compressed and pushed
+00:24:06 overboard somehow in that process it's turned into very fine bubbles so it dissipates out into the sea water
+00:24:12 without causing too much noise that lean amine can then be used again to be sprayed back over into the
+00:24:18 absorber tower and the whole process starts over again and this is the magic of the whole thing the fact that you can
+00:24:23 take that lean amine and then make it rich and then make it lean again is fantastic because that means you don't have any
+00:24:29 consumables on board and you can continuously scrub co2 from the air indefinitely that's a
+00:24:34 really big deal when you're trying to be underwater for an extended period of time so this amine system
+00:24:41 is critical for staying submerged in a submarine so mea is one way to get the carbon dioxide out of the atmosphere in the
+00:24:47 submarine the other way you've probably heard of before and that's lithium hydroxide during the apollo 13
+00:24:53 incident famously the astronauts had to adapt the square lithium hydroxide canisters from the command module
+00:24:59 to the circular interface of the linear module and the reason is they had different lithium hydroxide canisters
+00:25:05 which is basically just a way of passing air through this lithium hydroxide membrane or mesh or
+00:25:10 whatever you want to call it basically just a chemical once it's exposed it'll take the co2
+00:25:16 out of the air so lithium hydroxide is used in a ton of different places rebreathers for navy seals  they take
+00:25:23 the co2 out of the air when an astronaut does an eva they use lithium hydroxide in the spacesuit to get the co2
+00:25:29 out of their spacesuit the beauty of using lithium hydroxide to scrub co2 from the atmosphere
+00:25:35 is just like the oxygen candle if the power goes out and you don't have a way of running your
+00:25:39 mea system you can just open these canisters even and just sprinkle lithium hydroxide out on the bunk
+00:25:45 in the sailors like where they sleep and as long as it's exposed to the air it will scrub the co2
+00:25:52 from the atmosphere it's a fantastic passive means of getting co2 out of the atmosphere so you can survive
+00:25:58 on board the submarine so in summary how to breathe on a submarine you've got to make oxygen and you've got to scrub
+00:26:04 co2 the primary ways to do this for oxygen electrolysis and oxygen candles to scrub co2 it's
+00:26:09 going to be monoethylene amine and lithium hydroxide you do all this just right in just the right amounts
+00:26:17 and you can breathe underwater on a submarine this episode of smarter everyday is sponsored
+00:26:22 by raycon raycon is a company that makes fantastic earbuds i've been running a lot lately i have been
+00:26:28 putting many many miles on the road using raycons to listen to music audiobooks i love these things my favorite thing
+00:26:34 though is there's a little bitty button on the side of the earbud itself and if you are running and you tap the
+00:26:40 button it'll pause everything you're listening to i know that sounds like a little deal but it's a big deal when
+00:26:44 you're running and a lady comes up to you and she's got a little dog you will say hi to the dog
+00:26:47 or whatever boom pause i can engage with a human i can keep running
+00:26:53 they're great this is my dog princess booper snoot i just wanted you to see she's great i love my raycons if you
+00:27:01 want to check these out you can get them by going to buyrecon.com smarter that gets you 15
+00:27:07 off any order you want there's two different models that i recommend there's the everyday e25 and the
+00:27:12 performer e55 this is the performer e55 the cool thing about the performer
+00:27:17 is that you have wireless charging as an option you also have a usbc charging option but the way it works is you basically
+00:27:23 put the earbuds in the case here and the case itself charges the earbuds they're fantastic
+00:27:29 they are like half the price of other premium audio brands but they sound just as good if you go to buy rakon.com smarter
+00:27:36 pick out any color you want when you get raycons they come with all these little adapters so you can
+00:27:43 tune the raycon earbud to your specific ear hole size it's like an adapter for whatever you
+00:27:47 know what i'm trying to say they're great you'll find the perfect ear hole fit for you
+00:27:54 yeah buy rakon.com smarter 15 off your order i highly recommend them there you go so here's where we're at in the
+00:28:01 smarter everyday deep dive series into submarines we've learned about all this stuff there's a ton
+00:28:06 of things we've talked about food we've talked about oxygen now we've talked about all this stuff we are
+00:28:12 coming up on surfacing the submarine which is fantastic so
+00:28:17 if you're interested in subscribing to smarter every day that'd be amazing i would greatly appreciate it if not
+00:28:22 no big deal i'm just grateful that you're along for the ride literally so thank you so much for watching smarter
+00:28:28 every day i'm grateful  feel free to consider supporting on patreon if that's your sort of thing if not
+00:28:34 also no big deal anyway that's it i'm destined i hope you're getting smarter every day
+00:28:39 have a good one bye so you and dal were together yes in the same division okay yeah i figured
+00:28:43 out pretty quick you you're the guys that keep things going on the ship i like to believe so
+00:28:49 the backbone of the submarine if you will what was your name sir freddie also watson pleasure to meet you mr watson listen to
+00:28:55 me yeah and you sir i might test you farmer pleasure to meet you thanks appreciate it so
+00:29:01 here's where the auction's going out oh it's getting hotter too yeah yeah i guess quick thank you you're really smart
+00:29:07 thanks yeah where did you learn all this just join the navy yeah i mean i learned like
+00:29:12 mechanical stuff from my grandpa and stuff my dad and you just you just came into the navy and you
+00:29:17 learned all kinds of stuff yeah especially the submarine force they teach you a lot you have to learn a lot
+00:29:21 because your life depends on it really something goes down we're the ones that have to fix it there's no one
+00:29:25 else out here to help us what's up bros it's pretty legit thank you very much what's your name

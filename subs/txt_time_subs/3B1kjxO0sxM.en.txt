@@ -1,0 +1,126 @@
+00:00:01 it's been over a year since the last episode of sketchy heatsinks this project was actually probably Alex's
+00:00:10 worst at the company it was over time over budget and the end result was absolutely abominable so I told him
+00:00:20 we're not doing sketchy heatsinks again unless you can do a better job than this which you might think is a reasonably
+00:00:28 low bar but then it took an entire year to bring another concept to the table so you're already over time and over budget
+00:00:37 but to your credit this does look a lot more promising private Internet access encrypts your
+00:00:52 Internet traffic can use a safe protected IP check it out today through the link below what was just not fair at
+00:00:59 all at all what part of it was not fair first of all this is amazing it cool the processor great but anyway what was not
+00:01:06 fair about that is that I just don't have the tools that I needed to properly do it you had a blank check to buy the
+00:01:13 tools you needed that's not an excuse okay okay let's just yeah listen yeah let's just put the past in the past all
+00:01:22 right so the plan for this one is we're actually going to put heat pipes into aluminum and then have actual aluminum
+00:01:30 fins so we're gonna try to make a hyper 212 basically yeah pretty much exactly it's like largely ripped off of them if
+00:01:37 you look at the design here basically we're going to do is take one of these guys drill six holes directly down in
+00:01:45 then we're going to stick the heat pipes in bend them at 90 degrees and they'll go up through the fins which will have
+00:01:51 also six holes in them and are you gonna solder the heat pipes to the aluminum or they're going to be thermal epoxy on
+00:02:00 you can't solder them because like pipes will explode if you eat them the only part that really sketches me out is
+00:02:07 bending the heat pipe which hopefully will be done with this but I don't know if we'll get a full 90 degrees on it
+00:02:14 so if that doesn't work it's gonna have to sort of come out at two angles like a v8 far as these six I guess that's gonna
+00:02:23 make the holes through the fins a complete nightmare oh well have like fins on either side well I cut them in
+00:02:30 half and they'll like come out like this the first order of business was to see how far we could bend the tubes we
+00:02:37 ordered ten heat pipes so we only have four chances to figure this out oh man this is this is such a terrible bender
+00:02:48 oh my god Laurie just stuck on itself this is about to get gross out of the box the guide on the bender wasn't
+00:02:56 correctly aligned how is this thing so balls so we needed to make up some of the slop to get consistent bends
+00:03:06 so the working idea to made this which goes the wrong way compared to the tubing sizes line up correctly is to
+00:03:15 just giver with the gaff tape hopefully it'll work this is what you get for buying like a $20 thing I think that'll
+00:03:40 work will it fit so it's got the clearance there looks good yeah that one didn't quite work out oh that one did
+00:03:53 not work out either those are both totally mangled this one right here
+00:03:59 this one worked out so we're going 45 degrees with the heat pipe angles decided it was time to move on to
+00:04:05 creating the base that would sit on top of the cpu out of aluminum stock regard for the CPU block what we really needed
+00:04:13 was a three and a half by three and a half inch square but it was cheaper to buy four inch stock so the first order
+00:04:20 of business was to cut it down then with our square cut down to the correct size we needed to drill the holes for the
+00:04:28 heat pipes to go in huh it's basically a problem-solve perfect could not have been better
+00:04:50 well it definitely could have been better but this even gonna hold this in place oh yeah it should be fine I didn't want
+00:04:57 to like take the time to measure all the holes so I just laser-cut them captain should be fine everyone this this one is
+00:05:05 fine that one this is gonna go through there yep I don't think you have a plan what I was just gonna lie appalled it
+00:05:14 excreta though there look good not this way hey look it's not lazy yeah it doesn't work only we had a rubber mallet prepare
+00:05:35 well I'm pretty sure you're not supposed to apply that allowance
+00:05:43 if only we had brushes here you know I approve everything you want to buy all you have to do is order it but we also
+00:05:58 I mean you wanted something to go wrong so now we can both get our wish yeah Lots I could oh yeah you want that
+00:06:14 actually isn't as far off as I'm expecting why are you expecting it to be off gee I don't know
+00:06:23 wow these don't fit that tightly they fit tightly enough some of them are tighter than others this one's pretty
+00:06:29 loose how are you gonna get all that oil out of it I was playing on just kind of you can't just slap a block of aluminum
+00:06:42 on the CPU though since it will interfere with the capacitors around the socket to the side with the holes I
+00:06:48 don't want to destroy them so that's why I'm using the hacksaw for this I can see this really quickly just turning into me
+00:07:44 with capacitor clearance cut and sharp edges removed with the sander and file the block was looking like it might work
+00:07:51 it's drill press sometime ago well I'll have to let you do that yourself I have other pressing matters
+00:07:55 to attend to all right all right it's a good time you know satisfied it's an excellent time no
+00:08:03 no I'm so satisfied I don't need you to get off to be satisfied with so much haha perfect such a great fit well with
+00:08:22 our plan fully worked out it was time to bend the rest of the heat pipes alright now we need to do six of these and I can
+00:08:32 make two errors during that and I don't know if I'm capable of that really it's a kind of finicky and it's tool sucks
+00:08:40 and I say that but I just made it look easy so the other one left over we can tell Linus to do the last one and tell
+00:08:48 them that actually matters and see what happens nice well that was easy enough the problem
+00:09:00 that we have to go over now we have all of these sheets of aluminum yeah and they need to go on these
+00:09:08 yes so we need to drill these holes in these and we need to figure a good way to hold these clamps yeah we seem to be
+00:09:18 on the same page here so do we want to do half of them like that I don't know your same to be the
+00:09:27 expert that moved a fair bit while you were putting it up I don't even know how much that's gonna affect the bit
+00:09:41 wandering that moved so much okay oh wow how are we gonna do this professional this is where we find out if this
+00:10:00 they are mostly in this trade line ish yeah just some cleaning and prep was left until it was time to do a test fit
+00:10:06 and make sure it would all go together all of those clear that awesome it's about there the fit surprisingly was
+00:10:19 pretty good although a couple needed to be trimmed down so that we could get the maximum number of fins onto the heatsink
+00:10:30 oh nice so we got this thermally conductive adhesive from mg chemicals which hopefully won't put between the
+00:10:38 fins and the heat pipes will conduct most of the heat I don't know the thermal conductivity on it isn't great
+00:10:46 but it's the best that we've got or that exists really I don't think I'd recommend putting this on your shoe sheet
+00:10:56 sushi sushi oh man that smells like tuna to our choice of medium cure time epoxy means we'd have about 45 minutes to work
+00:11:03 with it before it cures first the heat pipe holes in the block were filled with n-th one thermal compound and then the
+00:11:10 thermal epoxy was put on the end to hold them in place done I guess these are like almost gone
+00:11:19 from here the heat pipes were covered in thermal epoxy and the plan anyway was to just jam the fins on I guess look before
+00:11:26 I put the epoxy on I should have made sure that all six heat pipes will go under this all right to keep the fins
+00:11:32 from sticking together we resorted to some good old-fashioned Canadian engineering using pieces of a cut-up Tim
+00:11:38 Hortons box to space them out we repeated this process until we were out of fins so while you're off spending
+00:11:45 company money on lunch actually not his personal lunch with personal money same thing so I basically finished it Oh
+00:11:53 finished isn't word so don't move it too much it's still setting but I noticed that something I hadn't really thought
+00:12:00 of until now all the heat pipes are together which oh yeah probably isn't the most efficient way to do that
+00:12:07 no yeah it's going to be like right here is where all the heat gets dissipated and then this is all just work yeah I
+00:12:14 probably the done like Oder inch or so is doing nothing so aluminium here doesn't help us a whole lot you probably
+00:12:20 still been copper but it would have been wave more difficult to machine and stuff you're calling what you did machining
+00:12:28 yes at this point all that was left to do was leave it to cure overnight and gather some comparative benchmark data
+00:12:35 so we could determine just how good or bad our creation really is it's really dumb the Windows doesn't automatically
+00:12:41 restore connection to network drives all the time I mean far be it from us to criticize
+00:12:46 other people's products at this moment though we pay for their products though no one's buying this high paid for it
+00:12:57 you're getting paid for it the total cost of this monstrosity was a hundred and seven thirty eight which is Canadian
+00:13:05 dollars so that's two dollars less than NHD 15 and let's find out how long it takes to them I guess yeah I've stolen
+00:13:12 some mounting hardware I see here this looks like NOK to a mounting hardware that's so cheating
+00:13:17 now it's realized to everyone though so I think it's okay and the first one that wasn't mounted with zip ties so it's a
+00:13:24 pretty big improvement we're looking for so Intel stock heatsink okay took 40 seconds to mount okay the cooler master
+00:13:34 hyper 212 to 9 minutes and 30 seconds okay so that's what we're looking to beat so we start the time right now I'm sure
+00:13:41 this is kind of cheating as we're using two people but I think this thing needs every advantage it can get hold on
+00:13:46 though I do have to pay the bottom actually of course this is gonna be a hard mount now and on a spring mount cuz
+00:13:53 our block is synthetic these aren't gonna reach oh that's you tech you didn't check I might still have an
+00:14:01 old-school waterblock mount in my office this is like training wheels off CPU melting we could probably go a little
+00:14:08 tighter but that's fine no we're not gonna use a blowy on this that's all cheating well I figured that
+00:14:15 if that doesn't work I think rubber bands is actually probably a better bet yeah sure good enough
+00:14:22 oh yeah it's 54 seconds still be too high for 212 so the hyper 212 aisles were like 3040
+00:14:29 degrees the Intel stock was regularly getting up to 60 it's still 30 degrees it's not going up yeah so did we hit it
+00:14:38 with a load it's kind of cheating to put like a thirty dollar fan on it too I realize that but I just wasn't gonna
+00:14:46 mention it look we definitely could have just like cnc'd out the whole block got the pipes professionally done wouldn't
+00:14:53 even cost that much probably would cost less than a drill press there's no fun in exactly that's why it's our job to do
+00:15:01 it wrong it's not even warming up like our heat pipes with their lesser Bend may actually have some kind of
+00:15:10 efficiency improvement in terms of their evaporation and condensation another thing that we haven't really considered
+00:15:17 is that even though our heat pipes look like they're the same diameter they might be like a high quality heat pipe
+00:15:23 so we don't know if these are good heat pipes or not I would say they are they cost like 80 bucks and you were just
+00:15:31 like ruining those alright hit me with the FLIR I want to see this first whoa it's really cool
+00:15:39 yeah the hottest part is the fan hub yeah like if you look at the motherboard I mean there's the coolest spot is our
+00:15:47 heatsink the base of our heatsink is tops like 31 degrees as measured by this you compare that to like this capacitor
+00:16:02 at 35 so CPU score is 7 like 73 672 26 that compare yeah same as the hyper 212 I mean there's plenty of time for it to
+00:16:09 buckle under a sustained load I guess ooh okay so that jumped right up to 83 degrees on the hottest core so far still
+00:16:19 turbo well full turbo no throttle oh it's still climbing though 86 degrees yeah so our victory there might have
+00:16:27 just been purely on mass alone so I have the solution to this what's that we call it a gaming heatsink then when people
+00:16:37 say well you know under a sustained all core abode it actually doesn't perform as well we say well it's designed for
+00:16:43 gaming so if we had spread out our heat pipes more which we knew yeah was better that's why they design it like this so
+00:16:51 that way that little area around the heat pipe right in the path of the most optimal parts of the fan is exactly been
+00:17:00 yeah and that's why it ends like a fingers width away from the heat pipe because you're just nothing's happening
+00:17:06 if you have more I don't live in here all right it hasn't thermal throttled though or its thermal throttle but it
+00:17:12 hasn't you know it doesn't it's not turbo anymore it's actually no you know it's still above base block 3.85 is
+00:17:20 above the base three point seven o'clock speed of an 87 mm K so do we declare victory it's better than Intel stock
+00:17:31 it's worse than a hyper 212 so assuming that you have a half a dozen heat pipes some blocks of aluminum and a bunch of
+00:17:39 aluminum sheets a drill press some thermal epoxy and a lot of time on your hands you can really have a better
+00:17:47 cooler than the Intel stock cooler that your CPU shipped with this one didn't though by following this method mission
+00:17:55 accomplished boys speaking of missions being accomplished thermal takes mission when they were created the view 71 snow
+00:18:02 was to make a four-sided tempered glass case and that they pulled it off it supports mini ITX micro ATX ATX and
+00:18:10 the ATX motherboards it has four tempered glass panels and the dual swing door it allows vertical mounting options
+00:18:17 for two and a half slot GPU solutions so even massive graphics cards with the riser cable sold separately it's got
+00:18:24 3-way radiator support so top front or vertical and it includes two of their ring 140 millimeter white LED fans and
+00:18:31 you can check out the full details at the link in the video description so thanks for watching you guys I know it
+00:18:40 was painful if you dislike this video you can hit that button but if you liked it it like get subscribed or maybe
+00:18:46 consider checking out where to buy the things that are actually any good that we feature typically yeah your description
+00:18:53 these fans are good too also down there is our merch store which has cool shirts like this one and our community forum

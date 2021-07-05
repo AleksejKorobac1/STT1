@@ -1,0 +1,129 @@
+{% extends 'base.html' %}
+{% block content %}
+<br>
+
+<!--<script>-->
+<!--$(document).ready(function(){-->
+<!--   $(".button").click(function(){-->
+<!--    $.ajax({-->
+<!--            url: '/get-data',-->
+<!--            type: 'get',-->
+<!--            data: {-->
+<!--                search: $(this).text(),-->
+<!--                video_id: $("#video_id").val()-->
+<!--            },-->
+<!--            success: function(response) {-->
+<!--                $('.results').html('').load(response);-->
+<!--                $('#results').html(response);-->
+<!--            }-->
+<!--        });-->
+<!--  });-->
+<!--  $("#deep_search_form").on("submit", function (e) {-->
+<!--    e.preventDefault();-->
+<!--    $.ajax({-->
+<!--            url: '/get-data',-->
+<!--            type: 'get',-->
+<!--            data: $("#deep_search_form").serialize(),-->
+<!--            success: function(response) {-->
+<!--                $('.results').html('').load(response);-->
+<!--                $('#results').html(response);-->
+<!--            }-->
+<!--        });-->
+<!--  });-->
+<!--});-->
+<!--</script>-->
+
+<br>
+<div class="container-1">
+
+    <div class="box-1">
+            <div class="responsive">
+            <iframe class="responsive-iframe" id="player" width="896" height="504 " src="https://www.youtube.com/embed/{{video_id}}?enablejsapi=1&autoplay=0"
+                    frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+            </div>
+        <br>
+        {% for tags in search_detailed_tags %}
+
+        <button class="button">{{tags.1}} | {{tags.0}}</button>
+
+        {% endfor %}
+        <br><br>
+
+
+
+<div id="results">
+{% include 'results.html' %}
+</div>
+    </div>
+
+<div class="box-2">
+</div>
+
+<div class="box-34">
+    <div class="box-3">
+
+{% for similar_video in similar_videos %}
+<div class="similar-thumbnail">
+<a href="/detailed?video_id={{similar_video.0}}">
+    <img src="https://i.ytimg.com/vi/{{ similar_video.0 }}/mqdefault.jpg" alt="" width="200px">
+    </a>
+</div>
+
+{% endfor %}
+    </div>
+
+
+    <div class="box-4">
+        {% for similar_video in similar_videos %}
+        <div class="similar-title-tags">
+<!--{{ similar_video.1|slice:":50"}}-->
+        <div class="text-overflow">
+        {{ similar_video.1}}<br>
+            </div>
+            <a href="/channel/{{similar_video.5}}">{{similar_video.5}}</a>
+            <div>
+                <a href="/detailed?video_id={{similar_video.0}}&search={{similar_video.2.0}}">
+                    <button class="button_similar">{{similar_video.2.1}} | {{similar_video.2.0}}</button>
+                </a>
+                {% if similar_video.3|length != 0 %}
+                <text style="margin:0px;padding=0px;font-size:13px;">+{{similar_video.3|length}}</text>
+                {% endif %}
+            </div>
+            </div>
+
+        {% endfor %}
+    </div>
+</div>
+</div>
+
+
+<input type="hidden" id="video_id" value="{{video_id}}">
+
+<script>
+$(document).ready(function(){
+   $(".button").click(function(){
+    $.ajax({
+            url: '/get-data',
+            type: 'get',
+            data: {
+                search: $(this).text(),
+                video_id: $("#video_id").val()
+            },
+            success: function(response) {
+                $('.results').html('').load(response);
+                $('#results').html(response);
+            }
+        });
+  });
+});
+</script>
+
+
+<!--{% for tags in search_detailed_tags_4 %}-->
+<!--{{tags.0}} ({{tags.1}})-->
+<!--{% endfor %}-->
+
+<!--split('v=')[1].split('&')-->
+
+{% endblock %}

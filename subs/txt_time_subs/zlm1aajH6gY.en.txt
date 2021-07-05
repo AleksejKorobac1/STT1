@@ -1,0 +1,150 @@
+00:00:05 when you look at this what do you see to me this is one of the most beautiful fascinating and frustrating things i've ever seen
+00:00:13 that's because i'm a mathematician and these hypnotizing curly cues have haunted people like me for
+00:00:19 150 years what we're looking at is a glimpse of the riemann hypothesis it's one of the most important if not
+00:00:25 the most important unsolved problems in all of mathematics you may have heard about the riemann hypothesis because
+00:00:31 it's one of the millennium problems of the clay institute what that means is that the person who
+00:00:36 solves it not only achieves immortality in mathematics but also wins a 1 million prize
+00:00:42 but there are other reasons to care about the enigma that is the riemann hypothesis if the hypothesis is true it would solve
+00:00:49 a mystery as old as math itself that is the mystery of the prime numbers countless theorems in fields as far
+00:00:56 apart as cryptography and quantum physics assume that the riemann hypothesis is true which means that we have a lot riding
+00:01:04 on this single unproven statement so what is it what is the riemann hypothesis why has
+00:01:08 the search for a proof become something of a holy grail for mathematicians and what do these strange
+00:01:13 curly cues have to do with all of this my name is alex conterovich and i'm a professor of mathematics
+00:01:21 i'll serve as your guide as we explore the riemann hypothesis in order to build a somewhat
+00:01:26 sophisticated understanding of this hypothesis what i'm going to try to do is mention some slightly advanced concepts
+00:01:32 now you don't need an advanced degree in mathematics to go on this journey with me what i'm going to do is try to lay the
+00:01:38 groundwork step by step in a visual and intuitive way so to begin let's venture into the
+00:01:43 chaotic and elusive universe this is factor city where the primes are literally the building blocks of all numbers
+00:01:55 now every whole number is a building and it's been constructed out of its primes the one-story houses
+00:02:02 are exactly the primes now thanks to the ancient greek euclid of alexandria we know that the one-story buildings
+00:02:07 keep going on forever if you can walk that far but depending on where you're standing you
+00:02:14 might want to know how many one story buildings do you see around you this is what we want to understand about
+00:02:20 the prime numbers and what we currently don't you see the prime numbers seem to just pop up randomly among the natural numbers
+00:02:27 all the way out to infinity in the late 1700s mathematicians were really starting to wonder
+00:02:34 whether it was possible to predict the places where primes would appear now a teenage boy named carl friedrich
+00:02:41 daus was especially obsessed with taming the primes he calculated massive tables of primes
+00:02:45 going all the way up to 3 million and looked for patterns we can see the data that gauss collected on the prime
+00:02:51 numbers by using something we'll call the prime counting function the graph of that function will show us
+00:02:57 exactly where the prime numbers appear as the numbers get bigger and bigger so the graph stays flat until you hit a prime
+00:03:04 and at that point it jumps up by one here's what the graph looks like out to 10 and out to 100
+00:03:12 and now out to 3 million as far as gauss went at this scale those bumps we saw early on have smoothed out
+00:03:19 leaving a pretty pleasant curve when gauss looked at this data he asked himself is there some other function that i know
+00:03:24 that has pretty much the same graph now as luck would have it at around the same time gauss was also
+00:03:33 playing around with logarithm functions you might remember that a logarithm is a function that undoes exponentiation
+00:03:39 much in the same way as division undoes multiplication what gauss noticed was that the graph of something called the logarithmic
+00:03:46 integral function that's a function whose slope is 1 over log x looked suspiciously similar to the graph
+00:03:52 of the prime counting function here's what they look like together you can see why gauss made the connection
+00:03:58 at this scale they're so close you can't even distinguish them to understand what the slope of one over
+00:04:03 log x has to do with prime numbers let's pay another visit to factor city what gauss imagined
+00:04:09 was that if you're standing at address x and you look left and you look right the proportion of one story buildings
+00:04:15 that is primes that you would see around you is roughly the same
+00:04:22 as one over log x this suspicion became known as gauss's conjecture after gauss formulated this conjecture
+00:04:29 his student bernard riemann went on to do something absolutely incredible with it but to understand what riemann did we
+00:04:35 first have to go back in time a little bit this is leonard euler one of the world's first students of calculus later on in his
+00:04:47 life he wrote many influential textbooks and standardized the modern math notation that we still use to this day
+00:04:52 if you've ever written something in standard function notation you know like y equals f x well you can thank or
+00:04:58 perhaps blame leonard euler in euler's time mathematicians were trying to understand
+00:05:04 the general structure of infinite series what that means is you're trying to add up an infinite sequence of numbers like
+00:05:11 one a half a quarter an eighth and so on forever sometimes that total sum is a finite number which we then call a limit
+00:05:20 if a series has a limit we would say that the series itself is convergent in this series our limit
+00:05:25 is two on the other hand if we were to add let's say one plus one plus one plus one
+00:05:31 plus one forever well that sum would eventually become larger than any finite number
+00:05:37 and so we would say that that series is divergent sometimes it can be rather tricky to tell if a given series converges or not
+00:05:46 so for example this series which is called the harmonic series turns out actually diverges even though
+00:05:52 the terms themselves are getting smaller and smaller this is really rather not obvious and
+00:05:57 takes some mathematical gymnastics to verify now what about this series the sum of 1 over the squares
+00:06:05 of all the positive integers it wasn't hard for mathematicians to show that this series does indeed converge
+00:06:11 but the question was what is the exact limit euler shout to mathematical super stardom when he saw this problem
+00:06:19 what he realized and proved is that the limit is pi squared over six isn't that weird what
+00:06:23 in the world does pi have to do with the squares well that's another story for another time
+00:06:29 so full of adrenaline from his early victory euler kept going he found the limits of the sum of one over the
+00:06:34 positive integers to the fourth power and to the sixth power and to the eighth power now let's try to study all these
+00:06:40 series at once let's write s for that exponent when we do this we define
+00:06:46 what's called the zeta function in other words zeta of two is the sum of one over the squares and zeta four is
+00:06:53 the sum of one over the fourth powers and so on euler proved that all of these converge
+00:06:57 but only when s is greater than one but here's where things got
+00:07:04 really interesting euler discovered that the zeta function could be expressed as an infinite product
+00:07:09 one for each prime number of an infinite series here's what you do for each prime number you add up one
+00:07:16 over all the powers of that prime to the if you multiply all those series over all the prime numbers
+00:07:22 you get the zeta function euler's discovery hinted at an intimate connection between the zeta function
+00:07:30 and prime numbers but it would take another hundred years for the full meaning to reveal itself
+00:07:35 and that's when our friend bernard riemann would make a major breakthrough in prime number theory
+00:07:41 and that breakthrough would potentially allow us for the first time to understand the profound mysteries of
+00:07:46 prime numbers so riemann he's born in 1826 in modern-day germany he's an absolutely spectacular
+00:07:55 and innovative prolific mathematician and among other things his novel approach to geometry
+00:07:59 actually lays the mathematical groundwork for einstein's theory of relativity riemann was also one of the founders of
+00:08:06 complex analysis which is a branch of math that studies functions with complex inputs and outputs
+00:08:11 and he realized he might have something new to say if he studied from that point of view
+00:08:19 you might remember that the square of any real number is positive so 2 squared is 4 but negative 2 squared
+00:08:27 is also four so there is no number whose square is negative one it turns out that it's really rather
+00:08:32 useful for mathematicians to have a number whose square is negative one so what did we do we just made one up we
+00:08:37 called it i for imaginary so whenever you see i squared what that means is you should
+00:08:44 replace it with negative 1. this means that any real multiple of i like 3i or 2i
+00:08:50 these are all imaginary cousins of the real numbers when you take combinations of real
+00:08:55 numbers and imaginary numbers you get something we call a complex number complex numbers might look like two
+00:09:00 numbers but they're actually just one number expressed as two parts the real part and the imaginary the
+00:09:07 thing is these imaginary and complex numbers they aren't imaginary at all they're just the natural extension of
+00:09:12 our usual number system from one dimension to two they're plotted in what we call the complex plane
+00:09:18 with the real part going left to right and the imaginary part up to down once you have these complex numbers you
+00:09:25 can study complex functions that is functions with inputs and outputs living in the complex plane
+00:09:33 and so armed with the power of complex analysis riemann opened up a whole new perspective on the world of mathematics riemann wondered
+00:09:41 what would happen if you allowed the zeta function to take complex inputs that is he allowed s to be a complex number
+00:09:49 so let's take the complex exponent s equals two plus three i for example we can plug it into zeta
+00:09:57 and the function will look like this now if we add each term one at a time in the complex plane we
+00:10:03 can see how the series begins to spiral beautifully so riemann had successfully accomplished what he set out to do
+00:10:09 he extended the zeta function to the complex plane but just like euler riemann found that
+00:10:15 the function only converged when the real part of s was greater than one now riemann had a brilliant idea he
+00:10:21 realized it was possible to extend the zeta function to the rest of the complex plane riemann used a technique called analytic
+00:10:28 continuation which allowed him to break open the hidden potential of the zeta function now analytic continuation is an advanced
+00:10:35 concept in complex analysis but it's possible to make sense of it intuitively you can think of it as a
+00:10:40 logical problem-solving method to extend the domain of a function in order for riemann to fill in the
+00:10:45 missing part of the domain in euler's data function he had to create a brand new function
+00:10:51 this function would take the same values as the zeta function where they both converge but it had to make sense everywhere else
+00:10:57 on the plane too so the secret to analytic continuation is that there are really
+00:11:03 two functions at work at once one is the original zeta function which has limited scope but the other is
+00:11:08 this new function the riemann zeta function which extends beyond the domain that euler defined
+00:11:17 remember this now we can take a closer look at it and finally begin to understand its mysteries
+00:11:22 you see when riemann extended the domain of the zeta function something kind of amazing happened
+00:11:26 in the new territory that riemann uncovered suddenly the zeta function can be seen crossing through the origin
+00:11:33 what that means is for some inputs the zeta function evaluates to zero we call these places the zetas zeros
+00:11:40 some of the zeta zeros are easy to explain when you input a negative even integer the zeta
+00:11:45 function equals zero but we don't need to worry about these so-called trivial zeros it's the
+00:11:50 non-trivial zeros that we need to talk about these other zeta zeros exhibit a very compelling pattern
+00:11:57 and that pattern is the central theme of the riemann hypothesis all of the non-trivial zeros lie inside
+00:12:03 a single region called the critical strip this is where the real part of s is between 0 and 1.
+00:12:09 riemann proved that there are infinitely many zeros to be found in this critical strip but here is the
+00:12:15 most important takeaway from riemann's groundbreaking 1859 paper riemann hypothesized that all of the
+00:12:21 non-trivial zeros will lie not just somewhere in the strip but on a single vertical line
+00:12:27 smack dab in the middle we call this the critical line which is where the real part of s is
+00:12:32 exactly one half this is exactly the hypothesis that now bears riemann's name
+00:12:42 now at this point you might be wondering why does the location of these non-trivial zeros matter
+00:12:46 and what does all of this have to do with prime numbers i don't blame you let me show you exactly why riemann's
+00:12:53 hypothesis is of such profound consequence to number theory and let me do so by sharing riemann's
+00:12:58 final discovery remember gauss's prime counting function from the very beginning of the video
+00:13:04 well for technical reasons we're going to slightly modify it right now but don't worry
+00:13:09 we'll preserve the essence of the function instead of stepping up by 1 every time we see a new prime number
+00:13:15 which we'll call p let us step up by log p and we'll also do the same when we encounter p
+00:13:22 squared np cubed and p to the fourth and so on so let me try to explain why we're doing
+00:13:27 all of this riemann found a surprising connection between this modification of gauss's conjecture and
+00:13:33 his new zeta function he discovered a wave that corresponds to the zeta function at s equals one
+00:13:38 and showed that gauss's conjecture would follow if only you could show that this wave was the
+00:13:43 fundamental frequency which means that it more and more closely approximates the prime counting function
+00:13:49 as they both grow to infinity so here's what the prime counting function looks like with that wave that riemann discovered
+00:13:55 riemann realized that the zeta zeros were exactly what he needed to adjust this straight line
+00:14:01 to match the jagged counting function every time he added a zeta zero it contributed a harmonic
+00:14:07 here's what the first harmonic looks like when we add it on it ever so gently tries to smooth out
+00:14:13 the wiggles of the modified prime counting function what happens when we plug in the second
+00:14:18 zeta zero little better right what about the first 10 or the first 30 or the first 60 you get the point
+00:14:27 riemann was able to rigorously prove that if you add up all the harmonics of the zeta zeros
+00:14:32 all infinitely many of them you get a perfect match to gauss's modified prime counting function
+00:14:39 so riemann's hypothesis showed that the distribution of prime numbers can in fact be predicted the location of
+00:14:45 prime numbers is profoundly connected to the location of these non-trivial zeta zeros this means that if the riemann
+00:14:52 hypothesis is indeed true it would tell us everything we could possibly have a right to know about the
+00:14:58 distribution of prime numbers needless to say riemann was unable to prove the full hypothesis
+00:15:04 in other words neither he nor anyone since has been able to show that every single non-trivial zeta zero lies
+00:15:11 on that critical line at one point a massive computing project checked over one billion
+00:15:18 non-trivial zeta zeros every single day the computer was looking for a single errant zero if found just one then the riemann
+00:15:25 hypothesis would fall apart in the end of the 10 trillion zeros that the computer checked
+00:15:33 every single one was on the critical line but if you see a pattern holding again and again and again it's still
+00:15:41 impossible for machines to check it all the way to infinity so brute force computation will never
+00:15:47 resolve the riemann hypothesis that means there's still only one way to be sure of it and it's the same way that

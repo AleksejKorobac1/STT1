@@ -1,0 +1,994 @@
+00:00:01 the following is a conversation with david eagleman a neuroscientist and one of the great science
+00:00:07 communicators of our time exploring the beauty and mystery of the human brain
+00:00:13 he is an author a lot of amazing books about the human mind and his new one called livewired
+00:00:20 livewired is a work of 10 years on a topic that is fascinating to me which is neuroplasticity or the
+00:00:27 malleability of the human brain quick summary of the sponsors athletic greens betterhelp
+00:00:33 and cash app click the sponsor links in the description to get a discount and to support this podcast as a side note
+00:00:41 let me say that the adaptability of the human mind at the biological chemical cognitive psychological
+00:00:49 and even sociological levels is the very thing that captivated me many years ago when i first began to
+00:00:55 wonder how would i engineer something like it in the machine the open question today
+00:01:01 in the 21st century is what are the limits of this adaptability as new smarter and smarter devices and
+00:01:08 ai systems come to life or as better and better brain computer interfaces are engineered will our brain
+00:01:13 be able to adapt to catch up to excel i personally believe yes
+00:01:19 that we're far from reaching the limitation of the human mind and the human brain just as we are far
+00:01:25 from reaching the limitations of our computational systems if you enjoy this thing
+00:01:32 subscribe on youtube review it with five star snapple podcast follow on spotify support on patreon and
+00:01:37 connect with me on twitter at lex friedman as usual i'll do a few minutes of as now and no ads in the middle
+00:01:45 i try to make these interesting but i give you timestamps so you can skip but please do check out
+00:01:50 the sponsors by clicking the links in the description it's the best way to support this podcast
+00:01:57 this show is brought to you by athletic greens the all-in-one daily drink to support better health and peak performance
+00:02:04 even with a balanced diet it's difficult to cover all your nutritional bases that's where athletic greens will help
+00:02:10 their daily drink is like nutritional insurance for your body as delivered straight to your door
+00:02:17 as you may know i fast often sometimes intermittent fasting for 16 hours sometimes 24 hours dinner to dinner
+00:02:25 sometimes more i break the fast with athletic greens it's delicious refreshing just makes me
+00:02:30 feel good i think it's like 50 calories less than a gram of sugar
+00:02:35 but has a ton of nutrients to make sure my body has what it needs despite what i'm eating go to athletic greens.com
+00:02:45 lex to claim a special offer of a free vitamin d3k2 for a year if you listen to the joe rogan
+00:02:52 experience you might have listened to him rant about how awesome vitamin d is for your immune
+00:02:57 system so there you have it so click the athletic greens.com lex in the description to get the free stuff
+00:03:06 and to support this podcast this show sponsored by better help spelled h-e-l-p
+00:03:14 help check it out at betterhelp.com flex they figure out what you need match you with a licensed professional therapist
+00:03:17 in under 48 hours it's not a crisis line it's not self-help it's professional counseling done
+00:03:25 securely online i'm a bit from the david goggins line of creatures and so
+00:03:31 have some demons to contend with usually on long runs or all nights full of self-doubt i think suffering
+00:03:38 is essential for creation but you can suffer beautifully in a way that doesn't destroy you for
+00:03:42 most people i think a good therapist can help in this so it's at least worth a try
+00:03:49 check out their reviews they're good it's easy private affordable available worldwide you can communicate by text and your
+00:03:56 time and schedule a weekly audio and video session check it out at betterhelp.com lex
+00:04:04 this show is presented by cash app the number one finance app in the app store when you get it use collects podcast
+00:04:10 cash app lets you send money to friends buy bitcoin invest in the stock market with as
+00:04:15 little as one dollar since cash app allows you to buy bitcoin let me mention that cryptocurrency in
+00:04:20 the context of the history of money is fascinating i recommend ascent of money as a great book on this history
+00:04:27 debits and credits on ledgers started around 30 decentralized cryptocurrency
+00:04:34 released just over 10 years ago so given that history cryptocurrency is still very much in its
+00:04:39 early days of development but it's still aiming to and just might redefine the nature of money
+00:04:46 so again if you get cash out from the app store google play and use code lex podcast you get ten dollars
+00:04:52 and cash up will also donate ten dollars the first an organization that is helping to advance
+00:04:58 robotics and stem education for young people around the world and now here's my conversation with david
+00:05:07 eagleman you have a new book coming out on the changing brain can you give a high level overview of
+00:05:14 the book it's called live wired by the way yeah the thing is we typically think about the brain in terms of the
+00:05:19 metaphors we already have like hardware and software that's how we build all our stuff but
+00:05:24 what's happening in the brain is fundamentally so different it's so i coined this new term livewear
+00:05:31 which is a system that's constantly reconfiguring itself physically as it as it learns and adapts to the
+00:05:38 world around it it's physically changing so it's  live wear meaning like as like hardware but
+00:05:45 changing yeah exactly well it's the hardware and the software layers are blended and so you know typically
+00:05:52 engineers are praised for their efficiency and making something really clean and clear like okay here's the
+00:05:56 hardware layer then i'm gonna run software on top of it there's all sorts of universality that you get out of a piece
+00:06:02 of hardware like that that's useful but what the brain is doing is completely different and i
+00:06:07 am so excited about where this is all going because i feel like this is where our engineering will go so
+00:06:15 currently we build  all our devices a particular way but you know i can't tear half the circuitry
+00:06:21 out of your cell phone and expect it to still function but you can do that
+00:06:27 with  with the brain so just as an example kids who are under about seven years old can get one half
+00:06:33 of their brain removed it's called the hemispherectomy and and they're fine they have a slight limp on the other side of their body but
+00:06:41 they can function just fine that way and  and this is generally true you know sometimes children are born without
+00:06:46 a hemisphere and their visual system rewires so that everything is on the
+00:06:53 on the single remaining hemisphere what thousands of cases like this teach us is that it's a
+00:07:00 very malleable system that is simply trying to accomplish the tasks in front of it by
+00:07:05 rewiring itself with the available real estate how much of that is  is a quark or a feature of
+00:07:11 evolution like how how hard is it to engineer because evolution took a lot of work
+00:07:16 billion trillions of organisms had to die for to create this thing we have  in our skull  like because you said
+00:07:24  you kind of look forward to the idea that  we might be engineering our systems like
+00:07:29 this in the future but creating live war systems how hard do you think is it to create systems like that great question it has
+00:07:35 proven itself to be a difficult challenge but what i mean by that is even though it's taken evolution
+00:07:42 a really long time to get where it is now we all we have to do now is peek at the at the blueprints it's just three pounds
+00:07:49 this organ and and we just figure out how to do it but that's the part that i mean is a
+00:07:53 difficult challenge because you know  there are tens of thousands of neuroscientists were all poking and
+00:07:59 prodding and trying to figure this out but it's an extremely complicated system but it's only going to be complicated until
+00:08:05 we figure out the general principles exactly like if you you know had a magic camera and you could look inside the
+00:08:11 nucleus of a cell and you'd see hundreds of thousands of things moving around whatever and then you know it
+00:08:16 takes crick and watts and say oh you know you're just trying to maintain the order of the base pairs and all the rest
+00:08:20 is details then it simplifies it and we come to understand something
+00:08:25 that that was my goal in livewire which i've written over 10 years by the way is to try to distill things down to the
+00:08:30 principles of what plastic systems are trying to accomplish but to even just linger he said it's
+00:08:37 possible to be born with just one hemisphere and you still are able to function first of all just just to pause on that
+00:08:46 i mean that's kind of that's amazing that's that's  i don't know if people quite i mean you kind of hear things here and
+00:08:53 there this is what i'm kind of i'm really excited about your book is i don't know if there's definitive 
+00:08:58 sort of  popular sources to think about the stuff i mean there's a lot of
+00:09:05 i think from my perspective what i've heard is there's like been debates over decades about
+00:09:11 how how much neuroplasticity there is in the brain and so on and people have learned a lot of things
+00:09:16 and now it's converging towards people that are understanding this much more in europe much more plastic
+00:09:21 than people realize but just like linger on that topic like how malleable
+00:09:28 is the hardware of the human brain maybe you said children at each stage of life yeah so here's the whole thing i think
+00:09:36 part of the confusion about plasticity has been that there are studies at all sorts of different ages
+00:09:41 and then people might read that from a distance and they think oh well fred didn't recover when half his brain
+00:09:47 was taken out and so clearly you're not plastic but then you do it with a child and they are plastic
+00:09:55 and so part of my goal here was to pull together the tens of thousands of papers on this both from clinical work and from
+00:10:02 you know all the way down to the molecular and understand what are the principles here the principles are
+00:10:08 that plasticity diminishes that's no surprise by the way we should just define plasticity you know
+00:10:13 it's the ability of a system to to mold into a new shape and then hold that shape that's why
+00:10:18 you know we make things that we call plastic because they are moldable and they can
+00:10:24 hold that new shape like a plastic toy or something and so maybe we use maybe we'll use a
+00:10:30 lot of terms that are synonymous so something is plastic something is malleable  changing livewire the name of the
+00:10:37 book is is like so i'll tell you exactly right but i'll tell you why i chose livewire
+00:10:43 instead of plasticity so i used the term plasticity in the book but but sparingly because
+00:10:50 that was a term coined by william james over 100 years ago and and he was of course very impressed
+00:10:55 with plastic manufacturing that you could mold something in shape and then it holds that but that's not what's
+00:11:01 actually happening in the brain it's constantly rewiring your entire life you never hit
+00:11:07 an end point the whole point is for it to keep changing so even in the you know few minutes of
+00:11:11 conversation that we've been having your brain is changing my brain is changing next time i see your face
+00:11:18 i will remember oh yeah like that time next time i sat together and we did these things and
+00:11:23 i wonder if your brain will have like a lex thing going on for the next few months like you'll stay there until you
+00:11:27 get rid of it because it was useful for now yeah no i'll probably never get rid of it let's
+00:11:32 say for some circumstance you and i don't see each other for the next 35 years when i run into you i'll be like oh yeah
+00:11:37 that looks familiar yeah yeah and we yeah we sat down for a podcast back when there were podcasts yeah
+00:11:44 exactly back when we lived outside virtual reality yeah exactly so you chose livewire exactly
+00:11:52 exactly because plastic implies i mean it's the term that's used in the field and so that's why
+00:11:57 we need to use it still  for a while but yeah it implies something gets molded in shape and then holds that
+00:12:01 shape forever but in fact the whole system is completely changing then then back to 
+00:12:07 how malleable is the human brain at each stage of life so what just at a high level
+00:12:15 is it malleable so yes and plasticity diminishes but one of the things that i
+00:12:21 felt like i was able to put together for myself after reading thousands of papers on this issue
+00:12:26 is that different parts of the brain are have different plasticity windows so for example with
+00:12:33 the visual cortex that cements itself into place pretty quickly over the course of a few years
+00:12:39 and i argue that's because of the stability of the data in other words what you're getting in
+00:12:44 from the world you've got a certain number of angles colors shapes you know it's essentially
+00:12:48 the world is visually stable so that hardens around that data
+00:12:53 as opposed to let's say the somatosensory cortex which is the part that's taking information from your body
+00:12:58 or the motor cortex right next to it which is what drives your body the fact is bodies are always changing
+00:13:04 you get taller over time you get fatter thinner over time you you might break a leg and have to limp for a while stuff
+00:13:08 like that so because the data there is always changing by the way you might get on a bicycle
+00:13:13 you might get a surfboard things like that because that data is always changing
+00:13:19 that stays more malleable and when you look through the brain you find that it appears to be this
+00:13:25 you know how stable the data is determines how fast something hardens into place but the point is
+00:13:30 different parts of the brain harden into place at different times do you think it's possible that 
+00:13:36 depending on how much data you get on different sensors that it stays more malleable longer so like
+00:13:43 you know if you look at different cultures of experience like if you keep your eyes closed or maybe
+00:13:49 you're blind i don't know but let's say you keep your eyes closed for your entire life
+00:13:55  it that then the visual cortex might be much less malleable the reason i bring that up
+00:14:01 is like you know well maybe we'll talk about brain computer interfaces a little bit and
+00:14:08 down the line but you know like is this  is the malleability a genetic thing or is it more about the data like i said
+00:14:14 that comes in ah so the malleability itself is a genetic thing
+00:14:19 the big trick that mother nature discovered with humans is make a system that's really flexible
+00:14:27 as opposed to most other creatures to different degrees so if you take a an alligator it's born its brain does
+00:14:34 the same thing every generation if you compare an alligator a hundred thousand years ago to an alligator now
+00:14:38 they're essentially the same we on the other hand as humans drop into a world with a
+00:14:45 half-baked brain and what we require is to absorb the culture around us and the language and the
+00:14:51 beliefs and the customs and so on that's what mother nature has done with us and it's been a tremendously successful trick
+00:14:58 we've taken over the whole planet as a result of this so that's an interesting point i mean
+00:15:04 just to lingard that i mean this is a nice feature like if you were to design a thing to survive in this world
+00:15:12 do you put it at age zero already equipped to deal with the world in a like hard-coded way
+00:15:18 or do you put it do you make it malleable and just throw it in take the risk that you're maybe going to die but
+00:15:24 you're going to learn a lot in the process and if you don't die you'll learn a hell of a lot to be able to survive in the
+00:15:30 environment so this is the experiment that mother nature ran and and it turns out that for better
+00:15:34 worse we've won i mean yeah we put other animals into the zoos and we
+00:15:39 yeah that's right yeah i might do better okay fair enough that's true and and maybe what the trick mother
+00:15:45 nature did is just the stepping stone to  to ai but so it's that's that's a beautiful
+00:15:50 feature of the human brain that it's malleable but let's on the topic of mother nature
+00:15:57 what do we start with like how blank is the slate ah so it's not actually a blank slate
+00:16:01 what it's it's terrific engineering that's set up in there
+00:16:07 but much of that engineering has to do with okay just make sure that things get to the right place for
+00:16:12 example like the fibers from the eyes getting to the visual cortex or all this very complicated machinery in the ear getting
+00:16:17 to the auditory cortex and so on so things first of all there's that and then what we also come equipped with
+00:16:23 is the ability to absorb language and culture and beliefs and so on so you're already set up for that so no
+00:16:30 matter what you're exposed to you will you will absorb some sort of language that's the trick
+00:16:35 is how do you engineer something just enough that it's then a sponge that's ready to take in and fill in the blanks
+00:16:42 how much of the malleability is hardware how much software is that useful at all in the brain
+00:16:46 so like what what are we talking about so there's like there's neurons there's  synapses
+00:16:53 and the all kinds of different synapses and there's chemical communication like electrical signals and there's
+00:17:00 chemical communication from this in the synapses  what i would say the software would be the timing and the
+00:17:11 nature of the electrical signals i guess and the hardware would be the actual synapses so here's the thing this is why
+00:17:16 i really if we can i want to get away from the hardware and software metaphor because
+00:17:22 what happens is as activity passes through the system it changes things now the thing that
+00:17:28 computer engineers are really used to thinking about is is synapses where two neurons connect of
+00:17:32 course each neuron connects with ten thousands of its neighbors but at a point where they connect what
+00:17:37 we're all used to thinking about is the changing of the strength of that connection the the synaptic weight but in fact
+00:17:46 everything is changing the receptor distribution inside that neuron so that you're more or less
+00:17:51 sensitive to the neurotransmitter than the structure of the neuron itself and and what's happening there
+00:17:57 all the way down to biochemical cascades inside the cell all the way down to the nucleus and for example the epigenome which is the
+00:18:05 you know these little proteins that are attached to the dna that cause conformational changes that cause
+00:18:10 more genes to be expressed or repressed all of these things are plastic
+00:18:17 the reason that most people only talk about the synaptic weights is because that's really all we can
+00:18:21 measure well and all this other stuff is really really hard to see with our current
+00:18:25 technology so essentially that just gets ignored but but in fact the system is plastic at all these different levels
+00:18:33 and my my way of thinking about this is an analogy to paste layers so paste
+00:18:41 layers is a concept that stewart brand suggested about how to think about cities so you have
+00:18:47 fashion which changes rapidly in cities you have governance which changes more slowly
+00:18:53 you have the structure the buildings of a city which changes more slowly all the way
+00:18:57 down to to nature you've got all these different layers of things that are changing at
+00:19:03 different paces at different speeds i've taken that idea and and mapped it onto the brain which is to say you have some
+00:19:09 biochemical cascades are just changing really rapidly when something happens all the way down to things that are more
+00:19:15 and more cemented in there and this is actually  this actually allows us to understand a lot about
+00:19:21 particular kinds of things that happen for example one of the oldest probably the oldest rule in neurology is
+00:19:26 called ribose law which is that older memories are more stable than newer memories
+00:19:33 so when you get old and demented you'll be able to remember things from your your young life maybe you'll
+00:19:38 remember this podcast but you won't remember what you did a month ago or a year ago and this is a
+00:19:43 very weird structure right no other system works this way where older memories are more stable than
+00:19:48 newer members but it's because through time things get more and more cemented
+00:19:56 into deeper layers of the system and and so this is i think the way we have to think about the brain
+00:20:03 not as okay you've got neurons you've got synaptic weights and that's it so yeah so the idea of live where and
+00:20:09 live wired is it is that it's it's like a it's a gradual yeah it's a gradual spectrum between
+00:20:18 software and hardware and so the metaphors completely doesn't make sense
+00:20:23 because like when you talk about software and hardware it's really hard lines i mean of course software
+00:20:34 is unlike card but even hardware but like so there's two groups but in the software world there's levels of
+00:20:40 abstractions right there's the operating system there's machine code and then it gets higher higher levels
+00:20:45 but somehow that's actually fundamentally different than the layers of abstractions in the
+00:20:50 hardware but in the brain it's all like the same i love the city the city metaphor i mean yeah it's kind
+00:20:58 of mind-blowing because it it's hard to know what to  think about that like if i were to ask the question
+00:21:05  this is important question for machine learning is how does the brain learn so
+00:21:13 essentially you're saying that i mean it just learns on all of these different levels at all different
+00:21:20 paces exactly right and as a result what happens is as you practice something you get good
+00:21:24 at something you're physically changing the circuitry you're you're adapting your brain
+00:21:31 around the thing that is relevant to you so let's say you take up do you know how to surf no okay great
+00:21:37 so let's say you take up surfing yeah now at this age what happens is you know you'll be terrible at first you
+00:21:42 know how to operate your body you know how to read the waves things like that and through time you get better and better
+00:21:46 what you're doing is you're burning that into the actual circuitry of your brain you're of course
+00:21:50 conscious when you're first doing it you're thinking about okay where am i doing what's my body weight
+00:21:54 but eventually when you become a pro at it you are not conscious of it at all in fact you can't even
+00:22:00 unpack what it is that you did think about riding a bicycle you you can't describe how you're doing
+00:22:05 you're just doing you're changing your balance when you come you know you do this to go to a stop and so
+00:22:10 so this is what we're constantly doing is actually shaping our own circuitry based
+00:22:15 on what is relevant for us survival of course being the the top thing that's relevant but interestingly
+00:22:21 especially with humans we have these particular goals in our lives computer science neuroscience whatever
+00:22:27 and so we actually shape our circuitry around that i mean you mentioned this gets slower
+00:22:32 and slower with age but is there like i've i think i've  read and spoken offline even on this podcast
+00:22:41 developmental neurobiologist i guess would be the right terminology is like looking at the very early like
+00:22:48 from from embryonic stem cells to like to the to the creation of the brain and like that's like
+00:22:54 what that's mind-blowing how much stuff happens there so it's very malleable at that stage  it's
+00:23:02 and then but after that at which point does it stop being malleable so so that's the interesting thing is
+00:23:08 that it remains valuable your whole life so even when you're an old person you'll be able
+00:23:13 to remember new faces and names you'll be able to learn new sorts of tasks and thank goodness because the world is
+00:23:18 changing rapidly in terms of technology and so on i just sent my mother and alexa and she
+00:23:22 you know figured out how to go on the settings and do the thing and i was really yeah i was really impressed by
+00:23:27 that she was able to do it so there are parts of the brain that remain malleable their whole life
+00:23:33 the interesting part is that really your goal is to make an internal model of the world your goal is to say
+00:23:41 okay the brain  is trapped in silence and darkness and it's trying to understand how the world works out there right i
+00:23:47 love that image yeah i guess it is yeah you forget you forget it's like this this lonely thing is
+00:23:55 sitting in its own container and  trying to actually throw a few sensors figure out what the
+00:23:59 what the hell's going on you know what i sometimes think about is the that movie the martian with matt
+00:24:04 damon the it was written in a book of course but the the movie poster shows matt damon
+00:24:10 all alone on the red planet and i think god that's actually what it's like to be inside your head and my head and
+00:24:17 anybody's head is that you're essentially on your own planet in there and i'm essentially on my own
+00:24:23 planet everyone's got their own world where you've absorbed all of your experiences up to this moment in your life that made
+00:24:29 you exactly who you are and same for me and everyone and and we've got this very thin bandwidth
+00:24:36 of communication and i'll say something like oh yeah that tastes just like peaches and you'll say oh i
+00:24:42 know what you mean but the experience of course might be might be vastly different for
+00:24:49 us but anyway yes so the brain is trapped in silence and darkness each one of us
+00:24:53 and what it's trying to do this is the important part is trying to make an internal model of what's going on out
+00:24:57 there as in how do i function in the world how do i how do i interact with other people do i say something
+00:25:03 nice and polite or do i say something aggressive and mean do i you know all these things that it's putting together
+00:25:08 about the world and i think what happens when people get older and older
+00:25:14 it may not be that plasticity is diminishing it may be that their internal model essentially
+00:25:20 has set itself up in a way where it says okay i've pretty much got a really good understanding of the world now and i
+00:25:25 don't really need to change right so when old when when much older people find themselves in a situation
+00:25:30 where they need to change they can actually are able to do it it's just that i think this notion that we
+00:25:35 all have that plasticity diminishes as we grow older is in part because the motivation isn't there
+00:25:43 but if you were 80 and you got fired from your job and suddenly had to figure out how to program a wordpress
+00:25:48 site or something you'd figure it out got it so the the capability the possibility of changes is there
+00:25:57 but let me ask the the highest challenge the interesting challenge to this  plasticity to this  livewear system  if we
+00:26:04 could talk about brain computer interfaces and neurolink what are your thoughts about the efforts
+00:26:11 of elon musk neuralink bci in general in this regard which is adding a machine
+00:26:21 a computer the capability of a computer to communicate with the brain and the brain to communicate with the computer
+00:26:27 at the very basic applications and then like the futuristic kind of thoughts yeah first of all it's terrific that
+00:26:32 people are jumping and doing that because it's clearly the the future the interesting part is our
+00:26:37 brains have pretty good methods of interacting with technology so maybe it's your fat thumbs on a cell
+00:26:42 phone or something but or maybe it's watching a youtube video getting into your eye that way
+00:26:47 but we have pretty rapid ways of communicating with technology and getting data
+00:26:52 so if you actually crack open the skull and go into the inner sanctum of the brain you might be able to get a little bit
+00:27:05 i i'm i'm not so sanguine on the future of that as a business and i'll tell you why it's because
+00:27:10 there are various ways of getting data in and out and an open head surgery is a big deal
+00:27:16 neurosurgeons don't want to do it because there's always risk of death and infection on the table
+00:27:22 and also it's not clear how many people would say i'm going to volunteer to get something in my head
+00:27:28 so that i can text faster you know 20 faster so i think it's you know mother nature surrounds the brain with this
+00:27:37 armored you know bunker of the skull because it's a very delicate material and there's an expression in neurosurgery
+00:27:45 about the brain is you know the person is never the same after you open up their
+00:27:50 skull now whether or not that's true or whatever who cares but it's a big deal to do in open head surgery so
+00:27:56 what i'm interested in is how can we get information in and out of the brain without having to crack the skull open
+00:28:01 got it without messing with the biologicals the part like directly  connecting or messing with
+00:28:07 the with the intricate biological thing that we got going on it seems to be working
+00:28:14 yeah exactly and by the way where neural link is going which is wonderful is going to be
+00:28:19 in patient cases it really matters for all kinds of surgeries that a person needs whether for parkinson's or
+00:28:23 epilepsy or whatever it's a terrific new technology for essentially sowing electrodes in there
+00:28:28 and getting more higher density of electrodes so that's great i just don't think as far as the
+00:28:34 future of bci goes i don't suspect that people will go in and say yeah drill a hole in my head and
+00:28:40 do that well it's interesting because  i think there's a similar intuition but
+00:28:46 say in the world of autonomous vehicles that folks know how hard it is and it seems damn impossible
+00:28:53 the similar intuition about i'm sticking on the elon musk thing is just a good easy example  similar intuition about
+00:28:59 colonizing mars it like if you really think about it it seems extremely
+00:29:06 difficult and  and almost i mean just technically difficult to the to a degree
+00:29:12 where you want to ask is it really worth doing worth trying and then the same the same is applied with bci
+00:29:21 but the thing about the future is it's hard to predict  the the exciting thing to me
+00:29:28 with  so once it does once if successful it's able to help patients it may be
+00:29:35 able to discover something  very surprising about our ability to directly communicate with the brain so
+00:29:41 exactly what you're interested in is figuring out how to  play with this malleable brain but
+00:29:49 like help assist it somehow i mean it's such a compelling notion to me that we're now working on all these
+00:29:55 exciting machine learning systems that are able to learn you know from data and then if we can
+00:30:04 have this other brain that's a learning system that's live wired in when on the human side and
+00:30:11 them to be able to communicate it's like self playing mechanism was able to beat the game the world champion
+00:30:19 go so they can play with each other the computer and the brain like when you sleep i mean there's a lot
+00:30:24 of futuristic kind of things that it's just exciting possibilities but i hear you
+00:30:32 we understand so little about the actual intricacies of the communication of the brain that it's hard to
+00:30:39 find the common language well interestingly the technologies that have been built don't
+00:30:47 actually require the perfect common language so for example hundreds of thousands of people are walking around
+00:30:53 with artificial ears and artificial eyes meaning cochlear implants or retinal implants so this is
+00:30:59 you know you take  essentially digital microphone you slip an electrode strip into the inner ear
+00:31:04 and people can learn how to hear that way or you take an electrode grid and you plug it into the retina at the back
+00:31:09 of the eye and people can learn how to see that way the interesting part is
+00:31:15 those devices don't speak exactly the natural biological language they speak the dialect
+00:31:21 of silicon valley and and it turns out that as as recently as about 25 years ago a lot of people thought this was
+00:31:26 never going to work they thought it was it wasn't going to work for that reason but the brain
+00:31:31 figures it out it's really good at saying okay look there's some correlation between what i can touch and
+00:31:35 feel and hearing and so on and the data that's coming in or between you know
+00:31:40 i clap my hands and i and i have signals coming in there and it figures out how to speak any language
+00:31:45 oh that's fascinating so like  no matter you're no matter if it's neural link  so
+00:31:51 directly communicating with the brain or it's a smartphone or google glass or the brain
+00:31:57 figures out the efficient way of communication well exactly exactly and what i propose is the potato head
+00:32:04 theory of evolution which is which is that all you know our eyes and nose and mouth and ears and fingertips all
+00:32:10 this stuff is just plug and play and the brain can figure out what to do with the day that comes in and part of
+00:32:16 the reason that i think this is right and i care so deeply about this is when you look across the
+00:32:21 animal kingdom you find all kinds of weird peripheral devices plugged in and the brain figures out what to do
+00:32:26 with the data and i don't believe that mother nature has to reinvent the principles of brain operation each time
+00:32:33 to say oh now i'm going to have heat pits to detect infrared now i'm going to have something to detect  you know electro
+00:32:39 receptors on the body now i'm going to test something to pick up the magnetic field of the earth
+00:32:44 with cryptochromes in the eye and so on instead the brain says oh i got it there's data coming in
+00:32:48 is that useful can do something with it oh great i'm gonna mold myself around the data that's coming in it's
+00:32:53 kind of fascinating to think that we think of smartphones and all this new technology
+00:32:58 is novel as totally novel as outside of what evolution ever intended or like
+00:33:05 what nature ever intended it's fascinating to think that like the entirety of the process of evolution is
+00:33:10 perfectly fine and ready for the smartphone oh yeah and the internet
+00:33:15 like it's ready it's ready to be valuable to that and whatever comes to cyborgs to virtual reality we kind of
+00:33:22 think like this is you know there's all these like books written about natural what's natural
+00:33:29 and we're like destroying our natural cells by like embracing all this technology it's
+00:33:33 kind of it's you know we're not probably not giving the brain enough credit like
+00:33:39 this this thing this thing is just fine with new tech oh exactly it wraps itself around by the
+00:33:43 way wait till you have kids you'll see the ease with which they pick up on stuff and
+00:33:51 yeah as kevin kelly said technology is what gets invented after you're born but the stuff that already exists when
+00:33:56 you're born that's not even tech that's just background furniture like the fact that the ipad exists for my son and
+00:34:01 daughter like that's just background furniture so yeah it's because we have this incredibly
+00:34:09 malleable system it just absorbs whatever is going on in the world and learns what to do with it
+00:34:14 so do you think just to linger for for a little bit more do you think it's possible to
+00:34:22 co-adjust like we're kind of  you know for the machine to adjust to the brain for the brain to
+00:34:29 adjust the machine i guess that's what's already happening sure that is what's happening so for
+00:34:34 example when when you put electrodes in the motor cortex to control a robotic arm for somebody who's paralyzed
+00:34:40 the engineers do a lot of work to figure out okay what can we do with the algorithm here so that we can detect
+00:34:45 what's going on from these cells and figure out how to best program the robotic arm to move given the data that
+00:34:51 we're measuring from these cells but also the brain is learning too so you know the paralyzed woman says
+00:34:58 wait i'm trying to grab this thing and by the way it's all about relevance so if there's a piece of food there and
+00:35:03 she's hungry she'll figure out how to get this food into her mouth with the robotic arm because
+00:35:15 well that's  okay first of all that pain's really promising and beautiful for some reason really optimistic picture
+00:35:23 that you know our brain is able to to adjust to so much you know so many things happen this year 2020
+00:35:31 that you think like how we're ever going to deal with it and it's somehow encouraging and
+00:35:39 inspiring that like we're going to be okay well that's right i actually think so 2020 has been an
+00:35:46 awful year for almost everybody in many ways but the one silver lining has to do with
+00:35:51 brain plasticity which is to say we've all been on our you know on our gerbil wheels we've all been in our
+00:35:57 routines and and you know as i mentioned our internal models are all about
+00:36:02 how do you maximally succeed how do you optimize your operation in this circumstance where you are right
+00:36:08 and then all of a sudden bang 2020 comes we're completely off our wheels where having to create new things all
+00:36:15 the time and figure out how to do it and that is terrific for brain plasticity because and we know this because
+00:36:23 there are very large studies on older people who stay cognitively active their whole lives
+00:36:30 some some fraction of them have alzheimer's disease physically but nobody knows that when
+00:36:35 they're alive even though their brain is getting chewed up with the ravages of alzheimer's cognitively they're doing
+00:36:40 just fine why it's because they're they're they're challenged all the time
+00:36:45 they've got all these new things going on all this novelty all these responsibilities chores social life all
+00:36:49 these things happening and as a result they're constantly building new roadways even as parts degrade
+00:36:57 and and and that's the only good news is that we are in a situation where suddenly we can't just operate like automaton
+00:37:03 anymore we have to think of completely new ways to do things and that's wonderful i don't know
+00:37:11 why this question popped into my head it's quite absurd but  are we going to be okay
+00:37:18 yeah you say this is the promising silver lining just from your own because you've written about
+00:37:23 this and thought about this outside of maybe even the plasticity of the brain but just this  this whole pandemic kind of
+00:37:29 changed the way it knocked us out of this  hamster wheel like that of habit a lot of people had
+00:37:39 had to reinvent themselves unfortunately and i have a lot of friends who
+00:37:46 either already or or are going to lose their business you know is basically it it's taking the
+00:37:52 dreams that people have had and said like said this this dream this particular dream you've had
+00:38:00 will no longer be possible you have to find something new what are your are we gonna be okay
+00:38:08 yeah we'll be okay in the sense that i mean it's gonna be a rough time for many or most people but in the sense
+00:38:13 that it is sometimes useful to find that what you thought was your dream was was
+00:38:23 not the thing that you're going to do this is obviously the plot in lots of hollywood movies that someone says i'm
+00:38:28 going to do this and then that gets foiled and they end up doing something better but this is true in life i mean um
+00:38:37 in general even though we plan our lives as best we can it's predicated on our notion of okay given everything
+00:38:44 that's around me this is what's possible for me next but it takes 2020 to knock you off that
+00:38:51 where you think oh well actually maybe there's something i could be doing that's bigger that's better yeah you know for me one
+00:38:58 exciting thing and i just talked to grant sanderson i don't know if you know who he is it's a three blue one brown
+00:39:05 it's a youtube channel he does he's a if you see it you would recognize it he's like a really famous
+00:39:12 math guy and he's a math educator and he does he's incredible beautiful videos and now i see sort of at mit
+00:39:18 folks are struggling to try to figure out you know if we do teach remotely how do we do it effectively
+00:39:26 so you have these world-class researchers and professors trying to figure out
+00:39:32 how to put content online that teaches people and to me a possible future of that is you know nobel prize winning
+00:39:44 faculty become youtubers like like that that to me is so exciting  like what grant said  which is like
+00:39:51 the possibility of creating canonical videos on the thing you're a world expert in
+00:39:56  you know there's so many topics that just the world doesn't you know there's faculty i mentioned russ
+00:40:03 cedric there's all these people in robotics that are experts in a particular beautiful
+00:40:09 field on which there's only just papers there's there's no popular book there's no there's no clean canonical video
+00:40:18 showing the beauty of a subject and one possibility is  they they try to create that and
+00:40:25 and share it with the world this is this is the beautiful thing this of course has been happening for a while already
+00:40:31 i mean for example when i go and i give book talks often what'll happen is some 13 year old will come up to me
+00:40:35 afterwards and say something and i'll say my god that was so small like how how did you know that yeah and they'll say
+00:40:41 oh i saw it on a ted talk well what an amazing opportunity here you got the the
+00:40:46 best person in the world on subject x giving a 15-minute talk as as beautifully as he or she can and
+00:40:53 the 13 year old just grows up with that that's just the mother's milk right yeah as opposed to when we grew up you
+00:40:59 know i had whatever homeroom teacher i had and  you know whatever classmates i had and
+00:41:05 and hopefully that person knew what what he or she was teaching and often didn't and you know just made
+00:41:09 things up so the the opportunity now has become extraordinary to get
+00:41:14 the best of the world and the reason this matters of course is because obviously back to plasticity the way that we
+00:41:22 the way our brain gets molded is by absorbing everything from the world all of the all of the knowledge and the
+00:41:28 data and so on that it can get and then and then springboarding off of that
+00:41:34 and we're in a very lucky time now because we grew up with a lot of just in case learning so you know just in case you
+00:41:42 ever need to know these dates in mongolian history here there but what kids are growing up with now
+00:41:48 like my kids is tons of just in time learning so as soon as they're curious about something they ask alex or they
+00:41:51 ask google home they get the answer right there in the context of the curiosity the reason this
+00:41:57 matters is because for plasticity to happen you need to care you need to be curious about something
+00:42:03 and this is something by the way that the ancient romans had had noted they had outlined seven different levels
+00:42:08 of learning and the highest level is when you're curious about a topic but anyway so kids now are getting tons
+00:42:14 of just in time learning and as a result they're going to be so much smarter than we are
+00:42:19 they're just and we can already see that i mean my boy is eight years old my girl is five
+00:42:24 but i mean the things that he knows are amazing because it's not just him having to do the rote memorization
+00:42:30 stuff that we did yeah that's it's just fascinating what the brain what young brains look like now because
+00:42:35 of all those ted talks just just loaded in there and there's there's also i mean a lot of people
+00:42:42 write kind of there's a sense that our attention span is growing shorter but you know it's complicated because um
+00:42:48 you know for example you know most people majority of people it's the 80 plus percent of people
+00:42:53 listen to the entirety of this thing it's just two three hours forward podcast long
+00:42:58 long-form podcasts or are becoming more and more popular so like that's that's
+00:43:04 it's all really giant complicated mess and the point is that the brain is able to adjust to it
+00:43:08 and somehow like form a world view within this new medium of like information that we have
+00:43:20 you have like these short tweets and you have these three four hour podcasts and you have netflix movie i mean it's
+00:43:27 just it's adjusting to the entirety and just absorbing it and taking it all in and then
+00:43:33 pops up kovid that forces us all to be home and it all just adjusts and and  and figures it out yeah yeah it's fascinating
+00:43:43 you know been talking about the brain as if it's something separate from the human
+00:43:50 that carries it a little bit like whenever you talk about the brain it's easy to forget that that that's
+00:43:55 like that's us like how much do you how much is the whole thing like predetermined
+00:44:07 like how much is it already encoded in there and how much is it the what's the 
+00:44:18 the the actions the decisions the judgments this you mean like who you are who you
+00:44:25 are oh yeah yeah okay great question right so there used to be a big debate about nature versus nurture and we now
+00:44:30 know that it's always both you can't even separate them because you come to the table with a certain
+00:44:36 amount nature for example your whole genome and so on the experiences you have in the womb like whether your mother is
+00:44:41 smoking or drinking things like that whether she's stressed so on those all influence
+00:44:47 how you're going to pop out of the womb from there everything is an interaction between all
+00:44:52 of your experiences and the and the nature what i mean is i think of it like a space time cone
+00:45:00 where you have you drop in the world depending on the experience that you have you might go
+00:45:04 off in this direction or that direction in that direction because there's interaction all the way
+00:45:10 your experiences determine what happens with the expression of your genes so some genes get repressed
+00:45:16 some get expressed and so on and you actually become a different person based on your experiences
+00:45:20 there's a whole field called  epigenomics which is or epi epigenetics i should say which is about
+00:45:26 the epigenome and that is the you know sort of the layer that sits on top of the dna and
+00:45:32 causes the genes to express differently that is directly related to the experiences that you have so if
+00:45:37 you know just as an example they take rat pups and you know one group is sort of placed away from their parents and
+00:45:42 the other group is groomed and licked and taken good care of that changes their gene expression
+00:45:47 for the rest of their life they go off in different directions in this in the space time cone so
+00:45:55 yeah this is this is of course why it matters that we take care of children and pour money
+00:45:59 into things like education and good child care and so on for children broadly because these formative years matter so
+00:46:11 much so is there a free will this is this is a great apologize for the for the absurd high-level philosophical
+00:46:18 questions no these are my favorite kind of questions here's the thing here's the thing we
+00:46:22 don't know if you ask most neuroscientists they'll say that we can't really think of how you
+00:46:28 would get free will in there because as far as we can tell it's a machine it's a very complicated machine enormously
+00:46:36 sophisticated 86 billion neurons about the same number of glial cells each of these things is as complicated
+00:46:41 as the city of san francisco each neuron in your head has the entire human genome in it it's expressing
+00:46:47 millions of gene products these are incredibly complicated biochemical cascades each one is connected to 10 000
+00:46:52 of its neighbors which means you have you know like half a quadrillion connections in
+00:46:57 the brain so it's it's incredibly complicated but it is fundamentally appears to just be a machine
+00:47:04 and therefore if there's nothing in it that's not being driven by something else then it seems it's hard to
+00:47:11 understand where free will would come from so that's the camp that pretty much all of us fall into but i
+00:47:17 will say our science is still quite young and you know i'm a fan of the history of science and what
+00:47:22 the thing that always strikes me is interesting is when you look back at any moment in science
+00:47:28 everybody believes something is true and they just they simply didn't know about you know what einstein revealed or
+00:47:34 whatever and so who knows and they all feel like that we've at any moment in
+00:47:39 history they all feel like we've converted to the final answer exactly exactly like all the pieces of the
+00:47:43 puzzle are there and i think that's a funny illusion that's worth getting rid of
+00:47:49 and and in fact this is what drives good science is recognizing that we don't have most of the puzzle pieces
+00:47:54 so as far as the free will question goes i don't know at the moment it seems wow it would be
+00:47:58 really impossible to figure out how something else could fit in there but you know 100 years from now
+00:48:04 our textbooks might be very different than they are now i mean could i ask you to speculate where do
+00:48:09 you think free will could be squeezed into there like what's that even
+00:48:15 is it is it possible that our brain just creates kinds of illusions that are useful for us or like what
+00:48:22 where where could it possibly be squeezed in well let me let me give a speculation and
+00:48:28 answer to your very nice question but but you know don't and the listeners podcast don't quote me on this
+00:48:35 i'm not saying this is what i believe to be true but let me just give an example i gave this
+00:48:39 the end of my book incognito so the whole book of incognito is about you know all the what's happening in the
+00:48:43 brain and essentially i'm saying look here's all the reasons to think that free will probably
+00:48:49 does not exist but at the very end i say look imagine that you are you know imagine that you're a
+00:48:56 kalahari bushman and you find a radio in the sand and you've never seen anything like this
+00:49:03 and you you look at this radio and and you realize that when you turn this knob you hear voices coming from their voices
+00:49:08 coming from it so being a you know a radio materialist you try to figure out like how does this
+00:49:14 thing operate so you take off the back cover and you realize there's all these wires and when you take out some wires
+00:49:21 the voices get garbled or stop or whatever and so what you end up developing is a whole theory about
+00:49:26 how this connections pattern of wires gives rise to voices but it would never strike you that in
+00:49:32 distant cities there's a radio tower and there's invisible stuff beaming and that's actually the origin of the
+00:49:38 voices and this is just necessary for it so i mentioned this just as a speculation saying look
+00:49:44 how would we know what we know about the brain for absolutely certain is that if when you damage pieces and parts of it
+00:49:50 things get jumbled up but how would you know if there's something else going on that we can't see like electromagnetic radiation
+00:49:58 that is what's actually generating this yeah you paint a beautiful example of  of how totally because we don't know
+00:50:10 most of how our universe works how totally off-base we might be with our science yeah
+00:50:17 until i mean we i mean yeah i mean that's inspiring that's beautiful it's kind of terrifying it's humbling it's all all of the above
+00:50:25 and the important and the important part just to recognize is that of course we're in the position of having
+00:50:32 massive unknowns and you know we have of course the known unknowns and that's all the things we're pursuing in
+00:50:39 our labs and trying to figure out that but there's this whole space of unknown unknowns things we
+00:50:43 haven't even realized we haven't asked yet let me kind of ask a weird maybe a difficult question
+00:50:51 part of the it has to do with i've been recently reading a lot about world war ii i'm currently reading a book i
+00:50:56 recommend for people which is   as a jew it's been difficult to read but 
+00:51:04 the horizon follows the third reich so let me just ask about like the nature of genius
+00:51:10 the nature of evil if we look at somebody like  einstein we look at hitler
+00:51:19 stalin modern day jeffrey epstein just folks who through their life have done with einstein done works of genius and
+00:51:27 with the others i mentioned have done evil on this world what do we think about that in a live
+00:51:34 wired brain like how do how do we think about these extreme people here's here's what i'd say this
+00:51:43 is a very big and difficult question but what i would say briefly on it is you know first of all
+00:51:50 i saw a cover of time magazines some years ago  and it was a big you know sagittal
+00:51:56 slice of the brain and it said something like what makes us good and evil and there was a little spot pointing to it there's
+00:52:01 a picture of gandhi and there's a little spot that was pointing to hitler and these time magazine covers always
+00:52:06 make me mad because it's so goofy to think that we're going to find some spot in the brain or something
+00:52:14 instead the interesting part is because we're live-wired we are all about the world and the culture
+00:52:20 around us so somebody like adolf hitler got all this positive feedback about what
+00:52:27 was going on and the crazier and crazier the ideas he had he's like let's set up
+00:52:33 death camps and murder a bunch of people and so on somehow he was getting positive feedback
+00:52:37 from that and all these other people they're all you know spun each other up and you look
+00:52:41 at anything like i mean look at the you know the the cultural  revolution in China  or the
+00:52:51 you know the russian revolution or things like this where you look at these things my god how do people all behave like
+00:52:56 this but it's easy to see groups of people spinning themselves up in particular ways where they all say well
+00:53:03 would i have thought this was right in a different circumstance i don't know but fred thinks it's right and steve thinks
+00:53:07 everyone around you seems to think it's right and so part of the maybe downside of having a
+00:53:13 live wired brain is that you can get crowds of people doing things as a group so it's interesting to you
+00:53:20 know we would pinpoint hitler saying that's the evil guy but in a sense i think it was tolstoy you said the the
+00:53:28 king becomes slave to the to the people in other words you know hitler was just a
+00:53:35 representation of whatever was going on with that huge crowd that he was surrounded with so
+00:53:43 so i only bring that up to say that it's you know it's very difficult to say what it is about
+00:53:48 this person's brain or that person's brain he obviously got feedback for what he was doing the other
+00:53:52 thing by the way about what we often think of as being evil in society
+00:54:01 is my lab recently published some work on in groups and out groups which is a very important
+00:54:09 part of this puzzle so it turns out that we are very we are very you know engineered
+00:54:15 to care about in-groups versus out-groups and this seems to be like a really fundamental thing
+00:54:20 so we did this experiment lab where we brought people in we stick them in the scanner and we i don't know it's something if
+00:54:27 you know this but  we show them on the hand sorry we showed them on the screen six hands and  the computer boop
+00:54:33 goes around randomly picks a hand and then you see that hand gets stabbed with a syringe needle so you actually see a
+00:54:38 syringe needle enter the hand and come out and it's really  what that does is that triggers
+00:54:45  parts of the pain matrix this areas in your brain that involved in feeling physical pain now the interesting thing
+00:54:49 is it's not your hand that was stabbed so what you're seeing is is empathy this is you seeing someone else's hand get
+00:54:55 stabbed you feel like oh god this is awful right okay we contrast that by the way with somebody's hand getting
+00:55:00 poked as a q-tip which is you know looks visually the same but it's um
+00:55:04 you don't have that same level of response now what we do is we label each hand with a
+00:55:12 with a one word label christian jewish muslim atheist scientologist hindu and now the computer goes around picks a hand
+00:55:19 stabs the hand and the question is how much does your brain care about all the people in your out group versus the
+00:55:25 one label that happens to match you and it turns out for everybody across all religions
+00:55:30 they care much more about their in group than their accurate and when i say they care what i mean is
+00:55:35 you get a bigger response from their brain everything's the same it's the same hands it's just a one-word label
+00:55:41 you care much more about your in-group than your outgroup and i wish this weren't true but this is how humans are
+00:55:48 i wonder how fundamental that is or if it's a it's the emergent thing about culture
+00:55:55 like if we lived alone with like if it's genetically built into the brain like this this longing for tribe so i'll so i'll
+00:56:02 tell you we addressed that so here's what we did there are two actually there are two other things we
+00:56:08 did as part of this study that i think matter for this point one is so okay so we show that you have
+00:56:13 a much bigger response by the way this is not a cognitive thing it's a very low level basic response to seeing pain in
+00:56:19 somebody okay great study by the way thanks thanks what we did next is we we next have it where we say okay the
+00:56:26 year is 2025 and these three religions are now in a war against these three religions and
+00:56:32 it's all randomized right but what you see is your thing and you have two allies now against
+00:56:36 these others and now it happens over the course of many trials you see everybody gets
+00:56:41 stabbed at different times and the question is do you care more about your allies and the answer is yes suddenly
+00:56:46 people who a moment ago you didn't really care when they got stabbed now simply with this one word thing that
+00:56:51 you're they're now your allies you care more about them but then what i wanted to do was look at
+00:56:57 how ingrained is this or how arbitrary is it so we brought new participants in and we said here's a
+00:57:03 coin toss the coin if it's heads you're an augustinian if it's a tails you're a justinian these are totally made up okay so they
+00:57:09 toss it they get whatever we give them a a ban that says you know augustinian on it
+00:57:14 whatever tribe they're in now and they get in the scanner and they see a thing on the screen that says the
+00:57:20 augustinians and justinians are two warring tribes then you see a bunch of hands some are labeled augustine some
+00:57:24 are justinian and now you care more about whichever team you're on than the other team even
+00:57:29 though it's totally after and you know is arbitrary because you're the one to toss the coin
+00:57:35 yeah so it's it it's a state that's very easy to find ourselves in in other words just before walking in the door they'd
+00:57:41 never even heard of augustinian versus justinian and now their brain is representing it simply
+00:57:45 because they're told they're on this team you know  now i did my own personal study of this
+00:57:52  it's  so once you're an augustinian that tends to be sticky because i've been a packers
+00:57:59 fan  going back pakistan my whole life now when i'm in boston with like the the patriots it's been tough going for my livewire
+00:58:07 brain to switch to the patriots to be so once you become it's it's interesting once
+00:58:13 the tribe is sticky yeah oh but that's true that's that's it you know you know we never tried that about saying okay now you're
+00:58:21 adjusting the enemy we're in august how sticky it is but there are studies of this of monkey troops  on some
+00:58:30 island and what happens is they look at the way monkeys behave when they're part of this
+00:58:35 tribe and how they treat members of the other tribe of monkeys and then what they do i forgotten how
+00:58:40 they do that exactly but they end up switching a monkey so he ends up in the other troop and very quickly they end up
+00:58:46 becoming a part of that other troop and and hating and behaving badly towards their original troop
+00:58:51 these are fascinating studies by the way yeah this is this is beautiful  in your in your book you
+00:58:58 have  you have a good light bulb joke  how many psychiatrists does it take to
+00:59:04 change a light bulb only one but the light bulb has to want to change
+00:59:11 i'm sorry i'm a sucker for a good light bulb okay so given  you know i've been interested in psychiatry
+00:59:19  my whole life just maybe tangentially i've kind of early on dream to be a psychiatrist
+00:59:24 until i understood what it entails  but you know what you know is there hope for psychiatry
+00:59:33 for somebody else to help this live wired brain to adjust oh yeah i mean in the sense that and
+00:59:41 this has to do with this issue about us being trapped on our own planet forget psychiatrists just think of like
+00:59:47 when you're talking with a friend and you say oh i'm so upset about this and your friend says hey just look at it
+00:59:51 this way  you know all we have access to under normal circumstances is just the way
+00:59:58 we're seeing something and so it's super helpful to have friends and communities and psychiatrists and so on to
+01:00:05 help things change that way so that's just like interesting of help to us but but more importantly the role that
+01:00:12 psychiatrists have played is that there's this sort of naive assumption that we all come to the table with which
+01:00:16 is that everyone is fundamentally just like us and when you're a kid you you believe this entirely but as you get
+01:00:23 older and you start realizing okay there's something called schizophrenia and that's a real thing and to be inside
+01:00:28 that person's head is totally different than what it is to be inside my head or their psychopathy
+01:00:33 and and to be inside this psychopath's head he doesn't care about other people he doesn't care about
+01:00:38 hurting other people he's just doing what he needs to do to get what he needs that's a different head there's a
+01:00:45 million different things going on and it is different to be inside those heads that this is where the field of
+01:00:51 psychiatry comes in now i think it's an interesting question about the degree to which
+01:00:57 is leaking into and taking over psychiatry and what the landscape will look like 50 years from now it may be that
+01:01:04 psychiatry as a profession you know changes a lot or maybe goes away entirely and neuroscience will essentially
+01:01:10 be able to take over some of these functions but it has been extremely useful to understand the differences between
+01:01:19 how people behave and why and what you can tell about what's going on inside their brain
+01:01:23 just based on observation of their behavior you  this this might be years ago but i'm not sure there's an atlantic
+01:01:34 about moving away from a distinction between neurological disorders unquote brain problems and psychiatric disorders
+01:01:45 or quote unquote mind problems so so on that topic how do you think about this gray area yeah this is exactly this
+01:01:50 is exactly the evolution that things are going is you know there was psychiatry and then there were guys
+01:01:56 and gals in labs poking cells and so on those are the neurosciences but yeah i think these are moving
+01:02:00 together for exactly the reason you decided and where this matters a lot the atlantic article
+01:02:06  that i wrote was called the brain on trial where this matters a lot is it's the legal system because
+01:02:13 the way we run our legal system now and this is true everywhere in the world is you know someone shows up in front of
+01:02:18 the judge's bench or let's say there's five people in front of the judge's bench and they've all committed the same
+01:02:22 crime what we do because we feel like hey this is fair is alright you're gonna get the same
+01:02:26 sentence you'll all get three years in prison or whatever it is but in fact brains can be so different
+01:02:31 this guy's got schizophrenia this guy's a psychopath this guy's tweaked down on drugs and so on so
+01:02:37 that it actually doesn't make sense to keep doing that and what we what we do in this country more than anywhere in
+01:02:43 the world is we imagine that incarceration is a one-size-fits-all solution and you may
+01:02:47 know we have the america has the highest incarceration rate in the whole world in terms of the
+01:02:52 percentage of our population we put behind bars so there's a much more refined thing
+01:02:56 we can do as neuroscience comes in and changes and has the opportunity to change the legal system
+01:03:03 which is to say this doesn't let anybody off the hook it doesn't say oh it's not your fault and so on
+01:03:09 but what it does is it changes the equation so it's not about hey how blameworthy are you but instead
+01:03:14 is about hey what do we do from here what's the best thing to do from here so if you
+01:03:18 take somebody with schizophrenia and you have them break rocks in the hot summer sun in a
+01:03:22 chain gang all yeah that that doesn't help the schizophrenia that doesn't fix the problem
+01:03:28 if you take somebody with a drug addiction who's in jail for you know being caught two ounces of some illegal substance
+01:03:36 and you put him in prison it doesn't actually fix the addiction it doesn't help anything
+01:03:42 happily what neuroscience and psychiatry bring to the table is lots of really useful things you can
+01:03:46 do with schizophrenia with drug addiction things like this and that's why so i i don't know if
+01:03:52 he knows but i run a national non-profit called the center for science and law and it's all about this intersection of
+01:03:57 neuroscience and legal system and we're trying to implement changes in every county and every state
+01:04:04 i'll just without going down that rabbit hole i'll just say one of the very simplest things to do is to set up
+01:04:09 specialized court systems where you have mental health court that has judges and juries with
+01:04:15 expertise in mental illness because if you go by the way to a regular court and the person says
+01:04:21 or the the defense lawyer says this person is schizophrenia most of the jury will say man i call
+01:04:26 on that why because they don't know about because they don't they don't
+01:04:31 know what it's about and it turns out people who who know about schizophrenia feel very
+01:04:36 differently as a juror than someone who happens not to know anybody schizophrenia they think it's an excuse so
+01:04:41 you have judge injuries with expertise in mental illness and they know the rehabilitative strategies that
+01:04:45 are available that's one thing having a drug court where you have judges and jurors with
+01:04:50 expertise and rehabilitative strategies and what can be done and so on a specialized prostitution core
+01:04:55 and so on all these different  things by the way this is very easy for counties to implement this sort of thing
+01:05:01 and this is this is i think where this matters to get neuroscience into public policy what's
+01:05:06 the process of injecting expertise into this so yeah i'll tell you exactly what it is
+01:05:12 a county needs to run out of money first i've seen this happen over and over so what happens is a county has a
+01:05:17 completely full jail and they say you know what we need to build another jail and then
+01:05:21 they realize god we don't have any money we can't afford this we've got too many people in jail
+01:05:25 and that's when they turn to god we need something smarter and that's when they set up specialized court systems
+01:05:33 oh we all function best when when our back is against the wall and that's what kovit is good for yeah
+01:05:37 it's because we we've all had our routines and we are optimized for the things we do and
+01:05:42 suddenly our backs are against the wall all of us yeah it's really i mean one of the
+01:05:46 exciting things about  kovet i mean i'm a big believer in the the possibility of what government
+01:05:56 can do for the people and  when it becomes too big of a bureaucracy it starts functioning poorly starts
+01:06:02 wasting money it's nice to  i mean covers and reveals that nicely and lessons to be learned
+01:06:13 about who gets elected and who goes into government hopefully this hopefully this inspires talented and young people to go into
+01:06:21 government to revolutionize different aspects of it yeah so it's  this that's the positive
+01:06:27 silver lining of of covid i mean i thought it'd be fun to ask you
+01:06:31 i don't know if you're paying attention so the gpt3 is this language model this neural network that's able to 
+01:06:44 it has 175 billion parameters so it's very large and it's trained in an unsupervised
+01:06:53 way on the internet it just reads a lot of unstructured text and it's able to generate some pretty impressive things
+01:07:01 the human brain compared to that has about you know a thousand times more synapses
+01:07:09 people get so upset when machine learning people compare the brain and we know
+01:07:14 synapses are different it was very different very different right but like do you what do you
+01:07:20 think about gpt3 here's what i think here's what i think a few things what gpt 3 is doing is
+01:07:25 extremely impressive but it's very different from what the brain does so it's a good impersonator but just as
+01:07:32 one example everybody takes a passage that gpt three has has written and they say wow
+01:07:40 look at this and it's pretty good right but it's already gone through a filtering process of humans looking at
+01:07:44 it and saying okay well that's crap that's correct okay oh here's here's a sentence that's pretty cool now
+01:07:48 here's the thing human creativity is about absorbing everything around it and remixing that
+01:07:53 and coming up with stuff so in that sense we're sort of like gpt3 you know we're we're remixing what we've gotten in before
+01:08:02 but we also know we also have very good models of what it is to be another human and so you know i don't know if you
+01:08:08 speak  french or something but i'm not gonna start speaking in french because then you'll say
+01:08:11 wait what are you doing i don't understand it instead everything coming out of my mouth is meant for your ears i know
+01:08:18 what you'll understand i know the vocabulary that you know and don't know that's a huge part of it and so of all
+01:08:29 the possible sentences i could say i'm navigating this thin bandwidth so that it's something useful for our
+01:08:35 conversation yeah in real time but also throughout your life i mean you're you're coval we're co-evolving together
+01:08:41 we're learning exactly how to  communicate together exactly but this is this is what gpt
+01:08:47 does not do all it's doing is saying okay i'm gonna take all these senses and remix stuff and pop some stuff out
+01:08:51 but it doesn't know how to make it so that you lex will feel like oh yeah that's exactly what i
+01:08:56 needed to hear that's the next sentence that i needed to know about for something
+01:09:03 well of course it could be all the impressive results we'll see the question is when if you raise the number
+01:09:07 of parameters whether it's going to be after something it will not be
+01:09:12 it will not be no raising more parameters won't here's the thing it's not that i don't
+01:09:17 think neural networks can't be like the human brain as i suspect they will be at some point 50 years you know who knows
+01:09:24 but what we are missing in artificial neural networks is we've got this basic structure
+01:09:29 where you've got units and you've got synapses they're connected and and that's great and it's done
+01:09:35 incredibly mind-blowing impressive things but it's not doing the same algorithms as a
+01:09:40 human brain so when i look at my children as little kids as infants they can do things that no
+01:09:47 gpt3 can do they can navigate a complex room they can navigate social conversation with an adult
+01:09:57 they can lie they can do a million things they they are active thinkers in our world and doing things
+01:10:04 and this of course i mean look we totally agree on in how incredibly awesome artificial neural networks are
+01:10:09 right now but we also know the things that they can't do well like you know like be generally
+01:10:15 intelligent do all these different reasons reason about the world efficiently learn efficiently adapt
+01:10:22 exactly but it's still the rate of improvement it's  to me it's it's possible they'll be surprised
+01:10:31 like that but what i would what i would assert and then and i'm glad i'm going to say this on your
+01:10:36 podcast so we can look back at this in two years and 10 years is that we've got to be much more
+01:10:41 sophisticated than units and synapses between them let me give you an example and this is
+01:10:47 something i talk about in livewire is despite the amazing impressiveness mind-blowing impressiveness
+01:10:54 computers don't have some basic things artificial neural networks don't have some basic
+01:10:58 things that we like caring about relevance for example so as humans we are confronted with tons of
+01:11:04 data all the time and we only encode particular things that are relevant to us we have this very
+01:11:10 deep sense of relevance that i mentioned earlier is based on survival at the most basic level but then
+01:11:15 all the things about my life and your life what's relevant to you that we encode this is very useful computers at the
+01:11:22 moment don't have that they don't have a yen to survive and things like that so we filter out a bunch of the junk we
+01:11:27 don't need we're really good at efficiently zooming into the things we need
+01:11:34 again could be argued you know let me put on my freud hat maybe it's  i mean that's our
+01:11:39 conscious mind  you know we're not you know there's no reason that neural networks aren't doing
+01:11:45 the same kind of filtration i mean in the sense what gpt3 is doing so there's a priming
+01:11:52 step it's doing an essential kind of filtration when you ask it to generate tweets from
+01:11:59 from i don't know from from an elon musk or something like that it's doing a filtration of it's throwing away all
+01:12:05 the parameters it doesn't need for this task and it's figuring out how to do that successfully and then
+01:12:11 ultimately it's not doing a very good job right now but it's doing a lot better job than we expected
+01:12:17 but it won't ever do a really good job and i'll tell you why i mean so so let's say we say hey produce an elon
+01:12:23 musk tweet and we see like oh wow it produced these three that's great but again it's not we're not seeing the three
+01:12:27 thousand that produce that didn't really make any sense it's because it has no idea what it is
+01:12:32 like to be a human and all the things that you might want to say and all the reasons you wouldn't
+01:12:37 like when you go to write a tweet you might write something yeah it's not going to come off quite right in this
+01:12:41 modern political climate or whatever like you know you can change things so and it somehow boils down to fear and
+01:12:47 mortality and all of these human things at the end of the day all contained with that tweeting experience
+01:12:55 well interestingly the fear of mortality is at the bottom of this but you've got all these more things like you know
+01:13:02 oh i want to just in case the chairman of my department reads this i wanted to come off there
+01:13:05 just in case my mom looks at this tweet i want to make sure she you know and so on so that those are all the
+01:13:10 things that humans are able to sort of throw into the calculation but i mean  what it required what it requires
+01:13:17 though is having a model of your chairman having a model of your mother having a model of the
+01:13:23 you know the person you want to go on a date with who might look at your tweet and so on
+01:13:28 all these things are  you're running the reason about what it is like to be them so in terms of the structure of the brain
+01:13:36 again this may be going into speculation land i hope you go along with me is 
+01:13:43 okay so the brain seems to be intelligent and our ai systems aren't very currently so where do you think intelligence
+01:13:52 arises in the brain like what what is it about the brain so if you mean where location wise it's no
+01:14:00 single spot it would be equivalent to asking i'm looking at new york city where is the economy the answer is you can't
+01:14:09 point to anywhere the economy is all about the interaction of all of the pieces and parts of the city
+01:14:13 and that's what you know intelligence whatever we mean by that in the brain is interacting from
+01:14:18 everything going on at once in terms of a structure so we look humans are much smarter than
+01:14:25 fish maybe not dolphins but dolphins are mammals right but i assert that what we mean by smarter has to do
+01:14:29 with live wiring so so what we mean when we say oh we're smarter is oh you can figure out a new
+01:14:34 thing and figure out a new pathway to get where we need to go and that's because fish are essentially
+01:14:40 coming to the table with you know okay here's the hardware go swim mate eat but we
+01:14:46 have the capacity to say okay look i'm gonna absorb oh oh but you know i saw someone else do this thing and
+01:14:51 and i read once that you could do this other thing and so on so do you think there's is there something i know the these are
+01:14:57 mysteries but like architecturally speaking what feature of the brain
+01:15:05 of  of the live wire aspect of it that is really useful for intelligence so like is it the ability of
+01:15:14 neurons to reconnect like is there something is there any lessons about the human brain you
+01:15:21 think might be inspiring for us and to take into the artificial into the machine learning
+01:15:28 world yeah i'm actually just trying to write some up on this now called you know if you want to build a robot
+01:15:33 start with the stomach and what i mean by that what i mean by that is a robot has to care it has to have
+01:15:39 hunger it has to care about surviving that kind of thing here's an example so the penultimate chapter in my book
+01:15:46 i titled the the wolf in the mars rover and i just look at this simple comparison of
+01:15:51 you look at a wolf it gets its leg caught in a trap what does it do it gnaws
+01:15:56 its leg off and then it figures out how to walk on three legs no problem now the mars rover curiosity
+01:16:02 got its front wheel stuck in some martian soil and it died this project that cost
+01:16:09 billions of dollars died because guys wheels so wouldn't it be terrific if we could build a robot that
+01:16:14 chewed off its front wheel and figured out how to operate with a slightly different body plan
+01:16:19 that's the kind of thing that we want to be able to build and to get there what we need the whole reason the wolf
+01:16:25 is able to do that is because its motor and somatosensory systems are live wired so it says oh you know what
+01:16:31 turns out i've got a body plan that's different than what i thought a few minutes ago
+01:16:37 but i i have a yen to survive and i care about relevance which in this case is getting to food getting back to
+01:16:42 my pack and so on so i'm just gonna figure out how to operate with this oh oops that didn't work
+01:16:48 oh okay i'm kind of getting it to work but the mars rover doesn't do that it just says oh geez i was pre-programmed
+01:16:52 to have four wheels and i have three i'm screwed yeah you know i i don't know if you're familiar with a philosopher named
+01:16:59 ernest becker he wrote a book called denial of death and there's a few psychologists sheldon
+01:17:04 solomon i think he i just spoke with him on his podcast who developed terror management theory which is 
+01:17:12 like ernest becker is a philosopher that basically said that  mortality fear of mortality is at the
+01:17:18 core of it yeah and so i i don't know if it sounds compelling as an idea
+01:17:25 that we're all i mean that all of the civilization we've constructed is based on this but it's i'm familiar
+01:17:30 with his work here's what i think i think that yes fundamentally this desire to survive is at the core of
+01:17:37 it i would agree with that but but how that expresses itself in your life
+01:17:41 it ends up being very different the reason you do what you do is i mean you could list the 100 reasons
+01:17:48 why you chose to write your tweet this way and that way and it really has nothing to do with the
+01:17:52 survival part it has to do with you know trying to impress fellow humans and surprise them and say something
+01:17:56 yeah so many things built on top of each other but it's it's fascinating to think that in artificial intelligence systems we
+01:18:02 want to be able to somehow engineer this drive for survival for immortality i mean because as humans
+01:18:10 we're not just about survival we're aware of the fact that we're going to die
+01:18:16 which is a very kind of where we're like space-time by the way aren't all right confucius said  he said each person
+01:18:27 has two lives the second one begins when you realize that you have just one yeah but but most people it takes a long
+01:18:32 time for most people to get there i mean you could argue this kind of freudian thing which ernest becker
+01:18:39  argues is they it's they they actually figured it out early on and the terror they felt was like the reason
+01:18:48 it's been suppressed and the reason most people when i ask them about whether they're afraid of death they basically
+01:18:52 say no they basically say like i'm afraid i won't get
+01:19:00 like submit the paper before i die like they kind of see they see death as a kind of 
+01:19:05 inconvenient deadline for a particular set of like a book you're writing yeah it's as
+01:19:09 opposed to like what the hell this thing ends this at any moment like most people as if i
+01:19:18 have encountered do not meditate on the idea that like right now you could die like right now
+01:19:25 like it it's like it in in the next five minutes it could be all over and you know meditate on that idea
+01:19:32 i think that somehow brings you closer to like the core of the motivations and
+01:19:39 the core of the human cognition condition but like i said it is not yeah there's so many things on top of it
+01:19:47 but it is interesting i mean as the ancient poet said  death whispers at my ear
+01:19:54 live for i come so it's it is certainly motivating when we think about that
+01:19:59 okay i've got some deadline i don't know exactly what it is but i better make stuff happen it is motivating but i don't
+01:20:05 think  i mean i know for just speaking for me personally that's not what motivates me day to day it's instead
+01:20:13 oh i want to get this you know program up and running before this or i want to make sure my co-author isn't mad
+01:20:18 at me because i haven't gotten this in there i don't want to miss this grant deadline or
+01:20:21 you know whatever the thing is yeah it's too it's too distant in a sense nevertheless it is good to reconnect but
+01:20:28 for the ai systems none of that is there  like a neural network does not fear it's mortality
+01:20:37  and that that seems to be somehow fundamentally missing the point i think that's missing the point but i
+01:20:42 wonder it's an interesting speculation about whether you can build an ai system that is much closer to being a human
+01:20:48 without the mortality and survival piece but just the thing of relevance just i care about this versus
+01:20:54 that right now if you have a robot roll into the room it's going to be frozen because it
+01:20:57 doesn't have any reason to go there versus there it doesn't have any particular set of things about
+01:21:05 this is how i should navigate my next move because i want something yeah there's a that's the
+01:21:10 thing about humans is they seem to generate goals they're like you said live wired i mean it it's very
+01:21:20 flexible in terms of the goals and creative in terms of the goals you generate when we enter a room
+01:21:25 you show up to a party without a goal usually and then you figure it out alone yes but this goes back to the question about
+01:21:31 free will which is when i walk into the party if you rewound it 10 000 times would i go and talk to that couple over there
+01:21:39 versus that person like i might do this exact same thing every time because i've got some goal stack
+01:21:45 and i think okay well at this party i really want to meet these kind of people or i feel awkward
+01:21:50 or i whatever you know whatever my goals are by the way so there was something that i meant to mention earlier
+01:21:56 if you don't mind going back which is this when we were talking about bci so i don't know if you know this but
+01:22:01 what i'm spending ninety percent of my time doing now is running a company do you know about this yes i wasn't sure
+01:22:07 what the company is involved in right so talk about it yeah yeah
+01:22:14 so when it comes to the future of bci you know you can put stuff into the brain invasively but my interest has been
+01:22:22 how you can get data streams into the brain non-invasively so i run a company called neosensory
+01:22:28 and what we build is this little wristband we've built this in many different oh wow
+01:22:33 that's it yeah this is it and it's got these vibratory motors in it so these things as i'm speaking for
+01:22:38 example it's you know capturing my voice and running algorithms and then turning that into
+01:22:44 patterns of vibration here so people who are deaf for example learn to hear through their skin so the
+01:22:53 information is getting up to their brain this way and they learn how to hear so it turns
+01:22:57 out on day one people are pretty good like better than you would expect at being able to say
+01:23:01 oh that's weird it was that was that a dog barking was that a baby crying was that a door knock a doorbell
+01:23:06 like people are pretty good at it but with time they get better and better and what it becomes is a new qualia in
+01:23:14 other words a new subjective internal experience so on day one they they say whoa what was that
+01:23:21 oh oh that was the dog barking but by you know three months later they say oh there's
+01:23:25 dog barking somewhere oh there's the dog that's fascinating and by the way that's exactly how you learn how to use your ears
+01:23:30 so what you of course need to remember this but when you're an infant all you have are you know your eardrum vibrating
+01:23:37 causes spikes to go down your auditory nerves and impinging your you know auditory cortex your brain
+01:23:42 doesn't know what those mean automatically but what happens is you learn how to hear by looking for
+01:23:46 correlations you know you clap your hands as a baby you know you look at your mother's mouth
+01:23:52 moving and and that correlates with what's going on there and eventually your brain says i'm just
+01:23:56 going to summarize this as an internal experience as a conscious experience and that's exactly what
+01:24:01 happens here the weird part is that you can feed data into the brain
+01:24:05 not through the ears but through any channel that gets there as long as the information gets there your brain
+01:24:10 figures out what to do with it that's fascinating like expanding the set of sensors it could be could be arbitrarily 
+01:24:19 could could it could yeah it could expand arbitrarily which is fascinating well exactly and by the way
+01:24:24 the reason i use this skin you know there's all kinds of cool stuff going on in the ar world
+01:24:29 class but the fact is your eyes are overtaxed and your ears are overtaxed and you need to be able to see and hear
+01:24:33 other stuff but you're covered with the skin which is this incredible computational material
+01:24:39 with which you can feed information and we don't use our skin for much of anything nowadays
+01:24:44 my joke in the lab is that i say we don't call this the waste for nothing because originally we built as the vest
+01:24:48 and you know you're passing in all this information that way and what i'm doing here with with the deaf community
+01:24:59 is is what's called sensory substitution where i'm capturing sound and scent you know i'm just replacing the ears with
+01:25:03 the skin and that works one of the things i talk about in livewire is sensory
+01:25:10 expansion so what if you took something like your your visual system which picks up on a very thin
+01:25:15 slice of the electromagnetic spectrum and you could see infrared or ultraviolet so we've hooked that up
+01:25:21 infrared and ultraviolet detectors and you know i can feel what's going on so just as an example the first night i
+01:25:25 built the infrared one of my engineers built at the infrared detector i was walking in the
+01:25:30 dark between two houses and suddenly i felt all this infrared radiation i was like where does that come from and i just
+01:25:34 followed my wrist and i found a an infrared camera a night vision camera that was
+01:25:39 but like you know i immediately oh there there's that thing there but of course i would have never seen it but
+01:25:44 now it's just part of my reality that's fascinating yeah and then of course what i'm really interested in
+01:25:49 is sensory addition what if you could pick up on stuff that
+01:25:55 isn't even part of what we normally pick up on like you know like the magnetic field of the earth or
+01:26:00 twitter or stock market or things like that or the i don't know some weird stuff like the moods of other people or
+01:26:05 something like that sure now what you need is a way to measure that so as long as there's a machine
+01:26:09 that can measure it it's easy it's trivial to feed this in here and you come to be
+01:26:14 it comes to be part of your reality it's like you have another sensor and that that kind of thing is without
+01:26:20 doing like if you look in your link without i forgot how you put it but it was eloquent you know without getting
+01:26:26 cutting into the brain basically yeah exactly exactly so this this costs at the moment 399 dollars that's
+01:26:31 not going to kill you and yeah it's not going to kill you it's you just put it on and when you're done
+01:26:36 you take it off yeah yeah and so  and the name of the company by the way is neo sensory for new
+01:26:42 senses because the whole idea is beautiful you can as i said you know you come to the table
+01:26:47 with certain plug and play devices and then that's it like i can pick up on this little bit of the electromagnetic
+01:26:51 radiation you can pick up on on this little frequency band for hearing and so on
+01:26:56 but but but i'm stuck there and there's no reason we have to be stuck there we can expand our oom velt
+01:27:03 by adding new senses yeah what's oh i'm sorry the umvelt is the slice of reality that you pick up
+01:27:08 on so each animal has its own hell of a word umvelt yeah exactly so i'm sorry i forgot to define it
+01:27:14 before it's it's it's such an important concept which is to say for example if you are a a tick
+01:27:22 you pick up on  butyric acid you pick up on odor and you pick up on temperature that's it
+01:27:26 that's how you construct your reality is with those two sensors if you are a blind echolocating bat you're picking up on
+01:27:31 air compression waves coming back you know echolocation if you are the black ghost knife fish you're
+01:27:37 picking up on changes in the electrical field around you with electro reception that's how they
+01:27:42 swim around and tell there's a rock there and so on but but that's that's all they pick up
+01:27:46 on that's their umvelt it's that's their the signals they get from the world from which to construct
+01:27:52 their reality and they can be totally different ooh belts and so our human umvelt is
+01:27:58 you know we've got little bits that we can pick up on one of the things i like to do with my students is talk about
+01:28:05 imagine that you are a bloodhound dog right you are a blendhead dog with a huge snout with 200 million scent
+01:28:09 receptors in it and your whole world is about smelling you know you've got slits in your
+01:28:15 nostrils like big nose fulls of air and so on do you have a dog do you nope you used
+01:28:19 to used to okay so you know you walk your dog around and your dog is smelling everything the whole world is full of signals that
+01:28:24 you do not pick up on it so imagine if you were that dog and you looked at your human master and thought my god what is
+01:28:29 it like to have the pitiful little nose of a human yeah how could you not know that there's a
+01:28:33 cat 100 yards away or that your friend was here six hours ago and so the idea is because we're stuck
+01:28:38 in our own belt because we have this little pitiful noses we think okay well yeah we're seeing reality but
+01:28:44 but you can have very different sorts of realities depending on the peripheral plug-and-play devices you're
+01:28:48 equipped with it's fascinating to think that like if we're being honest probably our own
+01:28:53 belt is  you know some infinitely tiny percent of the possibilities of how you
+01:29:01 can sense quote unquote reality even if you could i mean there's a guy named don
+01:29:08  donald  hoffman yeah who based basically says  we're really far away from reality
+01:29:15 in terms of our ability to sense anything like we we're very we're almost like we're
+01:29:20 floating out there that's almost like completely attached to the actual physical reality
+01:29:26 it's fascinating that we could have extra senses that could help us get a little bit a little
+01:29:30 bit closer exactly and by the way this has been the the fruits of science is realizing like
+01:29:36 for example you know you open your eyes and there's the world around you right but of course depending on how you calculate
+01:29:41 it it's less than a 10 trillion of the electromagnetic spectrum that we call visible light
+01:29:46  the reason i say it depends because you know it's actually infinite in all directions yeah and so that's exactly that and then
+01:29:52 science allows you to actually look into the rest of it exactly start understanding how big the
+01:29:57 world is out there and the same with the the world of really small and the world of really large exactly
+01:30:03 that's beyond our ability to sense exactly and so the reason i think this kind of thing matters is because
+01:30:08 we now have an opportunity for that first time in human history to say okay well i'm just going to
+01:30:13 include other things in my umvelt so i'm going to include infrared radiation and and have a direct perceptual
+01:30:18 experience of that and so i'm very you know i mean so you know i've given up my lab and i run this
+01:30:24 company 90 of my time now that's what i'm doing i still teach at stanford and i'm you know
+01:30:28 teaching courses and stuff like that but this is like this is your your passion
+01:30:35 the fire is as on this yeah i feel like this is the most important thing that's
+01:30:39 happening right now i mean obviously i think that because that's what i'm devoting my time and my life to but
+01:30:45 i mean it's a brilliant set of ideas it certainly is like it  it's a step in  in a very
+01:30:53 vibrant future i would say like that the possibilities there are are endless exactly so if you ask
+01:30:59 what i think about neural link i think it's amazing what those guys are doing and working on but i think it's
+01:31:04 not practical for almost everybody for example for people who are deaf they buy this and you know every day we're getting
+01:31:10 tons of emails and tweets or whatever from people saying wow i picked up on this and then i had no idea that was a
+01:31:15 i didn't even know that was happening out there yeah they're coming to here dude by the way this is you know less
+01:31:21 than a tenth of the price of a hearing aid and like 250 times less than a cochlear implant
+01:31:28 that's amazing  people love hearing about  what you know brilliant folks like yourself  could recommend in terms of books of
+01:31:36 course you're an author of many books so i'll in the introduction mention all the books you've written
+01:31:42 people should definitely read live wired i've gotten a chance to read some of it it's amazing
+01:31:47 but is there three books technical fiction philosophical that had an impact on you when you were younger or today and
+01:31:58 books perhaps some of which you would  want to recommend that others read ah you know as an undergraduate i
+01:32:04 majored in british american literature that was my major because i loved literature i grew
+01:32:08 up with literature my father had these extensive bookshelves and so
+01:32:13 i grew up in the mountains in new mexico and so that was mostly where i spent my time was reading books but
+01:32:24 you know faulkner hemingway i love many south american authors gabriel garcia marquez and italo calvina
+01:32:29 i would actually recommend invisible cities i just i loved that book by italo calvino sorry
+01:32:36 it's a book of fiction  anthony door wrote a book called all the light we cannot see
+01:32:43 which actually  was inspired by incognito by exactly what we were talking about
+01:32:46 earlier about how you can only see a little bit of the what we call visible light in the
+01:32:51 electromagnetic radiation i wrote about this in incognito and then he reviewed incognito for the washington
+01:32:55 oh no that's awesome and then he wrote this book the book has nothing to do with
+01:32:59 that but that's where the title comes from yeah all the light we cannot see is about the rest of the spectrum but
+01:33:07 the that's a absolutely gorgeous book jesus that's the book of fiction yeah it's a book of fiction
+01:33:13 what's it about it takes place during world war ii  about these two young people one of whom is blind
+01:33:19 and yeah anything else so any so you mentioned hemingway i mean  old man the sea
+01:33:27 what  what's your favorite  snows of kilimanjaro  oh wow short stories that i love um
+01:33:33 as far as not as far as nonfiction goes i grew up  with cosmos both watching the pbs
+01:33:38 series and then reading the book and that influenced me a huge amount in terms of what i do
+01:33:43 i as from the time i was a kid i felt like i want to be carl sagan like i just that's what i
+01:33:47 loved and in the end i just you know i studied space physics for a while as an undergrad
+01:33:53 but then i in my last semester discovered neuroscience last semester and i just thought well
+01:33:57 i'm hooked on that so the carl sagan of the brain is the aspiration yeah i mean  you're doing you're doing um
+01:34:08 an incredible job of it so you open the book livewire with a quote by heidegger every man is born as many men
+01:34:20 well what do you mean or what i'll tell you what i meant by it yeah i'll tell you so he
+01:34:23 he had his own reason why he was writing that but i meant this in terms of brain plasticity in terms of the library
+01:34:28 which is this issue that i mentioned before about this yeah this cone the space time cone that we
+01:34:33 are in which is that when you dropped into the world you lex had all this different potential
+01:34:39 you could have been a great surfer or a great chess player or you could have been
+01:34:45 thousands of different men when you grew up but what you did is things that were not your choice and
+01:34:51 your choice along the way you know you ended up navigating a particular path and now you're exactly who you are you
+01:34:55 still have lots of potential but the day you die you will be exactly lex you will be
+01:35:02 one person yeah so on that in that context i mean first of all it's just a beautiful it's
+01:35:08 a humbling picture but it's a beautiful one because that's  all the possible trajectories and you
+01:35:13 pick one you walk down that road it's the robert frost poem but on that topic let me ask the
+01:35:19 the biggest and the most ridiculous question so in this live wide brain when we choose all these different trajectories
+01:35:26 and end up with one what's the meaning of it all what's  is there is there a why here what's the
+01:35:34 meaning of life i mean this is the question that everyone has attacked from their own
+01:35:46 lifewire point of view by which i mean culturally if you grow up in a religious society you have one way of attacking that
+01:35:52 questions on if you grow up in a secular scientific society you have a different way of attacking that question
+01:35:58 obviously i i don't know i abstain on that question i mean i think one of the fundamental
+01:36:04 things i guess in that in all those possible trajectories is  you're always asking
+01:36:12 i mean that's the act of asking what the heck is this thing for is equivalent to
+01:36:18 or at least runs in parallel to all the choices that you're making because it's kind of that's the
+01:36:24 underlying question well that's right and by the way you know this is the interesting thing
+01:36:28 about human psychology we've got all these layers of things at which we can ask questions and so if you keep asking
+01:36:33 yourself the question about what is the optimal way for me to be spending my time what should i be doing
+01:36:38 what charity should i get involved with and so on if you're asking those big questions
+01:36:44 that that steers you appropriately if you're the type person who never asks hey is there something better i
+01:36:49 could be doing with my time then presumably you won't optimize whatever it is that is important to you
+01:36:54 so you've  i think just in your eyes in your work there's a passion 
+01:37:03 that just is obvious and it's inspiring it's contagious what if you were to give advice
+01:37:11 to us a young person today in the crazy chaos that we live today about life about how to
+01:37:21 how to  how to discover their passion is there some words that you could give first of all i would say the main thing
+01:37:28 for a young person is stay adaptable and and this is back to this issue of why
+01:37:34 covet is useful for us because it forces us off our tracks the the fact is the jobs that will exist
+01:37:39 20 years from now we don't even have names for we can't even imagine the jobs that exist and so when young people that i
+01:37:45 know go into college and they say hey what should i major in and so on college is and should be less and less
+01:37:51 vocational as in oh i'm going to learn how to do this and then i'm going to do that the rest of my career
+01:37:55 the world just isn't that way anymore with the the exponential speed of things so the important thing is learning how
+01:38:02 to learn learning how to be live wired and adaptable that's really key and what i tell what i advise young
+01:38:07 people when i talk to them is you know what you digest that that's what gives you the raw
+01:38:14 storehouse of things that you can remix and and be creative with
+01:38:21 and so eat broadly and widely and and obviously this is the wonderful thing about the internet world we live
+01:38:25 in now is you kind of can't help it you're constantly whoa you know you go down some mole hole of
+01:38:30 wikipedia and you think oh i didn't even realize that it was a thing i didn't know that existed
+01:38:35 and so embrace that embrace that yeah exactly and what i tell people is just always do a gut check about okay i'm reading this
+01:38:42 paper and yeah i think that but this paper wow that really i really cared about that in some way i
+01:38:49 tell them just keep a real sniff out for that and when you find those things keep going down those paths
+01:38:55 yeah don't be afraid i mean that that's one of the the challenges and the downsides of having so many beautiful options
+01:39:02 is that  sometimes people are a little bit afraid to really commit but that that's very true if if there's
+01:39:08 something that just sparks yeah your interest and passion just run with it i mean that's
+01:39:14 it goes back to the hydera quote i mean we only get this one life and that trajectory
+01:39:20 it does it doesn't last forever so just if something sparks your imagination your passion is wrong with it yeah
+01:39:27 exactly i don't think there's a more  beautiful way to end it david it's a huge honor to finally
+01:39:34 meet you your work is inspiring so many people i've talked to so many people who are passionate about
+01:39:38 neuroscience about the brain even outside that  read your book so i hope  i hope you
+01:39:44 keep doing so i i think you're already there with carl sagan i hope you continue growing um
+01:39:50 yeah it was honor talking today thanks so much great you too lex wonderful thanks for listening to this
+01:39:55 conversation with david eagleman and thank you to our sponsors athletic greens betterhelp and cash app click the
+01:40:03 sponsor links in the description to get a discount and to support this podcast if you enjoy this thing subscribe on
+01:40:10 youtube review it with five stars and apple podcast follow on spotify support on patreon or
+01:40:16 connect with me on twitter at lex friedman and now let me leave you with some words from david eagleman
+01:40:23 in his book some for details from the afterlife imagine for a moment there were nothing but the product of billions of years of
+01:40:31 molecules coming together and ratcheting up to natural selection that were composed only of highways of
+01:40:38 fluids and chemicals sliding along roadways within billions of dancing cells the trillions of synaptic connections
+01:40:47 hum in parallel that this vast egg-like fabric of micro thin circuitry runs algorithms undreamt of
+01:40:55 in modern science that these neural programs give rise to our decision making loves desires
+01:41:03 fears and aspirations to me understanding this would be a numinous experience better than anything ever proposed in

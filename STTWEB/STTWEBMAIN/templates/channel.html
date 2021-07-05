@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block content %}
+{% load static %}
+
+
+
+<img style= "border-radius: 50%;" src="{{profile_image}}" alt="1" width="150px">
+<br>
+<text style="font-size:24px">{{ channel.channel_name }}</text>
+{% if total_videos %}
+<br>Total videos : {{ total_videos }}
+{% endif %}
+<br>Subbed videos : {{ subbed_videos }}
+
+<br>
+{% for tag in channel.top_tags %}
+<button class="button_similar">{{ tag }}</button>
+
+{% endfor %}
+
+
+{% for video in videos %}
+
+{% endfor %}
+
+{% endblock %}

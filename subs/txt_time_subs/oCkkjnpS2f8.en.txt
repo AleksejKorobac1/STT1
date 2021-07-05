@@ -1,0 +1,654 @@
+00:00:01 the following is a conversation with Steven Kotkin a professor of history at Princeton University and one of the
+00:00:07 great historians of our time specializing in Russian and Soviet history he has written many books on
+00:00:14 Stalin in the Soviet Union including the first to of a three-volume work on Stalin and he's currently working on
+00:00:21 volume three he may have noticed that I've been speaking with not just computer scientists but physicists
+00:00:27 engineers historians neuroscientists and soon much more to me artificial intelligence is much bigger than deep
+00:00:34 learning bigger than computing it is our civilizations journey into understanding the human mind and creating echoes of it
+00:00:42 in the machine to me that journey must include a deep historical and psychological understanding of power
+00:00:51 technology puts some of the greatest power in the history of our civilization into the hands of engineers and computer
+00:00:58 scientists this power must not be abused and the best way to understand how such abuse can be avoided is to not be blind
+00:01:07 to the lessons of history as Steven kotkin brilliantly articulates Stalin was arguably one of the most powerful
+00:01:15 humans in history I've read many books on Joseph Stalin Vladimir Putin and the wars the 20th century I hope you
+00:01:22 understand the value of such knowledge to all of us especially to engineers and scientists who build the tools of power
+00:01:31 in the 21st century this is the artificial intelligence podcast if you enjoy it subscribe on YouTube give it
+00:01:38 five stars an Apple podcast follow on Spotify support on patreon or simply connect with me on Twitter at lex
+00:01:47 friedman spelled fri d ma n i recently started doing ads at the end of the introduction i'll do one or two minutes
+00:01:53 after introducing the episode and never any ads in the middle they can break the flow of the conversation I hope that
+00:01:58 works for you and doesn't hurt the listening experience this show is presented by cache app the number one
+00:02:05 finance app in the App Store I personally use cache app to send money to friends but you can also use it to
+00:02:11 buy sell and deposit Bitcoin in just seconds cash app also has an investing feature you can buy fractions of a stock say $1
+00:02:20 worth no matter what the stock price is brokers services are provided by cash up investing a subsidiary of square and
+00:02:28 member si PC I'm excited to be working with cash app to support one of my favorite organizations called first best
+00:02:34 known for their first robotics and Lego competitions they educate and inspire hundreds of thousands of students in
+00:02:42 over 110 countries and have a perfect rating and Charity Navigator which means the donated money is used to maximum
+00:02:49 effectiveness when you get cash app from the App Store Google Play and use coal xpod gas you'll get $10 and cash app
+00:02:57 will also donate $10 to 1st which again is an organization that I've personally seen inspire girls and boys to dream of
+00:03:05 engineering a better world and now here's my conversation stephen Kotkin do all human beings crave power no human
+00:03:19 beings crave security they crave love they crave adventure they crave power but not equally some human beings
+00:03:30 nevertheless do crave power for sure what words is that deeply in the psychology of people is it something
+00:03:36 you're born with is it something you develop some people crave a position of leadership or of
+00:03:48 standing out of being recognized and that could be starting out in the school years on the schoolyard it could be
+00:03:56 within their own family not just in their peer group those kind of people we often see craving leadership positions
+00:04:05 from a young age often end up in positions of power but they can be varied positions of power you can have
+00:04:12 power in an institution where your power is purposefully limited for example there's a board or a consultative body
+00:04:21 or a separation of powers not everyone craves power whereby they're the sole power or there they're unconstrained
+00:04:30 power that's a little bit less usual we may think that everybody does but not everybody does those people who do crave
+00:04:41 that kind of power unconstrained the ability to decide as much as life or death of other people most people are
+00:04:50 not everyday people they're not the people you encounter in your daily life for the most part those are
+00:04:58 extraordinary people most of them don't have the opportunity to live that dream very few of them in fact end up with the
+00:05:05 opportunity to live that dream so percentage-wise in your sense if we think of George Washington for example
+00:05:14 most would most people given the choice of absolute power over a country versus maybe the capped power that the United
+00:05:23 States president presidential role at least at the founding of the country represented what
+00:05:28 do you think most people would choose well Washington was in a position to exercise far greater power than he did
+00:05:39 and in fact he didn't take that option he was more interested in seeing institutionalization of seeing the
+00:05:49 country develop strong institutions rather than an individual leader like himself have excess power so that's very
+00:05:57 important so like I said not everyone craves unconstrained power even if they're very ambitious and of course
+00:06:04 Washington was very ambitious he was a successful general before he was a president so that clearly comes from the
+00:06:13 influences on your life where you grow up how you grow up how you raised what kind of values are imparted to you along
+00:06:22 the way you can understand power as the ability to share or you can understand or the ability to advance something for
+00:06:31 the collective in a collective process not an individual process so power comes in many different varieties and ambition
+00:06:42 doesn't always equate to despotic power the spotted power is something different from ordinary institutional power that
+00:06:53 we see right the president of MIT does not have unconstrained power the president of MIT rightly must consult
+00:07:01 with other members of the administration with the faculty members to a certain extent with the student body and
+00:07:10 certainly with the trustees of MIT those constraints are make the institution strong and enduring and make the
+00:07:18 decisions better than they would be if he had unconstrained power but you can't say that the president is not ambitious
+00:07:27 of course the president is ambitious we worry about unconstrained power we worry about executive authority that's not
+00:07:34 limited that's the definition of authoritarianism or tyranny unlimited or barely limited executive
+00:07:43 authority executive authority is necessary to carry out many functions we all understand that that's why MIT has
+00:07:52 an executive has a president but unlimited or largely unconstrained executive power is detrimental to even
+00:08:02 the person who exercises that power so what do you think it's an interesting notion we kind of take it for granted
+00:08:10 that constraints on executive power is a good thing but why is that necessarily true so what is it about absolute power
+00:08:20 that does something bad to the human mind so you know the popular saying of absolute power corrupts absolutely is
+00:08:30 that the case that the power in itself is the thing that corrupts the mind in some kind of way where it leads to a bad
+00:08:39 leadership over time people make more mistakes when they're not challenged when they don't have to explain things
+00:08:47 and get others to vote and go along with it when they can make a decision without anybody being able to block their
+00:08:56 decision or to have input necessarily on their decision you're more prone to mistakes you're more prone to extremism
+00:09:04 there's a temptation there for example we have separation of powers in the United States the Congress right has
+00:09:14 Authority that the president doesn't have as for example in budgeting the so-called power of the purse this can be
+00:09:22 very frustrating people want to see things happen and they complained that there's a do-nothing Congress or that
+00:09:30 the situation is stalemated but actually that's potentially a good thing in fact that's how our system was designed our
+00:09:39 system was designed to prevent things happening in government and there's frustration with that but ultimately
+00:09:47 that's the strength of the institutions we have and so when you see unconstrained executive authority there can be a lot
+00:09:55 of dynamism a lot of things can get done quickly but those things can be like for example what happened in China under Mao
+00:10:03 or what happened in the Soviet Union under Stalin or what happened in Haiti on the Papa Doc and then baby doc or
+00:10:11 fill in the blank right what happens sometimes in corporations where a corporate leader is not constrained by
+00:10:20 the shareholders by the board or by anything and they can seem to be a genius for a while but eventually it
+00:10:27 catches up to them and so the idea of constraints on executive power is absolutely fundamental to the American
+00:10:36 system American way of thinking and not only America obviously large other parts of the world that have a similar system
+00:10:44 not an identical system but a similar system of checks and balances on executive power and so the the the case
+00:10:52 that I study the only checks and balances on executive power are circumstantial so for example distances
+00:11:01 in the country it's hard to do something over 5,000 miles or the amount of time in a day it's hard for a leader to get
+00:11:09 to every single thing the leader wants to get to because there are only 24 hours in a day
+00:11:15 those are circumstantial constraints on executive power they're not institutional constraints on executive
+00:11:22 power one of the constraints on executive power the United States has versus Russia maybe something you've
+00:11:29 implied and actually spoke directly to is there's something in the Russian people in the Soviet people they're
+00:11:39 psychologically speaking or at least the kind of leaders at that sought authority and power throughout its history and
+00:11:49 that desire for that kind of human is a lack of a constraint in America it seems as people we desire somebody not like
+00:11:58 Stalin somebody more like George Washington so that's another constraint of the belief the people would
+00:12:05 they admire in a leader what they seek in a leader so maybe you can speak to well first of all can you speak briefly
+00:12:16 to that psychology of is there a difference between the Russian people and the American people in terms of just
+00:12:24 what we find attractive in a leader not as great a difference as it might seem there are unfortunately many Americans
+00:12:33 who would be happy with an authoritarian leader in the country is by no means a majority it's not even a plurality but
+00:12:42 nonetheless it's a real sentiment in the population sometimes because they feel frustrated because things are not
+00:12:50 getting done sometimes because they're against something that's happening in the political realm and they feel it has
+00:12:56 to be corrected and corrected quickly it's a kind of impulse people can regret the impulse later on the impulse is
+00:13:05 motivated by reaction to their environment in the Russian case we have also people who crave sometimes known as
+00:13:14 a strong hand and iron hand and authoritarian leader because they want things to be done and be done more
+00:13:22 quickly that align with their desires what I'm not sure it's a majority in the country today certainly in Stalin's time
+00:13:32 this was a widespread sentiment and people had few alternatives that they understood or could appeal to nowadays
+00:13:40 in the globalized world the citizens of Russia can see how other systems have constraints on executive power in the
+00:13:48 life isn't so bad there in fact a life might even be better so the impatience the impulsive quality
+00:13:57 the frustration does sometimes in people reinforce their craving for the unconstrained executive to quote get
+00:14:07 things done or shake things up or yes that's true but in the Russian case I'm not sure
+00:14:13 it's cultural today I think it might be more having to do with the failures the functional failures of the kind of
+00:14:22 political system that they tried to institute after the Soviet collapse and so it may be frustration with the
+00:14:32 version of constraints on executive power they got and how it didn't work the way it was imagined which has led to
+00:14:43 a sense in which non constrained executive power could fix things what like like I'm not sure that that's the
+00:14:49 majority sentiment in the Russian case although it's hard to measure because under authoritarian regimes
+00:14:58 public opinion is shaped by the environments in which people live which is very constrained in terms of public
+00:15:07 opinion but on that point why at least from a distance desert seem to nevertheless be support for the current
+00:15:16 Russian President Vladimir Putin is that have to do with the fact that measuring getting good metrics and statistics on
+00:15:24 support is difficult know that Aryan governments or is there still something appealing to that kind of power to the
+00:15:32 people I think we have to give credit to President Putin for understanding the psychology of the Russians who to whom
+00:15:43 he appeals many of them were the losers in the transition from communism they were the ones whose pensions were
+00:15:51 destroyed by inflation or whose salaries didn't go up or whose regions were abandoned they were not the winners for
+00:15:59 the most part and so I think there's an understanding on his part of their psychology Putin has grown in the
+00:16:06 position he was not a public politician when he first started out he was quite poor in public settings he didn't have
+00:16:13 the kind of political instincts that he has now he didn't have the appeal to traditional values in the Orthodox
+00:16:21 Church and some of the other dimensions of his rule today so yes we have to give some credit to Putin himself for this
+00:16:32 in addition to the frustrations and the mass of the people but let's think about it this way
+00:16:38 in addition without taking away the fact that he's become a better politician over time and that sentiment has shifted
+00:16:47 because of the disappointments with the transition with the population when I asked my kids am I a good dad
+00:16:59 my kids don't have any other dad to measure me against I'm the only dad they know and I'm the only dad they can
+00:17:08 choose or not choose they think if they don't choose me they still get me as dad right so with Putin today he's the only dad
+00:17:19 that the Russian people have now if my kids were introduced to alternative fathers they might be better than me
+00:17:27 they might be more loving more giving funnier richer whatever it might be they might be more appealing there are some
+00:17:36 blood ties there for sure with that I have with my kids but they would at least be able to
+00:17:41 choose alternatives and then I would have to win their favor in that constellation of alternatives if
+00:17:50 President Putin were up against real alternatives if the population had real choice and that choice could express
+00:17:59 itself and have resources and have media and everything else the way he does maybe he would be very popular and maybe
+00:18:08 his popularity would not be as great as it currently is so the absence of alternatives is another factor that
+00:18:18 reinforces his authority and his popularity having said that there are many authoritarian leaders who deny any
+00:18:26 alternatives to the population and are not very popular so denial of alternatives doesn't guarantee you the
+00:18:35 popularity you still have to figure out the mass psychology and be able to appeal to it so with with the in the
+00:18:43 Russian case the winners from the transition live primarily in the big cities and our self employed or
+00:18:57 intrapreneurial even if they're not self employed there they're able to change careers they have tremendous skills and
+00:19:06 talent and education and knowledge as well as these entrepreneurial or dynamic personalities Putin also appealed to
+00:19:16 them he did that with Medvedev and it was a very clever ruse he himself appealed to the losers from the
+00:19:27 transition the small towns the rural the people who were not well-off and he had them for the most part not all we don't
+00:19:35 want to generalize to say that he had every one of them because those people have views of their own sometimes in
+00:19:40 contradiction with the President of Russia and then he appealed to the opposite people the successful urban
+00:19:49 base through the so-called reformer with the idea of the new generation the technically literate prime minister who
+00:19:57 for a time was president and so that worked very successfully for Putin he was able to bridge a big divide in the
+00:20:06 society and gain a greater mass support than he would otherwise have had by himself that ruse only worked through
+00:20:16 the time that Medvedev was temporarily president for a few years because of the Constitution Putin couldn't do three
+00:20:24 consecutive terms and stepped aside in what they call castling in chess this when this was over Putin had difficulty
+00:20:35 with his popularity there were mass protests in the urban areas precisely that group of the population that he had
+00:20:44 been able to win in part because of the Medvedev castling and now had had their delusions exposed and were disillusioned
+00:20:55 and there were these mass protests in the urban areas not just in the cap by the way and Putin had to as it were
+00:21:02 come up with a new way to fix his popularity which happened to be the annexation of Crimea from which he got a
+00:21:09 very significant bump however he the trend is back in the other direction it's diminishing again
+00:21:19 although it's still high relative to other leaders around the world so I wouldn't say that he's unpopular with
+00:21:28 mass in Russia he there is some popularity there there is some success but I would say it's tough for us to
+00:21:34 gauge because of the lack of alternatives and Putin is unpopular inside the State Administration at every
+00:21:45 level deeper accuracy of because no simple are well informed and they understand that the country is declining
+00:21:53 that the human capital is declining the infrastructure is declining the economy is not really growing it's not really
+00:22:00 diversifying Russia's not investing in its future the state officials understand all of that and then they see
+00:22:08 that the Putin cleek is stealing everything in sight so between the failure to invest in a future and the
+00:22:16 corruption of a narrow group around the president there's disillusionment in the state apparatus because they see this
+00:22:24 more clearly or more closely than the mass of the population they can't necessarily yet oppose this in public
+00:22:37 because there are people they have families they have careers they have children who want to go to school or
+00:22:44 want a job and so there are constraints on their ability to oppose the regime based upon what we might call cowardice
+00:22:52 or other people might call realism I don't know how courageous people can be when their family children career are
+00:23:02 on the line so it's very interesting dynamic to see the disillusionment inside the government with the president
+00:23:10 which is not yet fully public for the but could become public and once again if there's an alternative if an
+00:23:17 alternative appears things could shift quickly and that alternative could come from inside the regime from inside the
+00:23:25 regime but the leadership the the party the people that are now as you're saying opposed to Putin they're nevertheless
+00:23:34 maybe you can correct me but it feels like there's structural he's deeply corrupt so each of each of the people
+00:23:44 we're talking about our and don't feel like a George Washington once again the circumstances don't permit them to act
+00:23:53 that way necessarily right George Washington did great things but in certain circumstances a lot of the state
+00:24:02 officials in Russia for certain are corrupt there's no question many of them however are patriotic and many of them
+00:24:12 feel badly about where the country has been going they would prefer that the country was less corrupt they would
+00:24:18 prefer that there were greater investment in all sorts of areas of Russia they might even themselves steal
+00:24:28 less if they could be guaranteed that everybody else would steal less there's a deep and abiding patriotism inside
+00:24:38 Russia as well as inside the Russian regime so they understand that Putin in many ways rescued the Russian state from
+00:24:48 the chaos of the 1990s they understand that Russia was in very bad shape as an incoherent failing state almost when
+00:24:59 Putin took over and that he did some important things for Russia's stability and consolidation there's also some
+00:25:10 appreciation that Putin stood up to the West and stood up to more powerful countries and regained a sense of pride
+00:25:19 and maneuverability for Russia in the international system people appreciate that and it's real it's not imagined
+00:25:28 that Putin accomplished that the problem is the methods that he accomplished it with he used the kind of methods that is
+00:25:36 the same taking other people's property putting other people in jail for political reasons he used the kind of
+00:25:43 methods that are not conducive to long-term growth and stability so he fixed the problem but he fixed the
+00:25:50 problem and then created even bigger long-term problems potentially and moreover all authoritarian regimes that
+00:25:59 use those methods are tempted to keep using them and using them and using them until they're the only ones who are the
+00:26:07 beneficiaries and the group narrows and narrows the elite gets smaller and narrower the interest groups get
+00:26:16 excluded from power and their ability to continue enjoying the fruits of the system and the resentment grows and so
+00:26:24 that's the situation we have in Russia is a place that is stuck it was to a certain extent rescued it was rescued
+00:26:35 with methods that were not conducive to long-term success and stability the rescue referring to is this of the
+00:26:42 economic growth when Putin first tests took office they had 10 years they had a full decade of an average of 7% growth a
+00:26:50 year which was phenomenal and is not attributable predominantly to oil prices during president Putin's first term as
+00:27:00 president the average price of oil was $35 a barrel during his second term as president the average price was $70 a
+00:27:11 barrel so during those two terms when Russia was growing at about 7% a year oil prices were averaging somewhere
+00:27:20 around $50 a barrel which is fine but is not the reason because later on when oil prices were over $100 a barrel
+00:27:31 Russia stagnated so the initial growth do you think Putin deserves some credit for that yes he does because he
+00:27:38 introduced some important liberalizing measures he lowered taxes he allowed land to be bought and sold he deregulated many
+00:27:51 areas of the economy and so there was a kind of intrapreneurial burst that were that was partly attributable partly
+00:28:00 attributable to government policy during his first term but also he was consolidating political power and as I
+00:28:08 said the methods he used overall for the long term were not able to continue sustain that success in addition we have
+00:28:18 to remember that China played a really big role in the success of Russia in the first two terms of Putin's presidency
+00:28:29 because China's phenomenal growth created insatiable demand for just about everything that the Soviet Union used to
+00:28:39 produce so fertilizers cement fill-in-the-blank chemicals metals China had insatiable demand for everything the Soviet Union
+00:28:51 once produced and so China's global raising of global demand overall brought soviet-era industry back from the dead
+00:29:03 and so there was something that happened Soviet era industry fell off a cliff in the 1990s there was a decline in
+00:29:12 manufacturing and industrial production greater than in the great depression in the US but a lot of that came back
+00:29:21 online in the 2000s and that had to do with China's phenomenal growth the trade between China and Russia was not always
+00:29:29 direct so this was an indirect effect but raising global prices for the commodities and the products the kind of
+00:29:39 lower and lower value products in manufacturing not high-end stuff but lower and stuff like steel or iron or
+00:29:50 cement or fertilizer where the value-added is not but nonetheless which had been destroyed
+00:29:57 by the 1990s and after the Soviet collapse this was brought back to life now you can do that once you can bring
+00:30:05 Soviet era industry back to life once and that happened during Putin's first two terms in addition to the
+00:30:13 liberalizing policies which spurred intrapreneurial ISM and some small and medium business the crash of the ruble
+00:30:22 in 1998 which made Russian products much cheaper abroad and made imports much more expensive also facilitated the
+00:30:31 resuscitation the revival of domestic manufacturing so all of this came together for that spectacular 10-year
+00:30:42 seven percent on average economic growth and moreover people's wages after inflation their disposable income grew
+00:30:53 more even than GDP grew so disposable income after inflation that is a real income was growing greater than seven
+00:31:00 percent in some cases ten percent a year so there was a boom and the Russian people felt it and it happened during
+00:31:09 Putin's first two terms and people were grateful rightly so for that and those who don't want to give Putin credit give
+00:31:20 oil prices all the credits but I don't think that oil prices can explain this having said that that doesn't mean that
+00:31:28 this was sustainable over the long term so you've briefly mentioned sort of implying the possibility Stalin held
+00:31:38 power for let's say thirty years you briefly mentioned that as a question will Putin be able to beat that record
+00:31:47 to beat that so can you talk about your sense of is it possible that Putin holds power for that kind of duration let's
+00:31:58 hope not let's hope not for Russia's sake the primary victims of president Putin's power are Russians
+00:32:07 they're not Ukrainians although to a certain extent Ukraine has suffered because of Putin's actions and they're
+00:32:16 not Americans they're Russians moreover Russia has lost a great deal of human talent yes millions and millions of
+00:32:25 people have left Russia since 1991 overall somewhere between five and ten million people have left the country and
+00:32:34 are beyond the borders of the former Soviet Union so they left the Soviets base entirely moreover the people who
+00:32:42 left are not the poor people they're not the uneducated they're not the losers the people who've left are the more
+00:32:50 dynamic parts of the population the better educated the more entrepreneurial so that human capital lost that Russia
+00:32:58 has suffered is phenomenal and in fact right here we were sitting at MIT we have examples of people who are
+00:33:07 qualified good enough for MIT and have left Russia to come to MIT you're looking at one of them and the other
+00:33:15 aspect just to quickly comment is those same people like me I'm not welcome back no you're not under the current regime
+00:33:25 it was a big loss for Russia if you're patriotic but not from the point of view of the Putin regime that has to do also
+00:33:34 factors into popularity if the people who don't like you leave they're not there to complain to protest to vote
+00:33:43 against you and so your your opposition declines when you let them leave however it's very costly in human capital terms
+00:33:52 hemorrhaging that much human capital is damaging its self damaging and we've seen it accelerate it was already high
+00:34:00 but we've seen it accelerate in the last oh seven eight years of President Putin's rule and those people are not
+00:34:11 going back of their own volition but even if they wanted to go back as you just said they'd be unwelcome that's a
+00:34:18 big cost to pay for this regime and so whatever benefits this regime might or might not have given to the
+00:34:27 country the disadvantage is the downside the costs are also really high so we don't want Putin lasting in power as
+00:34:35 long as Stalin it would be better if Russia were able to choose among options to choose a new leader among options
+00:34:44 many people speculate that President Putin will name a successor the way Yeltsin named Putin as his successor
+00:34:52 Boris president Boris Yeltsin and then Putin will leave the stage and allow the successor to take over that might seem
+00:35:03 like a good solution but once again we don't need a system where you hang on for as long as possible then nominate
+00:35:10 who's gonna take over we need a system that has the kind of corrective mechanisms that democracies and markets
+00:35:20 have along with rule of law a corrective mechanism is really important because all leaders make mistakes but when you
+00:35:28 can't correct for the mistakes then the mistakes get compounded a Putin could well he seems to be healthy he could
+00:35:38 well last as many years of Stalin it's hard to predict because events intercede sometimes and create circumstances that
+00:35:47 are unforeseen and leaders get overthrown or have a heart attack or whatever there's a palace insurrection
+00:35:56 we're ambitious leaders on the inside for both personal power and patriotic reasons try to push aside an aging
+00:36:05 leader there are many scenarios in which Putin could not last that long but unfortunately right now you could also
+00:36:14 imagine potentially him lasting that long which as I said is not an outcome if you're patriotic about Russia is not
+00:36:21 an outcome you would wish up to the country is that I guess a very difficult question but what
+00:36:29 what practically do you feel is a way out of the Putin regime as a way out of the corruption that's deeply underlies
+00:36:40 the the state is a if you look from a history perspective as a revolution required is some his violence required
+00:36:51 is in you know from a violence within or external to the country do you see or origin as a powerful is a inspiring
+00:37:04 leader enough to step in and bring democracy and kind of the free world to Russia so Russia is not a failed country
+00:37:14 it's a middle-income country with the tremendous potential and has proven many times in the past that when it gets in a
+00:37:24 bad way it can reverse its trajectory moreover violence is rarely ever a solution violence rarely it may break an
+00:37:33 existing trend but it's rare that violence produces a non-violent sustainable positive outcome it happens
+00:37:41 but it doesn't happen frequently societal upheaval is not a way always to institutionalize a better path forward
+00:37:53 because you need institutions people can protest as they did throughout the Middle East and the protests didn't
+00:38:00 necessarily lead to better systems because the step from protests to new strong consolidated institutions is a
+00:38:12 colossal leap not a small step what we need and what we see from history and situations like this is a group within
+00:38:20 the power structures which is a patriotic that sees things going down and that is to say that sees things not
+00:38:30 be developing relative to neighbors relative to richer countries relative to more successful countries and they want
+00:38:39 to change the trajectory of Russia and if they can in a coalition fashion unseat the current regime for a new
+00:38:51 power sharing arrangement which once again can be frustrating because you can't do changes immediately you can't
+00:38:59 do things overnight but that's the point constraints on your ability to change everything immediately and to force
+00:39:05 change overnight is what leads to long-term success potentially right that's the sustainability of change so
+00:39:14 Russia needs stronger institutions it needs court system as well as democratic institutions it needs
+00:39:24 functioning open dynamic markets rather than monopolies it needs meritocracy and banks to award loans on the basis of
+00:39:34 business plans not on the basis of political criteria or corrupt bribery or whatever it might be right so Russia
+00:39:42 needs those kind of functioning institutions that take time are sometimes slow don't lead to
+00:39:52 revolutionary transformation but lead to potentially long term sustainable growth without upheaval without violence
+00:40:01 without getting into a situation where all of a sudden you need a miracle again every time Russia seems to need a
+00:40:10 miracle and that's the problem the the solution would be not needing a miracle now having said that the potential is
+00:40:19 there the civilization that we call Russia's amazingly impressive it has delivered world-class culture
+00:40:29 world-class science it's a great power it's not a great power with a strong base right now but nonetheless it is a
+00:40:36 great power is a tax in the world so I wouldn't underestimate Russia's abilities here and I wouldn't write-off
+00:40:43 Russia I don't see it under the current regime a renewal of the country but if we can have from within the regime and
+00:40:52 evolution rather than a revolution in a positive direction and maybe get a George Washington figure who is strong
+00:41:02 enough to push through institutionalization rather than personalism so if I could ask about one
+00:41:10 particular individual maybe just interesting to get your comment but also as a representative of potential leaders
+00:41:16 I just on the spot has talked to Gary Kasparov who I'm not sure if you're familiar with his his ongoings so
+00:41:25 besides being a world-class chess player he's also a very outspoken activist sort of seeing Putin truly seeing Putin as an
+00:41:37 enemy of the free world of democracy of balanced government in Russia what do you think of people like him
+00:41:45 specifically or just people like him trying as leaders to step in to run for president to to symbolize a new chapter
+00:41:55 in Russia's future so we don't need individuals some individuals are very impressive and they have courage and
+00:42:05 they protest and they criticize and they organize we need institutions we need a Duma or a parliament that functions we
+00:42:15 need a court system that functions that is to say where there are a separation of powers impartial professional civil
+00:42:27 service impartial professional judiciary those are the things Russia needs it's rare that you get that from an
+00:42:34 individual no matter how impressive right we had Andrei Sakharov who was an extraordinary individual who developed
+00:42:45 the hydrogen bomb under Soviet regime was a world-class physicist was then upset about how his scientific knowledge
+00:42:55 and scientific achievements were being put to use and rebelled to try to put limits constraints civilizing you main
+00:43:05 limits and constrained on some of the implications of his extraordinary science but Sakharov even
+00:43:13 if he had become the leader of the country which he did not become he was more of a moral or spiritual leader it
+00:43:21 still wouldn't have given you a judiciary it still wouldn't have given you a civil service it still wouldn't
+00:43:27 have given you a Duma or functioning Parliament you need a leader in coalition with other leaders you need a
+00:43:37 bunch of leaders a whole group and they have to be divided a little bit so that not one of them can destroy all the
+00:43:44 others and they have to be interested in creating institutions not just or not solely or predominantly in their
+00:43:52 personal power and so I have no objection to outstanding individuals and to the work that they do but I think in
+00:44:02 institutional terms and they need to think that way too in order to be successful so if we go back to the
+00:44:09 echoes of that after the Russian Revolution was Stalin or Lenin Stalin maybe you can correct me but there was a
+00:44:19 group of people there in that same kind of way looking to establish institutions that were built in a you know in a
+00:44:30 beautifully built around an ideology that they believed is good for the world so sort of echoing that idea of what
+00:44:39 we're talking about what Russia needs now can you first of all you've described a fascinating thought which is
+00:44:49 Stalin as having amassed arguably more power than any man in history she's interesting thing to think about but can
+00:44:57 you tell about his journey to getting that power after the Russian Revolution how does that perhaps echo to the our
+00:45:06 current discussion about institutions and so on and just in general the story I think is fascinating of how one man is
+00:45:15 able to get more power than any other man in history it is a great story not necessarily from
+00:45:23 a moral point of view but if you're interested in power for sure it's an incredible story so we have to remember
+00:45:31 that Stalin is also a product of circumstances not solely his own individual Drive which is very strong
+00:45:42 but for example World War one breaks the Czarist regime the Czarist order Imperial Russia in the state Stalin has
+00:45:50 no participation whatsoever in World War one he spends World War one in exile in Siberia until the downfall of the
+00:46:02 Czarist autocracy in February 1917 Stalin is in eastern Siberian exile he's only able to leave eastern Siberia when
+00:46:13 that regime Falls he never fights in the war he's called up briefly towards the end of the war and is disqualified on
+00:46:22 physical grounds because of physical deformities from being drafted the war continues after the Czar's regime has
+00:46:32 been toppled in the capital and there's been a revolution the war continues and that war is very radicalizing the
+00:46:42 peasants begin to seize the land after the Tsar Falls essentially destroying much of the gentry class Stalin has
+00:46:51 nothing to do with that the peasants have their own revolution seizing the land not in law but in fact de facto not
+00:47:00 desert land ownership so there are these really large processes underway that Stalin is alive during but not a driver
+00:47:12 of the most improbable thing happens which is a very small group of people around the the figure of Vladimir Lenin
+00:47:23 announces that had in a seized power now by this time in October 1917 the government that has replaced the Tsar
+00:47:30 the soap visional government has failed and so there's not so much power to seize from
+00:47:38 the provisional government what Lenin does is he does a coup on the left that is to say Soviets or councils
+00:47:50 as we would call them in English which represent people's power or the masses participating in politics a kind of
+00:47:57 radical grassroots democracy are extremely popular all over the country and not dominated by any one group but
+00:48:06 predominantly socialist or predominantly leftist Russia has an election during the war a free and fair election for the
+00:48:18 most part despite the war at the end of 1917 in December 1917 and 3/4 plus of the country votes socialist in some form
+00:48:29 or another so the battle was over the definition of socialism and who had the right to participate in defining
+00:48:37 socialism not only what it would be but who had the right to decide so there's a coup by Lenin's group known as the
+00:48:44 Bolsheviks against all the other socialists and so Lenin declares a seizure of power whereby the old
+00:48:54 government has failed people's power the council's known as the Soviets are gonna take their place and Lenin seizes power
+00:49:04 in the name of the Soviet so it's a coup against the left against the rest of the left not against the provisional
+00:49:10 government that has replaced the Tsar which has already failed and so Stalin is able to come to power along with
+00:49:21 Lenin in this crazy seizure of power on the left against the rest of the left in October 1917 which we know is the
+00:49:30 October Revolution and I call the October coup as many other historians call the October Revolution happened
+00:49:38 after the seizure of power what's interesting about this episode is that the leftists who seize power in the name
+00:49:46 of the Soviets in the name of the masses in the name of people's power they retain their hold many times in history
+00:49:54 there's a seizure of power by the left and they fail they collapse they're cleaned out by an army or what we call
+00:50:03 forces of order by counter revolutionary forces Lenin's Revolution Lenin's coup is successful it is able to hold power and
+00:50:13 not just seize power they win a civil war and they're entrenched in the heart of the country already by 1921 Stalin is
+00:50:23 part of that group Lenin needs somebody to run this new regime in the kind of nitty-gritty way
+00:50:31 Lenin is the leader the undisputed leader in the Bolshevik Party which changes their name to communists in 1918
+00:50:42 he makes Stalin the General Secretary of the Communist Party he creates a new position which hadn't existed before a
+00:50:52 kind of day-to-day political manager a right-hand man not because Lenin is looking to replace
+00:50:59 himself he's looking to institutionalize a helpmate a right-hand man he does this in the spring of 1920 to stall and his
+00:51:10 name to this position which Lenin has created expressly for Stalin so there has been a coup on the Left where by the
+00:51:19 Bolsheviks who become communists have seized power against the rest of the socialists and anarchists and the entire
+00:51:26 left and then there's an institutionalization of a position known as General Secretary of the Communist
+00:51:34 Party right-hand man of Lenin less than six weeks after Lenin has created this position and installed Stalin Lenin has
+00:51:46 a stroke and a major stroke really returns as a full actor to power before he dies of a fourth stroke in
+00:51:56 January 1924 so a position is created for Stalin to run things on Lenin's behalf and then Lenin has a stroke and
+00:52:04 so Stalin now has this new position general secretary but he's the right hand of a person who's no longer
+00:52:13 exercising day-to-day control over affairs Stalin then uses this new position to create a personal
+00:52:21 dictatorship inside the Bolshevik dictatorship which is the remarkable story I tried to tell so is there
+00:52:29 anything nefarious about any of what you just described so it seems conveniently that the
+00:52:37 positions created just for Stalin there was a few other brilliant people arguably more brilliant than Stalin in
+00:52:43 the vicinity of Lenin why was Stalin chosen why did Lenin all of a sudden fall ill as perhaps a conspiratorial
+00:52:54 question but is there anything nefarious about any of this historical trajectory to power that Stalin took in creating
+00:53:03 the personal dictatorship so history is full of contingency and surprise after something happens we all think it's
+00:53:13 inevitable it had to happen that way everything was leading up to it so Hitler seizes power in Germany in 1933
+00:53:23 and the Nazi regime gets institutionalized by several of his moves after being named Chancellor and
+00:53:31 so all German history becomes a story of the Nazi rise to power Hitler's rise to power every trend tendency is bent into
+00:53:41 that outcome things which don't seem related to that outcome all of a sudden get bent in that direction and all the
+00:53:49 trends that were going on are no longer examined because they didn't lead to that outcome but Hitler's becoming
+00:53:58 Chancellor of Germany in 1933 was not inevitable it was contingent he was offered the position by the
+00:54:05 traditional conservatives he's part of the radical right and the traditional right named him Chancellor the Nazi
+00:54:12 Party never outright won an election that was free and fair before Hitler came to power and in fact it's votes on
+00:54:20 the eve of Hitler becoming Chancellor declined relative to the previous election so there's contingency in history and so
+00:54:32 Lenin's illness his stroke the neurological and blood problems that he had were not a structure in history in
+00:54:41 other words if Lenin had been a healthier figure Stalin might never have become the Stalin that we know that's
+00:54:49 not to say that all history is accidental just that we need to relate the structural the larger structural
+00:54:57 factors to the contingent factors why did Lenin pick Stalin Stalin was a very effective organizer and the position was
+00:55:06 an organizational position Stalin could get things done he would carry out assignments no matter how difficult he
+00:55:13 wouldn't complain that it was hard work or too much work he wouldn't go off womanizing and drinking and ignore his
+00:55:23 responsibilities Lenin chose Stalin among other options because he thought Stalin was the better option once again
+00:55:30 he wasn't choosing his successor because he didn't know he was gonna have this stroke Lenin had some serious illnesses
+00:55:38 but he had never had a major stroke before so the choice was made based upon Stalin's organizational skills and
+00:55:51 promise against the others who are in the regime now they can see more brilliant than Stalin but he was more
+00:55:58 effective and I'm not sure they were very brilliant well he was exceptionally competent actually at the tasks for
+00:56:04 running a governor of the executive branch rate of a dictator yes he turned out to be very adept at being a dictator
+00:56:14 and so if he had been chosen by Lenin and had not been very good he would have been pushed aside by others you can get
+00:56:25 a position by accident you can be named because you're someone's friend or someone's relative but to hold that
+00:56:33 position to hold that position in difficult circumstances and then to build effectively a superpower on all
+00:56:41 that bloodshed right you have to be skilled in some way it can't be just the accident that brings you to power
+00:56:50 because if accident brings you to power it won't last just like we discovered with Putin he
+00:56:56 had some qualities that we didn't foresee at the beginning and he's been able to hold power not just be named and
+00:57:05 now Putin and Stalin are very different people these are very different regimes I wouldn't put them in the same sentence
+00:57:13 my point is not that one resembles the other my point is that when people come to power for contingent reasons they
+00:57:22 don't stay in power unless they're able to manage it and Stalin was able to build a personal dictatorship inside
+00:57:30 that dictatorship he was cunning he was ruthless and he was a workaholic he was very diligent he had a phenomenal memory
+00:57:39 and so he could remember people's names and faces and events and this was very advantageous for him as he built the
+00:57:48 machine that became the Soviet state and bureaucracy one of the things maybe you can correct me if I'm wrong with you've
+00:57:57 made me realize is this wasn't some kind of manipulative personality trying to gain more power solely like kind of an
+00:58:05 evil picture of a person but he truly believed in communism the the you know as far as I can understand again you can
+00:58:13 correct me if I'm wrong but he wanted to build a better world by build by having infusing communism into into into the
+00:58:24 country and perhaps into the the the whole world so maybe my question is what role does communism as an idea as
+00:58:35 an ideology playing all of this in his rise to power in the people of the time in the Russian people actually just the
+00:58:43 whole 20th century you're right Stalin was a true believer and this is very important
+00:58:49 he was also hungry for power and for personal power but just as you said not for powers sake not only for power he
+00:59:00 was interested in enacting communism in reality and also in building a powerful state he was a statist a traditional
+00:59:09 Russian statist in the Imperial sense and this won him a lot of followers the fact that they knew he was a hardcore
+00:59:19 true believing communist won him a lot of followers among the communists and the fact that he was a hardcore defender
+00:59:27 of Russian state interests now in the Soviet guys also won him a lot of followers sometimes those groups overlapped the
+00:59:36 Communists and the Russian Patriots and sometimes they were completely different groups but both of them shared an
+00:59:44 admiration for Stalin's a dedication to those goals and his abilities to enact them and so it's very important to
+00:59:53 understand that however thirsty he was for power and he was very thirsty for power that he was also driven by ideals
+01:00:06 now I don't necessarily think that everyone around Stalin shared those ideals we have to be careful not to make
+01:00:15 everybody into a communist true believer not to make everybody into a great statist Russian patriot but they were
+01:00:26 widespread and powerful attractions for a lot of people and so Stalin's ability to communicate to people those that he
+01:00:35 was dedicated to those pursuits and his ability to drive towards them were part of his appeal however he also
+01:00:42 resorted to manipulation he also resorted to violence he lied he spoke out of all sides of his mouth he
+01:00:52 slandered other people he sabotaged potential rivals he used every underhanded method and then some in
+01:01:02 order to build his personal dictatorship now he justified this as you said by appeals to communism and to Soviet
+01:01:10 father himself as well too to himself and to others and so he justified it in his own mind and to others but certainly
+01:01:21 any means right were were acceptable to him to achieve these ends and he identified his personal power with
+01:01:30 communism and with Russian glory in the world so he felt that he was the only one who could be trusted who could be
+01:01:39 relied upon to build these things now we put ourselves back in that time period the Great Depression was a very
+01:01:48 difficult time for the capitalist system there was mass unemployment a lot of hardship fascism Nazism Japan Imperial
+01:02:00 Japan there were a lot of associations that were negative with the kind of capitalist system that was not a hundred
+01:02:11 percent not a monolith but had a lot of authoritarian incarnations there was imperialism colonies that even the
+01:02:20 democratic rule of law capitalist states had non democratic non rule of law colonies under their rule so the image
+01:02:30 and reality of capitalism during that time period between World War one and World War two was very different from
+01:02:38 how it would become later and so in that time period in that interwar conjuncture after World War one before World War two
+01:02:49 communism held some appeal inside the Soviet Union for sure but even outside the because the image and reality of
+01:02:57 capitalism disappointed many people now in the end communism was significantly worse many more victims and the system
+01:03:06 of course would eventually implode but nonetheless there were real problems that communism tried to address it
+01:03:13 didn't solve those problems it was not a solution but it didn't come out of nowhere it came out of the context of
+01:03:21 that inner war period and so Stalin's rule some people saw it as potentially a better option than imperialism fascism
+01:03:33 and Great Depression having said that they were wrong it turned out that Stalin wasn't a better alternative to
+01:03:41 markets and private property and rule of law and democracy however that didn't become clearer to people until after
+01:03:51 World War two after Nazism had been defeated Imperial Japan had been defeated fascist Italy had been defeated and
+01:03:59 decolonization had happened around the world and there was a middle class economic boom in the period from the
+01:04:08 late 40s through the 70s that created a kind of mass middle class in many societies so capitalism rose from the
+01:04:17 ashes as it were and this changed the game for Stalin and communism communism is about an alternative to capitalism
+01:04:28 and if that alternative is not superior there's no reason for communism to exist but if capitalism is in foul odor if
+01:04:39 people have a bad opinion a strong critique of capitalism that can be appealed to alternatives and that's kind
+01:04:47 of what happened with Stalin's rule but after World War two the context changed a lot capitalism was very different much
+01:04:56 more successful not a non-violence compared to what it was in the interwar period and the Soviet Union had a tough
+01:05:05 time competing against that new context now today we see similarly that the image and reality of capitalism is on
+01:05:14 the question again which leads some people to find an answer in socialism as an alternative so you just kind of
+01:05:22 painted a beautiful picture of comparison this is the way we think about ideologies because we is what's
+01:05:29 working better do you separate in your mind the ideals of communism to the Stalinist implementation of communism
+01:05:38 and again capitalism and American implementation of capitalism and as we look at now the 21st century where yes
+01:05:50 this idea you know of socialism being a potential political system that we would or economic system would operate under
+01:05:58 in the United States rising up again as an idea so how do we think about that again in the 21st century about these
+01:06:06 ideas fundamental deep ideas of communism capitalism yeah so in the Marxist schema there was something
+01:06:14 called feudalism which was supposedly destroyed by the bourgeoisie who created capitalism and then the working class
+01:06:22 was supposed to destroy capitalism and create socialism but socialism wasn't the end stage the end stage was going to
+01:06:31 be communism so that's why the communist party in the Soviet Union first built socialism transcending capitalism the
+01:06:39 next stage was socialism and the end game the final stage was communism so their version of socialism was derived
+01:06:50 from Marx and Marx argued that the problem was capitalism had been very beneficial for a while it had produced
+01:07:01 greater wealth and greater opportunities and feudalism had but then it had come to serve only the narrow interests of
+01:07:08 the so called booze huazi or the capitalists themselves and so for Humanity's sake the universal class the
+01:07:17 working class needed to overthrow capitalist in order for greater productivity greater wealth to be produced for all of
+01:07:26 humanity to flourish and on a higher level so you couldn't have socialism unless you destroyed capitalism so that
+01:07:37 meant no markets no private property no so-called Parliament's or bourgeois Parliament's as they were called so you
+01:07:45 got socialism in Marxist schema by transcending by eliminating capitalism now Marx also called for freedom he said
+01:07:57 that this elimination of markets and private property and bourgeois Parliament's would produce greater
+01:08:04 freedom in addition to greater abundance however everywhere this was tried it produced tyranny and mass violence death
+01:08:16 and shortages everywhere it was tried there's no exception in historical terms and so it's very interesting Marx
+01:08:25 insisted that capitalism had to be eliminated you couldn't have markets markets were chaos you needed planning
+01:08:35 you couldn't have wait a hiring of wage labor that was wage slavery now you couldn't have private property because
+01:08:43 that was a form of theft so in the Marxist scheme somehow you were going to eliminate capitalism and get to freedom
+01:08:51 it turned out you didn't get to freedom so then people said well you can't blame Marx because he said we needed freedom
+01:09:01 he was Pro freedom so it's kind of like dropping a nuclear bomb you say you're gonna drop a nuclear bomb but you want
+01:09:15 so the dropping of the nuclear bomb is the elimination of markets private property in Parliament's but you're
+01:09:23 going to bring freedom or you're going to minimize civilian casualties so you drop the nuclear bomb you eliminate the
+01:09:32 capitalism and you get famine deportation no constraints on executive power and not abundance but shortages
+01:09:42 and people say well that's not what I mark said that's not what I said I said I wanted to minimize civilian
+01:09:49 casualties the nuclear bomb goes off and there's mass civilian casualties and you keep saying but I said drop the bomb but
+01:09:58 minimize civilian casualties so that's where we are that's history not philosophy yeah
+01:10:04 I'm speaking about historical examples all the cases that we have Mark's was not a theorist of inequality Marx was a
+01:10:16 theorist of alienation of dehumanization of fundamental constraints or what he called fetters on productivity and on
+01:10:27 wealth which he all attributed to capitalism Marx wasn't bothered by inequality he was bothered by something
+01:10:37 deeper something worse right those socialists who figured this out who understood that if you drop the nuclear
+01:10:46 bomb there was no way to minimize civilian casualties those socialists who came to understand that if you
+01:10:54 eliminated capitalism markets private property and Parliament's if you eliminated that you wouldn't get freedom
+01:11:03 those Marxists those socialists became what we would call Social Democrats or people who would use the state to
+01:11:12 regulate the market not to eliminate the market they would use the state to redistribute income not to destroy
+01:11:22 private property in markets and so this in the Marxist schema was apostasy because they were accepting markets and
+01:11:30 private property they were accepting alienation and wage slavery they were accepting capitalism in principle what
+01:11:39 they wanted to fix it they wanted to ameliorate they wanted to regulate and so they became what was denounced as revision
+01:11:48 not true Marxists not real revolutionaries but parliamentary Road parliamentarians we know this as normal
+01:11:58 politics normal social democratic politics from the European case are from the American case but they are not
+01:12:07 asking to eliminate capitalism blaming capitalism blaming markets and private property so this rift among the
+01:12:16 Socialists the ones who are for elimination of capitalism transcending capitalism otherwise you could never
+01:12:26 ever get to abundance and freedom in the Marxist schema versus those who accept capitalism but want to regulate and
+01:12:35 redistribute that rift on the left has been with us almost from the beginning it's a kind of civil war on the left
+01:12:44 between the Leninists and Social Democrats or the revisionists as they're known pejoratively by the Leninists we
+01:12:53 have the same confusion today in the world today where people also cite Marx saying capitalism is a dead end and we
+01:13:04 need to drop that nuclear bomb and get freedom get no civilian casualties versus those who say yes there are
+01:13:15 inequities there's a lack of equality of opportunity there are many other issues that we need to deal with and we can fix
+01:13:23 those issues we can regulate we can redistribute I'm not advocating this as a political position I'm not taking a
+01:13:31 political position myself I'm just saying that there's a confusion on the left between those who accept capitalism
+01:13:39 and want to regulate it versus those who think capitalism is inherently evil and if we eliminate it we'll get to a better
+01:13:47 world when in fact history shows that if you eliminate capitalism you get to a worse world the problems might be real
+01:13:54 but the solutions are worse from history's lessons now we have deep painful lessons but there's not
+01:14:01 many of them you know our history is relatively short as a human species do we have a good answer on the left of
+01:14:11 Leninist Marxist versus social democrat versus capitalism versus any anarchy you know do have sufficient samples from
+01:14:23 history to make better decisions about the future of our politics and economics for sure we have the American Revolution
+01:14:31 which was a revolution not about class not about workers not about a so-called universal class of the working class
+01:14:39 elimination of capitalism markets and the bourgeoisie but was about the category citizen it was about universal
+01:14:49 humanity where everyone in theory could be part of it as a citizen the revolution fell short of its own ideals
+01:14:58 not everyone was a citizen right for example if you didn't own property you were a male but didn't own property you
+01:15:05 didn't have full rights of a citizen if you were a female whether you own property or not you weren't a full
+01:15:14 citizen if you were imported from Africa against your will you were a slave and not a citizen and so not everyone was
+01:15:25 afforded the rights in actuality that were declared in principle however over time the category citizen could expand
+01:15:35 and slaves could be emancipated and they could get the right to vote they could become citizens non-property owning
+01:15:42 males could get the right to vote and become full citizens females could get the right to vote and become full
+01:15:51 citizens in fact eventually my mother was able to get a credit card in her own name in the 1970s without my father
+01:16:00 having to co-sign the paperwork I took a long time but nonetheless the category citizen can expand and it can become a
+01:16:10 universal category so we have that the citizen universal humanity model of the American Revolution which was deeply
+01:16:20 flawed at the time it was introduced but fixable over time we also had that separation of powers and constraint on
+01:16:28 executive power that we began this conversation with that was also institutionalized in the American
+01:16:35 Revolution because they were afraid of tyranny they were afraid of unconstrained executive power so they
+01:16:44 built a system that would contain that constrain it institutionally not circumstantially so that's a great gift
+01:16:53 within that Universal category of citizen which has over time come closer to fulfilling its original promise and
+01:17:02 within those institutional constraints that separation of powers constraint on executive power within that we've
+01:17:10 developed what we might call normal politics left-right politics people can be in favor of redistribution and
+01:17:20 government action and people can be in favor of small government hands off government no redistribution or less
+01:17:30 redistribution that's the normal left-right political spectrum where you respect the institutions and separation
+01:17:39 of powers and you respect the universal category of citizenship and equality before the law and everything else I
+01:17:47 don't see any problems with that whatsoever I see that as a great gift not just to this country but around the world and
+01:17:56 other places besides the United States have developed this the problems arise at the extremes the far left and the far
+01:18:07 right that don't recognize the legitimacy either of capitalism or of democratic rule of law institutions and
+01:18:16 they want to eliminate constraints on executive power they want to control the public sphere or diminish the
+01:18:24 Independence of the media they want to take away markets or private property and
+01:18:29 redistribution becomes something bigger than just redistribution it becomes actually that original Marxist idea of
+01:18:37 transcending capitalism so I'm not bothered by the left or the right I think they're normal and we should have
+01:18:46 that debate where a gigantic diverse country of many different political points of view I'm troubled only by the
+01:18:55 extremes that are against the system cost system that want to get rid of it and supposedly that will be the right
+01:19:04 path to the future history tells us that the far left and the far right are wrong about that but once again this doesn't
+01:19:11 mean that you have to be a social democrat you could be a libertarian you could be a conservative you could be a
+01:19:20 centrist you could be conservative on some issues and liberal on other issues all of that comes under what I would
+01:19:28 presume to be normal politics and I see that as the important corrective mechanism normal politics and market
+01:19:38 economies non monopolistic open free and dynamic market economies I don't like concentrations of power politically and
+01:19:45 I don't like concentrations of power economically I like competition in the political realm I like competition in
+01:19:54 the economic realm this is not perfect it's constantly needs to be protected and reinvented and there are flaws that
+01:20:05 are fundamental and need to be adjusted and addressed and everything else especially equality of opportunity
+01:20:13 equality of outcome is unreachable and is a mistake because it produces perverse and unintended consequences
+01:20:23 equality of outcome attempts attempts to make people equal on the outcome side what attempts to make them more equal on
+01:20:32 the front end on the opportunity side that's really really important for a healthy society that's where we've
+01:20:38 fallen down our schools are not providing equality of opportunity for the majority of
+01:20:48 people in all of our school systems and so I see problems there I see a need to invest in ourselves invest in
+01:20:58 infrastructure invest in human capital create greater equality of opportunity but also to make sure that we have good
+01:21:06 governance because governance is the variable that enables you to do all these other things I've washed quite a
+01:21:15 bit returning back to Putin I've watched quite a few interviews and with Putin in conversations you know especially
+01:21:23 because I speak Russian fluently I can understand often the translations lose a lot I am I find the man putting morality
+01:21:40 aside very deep and interesting and I found almost no interview with him to be to get at that depth I was I was very
+01:21:50 hopeful for the Oliver Stone documentary and with him and to me because I deeply respect our stone as a filmmaker in
+01:21:59 general but it was a complete failure in my eyes that interview the the lack of it I mean I suppose you could toss it up
+01:22:11 to a language barrier but a complete lack of diving deep into the person as what I saw my question is a strange one
+01:22:20 but if you were to sit down with Putin and have a conversation or perhaps if you're sa-do's Saddam was Stalin and
+01:22:30 have a conversation what kind of questions would you ask well this wouldn't be televised unless you want it
+01:22:38 to be so this is only you so you're allowed to ask about some of the questions that are sort of not socially
+01:22:47 acceptable meaning putting morality aside getting into depth of the human character what would you ask
+01:22:54 so once again they're very different personalities and very different time periods in very different regimes so
+01:23:01 what I would talk to Stalin about and Putin about her are not in the same category necessarily so let's take Putin
+01:23:13 so I would ask him where he thinks this is going where he thinks Russia's going to be in 25 years or 50 years what's the
+01:23:23 long-term vision what does he anticipate the current trends are going to produce is he under the illusion that Russia is
+01:23:34 on the up swing that things are actually going pretty well that in 25 years Russia is going to
+01:23:41 still be a great power with a tremendous dynamic economy and a lot of high tech and a lot of human capital and wonderful
+01:23:50 infrastructure and a very high standard of living and a secure secure borders and sense of security at home see think
+01:23:58 the current path is leading in that direction and if not if he's if he understands that the current trajectory
+01:24:09 does not provide for those kinds of circumstances does it bother him it does he worry about that does he care about the future
+01:24:20 25 or 50 years from now deep down what do you think is the answer either the honesty either he thinks he's on that
+01:24:27 trajectory already or he doesn't care about that long-term trajectory so that's the mystery for me with him he's clever
+01:24:35 he has tremendous sources of information he has great experience now as a world leader having served for effectively
+01:24:45 longer than laying at Brezhnev's long 18 year reign and so Putin has accumulated a great deal of experience at the
+01:24:54 highest level compared to where he started and so I'm interested to understand how he sees this long term
+01:25:04 evolution or non evolution of Russia and and whether he believes he's got them on the right trajectory or whether
+01:25:12 if he doesn't believe that he cares I have no idea because I've never spoken to him about this but I would love to
+01:25:19 hear the answer sometimes you have to ask questions not directly like that but you have to come a little bit sideways
+01:25:27 you can elicit answers from people by making them feel comfortable in coming sideways with them on just a quick
+01:25:35 question so that's talking about Russia yeah Putin's role in Russia do you think it's interesting to ask and you could
+01:25:43 say the same for Stalin the more personal question of how do you feel yourself about this whole thing about
+01:25:54 your life about your legacy looking at the person that's one of the most powerful and important people in the
+01:26:03 history of civilization both Putin and Stalin you could argue yeah once you experience power at that level
+01:26:10 it becomes something that's almost necessary for you as a human being it's a drug it's an aphrodisiac it's a
+01:26:20 feeling you know you go to the gym to exercise and the endorphins the chemicals get released and even if
+01:26:30 you're tired or you're sore you get this massive chemical change which is has very dynamic effects on how you feel and
+01:26:39 the kind of level of energy you have for the rest of the day and if you do that for a long time and then you don't do it
+01:26:47 for a while you're like a drug addict not getting your fix you miss it your body misses that release of endorphins
+01:26:55 to a certain extent that's how power works for people like Putin that's how power works for people who run
+01:27:03 universities or our secretaries of state or run corporations fill in the blank in whatever ways power is exercised it
+01:27:14 becomes almost the drug for people it becomes something that's difficult for them to give up it becomes a part of who
+01:27:22 they are it becomes necessary for their sense of self and well-being the greatest people the people I admire the
+01:27:30 most are the ones that can step away from power can give it up can give up the drug can be satisfied
+01:27:39 and be stronger even by walking away from continued power when they had the option to continue alright so with a
+01:27:48 person like Putin once again I don't know him personally so I have no basis to judge this this is a general
+01:27:57 statement observable with many people and in historical terms with a person like Putin who's exercised this much
+01:28:05 power for this long it's something that becomes a part of who you are and you have a hard time imagining yourself
+01:28:13 without it you begin to conflate your personal power with the well-being of the nation you begin to think that the
+01:28:20 more power you have the better off the country is this conflation you begin to be able to not imagine you can no longer
+01:28:30 imagine what it would be like just to be an ordinary citizen or an ordinary person running a company even something
+01:28:40 much smaller than a country so I anticipate that without knowing for sure that he would be in that category of
+01:28:49 person but you'd want to explore that with questions with him about so what's his day look like from beginning to end
+01:28:58 just take me through a typical day of yours what are you doing a day how does it start what are the ups what are the
+01:29:05 downs what are the parts of the day you look forward to the most what are the parts of the day you don't look forward
+01:29:12 to that much what do you consider a good day what do you consider a bad day yeah how do you know that what you're doing is
+01:29:22 having the effects that you intend how do you follow up how do you gather the information the reaction how do you get
+01:29:29 people to tell you to your face things that they know are uncomfortable or that you might not want to hear those kind of questions
+01:29:37 through that window through that kind of question you get a window into a man with power so let me ask about stalling
+01:29:47 because you've done more reason another amazing interview you've had the the introduction was that you know
+01:29:56 more about Stalin than Stalin himself you've done incredible amount of research on Stalin so if you could talk
+01:30:05 to him get sort of direct research what question did you ask of Stalin I have so many questions I don't even know where I
+01:30:13 would begin the thing about studying a person like Stalin who's an immense creature right he's exercising the power
+01:30:21 of life and death over hundreds of millions of people he's making decisions about novels and films and and turbines
+01:30:32 and submarines and and pacts with Hitler or deals with Churchill and Roosevelt and and occupation of Mongolia or
+01:30:41 occupation of North Korea he's making phenomenally consequential decisions over all spheres of life all areas of
+01:30:52 Endeavour and over much of the globe much of the land mass of the earth and so what's that like does he sometimes
+01:31:03 reflect on the amount of power and responsibility he has that he can exercise does he sometimes think about
+01:31:12 what it means that a single person has that kind of power and does it have an effect on his relations with others his
+01:31:20 sense of self the kinds of things he values in life does he sometimes think it's a mistake that he's accumulated
+01:31:28 this much power does he sometimes wish he had a simpler life or is he once again so drunk so enamored so caught up
+01:31:41 with chemically and spiritually with exercising this kind of power that he couldn't live without it and then what
+01:31:48 were you thinking I would ask him in certain decisions that he made what were you thinking on certain dates and
+01:31:56 certain circumstances where you made a decision and could have made a different decision can you recall your thought
+01:32:03 processes can you bring this Beck was at seat-of-the-pants was it something you'd been planning did you
+01:32:10 just improvise or did you have a strategy what were you guided by whose examples did you look to when you picked
+01:32:19 up these books that you read and you read the books and you made pencil marks in them is it because you absorbed the
+01:32:26 lesson there or did it really not become a permanent lesson and was just something that you checked and it was
+01:32:34 like a reflex so I have many specific questions about many specific events and people and circumstances that I have
+01:32:44 tried to figure out with the surviving source materials that we have in abundance but I would still like to
+01:32:51 delve into his mindset and reconstruct his mind the closer you get to Stalin in some ways the more elusive he can become
+01:33:02 and especially around World War two you've already illuminated a lot of interesting aspects about Stalin's role
+01:33:08 in the war but it would be interesting to ask even more questions about how seat-of-the-pants or deliberate some of
+01:33:16 the decisions have been if I could ask just one quick question one last quick question and you're constrained in time
+01:33:25 and answering it do you think there will always be evil in the world do you think there will always be war
+01:33:34 unfortunately yes there are conflicting interests conflicting goals that people have most of the time those conflicts
+01:33:45 can be resolved peacefully that's where we build strong institutions to resolve different interests and conflicts
+01:33:56 peacefully but the fact the enduring fact of conflicting interests and conflicting desires that can never be
+01:34:07 changed so the job that we have for Humanity's sake is to make those conflicting interests those
+01:34:18 conflicting desires to make them to put them in a context where they can be resolved peacefully and not in a
+01:34:27 zero-sum fashion so we can't get there on the global scale so there's always gonna be the kind of conflict that
+01:34:37 sometimes gets violent what we don't want is a conflict among the strongest powers great power conflict is
+01:34:48 unbelievably bad there are no words to describe at least 55 million people died in World War two if we have a world war
+01:35:00 3 a war between the United States and China or whatever it might be who knows what the number could be a hundred and
+01:35:07 fifty five million two hundred and fifty five million five hundred and fifty five million I don't even want to think about
+01:35:16 it and so it's horrible when wars break out in the humanitarian catastrophes for example Yemen and Syria and several
+01:35:26 other places I could name today it's just horrible what you see there and the scale is colossal for those places but
+01:35:35 it's not planetary scale and so avoiding planetary scale destruction is really important for us and so having those
+01:35:45 different interests be somehow managed in a way that they don't that no one sees advantage in a violent resolution
+01:35:55 and a part of that is remembering history so they should read your books Stephen thank you so much it was a huge
+01:36:01 honors talking to you today I really enjoyed it thank you for the opportunity my pleasure
+01:36:06 thanks for listening to this conversation with Steven Kotkin and thank you to our presenting sponsor cash
+01:36:12 app download it and use code let's podcast you'll get ten dollars and ten dollars we'll go to first
+01:36:19 a stem education nonprofit that inspires hundreds of thousands of young minds to become future leaders and innovators if
+01:36:25 you enjoy this podcast subscribe on youtube give it five stars an apple podcast supported on patreon or connect
+01:36:33 with me on Twitter and now let me leave you with words from Joseph Stalin spoken shortly before the death of Lenin and at
+01:36:40 the beginning of Stalin's rise to power first in Russian yeah she died Oh recession innovation
+01:36:49 act or acog Buddhist party gonna bite the watchdog Chile China vajna at the Couture Heacock which is she dies Casa
+01:36:59 I consider it completely unimportant who in the party will vote or how but what is extraordinarily important is who will

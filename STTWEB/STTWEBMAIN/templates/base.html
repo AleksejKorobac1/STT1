@@ -1,0 +1,75 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'main.css' %}? {% now 'U' %}">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <script src="{% static 'hilitor.js' %}"></script>
+    <script src="{% static 'data.js' %}"></script>
+    <script src="http://www.youtube.com/player_api"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+
+<body>
+<div class="topnav">
+  <a href="/">Home</a>
+    <form method = "get" action="\search">
+        {% if date_start %}
+
+    <input type="date" name="date_start" value="{{ date_start }}">
+    {% else %}
+    <input type="date" name="date_start" value="2013-08-01">
+    {% endif %}
+
+    {% if date_end %}
+    <input type="date" name="date_end" value="{{ date_end }}">
+    {% else %}
+    <input type="date" id="today" name="date_end">
+    {% endif %}
+
+
+    </select>
+
+    <select type="select" name="sort_by">
+        {% if sorted_by == 'occurrences' %}
+        <option value="occurrences">Occurrences</option>
+        <option value="date">Date</option>
+        {% else %}
+        <option value="date">Date</option>
+        <option value="occurrences">Occurrences</option>
+        {% endif %}
+    </select>
+    {% if search %}
+    <input type="text" placeholder="Search all videos" name="video_search" value="{{ search }}" minlength="3">
+    {% else %}
+    <input type="text" name="video_search">
+    {% endif %}
+        <button type="submit">Search</button>
+
+    </form>
+</div>
+
+{% block content %}
+
+
+{% endblock %}
+
+
+
+
+
+<script>
+let today = new Date().toISOString().substr(0, 10);
+document.querySelector("#today").value = today;
+</script>
+
+</body>
+</html>
+
+
+
+

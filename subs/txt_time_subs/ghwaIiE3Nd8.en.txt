@@ -1,0 +1,550 @@
+00:00:01 the following is a conversation with guido van rossum creator of Python one of the most popular programming
+00:00:08 languages in the world used in almost any application that involves computers from web back-end development to
+00:00:16 psychology neuroscience computer vision and robotics deep learning natural language processing in almost any
+00:00:24 subfield of AI this conversation is part of MIT course on artificial general intelligence and the artificial
+00:00:30 intelligence podcast if you enjoy it subscribe on YouTube iTunes or your podcast provider of choice or simply
+00:00:38 connect with me on Twitter at lex friedman spelled FR ID and now here's my conversation with guido van rossum you
+00:00:49 were born in the Netherlands in 1956 your parents and the world around you was deeply impacted by world war ii as
+00:00:59 was my family from the soviet union so with that context well what is your view of human nature are some humans
+00:01:08 inherently good and some inherently evil or do we all have both good and evil within us ouch I did not expect such a
+00:01:23 deep one I I guess we all have good and evil potential in us in a lot of it depends on circumstances in context out
+00:01:36 of that world at least on the Soviet Union side in Europe sort of out of suffering out of challenge out of that
+00:01:45 kind of set of traumatic events often emerges beautiful art music literature in an interview I read or heard you said
+00:01:54 you enjoy Dutch literature when when you were a child can you tell me about the books that had an influence on you in
+00:02:00 your childhood well as a teenager my favorite writer was my favorite Dutch author was a guy
+00:02:12 named villain Phaedra chemins whose writing certainly his early novels were all about sort of ambiguous things that
+00:02:28 happened during World War two I think he was a young adult during that time and he wrote about it a lot and and very
+00:02:40 interesting very good books I thought I think in a nonfiction way no it was all fiction but it was very much set in in
+00:02:51 the ambiguous world of resistance against the Germans where often you couldn't tell whether someone was truly
+00:03:03 in the resistance or really a spy for the Germans and and some of the characters in his novels sort of crossed
+00:03:11 that line and you never really find out what exactly happened and in his novels there's always a good guy and a bad guy
+00:03:21 the nature of good and evil is it clear there's a hero it's no his heroes are often more his main characters are often
+00:03:30 anti-heroes and and and so there they're not not very heroic they're they're often they they fail at some level to
+00:03:42 accomplish their lofty goals and looking at the trajectory through the rest of your life has literature Dutch or
+00:03:50 English or translation and an impact outside the technical world that you I still read novels I don't think that
+00:04:06 it impacts me that much directly doesn't impact your work it's just it's  it's a separate world my work is is highly
+00:04:15 technical and sort of the the world of art and literature doesn't really directly have any bearing on it you
+00:04:21 don't think there's a creative element to the design you know some would say our design of a language is art I'm not
+00:04:33 disagreeing with that I'm just saying that sort of I don't feel direct influences from more traditional art on
+00:04:42 my own creativity right of course you don't feel doesn't mean it's not somehow deeply there and your subconscious knows
+00:04:51 who knows so let's go back to your early teens your hobbies were building electronic circuits building mechanical
+00:05:02 models what if you could just put yourself back in the mind of that young Guido 12 13 14 was that grounded in a
+00:05:13 desire to create a system so to create something or was it more just tinkering just the joy of puzzle solving  I
+00:05:23 think it was more the leather actually I maybe towards the end of my high school period I felt confident enough that that
+00:05:35 I designed my own circuits that were sort of interesting somewhat but a lot of that time I literally just
+00:05:47 took a model kit and follow the instructions putting the things together I mean that I think the first few years
+00:05:54 that I build electronics kits I really did not have enough understanding of sort of electronics to really understand
+00:06:03 what I was doing I mean I could debug it and I could sort of follow the instructions very carefully which has
+00:06:10 had which has always stayed with me but I had a very naive model of like how a transistor works and I don't think that
+00:06:21 that in those days I had any understanding of coils and capacitors which which actually sort of was a major
+00:06:32 problem when I started to build more complex digital circuits because I was unaware of the sort of the analog part
+00:06:44 of the how they actually work and I would have things that the scheme the schematic looked every everything looked
+00:06:55 fine and it didn't work and what I didn't realize was that there was some megahertz level oscillation that was
+00:07:03 throwing the circuit off because I had a sort of two wires were too close or the switches were were kind of poorly built
+00:07:17 but through that time I think it's really interesting and instructive to think about because as echoes of it are
+00:07:23 in this time now so in the 1970s the personal computer was being born so did you sense in tinkering with these
+00:07:33 circuits did you sense the encroaching revolution and personal computing so if at that point you're sick we will see
+00:07:40 you down and ask you to predict the 80s and the 90s do you think you would be able to do so successfully to unroll
+00:07:51 this the process that's no I had no clue I I remember I think in the summer after my
+00:08:00 senior year or maybe it was the summer after my junior year well at some point I think when I was 18 I went on a trip
+00:08:12 to the Math Olympiad in Eastern Europe and there was like I was part of the Dutch team and there were other nerdy
+00:08:19 kids that sort of had different experiences and one of them told me about this amazing thing called a
+00:08:27 computer and I had never heard that word my own explorations in electronics were sort of about very simple digital
+00:08:39 circuits and I I had sort of I had the idea that I somewhat understood how a digital calculator worked and so
+00:08:50 there is maybe some echoes of computers there but I didn't didn't I never made that connection I didn't know that when
+00:08:58 my parents were paying for magazine subscriptions using punched cards that there was something called a computer
+00:09:06 that was involved that read those cards and transferred the money between accounts that was also not really
+00:09:12 interested in those things it was only when I went to university to study math that I found out that they had a
+00:09:22 computer and students were allowed to use it and there were some you're supposed to talk to that computer by
+00:09:29 programming it what did that feel like yeah that was the only thing you could do with it
+00:09:34 I think the computer wasn't really connected to the real world the only thing you could do was sort of you typed
+00:09:42 your program on a bunch of punched cards you gave the punched cards to the operator and an hour later the operator
+00:09:52 gave you back your printout and so all you could do was write a program that did something very abstract and I don't
+00:10:03 even remember what my first forays into programming were but they were sort of doing simple math
+00:10:12 exercises and just to learn how a programming language worked did you sense ok first year of college you see
+00:10:21 this computer you're able to have a program and it generates some output did you start seeing the possibility of this
+00:10:31 or was it a continuation of the tinkering with circuits the did you start to imagine that one the personal
+00:10:38 computer but did you see it as something that is a tool so got a tool like a word processing tool maybe maybe for gaming
+00:10:46 or something or did you start to imagine that it could be you know going to the world of robotics
+00:10:52 like you you know the Franklin is that picture that you could create an artificial being there's like another
+00:10:59 entity in front of you you did not say I don't think I really saw it that way I was really more interested in the
+00:11:08 tinkering it's maybe not a sort of a complete coincidence that I ended up sort of creating a programming language
+00:11:17 which is a tool for other programmers I've always been very focused on the sort of activity of programming itself
+00:11:27 and not so much what happens with with the program you write right I do remember and I don't dream it maybe in
+00:11:37 my second or third year probably my second actually someone pointed out to me that there was this thing called
+00:11:46 Conway's Game of Life you're probably familiar with it I think the seventies I think yeah he came up with it so there
+00:11:57 was a scientific American column by someone who did a monthly column about mathematical diversions
+00:12:05 I'm also blanking out on the guy's name it was it was very famous at the time and I think up to the 90s or so and one
+00:12:12 of his columns was about Conway's Game of Life and he had some illustrations and he wrote down all the rules
+00:12:19 and sort of there was the suggestion that this was philosophically interesting that that was why Conway had
+00:12:27 called it that and all I had was like the two pages photocopy of that article I didn't even remember where I got it
+00:12:36 but it spoke to me and I remember implementing a version of that game for the batch computer we were using where I
+00:12:49 had a whole Pascal program that sort of read an initial situation from input and read some numbers that that said do so
+00:12:59 many generations and print every so many generations and then out would come pages and pages of sort of things kinds
+00:13:11 of different kinds and yeah and I remember much later I've done a similar thing using Python but I'd sort of that
+00:13:20 original version I wrote at the time I found interesting because I combined it with some trick I had learned during my
+00:13:30 electronics hobbyists times I essentially first on paper I designed a simple circuit built out of logic gates
+00:13:42 that took nine bits of input which is the sort of the cell and its neighbors and produced a new value for that cell
+00:13:53 and it's like a combination of a half adder and some other clipping you know it's actually a full adder and so I had
+00:14:02 worked that out and then I translated that into a series of boolean operations on Pascal integers where you could use
+00:14:17 the integers as bitwise values and so I could basically generate 60 bits of a generation in in like eight instructions
+00:14:29 or so nice I was proud of that it's it's funny that you mentioned so for people who
+00:14:36 don't know Conway's Game of Life is a there's it's a cellular automata whether it's single compute units that kind of
+00:14:45 look at their neighbors and figure out what they look like in the next generation based on the state of their
+00:14:52 neighbors and this is deeply distributed system that it in in concept at least and then there's simple rules that all
+00:15:02 of them follow and somehow out of this simple rule when you step back and look at what occurs it's it's beautiful
+00:15:12 there's a emergent complexity even though the underlying rules are simple there's an emergent complexity now the
+00:15:17 funny thing is you've implemented this and the thing you're commenting on is you're proud of a hack you did to make
+00:15:25 it run efficiently when you're not commenting on what like this is a beautiful implementation you're not
+00:15:32 commenting on the fact that there's an emergent complexity that you've you've you've coded a simple program and when
+00:15:39 you step back and you print out those following generation after generation that's stuff that you may have not
+00:15:47 predicted what happen is happening right and there was that is that magic I mean that's the magic that all of us feel
+00:15:53 when we program when you when you create a program and then you run it and whether it's hello world or show
+00:16:00 something on screen if there's a graphical component for you seeing the magic in the mechanism of creating that
+00:16:08 I think I went back and forth as a student we had an incredibly small budget of computer time that we could
+00:16:18 use it was actually measured I once got in trouble with one of my professors because I had overspent the department's
+00:16:29 budget it's a different story but so I I actually wanted the efficient implementation because I also wanted to
+00:16:38 explore what would happen with a larger number of generations and a larger sort of size of the of the board and so once the
+00:16:52 implementation was flawless I would feed at different patterns and then I think maybe there was a follow-up article
+00:17:00 where there were patterns that that were like gliders parents that repeated themselves after a number of generations
+00:17:12 but translated one or two positions to the right or up or something like that and there were I remember things like
+00:17:21 glider guns well you can you can google Conway's Game of Life is still of people still go on and over it
+00:17:29 for a reason because it's not really well understood why I mean this is what Stephen Wolfram is obsessed about yeah
+00:17:38 okay so he's just the the we don't have the mathematical tools to describe the kind of complexity of the emerges in
+00:17:44 these kinds of systems and the only way to do is to run it I'm not convinced that that it's sort of a problem that
+00:17:55 lends itself to two classic mathematical analysis no and so one one theory of how you create an artificial intelligence or
+00:18:05 artificial being is you kind of have to send with a game of life you kind of have to create a universe and let it run
+00:18:13 that creating it from scratch in a design way in the you know coding up a Python program that creates a full
+00:18:20 intelligence system may be quite challenging that you might need to create a universe just like the game of
+00:18:26 life is well you might have to experiment with a lot of different universes before there
+00:18:34 there is a set of rules that doesn't essentially always just end up repeating itself in in a trivial way yeah and
+00:18:45 analyst Steve wolf from Stephen Wolfram works with these simple rules says that it's kind of surprising how quickly find
+00:18:53 rules that create interesting things you shouldn't be able to but somehow you do and so maybe our universe is laden with
+00:19:01 with rules that will create interesting things that might not look like humans but yeah you know emergent phenomena
+00:19:07 that's interesting may not be as difficult to create as we think sure but let me sort of ask at that time
+00:19:14 you know some of the world's least in popular press was kind of captivated perhaps at least in America by the idea
+00:19:25 of artificial intelligence that that these computers would be able to think pretty soon and yeah that touch you at
+00:19:33 all did that in science fiction or in reality in  in anyway I didn't really start reading science fiction until much
+00:19:50 I think as a teenager I I read maybe one bundle of science fiction stories was in my background somewhere like in your
+00:20:00 thoughts that sort of the using computers to build something intelligent always fell to me because I had I felt I
+00:20:08 had so much understanding of what actually goes on inside a computer I I knew how many bits of memory it had and
+00:20:19 how difficult it was to program and sort of I didn't believe at all that that you could just build something intelligent
+00:20:31 out of that that that would really sort of satisfy my definition of intelligence I think the most the most influential
+00:20:43 thing that I read in my early 20s was girlish ABBA that was about consciousness and that was a big
+00:20:54 eye-opener in in some sense in what sense oh so console yeah so on your own brain did you do use did you at the time
+00:21:01 or do you now see your own brain as a computer or is there a total separation of the way so yeah you're very
+00:21:09 pragmatically practically know the limits of memory the limits of this sequential computing or weakly paralyzed
+00:21:17 computing and you just know what we have now and it's hard to see how it creates but it's also easy to see it was in the
+00:21:28 40s 50s 60s and now at least similarities between the brain and our computers oh yeah I mean I I totally
+00:21:39 believe that brains are computers in some sense I mean the rules they they used to play by are pretty different
+00:21:49 from the rules we we can sort of implement in in our current hardware but I don't believe in like
+00:22:02 a separate thing that infuses us with intelligence or consciousness or any of that there's no soul I've been an
+00:22:14 atheist probably from when I was 10 years old just by thinking a bit about math and the universe and then well my
+00:22:24 parents were atheists now I know that you you you could be an atheist and still believe that there is something
+00:22:32 sort of about intelligence or consciousness that cannot possibly emerge from a fixed set of rules I am
+00:22:40 NOT in that camp I I totally see that sort of given how many millions of years evolution took
+00:22:54 its time DNA is is a particular machine that that sort of encodes information and an unlimited amount of information
+00:23:09 in in chemical form and has figured out a way to replicate itself I thought that death was maybe it's 300 million years
+00:23:17 ago but I thought it was closer to half a billion years ago that that's sort of originated and it hasn't really changed
+00:23:26 that the sort of the structure of DNA hasn't changed ever since that is like our binary code that you're having
+00:23:36 hardware I mean the basic programming language hasn't changed but maybe the programming itself of has lead it did it
+00:23:45 sort of it it happened to be a set of rules that was good enough to to sort of develop endless variability and and sort
+00:23:57 of the the idea of self-replicating molecules competing with each other for resources and and one type eventually
+00:24:07 sort of always taking over that happened before there were any fossils so we don't know how that exactly happened
+00:24:16 but I believe it it's it's clear that that did happen and can you comment on consciousness and how you see it because
+00:24:25 I think we'll talk about programming quite a bit we'll talk about you know intelligence connecting to programming
+00:24:32 fundamentally but consciousness consciousness is this whole lot of other thing do you think about it often as a
+00:24:41 developer of a programming language and and as a human those those are pretty sort of separate topics my sort of my
+00:24:54 line of work working with programming does not involve anything that that goes in the direction of developing
+00:25:03 intelligence or consciousness but sort of privately as an avid reader of popular science writing I I have some
+00:25:17 thoughts which which is mostly that I don't actually believe that consciousness is an all-or-nothing thing
+00:25:28 I have a feeling that and and I forget what I read that influenced this but I feel that if you look at a cat or a dog
+00:25:39 or a mouse they have some form of intelligence if you look at a fish it has some form of intelligence and that
+00:25:54 evolution just took a long time but I feel that the the sort of the evolution of more and more intelligence that led
+00:26:02 to to sort of the human form of intelligence follow the evolution of the senses especially the visual sense I
+00:26:17 mean there is an enormous amount of processing that's needed to interpret a scene and humans are still better at
+00:26:25 that than then computers yeah and so and and and I have a feeling that there is a sort of the reason that
+00:26:39 that like mammals is in particular developed the levels of consciousness that they have and that eventually read
+00:26:48 sort of informative going from intelligence to to self-awareness in consciousness has to do with sort of
+00:26:56 being a robot that has very highly developed senses as a lot of rich sensory information coming in so the
+00:27:05 it's a really interesting thought that the that whatever that basic mechanism of DNA
+00:27:12 whatever that basic building blocks are programming is you if you just add more abilities more more high resolution
+00:27:21 sensors more sensors you just keep stacking those things on top that there's basic programming in trying to
+00:27:27 survive develops very interesting things that start to us humans to appear like intelligence and consciousness yeah so
+00:27:37 in in as far as robots go I think that the self-driving cars have the sort of the greatest opportunity of developing
+00:27:45 something like that because when I Drive myself I don't just pay attention to the rules
+00:27:55 of the road I also look around and I get clues from that oh this is a shopping district oh here's an old lady crossing
+00:28:06 the street oh here is someone carrying a pile of mail there's a mailbox thatthat should they're gonna cross the street to
+00:28:15 reach that mailbox and I slowed down and I don't even think about that yeah and and so there is there's so much where
+00:28:24 you turn your observations into an understanding of what utter consciousnesses are going to do or what
+00:28:32 what utter systems in the world are going to be oh that tree is gone at fault yeah I see sort of I see much more of
+00:28:46 expect somehow that if anything is going to become conscious it's going to be the self-driving car and not the network of
+00:28:56 a bazillion computers at in a Google or Amazon data center that are all networked together to to do whatever
+00:29:06 they do so in that sense so you actually have like is that's what I work in autonomous vehicles you highlight a big
+00:29:13 gap between what we currently can't do and what we truly need to be able to do to solve the problem under that
+00:29:20 formulation and consciousness and intelligence is something that basically a system should have in order to
+00:29:29 interact with us humans as opposed to some kind of abstract notion of a consciousness consciousness is something
+00:29:37 that you need to have to be able to empathize to be able to fear the understand what the fear of death is all
+00:29:46 these aspects that are important for interaction with pedestrians you need to be able to do basic computation based on
+00:29:58 our human desires and flaws sort of yeah if you if you look at the dog the dog clearly knows I mean I'm not the dog out
+00:30:04 on my brother I have friends who have dogs the dogs clearly know what the humans around them are going to do or
+00:30:10 the least they have a model of what those humans are going to do and they learn the dot some dogs know when you're
+00:30:17 going out and they want to go out with you they're sad when you leave them alone they cry they're afraid because
+00:30:25 they were mistreated when they were younger we we don't assign sort of consciousness to dogs or at least not
+00:30:39 not all that much but I also don't think they have none of that so I think it's it's consciousness and intelligence are
+00:30:49 not all or nothing the spectrum it's really interesting but in returning to programming languages
+00:30:58 and the way we think about building these kinds of things about building intelligence building consciousness
+00:31:04 building artificial beings I think one of the exciting ideas came in the 17th century and with liveness Hobbes decart
+00:31:13 where there's this feeling that you can convert all thought all reasoning all the thing that we find very special in
+00:31:24 our brains you can convert all that into logic you can formalize it form a reasoning and then once you formalize
+00:31:31 everything all of knowledge and you can just calculate and that's what we're doing with our brains is we're
+00:31:36 calculating so there's this whole idea that we that this is possible that this we're aware of the concept of pattern
+00:31:46 matching in the sense that we are aware of it now add a sort of thought you they they had discovered incredible bits of
+00:31:58 mathematics like Newton's calculus and they're sort of idealism they're they're sort of extension of what they could do
+00:32:09 with logic and math sort of went along those lines and they thought there there's like yeah logic there's there's
+00:32:21 like a bunch of rules and a bunch of input they didn't realize that how you recognize a face is not just a bunch of
+00:32:32 rules but it's a ton of data plus a circuit that that sort of interprets the visual clues and the context and
+00:32:44 everything else and somehow can massively parallel pattern match against stored rules I mean but if I see you
+00:32:54 tomorrow here in front of the drop box office I might recognize you even if I'm wearing a different shirt yeah but if I
+00:33:01 if I see you tomorrow in a coffee shop in Belmont I might have no idea
+00:33:05 that was you or on the beach or whatever hey I make those mistakes myself all the time I see someone that I only know s
+00:33:14 like oh this person is a colleague of my wife's yeah and then I see them at the movies and I didn't recognize them but
+00:33:22 do you see those you call it pattern matching do you see that rules is unable to encode that to you you everything you
+00:33:34 see all the pieces of information you look around this room I'm wearing a black shirt I have a certain height I'm
+00:33:39 a human all these you can there's probably tens of thousands of facts you pick up moment by moment about this
+00:33:46 scene you take them for granted and you accumulate aggregate them together to understand the scene
+00:33:50 you don't think all that could be encoded to where at the end of the day you can just put it all on the table and
+00:33:58 calculate oh I don't know what that means I mean yes in the sense that there is no there there is no actual magic
+00:34:08 there but there are enough layers of abstraction from sort of from the facts as they enter my eyes in my ears to the
+00:34:19 understanding of the scene that that's I don't think that that AI has really covered enough of of that distance it's
+00:34:31 like if you take a human body and you realize it's built out of atoms well that that is a uselessly reductionist
+00:34:42 view right right the body is built out of organs the organs are built out of cells the cells are built out of
+00:34:50 proteins the proteins are built out of amino acids the amino acids are built out of atoms and then you get to quantum
+00:34:59 mechanics so that's a very pragmatic view I mean obviously is an engineer I agree with that kind of view but I also
+00:35:06 you also have to consider the the with the same harris view of well well intelligence is just information
+00:35:13 processing these just like you said you take in sensory information you do some stuff with it and
+00:35:18 you come up with actions that are intelligent that McGee makes it sound so easy I don't know who Sam Harris is oh
+00:35:26 let's philosopher so like this how philosophers often think right and essentially that's what the car was is
+00:35:33 wait a minute if there is like you said no magic so you basically says it doesn't appear
+00:35:39 like there is any magic but we know so little about it that it might as well be magic so just because we know that we're
+00:35:47 made of atoms just because we know we're made of organs the fact that we know very little hot to get from the atoms to
+00:35:54 organs in a way that's recreate able means it that you shouldn't get too excited just yet about the fact that you
+00:36:01 figured out that we're made of atoms right and and and the same about taking facts as are our sensory organs take
+00:36:13 them in and turning that into reasons and actions that sort of there are a lot of abstractions that we haven't quite
+00:36:23 figured out how to how to deal with those I mean I so sometimes I don't know if I can go on a tangent or not I
+00:36:36 dragged you back in sure so if I take a simple program that parses say say have a compiler it parses a program in a
+00:36:47 sense the input routine of that compiler of that parser is a sense a sensing Oregon and it builds up a mighty
+00:36:58 complicated internal representation of the program it just saw it doesn't just have a linear sequence of bytes
+00:37:06 representing the text of the program anymore it has an abstract syntax tree and I don't know how many of your
+00:37:15 viewers or listeners are familiar with compiler technology but there's fewer and fewer these days right that's also
+00:37:25 true probably people want to take a shortcut but they're sort of this abstraction is a data structure that the
+00:37:34 compiler then uses to produce outputs that is relevant like a translation of the program to machine code that can be
+00:37:47 executed by by hardware and then the data structure gets thrown away when a fish or a fly sees sort of gets visual
+00:38:01 impulses I'm sure it also builds up some data structure and for the fly that may be very minimal a fly may may have only
+00:38:11 a few I mean in the case of a fly's brain I could imagine that there are few enough layers of abstraction that it's
+00:38:22 not much more than when it's darker here than it is here well I can sense motion because a fly sort of responds when you
+00:38:32 move your arm towards it so clearly it's visual processing is intelligent well not intelligent but it has an
+00:38:41 abstraction for motion and we still have similar things in in but much more complicated in our brains I mean
+00:38:48 otherwise you couldn't drive a car if you if you couldn't sort if you didn't have an incredibly good abstraction for
+00:38:56 motion yeah in some sense the same abstraction for motion is probably one of the primary sources of our of
+00:39:03 information for us we just know what to do I think we know what to do with that we've built up other abstractions on top
+00:39:10 we've much more complicated data structures based on that and we build more persistent data structures sort of
+00:39:18 after some processing some information sort of gets stored in our memory pretty much permanently and is available on
+00:39:27 recall I mean there are some things that you sort of you're conscious that you're remembering it like you give me your
+00:39:34 phone number I well at my age I have to write it down but I could imagine I could remember
+00:39:42 those seven numbers or 10 10 digits and reproduce them in a while if I sort of repeat them to myself a few times so
+00:39:52 that's a fairly conscious form of memorization on the other hand how do I recognize your face I have no idea my
+00:40:01 brain has a whole bunch of specialized hardware that knows how to recognize faces I don't know how much of that is
+00:40:09 sort of coded in our DNA and how much of that is trained over and over between the ages of 0 and 3 but but but somehow
+00:40:20 our brains know how to do lots of things like that that are useful in our interactions with with other humans with
+00:40:28 without really being conscious of how it's done anymore right so where are actual d-day lives we're operating at
+00:40:35 the very highest level of abstraction we're just not even conscious of all the little details underlying it
+00:40:41 there's compilers on top of sec Turtles on top of turtles or Turtles all the way down it's compilers all the way down but
+00:40:48 that's essentially you see that there's no magic that's what I what I was trying to get at I think is with decart started
+00:40:56 this whole train of saying that there's no magic I mean there's always before well then the cart also have the notion
+00:41:04 though that the soul and the body were were fundamentally separate yeah I think you had to write in God in there for
+00:41:11 political reasons so I don't actually not historian but there's notions in there that all of reasoning all of human
+00:41:20 thought can be formalized I think that continued in the 20th century with with Russell and with with Gaydos
+00:41:30 incompleteness theorem this debate of what what what are the limits of the things that could be formalized that's
+00:41:35 where the touring machine came along and this exciting idea I mean underlying a lot of computing that you can do quite a
+00:41:43 lot with a computer you can you can encode a lot of the stuff we're talking about in terms of recognizing faces and
+00:41:51 so on theoretically in an algorithm they can then run on a computer and in that context I'd like to ask programming in a
+00:42:04 philosophical way so what so what it what does it mean to program a computer so you said you write a Python program
+00:42:12 or a compiled a C++ program that compiles to somebody code it's forming layers your your programming a layer of
+00:42:21 abstraction is higher how do you see programming in that context can it keep getting higher and higher levels of
+00:42:31 abstraction I think and at some point the higher level of levels of abstraction will not be called
+00:42:38 programming and they will not resemble what we we call programming at the moment there will not be source code I
+00:42:48 mean there will still be source code sort of at a lower level of the machine just like they're still molecules and
+00:43:00 electrons and and sort of proteins in our brains but and and so they're still programming and and and system
+00:43:09 administration and who knows what's keeping to keep the machine running but what the machine does is is a different
+00:43:18 level of abstraction in a sense and as far as I understand the way that for last decade or more people have made
+00:43:26 progress with things like facial recognition or the self-driving cars is all by endless endless amounts of
+00:43:37 training data where at least as a layperson and I feel myself totally as a layperson in that field
+00:43:47 it looks like the researchers who publish the results don't necessarily know exactly how how their algorithms
+00:43:58 work and that I often get upset when I sort of read a sort of a fluff piece about Facebook in the newspaper or
+00:44:08 social networks and they say well Albert and that that's like a totally different interpretation of the word algorithm
+00:44:17 yeah because for me the way I was trained or what I learned when I was eight or ten years old an algorithm is a
+00:44:25 set of rules that you completely understand that can be mathematically analyzed and and and you can prove
+00:44:33 things you can like prove that Aires Dawson E's sieve produces all prime numbers and only prime numbers yes so I
+00:44:41 don't know if you know how Andre Carpathia's I'm afraid not so he's a ahead of hey aya Tesla now but
+00:44:51 his Stanford before and he has this cheeky way of calling this concept software 2.0 so let me disentangle that
+00:45:00 for a second so the so kind of what you're referring to is the traditional traditional the the algorithm the
+00:45:07 concept of an algo something that's there is clear you can read it you understand it you can prove its
+00:45:13 functioning it's kind of software 1.0 and what software 2.0 is is exactly what you described which is you have neural
+00:45:22 networks which is a type of machine learning that you feed a bunch of data and that neural network learns to do a
+00:45:31 function all you specifies the inputs and the outputs you want and you can't look inside you can't analyze it all you
+00:45:40 can do is train this function to map the inputs the outputs by giving a lot of data in that sense programming becomes
+00:45:46 getting a lot of cleaning getting a lot of data that's what programming is in this well that would be programming 2.0
+00:45:54 2.0 to programming 2.0 I I wouldn't call that programming it's just a different activity just like building organs out
+00:46:04 of cells is not called chemistry well so let's just set that back and think sort of more generally of course but you know
+00:46:14 it's like as a parent teaching teaching your kids things can be called programming in that same sense that that's
+00:46:22 how program has been used you're providing them data examples use cases so imagine writing a function not by not
+00:46:36 with for loops and clearly readable text but more saying well here's a lot of examples of what this function should
+00:46:44 take and here's a lot of examples when it takes those functions it should do this and then figure out the rest so
+00:46:53 that's the 2.0 concept and the this is the question I have for you is like it's a very fuzzy way this is a reality of a
+00:47:01 lot of these pattern recognition systems and so on it's a fuzzy way of quote-unquote
+00:47:06 programming what do you think about this kind of world it should be called something totally different than
+00:47:13 programming it's like if you're a software engineer does that mean you're you're designing systems that are very
+00:47:24 can be systematically tested evaluated they have a very specific specification and then this other fuzzy software 2.0
+00:47:31 world machine learning world that's that's something else totally or is there some intermixing that it's
+00:47:42 possible well the question is probably only being asked because we we don't quite know what that software 2.0
+00:47:54 actually is and it sort of I think there is a truism that every task that AI has has tackled in the past at some point we
+00:48:05 realized how it was done and then it was no longer considered part of artificial intelligence because it was no longer
+00:48:15 necessary to to use that term it was just oh now he we know how to do this and a new field of science or
+00:48:28 engineering has been developed and I don't know if sort of every form of learning or
+00:48:37 sort of controlling computer systems should always be called programming I said I that I don't know maybe I'm
+00:48:42 focused too much on the terminology i but i expect that that there just will be different concepts where people with
+00:48:57 sort of different education and a different model of what they're trying to do will will develop those concepts
+00:49:09 yeah and i guess if you could comment and another way to put this concept is i think i think the kind of functions that
+00:49:21 neural networks provide is things as opposed to being able to upfront prove that this should work for all cases you
+00:49:29 throw at it all you're able it's the worst case analysis versus average case analysis all you're able to say is it's
+00:49:37 it seems on everything we've tested to work 99.9 percent of the time but we can't guarantee it and it it fails in
+00:49:44 unexpected ways but can't even give you examples of how it fails in unexpected ways but it's like really good most of
+00:49:51 the time yeah but there's no room for that in current ways we think about programming programming 1.0 is actually
+00:50:08 sort of getting to that point to where the sort of the ideal of a bug-free program has been abandoned long ago by
+00:50:22 most software developers we only care about bugs that manifest themselves often enough to be annoying and we're
+00:50:33 willing to take the occasional crash or outage or incorrect result for granted because we can't possibly we don't have
+00:50:47 enough programmers to make all the code bug free and it would be an credibly tedious business and if you try
+00:50:53 to throw formal methods at it it gets it becomes even more tedious so every once in a while the user clicks on a link in
+00:51:05 and somehow they get an error and the average user doesn't panic they just click again and see if it works better
+00:51:15 the second time which often magically it does or they go up and they try some other way of performing their tasks so
+00:51:26 that's sort of an end-to-end recovery mechanism and inside systems there is all sorts of retries and timeouts and
+00:51:38 fall backs and I imagine that that sort of biological systems are even more full of that because otherwise they wouldn't
+00:51:48 survive do you think programming should be taught and thought of as exactly what you just said before I come from is kind
+00:51:59 of you're almost denying that fact always in the insert of basic programming education the sort of the
+00:52:12 program's you're you're having students right are so small and simple that if there is a bug you can always find it
+00:52:24 and fix it because the sort of programming as it's being taught in some even elementary middle schools in high
+00:52:33 school introduction to programming classes in college typically it's programming in the small very few
+00:52:43 classes sort of actually teach software engineering building large systems I mean every summer here at Dropbox we
+00:52:51 have a large number of interns every tech company on the west coast has the same thing these interns are always
+00:53:01 amazed because this is the first time in their life that they see what goes on in a really
+00:53:09 large software development environment and everything they've learned in college was almost always about a much
+00:53:21 smaller scale and somehow the difference in scale makes a qualitative difference in how
+00:53:28 you how you do things and how you think about it if you then take a few steps back in two decades seventies and
+00:53:36 eighties when you're first thinking about Python or just that world of programming languages did you ever think
+00:53:43 that there would be systems as large as underlying Google Facebook and Dropbox did you when you were thinking about
+00:53:52 Python I was actually always caught by surprise by yeah pretty much every stage of
+00:54:03 computing so maybe just because  you spoken in other interviews but I think the evolution of programming languages
+00:54:10 are fascinating it's especially because it leads from my perspective towards greater and greater degrees of intelligence
+00:54:17 I learned the first programming language I played with in in Russia was with the turtle logo logo yeah and if you look I
+00:54:27 just have a list of programming languages all of which I've known played with a little bit and they're all
+00:54:33 beautiful in different ways from Fortran COBOL Lisp Algol 60 basic logo and C as a few the object-oriented came along in
+00:54:47 the 60s Simula Pascal small talk all of that lean all the classics the classics yeah the classic hits write scheme built
+00:54:58 that's built on top of Lisp on the database side SQL C++ and all that leads up to Python Pascal - and that's before
+00:55:08 Python MATLAB these kind of different communities different languages so he talked about that world I know that
+00:55:17 Python came out of ABC which actually never knew that language I just having researched this conversation went back
+00:55:24 to ABC and it looks remarkably it it has a lot of annoying qualities but underneath those like all caps and so on
+00:55:33 but underneath that there's elements of Python that are quite if they're already there that's where I got all the good stuff
+00:55:39 all the good stuff so but in that world you're swimming these programming languages were you focused on just the
+00:55:45 good stuff in your specific circle but did you have a sense of what what is everyone chasing you said that every
+00:55:53 programming language is built to scratch an itch mm-hmm were you aware of all the itches in the
+00:56:02 community and if not or if yes I mean what H we trying to scratch with Python well I'm glad I wasn't aware of all the
+00:56:11 itches because I would probably not have been able to do anything I mean if you're trying to solve every problem at
+00:56:21 once you saw nothing well yeah that it's it's too overwhelming and so I had a very very focused problem I wanted a
+00:56:33 programming language that set somewhere in between shell scripting and C and now arguably there is like one is higher
+00:56:50 level one is lower level and Python is sort of a language of an intermediate level although it's still pretty much at
+00:57:01 the high level and no I was I was thinking about much more about I want a tool that I can use to be more
+00:57:12 productive as a programmer in a very specific environment and I also had given myself a time budget for the
+00:57:22 development of the tool and that was sort of about three months for both the design like thinking through
+00:57:30 what are all the features of the language syntactically and semantically and how do i implement the whole
+00:57:42 pipeline from parsing the source code to executing it so I think both were the timeline and the goals it seems like
+00:57:52 productivity was at the core of it as a goal so like for me in the 90s and the first decade of the 21st century I was
+00:58:02 always doing machine learning AI programming for my research was always in C++ and then and then the other
+00:58:11 people who are a little more mechanical engineering Electrical Engineering our MATLAB II they're a little bit more
+00:58:19 MATLAB focus those are the world and maybe a little bit Java too but people who are more interested in and
+00:58:27 emphasizing the object oriented nature of things so but then in last 10 years or so especially with a calming of
+00:58:35 neural networks and these packages are built on Python to interface with with neural networks I switch to Python and
+00:58:45 it's just I've noticed a significant boost that I can't exactly because I don't think about it but I can't exactly
+00:58:50 put into words why I'm just except much much more productive just being able to get the job done much much faster so how
+00:58:59 do you think whatever that qualitative difference is I don't know if it's quantitative it could be just a feeling
+00:59:05 I don't know if I'm actually more productive but how do you think about Layar yeah well that that's right I
+00:59:13 think there's elements let me just speak to one aspect that I think those affect that productivity is C++ was I really
+00:59:24 enjoyed creating performant code and creating a beautiful structure where everything that you know this kind of
+00:59:31 going into this especially with the newer newer standards of templated programming of just really creating this
+00:59:38 beautiful formal structure that I found myself spending most of my time doing that as opposed to get
+00:59:44 you parsing a file and extracting a few key words or whatever the task was trying to do so what is it about Python
+00:59:51 how do you think of productivity in general as you were designing it now sort of through the decades last three
+00:59:57 decades what do you think it means to be a productive programmer and how did you try to design it into the language there
+01:00:06 are different tasks and as a programmer it's it's useful to have different tools available that sort of are suitable for
+01:00:15 different tasks so I still write C code I still write shellcode but I write most of my things in Python why do I still
+01:00:28 use those other languages because sometimes the task just demands it and well I would say most of the time the
+01:00:38 task actually demands a certain language because the task is not write a program that solves problem x from scratch but
+01:00:47 it's more like fix bug in existing program X or add a small feature to an existing large program but even if if
+01:01:03 you sort of if you're not constrained in your choice of language by context like that there is still the fact that if you
+01:01:15 write it in a certain language then you sort of you you have this balance between how long does it time does it
+01:01:28 take you to write the code and how long does the code run and when you're in sort of in the face of exploring
+01:01:42 solutions you often spend much more time writing the code than running it because every time you've sort of you've run it
+01:01:51 you see that the output is not quite what you wanted and you spend some more time Cody
+01:02:02 and a language like Python just makes death iteration much faster because there are fewer details there is a large
+01:02:13 library sort of there are fewer details that that you have to get right before your program compiles and runs there are
+01:02:22 libraries that do all sorts of stuff for you so you can sort of very quickly take a bunch of existing components put them
+01:02:34 together and get your prototype application running just like when I was building electronics I was using a
+01:02:44 breadboard most of the time so I had this like sprawl out circuit that if you shook it it would stop working because
+01:02:55 it was not put together very well but it functioned and all I wanted was to see that it worked and then move on to the
+01:03:03 next next schematic or design or add something to it once you've sort of figured out oh this is the perfect
+01:03:11 design for my radio or light sensor or whatever then you can say okay how do we design a PCB for this how do we solder
+01:03:20 the components in a small space how do we make it so that it is robust against say voltage fluctuations or mechanical
+01:03:33 disruption I mean I know nothing about that when it comes to designing electronics but I know a lot about that
+01:03:40 when it comes to to writing code so the initial initial steps are efficient fast and there's not much stuff that gets in
+01:03:50 the way but you're kind of describing from a like Darwin described the evolution of species right you're you're
+01:03:59 observing of what is about true about Python now if you take step back if the art of if the act of creating languages
+01:04:08 is art and you had three months to do it and initial steps and ha so you just specified a bunch of goals sort of
+01:04:16 things that you observe about Python perhaps you had those goals but how do you create the rules the syntactic
+01:04:24 structure the the features that result in those so I have in the beginning and I have follow-up questions about through
+01:04:31 the evolution of Python 2 but in the very beginning when you're sitting there creating the lexical analyzers or
+01:04:38 whatever evolution was still a big part of it because I I sort of I said to myself I don't want to have to design
+01:04:51 everything from scratch I'm going to borrow features from other languages that I like Oh interesting so you
+01:04:57 basically exactly you first observe what you like yeah and so that's why if you're 17 years old and you want to sort
+01:05:05 of create a programming language you're not going to be very successful at it because you have no experience with
+01:05:16 other languages whereas I was in my let's say mid-30s I had written parsers before so I had worked on the
+01:05:28 implementation of ABC I had spent years debating the design of ABC with its authors its with its designers I had
+01:05:36 nothing to do with the design it was designed fully as it was ended up being implemented when I joined the team but
+01:05:47 so you borrow ideas and concepts and very concrete sort of local rules from different languages like the indentation
+01:05:55 and certain other syntactic features from ABC but I chose to borrow string literals and how numbers work from C and
+01:06:09 various other things so in then if you take that further so yet you've had this funny sounding but I think surprisingly
+01:06:18 accurate and or at least practical title of a benevolent dictator for life for quite you know for last three decades
+01:06:25 whatever or no not the actual title but functionally speaking so you had to make decisions design decisions can you maybe
+01:06:37 let's take Python - there's a Python releasing Python 3 as an example mm-hmm it's not backward-compatible - Python -
+01:06:47 in ways that a lot of people know so what was that deliberation discussion decision like we have what was the
+01:06:53 psychology of that experience do you regret any aspects of how that experiments undergone that else yeah so
+01:07:03 it was a group process really it at that point even though I was be DFL in nine a name and and certainly everybody sort of
+01:07:16 respected my my position as the creator and and the current sort of owner of the language design I was looking at
+01:07:26 everyone else for feedback sort of Python 300 in some sense was sparked by other people in the community pointing
+01:07:41 out oh well there are a few issues that sort of bite users over and over can we do something about that and for Python
+01:07:53 three we took a number of those Python wards as they were called at the time and we said can we try to sort of make
+01:08:03 small changes to the language that address those warts and we had sort of in the past we had always taken
+01:08:14 backwards compatibility very seriously and so many Python warts in earlier versions had already been resolved
+01:08:22 because they could be resolved while maintaining backwards compatibility or sort of using a very gradual path of
+01:08:31 evolution of the language in a certain area and so we were stuck with a number of warts that were
+01:08:39 widely recognized as problems not like road blocks but nevertheless sort of things that some people trip over and
+01:08:48 you know that that's always the same thing that that people trip over when they trip and we could not think of a
+01:08:57 backwards compatible way of resolving those issues but it's still an option to not resolve the issues and so yes for
+01:09:05 for a long time we had sort of resigned ourselves to well okay the language is not going to be perfect in this way and
+01:09:16 that way that way and we sort of certain of these I mean there are still plenty of things where you can say well that's
+01:09:24 that particular detail is better in Java or in R or in Visual Basic or whatever and we're okay with that because well we
+01:09:38 can't easily change it it's not too bad we can do a little bit with user education or we can have a static
+01:09:47 analyzer or warnings in in the parser or something but there were things where we thought well these are really problems that are
+01:09:57 not going away they are getting worse in the future we should do something about do something but ultimately there is a
+01:10:08 decision to be made right yes so was that the toughest decision in the history of Python yet to make as the
+01:10:15 benevolent dictator for life or if not what are there maybe even on a smaller scale what was a decision where you were
+01:10:23 really torn up about well the toughest decision was probably to resign all right let's go there hold on a second
+01:10:31 then let me just because in the interest of time too because I have a few cool questions for you I let's touch a really
+01:10:36 important one because it was quite dramatic and beautiful in certain kinds of ways then in July this year three
+01:10:45 months ago you wrote now that pepp 572 is done I don't ever want to have to fight so hard for a
+01:10:51 and find that so many people despise my decisions I would like to remove myself entirely from the decision process I'll
+01:10:58 still be there for a while as an ordinary core developer and I'll still be available to mentor people possibly
+01:11:06 more available but I'm basically giving myself a permanent vacation for being be DFL yeah but not well in dictator for
+01:11:15 life and you all will be on your own it's just this it's a it's almost Shakespearean I'm not going to appoint a
+01:11:23 successor so water you're all going to do create a democracy anarchy a dictatorship a federation so that was a
+01:11:33 very dramatic and beautiful set of statements it's almost it's open-ended nature called the community to create a
+01:11:41 future for Python this is kind of a beautiful aspect to it well so what end and dramatic you know what was making
+01:11:48 that decision like what was on your heart on your mind stepping back now a few months later we could take you to
+01:11:56 your Maya thing I'm glad you liked of writing because it was actually written pretty quickly
+01:12:07 it was literally something like after months and months of going around in circles I had finally approved Pet 572
+01:12:22 which I had a big hand in its design although it I didn't initiate it originally I gave it a bunch of nudges
+01:12:34 in a direction that would be better for the language so I just asked it's a sink I oh no the one or no no kept 572 was
+01:12:45 actually a small feature which is assignment expressions assignment expressions dad had been taught there was just a lot
+01:12:55 of debate where a lot of people claimed that they knew what was pythonic and what was not pythonic and
+01:13:04 they knew that this was going to destroy the language this was like a violation of pythons most fundamental design
+01:13:12 philosophy and I thought that was all  because I was in favor of it and that I would think I know something
+01:13:19 about pythons design philosophy so I was really tired and also stressed of that thing and literally after sort of
+01:13:29 announcing I was going to accept it a certain Wednesday evening I had finally send the email it's accepted now let's
+01:13:39 just go implement it so I went to bed feeling really relieved that's behind me and I wake up Thursday morning 7:00 a.m.
+01:13:53 and I think well that was the last one that's going to be such such a terrible debate and that's it going to be said
+01:14:02 that's the last time that I let myself be so stressed out about a peb decision I should just resign I've been sort of
+01:14:11 thinking about retirement for half a decade I've been joking and sort of mentioning retirement sort of telling
+01:14:22 the community some point in the future I'm going to retire don't take that FL part of my title too literally and I
+01:14:34 thought okay this is it I'm done I had the day off I wanted to have a good time with my wife we were going to a little
+01:14:45 beach town nearby and in he think maybe 15-20 minutes I wrote that thing that you just called
+01:14:52 Shakespearean yeah the funny thing is I get so much crap for calling you Shakespearean I didn't even I didn't even realize what
+01:15:01 a monumental decision it was because five minutes later I read that's a link to my message back on Twitter where
+01:15:10 people were already discussing on Twitter guido resigned as the BD FL and I had I had posted it on an internal
+01:15:20 forum that I thought was only read by core developers so I thought I would at least have one day before the news would
+01:15:30 sort of get out the on your own aspect I had also an element of quite it was quite a powerful element of the
+01:15:39 uncertainty that lies ahead but can you also just briefly talk about you know like for example I play guitar as a
+01:15:47 hobby for fun and whenever I play people are super positive so super friendly they're like this is awesome this is
+01:15:53 great but sometimes I enter as an outside observer I enter the programming community and there seems to some
+01:16:01 sometimes be camps on whatever the topic and and the two camps the two or plus camps are often pretty harsh are
+01:16:11 criticizing the opposing camps as an onlooker I may be totally wrong on this yeah well because like wars are sort of
+01:16:19 a favorite activity in the programming community and what is the psychology behind that is is that okay for a
+01:16:25 healthy community to have is that is that a productive force ultimately for the evolution of the language well if
+01:16:33 everybody is betting each other on the back and never telling the truth yes it would not be a good thing I think there
+01:16:48 is a middle ground where sort of being nasty to each other is not okay but there there is is a middle ground where
+01:17:00 there is healthy ongoing criticism and feedback that is very productive and you you mean at every level you see that I
+01:17:11 mean someone proposes to fix a very small issue in a codebase chances are that some reviewer will sort of respond
+01:17:23 by saying well actually you can do it better the other way right when it comes to deciding on the future of the Python
+01:17:34 core developer community we now have I think five or six competing proposals for a constitution so that future do you
+01:17:45 have a fear of that future do you have a hope for that future I'm not very confident about that future it by and
+01:17:54 large I think that the debate has been very healthy and productive and I actually when when I wrote that
+01:18:05 resignation email I knew that that Python was in a very good spot and that the Python core development community
+01:18:13 that the group of fifty or a hundred people who sort of write or review most of the code that goes into Python those
+01:18:25 people get along very well most of the time a large number of different areas of expertise are represented different
+01:18:41 levels of experience in the Python core deaf community different levels of experience completely outside in
+01:18:48 software development in general large systems small systems embedded systems so I I felt okay resigning because I
+01:19:00 knew that that the community can really take care of itself and out of a grab bag of future future developments let me
+01:19:12 ask if you can comment maybe on all very quickly concurrent programming parallel computing async IL these are things that
+01:19:22 people have expressed hope complained about whatever have discussed on reddit async i also the parallelization in
+01:19:31 general packaging i was totally clueless on this I just used piston install stuff but apparently this paper and in poetry
+01:19:39 there's these dependency packaging systems that manage dependencies and so on there
+01:19:42 urging and there's a lot of confusion about what's what's the right thing to use then also functional programming the
+01:19:54 the ever you know the the are we're going to get more functional programming or not this kind of this kind of idea
+01:20:04 and of course the the gill is a connected to the parallelization I suppose the global interpreter lock
+01:20:10 problem can you just comment on whichever you want to comment on well let's take the gill and paralyzation and
+01:20:26 async io as one one topic I'm not that hopeful that Python will develop into a sort of high concurrency high
+01:20:38 parallelism language that's sort of the the way the language is designed the way most users use the language the way the
+01:20:48 language is implemented all make that a pretty unlikely future so you think it might not even need to really the way
+01:20:55 people use it it might not be a something that should be a of Greek I think I think async IO is a special case
+01:21:03 because it sort of allows overlapping IO and only IO and that is is a sort of best practice
+01:21:15 of supporting very high throughput IO many collections per second I'm not worried about that I think async IO will
+01:21:26 evolve there are a couple of competing packages we have some very smart people who are sort of pushing us in sort of to
+01:21:37 make async IL better parallel computing I think that Python is not the language for that there are there are ways to
+01:21:48 work around it but you sort of you can't expect to write an algorithm in Python and have a compiler or
+01:21:58 paralyzed that what you can do is use a package like numpy and they're a bunch of other very powerful packages that
+01:22:08 sort of use all the CPUs available because you tell the package here's the data here's the abstract operation to
+01:22:17 apply over it go at it and then then we're back in the c++ world but those packages are themselves implemented
+01:22:24 usually in c++ that's right that's so that's where Tenzin phoned all these acts just come in where they paralyze
+01:22:29 across GPUs for example they take care of that fit so in terms of packaging can you comment on this yeah my it packaging
+01:22:39 has always been my least favorite topic it's it's it's a really tough problem because the OS and the platform want to
+01:22:56 own packaging but their packaging solution is not specific to a language like if you take Linux there are two
+01:23:04 competing packaging solutions for Linux or for UNIX in in general and but they all work across all languages and
+01:23:19 several languages like node JavaScript and Ruby and Python all have their own packaging solutions that only work
+01:23:28 within the ecosystem of that language well what should you use that is a tough problem my own own approach is I use the
+01:23:41 system packaging system to install Python and I use the Python packaging system then to install third party
+01:23:50 Python packages that's what most people do ten years ago Python packaging was really a terrible situation nowadays pip
+01:23:59 is the future there is there is a separate ecosystem for numerical and scientific Python Python based on
+01:24:09 anaconda those two can live together I don't think there is a need for more than that great so that's that's
+01:24:16 packaging that's well at least for me that's that's where I've been extremely happy I didn't I didn't even know this
+01:24:22 was an issue until it's brought up well in interest of time I mean sort of skipped through a million other
+01:24:28 questions I have so I watched the five hour five five and a half hour oral history they've done with the Computer
+01:24:34 History Museum and the nice thing about it it gave this because of the linear progression of the interview he gave
+01:24:41 this feeling of a life you know a life well-lived with interesting things in it sort of a pretty I would say a good
+01:24:52 spend of of this little existence we have on earth so outside of your family looking back what about this journey are
+01:25:03 you really proud of their moments that stand out accomplishments ideas is it the creation of Python itself that
+01:25:13 stands out as a thing that you look back and say damn I did pretty good there well I would say that Python is
+01:25:21 definitely the best thing I've ever done and I I wouldn't sort of say just the creation
+01:25:33 of Python but the way I sort of raised by farm like a baby I didn't just conceive a child but I
+01:25:41 raised the child and now I'm setting the child free in the world and I've set up the child to to sort of be able to take
+01:25:50 care of himself and I'm very proud of that and as the announcer of Monty Python's Flying Circus used to say and
+01:25:57 now for something completely different do you have a favorite Monty Python moment or a moment Hitchhiker's Guide or
+01:26:04 any other literature show a movie that cracks you up when you think about it oh you can always play me the parrots the
+01:26:12 dead parrot sketch oh that's brilliant yeah that's my favorite as well pushing up the daisies

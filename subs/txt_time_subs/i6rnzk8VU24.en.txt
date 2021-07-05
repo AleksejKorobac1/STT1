@@ -1,0 +1,382 @@
+00:00:01 the following is a conversation with Pamela Romo quartic she's an author who is written on the history and the
+00:00:07 philosophical significance of artificial intelligence her books include machines who think in 1979 the fifth generation
+00:00:17 in 1983 with Edie foggy and mom who's considered to be the father of expert systems the edge of chaos the features
+00:00:25 of women and many more books I came across her work in an unusual way by stumbling in a quote for machines who
+00:00:32 think that is something like artificial intelligence began with the ancient wish to forged the gods that was a beautiful
+00:00:41 way to draw connecting line between our societal relationship with AI from the grounded day to day science math and
+00:00:48 engineering to popular stories and science fiction and myths of automatons that go back for centuries through her
+00:00:56 literary work she has spent a lot of time with the seminal figures of artificial intelligence including the
+00:01:04 founding fathers of AI from the 1956 Dartmouth summer workshop where the field was launched I reached out to
+00:01:12 Pamela for conversation in hopes of getting a sense what those early days were like and how their dreams continue
+00:01:19 to reverberate for the work of our community today I often don't know where the conversation may take us but I jump
+00:01:27 in and see having no constraints rules or goals is a wonderful way to discover new ideas this is the artificial
+00:01:34 intelligence podcast if you enjoy it subscribe on YouTube give it five stars and iTunes supported on patreon or
+00:01:42 simply connect with me on Twitter at lex friedman spelled fri d ma n and now here's my conversation with Pamela
+00:01:50 McCourt ik in 1979 yearbook machines who think was published in it you interview some of
+00:02:00 the early AI pioneers and explore the idea that they I was born not out of maybe math and computer science but out
+00:02:11 of myth and legend so tell me if you could the story of how you first arrived at the book the journey of beginning to
+00:02:21 write it I had been a novelist I'd published two novels and I was sitting under the portal at Stanford one day in
+00:02:32 the house we were renting for the summer and I thought I should write a novel about these weird people in AI I know
+00:02:39 and then I thought II don't write a novel write a history simple just go around you know interview them splice it
+00:02:48 together voila instant book hahaha it was much harder than that but nobody else was doing it and so I thought no
+00:02:58 this is a great opportunity and there were people who John McCarthy for example thought it was a nutty idea
+00:03:06 there were much you know the field had not evolved yet so on and he had some mathematical thing he thought I should
+00:03:14 write instead and I said no John I am NOT a woman in search of a project I'm this is what I want to do I hope you'll
+00:03:22 cooperate and he said Oh mutter mutter well okay it's your your time it was the pitch for the I mean such a young field
+00:03:31 at that point how do you write a personal history of a field that's so young I said this is wonderful the
+00:03:38 founders of the field are alive and kicking and able to talk about what they're doing did they sound or feel
+00:03:45 like founders at the time that they know that they've been found they have founded some oh yeah they knew
+00:03:51 what they were doing was very important very what they what I now see in retrospect is that they were at the
+00:04:00 height of their research careers and it's humbling to me they took time out from all the things
+00:04:08 that they had to do as a consequence of being there and it's a talk to this woman who said I think I'm gonna write a
+00:04:16 book oh you know it was amazing just amazing so who stands out to you may be looking 63 years ago the Dartmouth
+00:04:27 conference the so Marvin Minsky was there McCarthy was there Claude Shannon Allen you'll herb Simon some of the
+00:04:36 folks you've mentioned right then there's the other characters right the would one of your co-authors yeah he
+00:04:44 wasn't at Dartmouth he was not Dharma no but I mean he was there I think it undergraduate then and and of course Joe
+00:04:51 draw I mean though all of these are players I'm not a Dartmouth them but in that era right it's seem you and so on
+00:05:01 so who are the characters if you could paint a picture that stand out to you or memory those people you've interviewed
+00:05:07 and maybe not people that were just in the India the atmosphere in the atmosphere  of course the four
+00:05:14 founding fathers were extraordinary guys they really were who are the founding fathers Allen
+00:05:21 Newell Herbert Simon Marvin Minsky John McCarthy they were the four who were not only at the Dartmouth conference but
+00:05:28 Newland Simon arrived there with a working program called the logic theorist everybody else had great ideas
+00:05:37 about how they might do it but they weren't going to do it yet and you mentioned Joe trout my husband I I was
+00:05:50 immersed in AI before I met Joe because I had been EDI Gonzalez assistant at Stanford and before that I had worked on
+00:05:59 a book by edited by Feigenbaum and Julian Feldman called a computers and thought it was the first textbook of
+00:06:09 readings of AI and they they only did it because they were trying to teach AI to people at Berkeley and there was nothing
+00:06:14 you know you'd have to send him to this journal in that Journal this was not the Internet where you could go look at
+00:06:22 an article so I was fascinated from the get-go by AI I was an English major yeah what did I know and yet I was fascinated
+00:06:33 and that's why you saw that historical but that literary background which i think is very much a part of the
+00:06:43 continuum of AI that the AI grew out of that same impulse is that yeah that traditional what what was wood Ritu ai
+00:06:52 how did you even think of it back back then what what was the possibilities the dreams I was interesting to you the idea
+00:07:02 of intelligence outside the human cranium this was a phenomenal idea and even when I finished machines who think
+00:07:10 I didn't know if they were gonna succeed I in fact the final chapter is very wishy-washy frankly I'll succeed the
+00:07:19 fieldid yeah yes it was there the idea that a AI began with the wish to forge the God so
+00:07:30 the the spiritual component that we crave to create this other thing greater than ourselves for those guys I don't
+00:07:40 think so Newell and Simon were cognitive psychologists what they wanted was to simulate aspects of human intelligence
+00:07:51 and they found they could do it on the computer Minsky just thought it was a really cool thing to do likewise McCarthy McCarthy
+00:08:05 'add got the idea in 1949 when when he was a Caltech student and he listened to somebody's lecture it's it's in my book
+00:08:15 I forget who it was and he thought oh that would be fun to do how do we do that and he took a very mathematical
+00:08:24 approach Minsky was hybrid and Nuland Simon were very much cognitive psychology how can we simulate various
+00:08:31 things about cockney about human cognition what happened over the many years is of course our
+00:08:40 definition of intelligence expanded tremendously I mean these days biologists are comfortable talking about
+00:08:47 the intelligence of cell the intelligence of the brain they not just human brain but the intelligence of any
+00:08:59 kind of brain cephalopods I mean an octopus is really intelligent by any amount we wouldn't have thought of that
+00:09:08 in the 60s even the 70s so all these things have worked in and I did hear one behavioural primatologist Fran's Duvall
+00:09:22 say AI taught us the questions to ask yeah this is what happens right it's when you try to build it is when you
+00:09:28 start to actually ask questions if it puts a mirror to ourselves yeah right so you were there in the
+00:09:36 medical it seems like not many people were asking the questions that you were the trees tried trying to look at this
+00:09:44 field the way you were I was so low I when I went to get funding for this because I needed somebody to transcribe
+00:09:54 the interviews and I needed travel expenses I went to every thing you could think of the NSF the DARPA there was an
+00:10:10 Air Force place that doled out money and each of them said well that was that was very interesting that's a very
+00:10:18 interesting idea but we'll think about it and the National Science Foundation actually said to be in plain English hey
+00:10:26 you're only a writer you're not at historian of science and I said yeah that's true but you know the historians
+00:10:33 of science will be crawling all over this field I'm writing for the general audience so I felt and they still
+00:10:43 wouldn't budge I finally got a private grant without knowing who it was from IDI fredkin and MIT yeah he was a
+00:10:51 wealthy man and he liked what he called crackpot ideas and he considered this a crackpot is a crackpot idea and he was
+00:10:58 willing to support it I am ever grateful let me say that you know some would say that a history of science approach to AI
+00:11:07 or even just a history or anything like the book that you've written hasn't been written since by me I don't
+00:11:15 maybe I'm not familiar but it's certainly not many if we think about bigger than just these couple of decades
+00:11:24 few decades what what are the roots of AI oh they go back so far yes of course there's all the legendary stuff The
+00:11:38 Golem and the early robots of the 20th century but they go back much further than that if you read Homer Homer has
+00:11:49 robots in the Iliad and a classical scholar was pointing out to me just a few months ago well you said you just
+00:11:54 read The Odyssey The Odyssey is full of robots it is I said yeah how do you think Odysseus is ship gets from place
+00:12:01 one place to another he doesn't have two crew people to do that the crew man yeah it's it's magic
+00:12:09 it's robots whoa I thought how interesting so we've had this notion of AI for a long time and then toward the
+00:12:20 end of the 19th century the beginning of the 20th century there were scientists who actually tried to make this happen
+00:12:27 some way or another not successfully they didn't have the technology for it and of course Babbage in the 1850s and
+00:12:39 60s he saw that what he was building was capable of intelligent behavior and he when he ran out of funding the British
+00:12:47 government finally said that's enough he and lady Lovelace decided oh well why don't we make you know why don't we play
+00:12:57 the ponies with this he had other ideas for raising money too but if we actually reach back once again
+00:13:03 I think people don't actually really know that robots do appear an ideas of robots you talk about the Hellenic and
+00:13:12 the Bragg points of view oh yes can you tell me about each I defined it this way the Hellenic point of view is robots are
+00:13:22 great you know they are party help they help this guy have Festus does God have Festus in his Forge I presume he made
+00:13:32 them to help him and so on and so forth and and they they welcome the whole idea of robots the break view has to do with
+00:13:42 I think it's the second commandment thou shalt not make any graven image in other words you better not start imitating
+00:13:52 humans because that's just forbidden it's the second commandment and a lot of the reaction to artificial intelligence
+00:14:07 has been a sense that this is this is somehow wicked this is somehow blasphemous we shouldn't be going there
+00:14:17 now you can say yeah but there gonna be some downsides and I say yes there are but blasphemy is not one of them you
+00:14:24 know there's a kind of fear that feels to be almost primal there's their religious roots to that because so much
+00:14:33 of our society has religious roots and so there is a feeling of like you said blasphemy though of creating the other
+00:14:43 of creating something you know it doesn't have to be artificial intelligence it's creating life in
+00:14:47 general mm-hmm it's the Frankenstein idea yes the annotator Frankenstein on my coffee table is this tremendous novel
+00:14:58 it really is just beautifully perceptive yes we we do fear this and we have good reason to fear it but because it can get
+00:15:08 out of hand maybe you can speak to that fear the psychology if you've thought about it you know there's a practical
+00:15:12 sort of fears concerns in the short term you can think of if we actually think about
+00:15:19 artificial intelligence systems you can think about bias of discrimination in algorithms so you you can think about
+00:15:31 their social networks have algorithms that recommend the content you see there by these algorithms control the behavior
+00:15:37 of the masses there are these concerns but it to me it feels like the fear that people have is deeper than that
+00:15:46 so have you thought about the psychology of it I think in a superficial way I have there is this notion that if we
+00:15:58 produce a machine that can think it will out thank us and therefore replace us I guess that's a that's a primal fear yes
+00:16:07 I almost look almost kind of a kind of mortality so around the time you said you work with it Stanford with Edie
+00:16:20 phagon bomb mm-hmm so let's look at that one person throughout this history clearly key person one of the many in
+00:16:30 the history of AI how has he changed in general around him how the Stanford changed in the last how many years I
+00:16:37 were talking about here no since that key 65 665 so I mean it does have to be about him I could be bigger but because
+00:16:46 usually key person an expert systems for example how is that how would these folks who've you've interviewed in the
+00:17:06 in Ed's case I know I know him well we are dear friends we see each other every month or so he told me that when
+00:17:14 machines who think first came out he really thought all the front matter was kind of baloney and ten years later he
+00:17:25 said no I see what you're getting at yes this is an impulse that has been this has been a human impulse for
+00:17:33 thousands of years to create something outside the human cranium that has intelligence I think it's very hard when
+00:17:46 you're down at the algorithmic level and you're just trying to make something work which is hard enough just step back
+00:17:55 and think of the big picture it reminds me of when I was in Santa Fe I knew a lot of archaeologists and which was a
+00:18:06 hobby of mine and I would say yeah yeah well you can look at the shards and say oh this came from this tribe and this
+00:18:13 came from this trade route and so on but what about the big picture and a very distinguished archeologist said to me
+00:18:21 they don't think that way you do know they're trying to match the shard to the to where it came from
+00:18:29 that's you know where did this corn the remainder of this corn come from was it grown here was it grown elsewhere and I
+00:18:37 think this is part of the AI any scientific field you're so busy doing the the hard work and it is hard work
+00:18:47 that you don't step I can say oh well now let's talk about that you know the general meaning of all yes so none of
+00:18:59 the even Minsky and McCarthy they oh those guys did yeah the founding fathers did early on or pretty early on what
+00:19:07 they had but in a different way from how I looked at it the two cognitive psychologists Newell and Simon they
+00:19:15 wanted to imagine and reforming cognitive psychology so that we would really really understand
+00:19:29 Minsky was more speculative and John McCarthy saw it as I think I'm doing doing him right by this he really saw it
+00:19:40 as a great boon for human beings to have this technology and that was reason enough to do it and he had wonderful
+00:19:49 wonderful fables about how if you do the mathematics you will see that these things are really
+00:19:58 good for human beings and if you had a technological objection he had an answer a technological answer but here's how we
+00:20:07 could get over that and then bla bla bla bla and one of his favorite things was what he called the literary problem
+00:20:14 which of course he presented to me several times that is everything in literature there are conventions in
+00:20:23 literature one of the conventions is that you have a villain and a hero and the hero in most literature is human and
+00:20:38 the villain in most literature is a machine and he said that's just not the way it's gonna be but that's the way
+00:20:45 we're used to it so when we tell stories about AI it's always with this paradigm I thought
+00:20:53 yeah he's right you know looking back in the classics are you are is certainly the machines trying to overthrow of the
+00:21:02 humans Frankenstein is different Frankenstein is a creature you never he never has a name Frankenstein of course
+00:21:13 is the guy who created him the human dr. Frankenstein this creature wants to be loved wants to be accepted and it is only when
+00:21:26 Frankenstein turns his head in fact runs the other way and the creature is without love that he
+00:21:38 becomes the monster that he later becomes so who's the villain in Frankenstein it's unclear right oh it is
+00:21:47 unclear yeah it's really the people who drive him but driving him away right they bring out the worst that's right
+00:21:59 they gave him no human solace and he is driven away you're right he becomes at one point a friend of a
+00:22:09 blind man and they he serves this blind man and they become great very friendly but it when the sighted people of the
+00:22:18 blind man's family come it ah you've got a monster here so it's it's very didactic in its way and what I didn't
+00:22:27 know is that Mary Shelley and Percy Shelley were great readers of the literature surrounding abolition in the
+00:22:35 United States the abolition of slavery and they picked that up wholesale you know you are making monsters of these
+00:22:43 people because you won't give them the respect and love that they deserve do you have if we get philosophical for a
+00:22:54 second do you worry that once we create machines that are a little bit more intelligent let's look at Roomba that
+00:23:01 vacuum is the cleaner that that this darker part of human nature where we abuse the other the the somebody who's
+00:23:14 different will come out I don't worry about it I could imagine it happening but I think that what AI has to offer
+00:23:24 the human race will be so attractive that yeah people will be won over so you have looked deep into these people have
+00:23:35 deep conversations and it's yeah interesting to get a sense of stories of the way they were thinking the way it
+00:23:42 was changed your own thinking about AI has changed see master McCarthy is  what about the
+00:23:53 years at CMU Carnegie Mellon with Joe and was sure a Joe was not in AI he was in algorithmic complexity was there
+00:24:06 always a line between AI and computer science for example is AI its own place of outcasts it was at the feeling there
+00:24:16 was a kind of outcasts period for AI for instance in 1974 the new field was hardly ten years old the new field of
+00:24:29 computer science was asked by the net National Science Foundation I believe but it may have been the National
+00:24:36 Academies I can't remember to you know tell us tell our your fellow scientists where computer science is and what it
+00:24:46 means and they wanted to leave out AI and they only agreed to put it in because Don Knuth said hey this is
+00:24:57 important you can't just leave that out really Don Don Knuth yes I talked to mrs. Nisa out of all the people yes but
+00:25:06 you see yeah an AI person couldn't have made that argument he wouldn't have been believed but Knuth was believed yes so
+00:25:15 George I worked on the real stuff a Joe was working on algorithmic complexity but he would say in plain English again
+00:25:23 and again the smartest people I know are in AI really oh yes no question anyway Joe love these guys what happened was
+00:25:36 that I guess it was as I started to write machines who think herb Simon and I became very close friends he would
+00:25:44 walk past our house on Northumberland Street every day after work and I would just be putting my cover on my
+00:25:51 typewriter and I would lean out the door and say herb would you like a sherry and her almost always would like a sherry so
+00:26:01 he'd stop in and we talked for an hour two hours my journal says we talked this afternoon for three hours what was in
+00:26:10 his mind at the time if in terms of an AI side of things oh we didn't talk too much about AI we talked about other
+00:26:17 things life we both loved literature and herb had read Proust in the original French twice all the way through
+00:26:27 I can't I'm read in English in translation so we talked about literature we talked about languages we
+00:26:34 talked about music because he loved music we talked about art cuz he was he was actually enough of a painter that he
+00:26:45 had to give it up because he was afraid it was interfering with his research and so on so no it was really just Chat Chat
+00:26:55 but it was very warm so one summer I said to her you know well my students have all the really interesting
+00:27:02 conversations I was teaching at the University of Pittsburgh then in the English department you know they get to
+00:27:08 talk about the meaning of life and that kind of thing and what do I have I have university meetings where we talk about
+00:27:15 the photocopying budget and you know whether the course on romantic poetry should be one semester or two so herb
+00:27:23 laughed he said yes I know what you mean he said but you know you you could do something about that dot I was his wife
+00:27:32 dot and I used to have a salon at the University of Chicago every Sunday night and we would have essentially an open
+00:27:41 house and people knew it wasn't for sure a small talk it was really for some topic of depth he said but my advice
+00:27:52 would be that you choose the topic ahead of time fine I said so the following we exchanged mail over the summer that was
+00:28:02 us post in those days because you didn't have personal email right and we I decided I would
+00:28:11 organize it and there would be eight of us Alan Noll and his wife herb Simon and his wife Dorothea there was a novelist
+00:28:23 in town a man named Mark Harris he had just just arrived and his wife Josephine mark was most famous then for a novel
+00:28:32 called bang the drum solo slowly which was about baseball and Joe and me so eight people and we met monthly and we
+00:28:43 we just sank our teeth into really hard topics and it was great fun how have your own views around artificial
+00:28:54 intelligence changed in through the process of writing machines who think and afterwards the ripple effects I was
+00:29:02 a little skeptical that this whole thing would work out it didn't matter to me it was so audacious the whole thing being a
+00:29:14 IAI general yeah and in some ways it hasn't worked out the way I expected so far that is to say there's this
+00:29:25 wonderful lot of apps thanks to deep learning and so on but those are algorithmic yeah and in the part of
+00:29:37 symbolic processing there is very little yet yes and that's the feel that lies waiting for industrious and industrious
+00:29:48 graduate students maybe you can tell me some figures they popped up in your life in the 80s with expert systems where
+00:29:57 there was the symbolic AI possibilities of what's you know that what most people think of as AI if you dream of the
+00:30:04 possibilities AI is really expert system and those hit a few walls and those challenges there and I think yes they
+00:30:12 will reemerge again with some new breakthroughs and so on but what did that feel like
+00:30:17 both the possibility and the winter that followed slow down ah you know this whole thing about AI winter is to me a crock snow
+00:30:30 winters because I look at the basic research that was being done in the 80s which is supposed to be my god it was
+00:30:37 really important it was laying down things that nobody had thought about before but it was basic research
+00:30:44 you couldn't monetize it hence the winter yeah you know research scientific research goes in fits and starts it
+00:30:55 isn't this nice smooth Oh this follows this follows this no oh you know it just doesn't work that way there's an
+00:31:01 interesting thing the way winters happen it's never the fault of the researchers it's the it's the the some source of
+00:31:11 hype over promising well no let me take that back sometimes it is the fault of the researchers sometimes certain
+00:31:17 researchers might over-promised the possibilities they themselves believe that we're just a few years away sort of
+00:31:24 just recently talked to you on musk and he believes he'll have an autonomous Veeck will have autonomous vehicles in a
+00:31:31 year I and he believes it a year a year yeah would have mass deployment one time for the record this is too fast on 19
+00:31:36 right now yes he's talking 2020 to do the impossible you really have to believe it
+00:31:44 and I think what's going to happen when you believe it cuz there's a lot of really brilliant people around him is
+00:31:51 some good stuff will come out of it some unexpected brilliant breakthroughs will come out of it when you really believe
+00:31:57 it when you work that hard I believe that I believe autonomous vehicles will come I just don't believe that it'll be
+00:32:04 in a year yeah I wish but nevertheless there's I found vehicles is a good example there's a feeling many companies
+00:32:14 have promised by 2021 by 2022 for GM I basically every single automotive companies promise they'll have
+00:32:20 autonomous vehicles so that kind of over the promise is what leads to the winter because it will come to those dates
+00:32:26 there won't be autonomous vehicles and they'll be a feeling well wait a minute if we took your word at that time that means
+00:32:35 we just spent billions of dollars had made no money and there's a counter response to where everybody gives up on
+00:32:45 it sort of intellectually and at every level the hope just dies and all that's left is a few basic researchers so
+00:32:53 you're uncomfortable with some aspects of this this idea well it's the difference between science and commerce
+00:33:03 so you think science prevail science goes on the way does oh it was science can really be killed by not getting
+00:33:14 proper funding or timely funding I think Great Britain was a perfect example of that the Whitehill report in remembers a year
+00:33:25 essentially said there's no use of great britain putting that any money into this it's it's going nowhere and this was all
+00:33:36 about social factions in Great Britain ed Murrow hated Cambridge and Cambridge hated Manchester and yep somebody else
+00:33:47 can write that story but it really did have a heart effect on research there now they've come roaring back with deep
+00:33:59 mind yeah but that's one guy and his visionaries around him but just to push on that it's kind of interesting you
+00:34:07 have this dislike of the idea of an AI winter the words that where's that coming from where were you oh because I
+00:34:16 just don't think it's true  there was a particular periods of time this romantic notion certainly yeah no I
+00:34:31 I admire science perhaps more than I admire commerce Commerce is fine hey you know we all got to live but
+00:34:42 science has a much longer view than Commerce and continues almost regardless not it can't
+00:34:53 continue totally regardless but it almost regardless of what saleable and what's not what's monetizable and what's
+00:35:01 not so the winter is just something that happens on the Commerce side and the science so it seemed arches
+00:35:11 that's a beautifully optimistic inspiring message I agree with you I think if we look at the key people that
+00:35:18 work in AI their work in key scientists most disciplines they continue working out of the love for science no matter
+00:35:24 the you can always scrape up some funding to stay alive and they continue working diligently but there certainly
+00:35:34 is a huge amount of funding now and there's a concern on the AI side and deep learning there's a concern that we
+00:35:43 might with over-promising hit another slowdown and funding which does affect the number of students you know that
+00:35:50 kind of thing yeah it no it does so the kind of ideas you had two machines who think did you continue that curiosity
+00:35:56 throw through the decades that followed yes I did and what what was your view historical view of how AI community
+00:36:06 evolved the conversations about it the work as it persisted the same way from its birth no of course not like it's
+00:36:12 just as we were just talking the symbolic AI really kind of dried up and it all became algorithmic I remember
+00:36:26 a young AI student telling me what he was doing and I had been away from the field long enough I'd gotten involved
+00:36:33 with complexity of the Santa Fe Institute I thought algorithms yeah you there in the surface of but they're not the main event
+00:36:44 no they became the main event that surprised me and we all know the downside of this we all know that if
+00:36:53 you're using an algorithm to make decisions based on a gazillion human decisions baked into
+00:37:02 it are all the mistakes that humans make the bigger trees the shortsightedness and so on and so on
+00:37:11 so you mentioned santa fe institute i usually you've written the novel edge of chaos but it's inspired by the ideas of
+00:37:20 complexity where a lot of which have been extensively explored at the Santa Fe Institute right it's a I mean it's
+00:37:30 another fascinating topic just sort of emergent complexity from chaos nobody knows how it happens really it seems to
+00:37:39 where all the interesting stuff happened so how the first knotty novel but just complexity in general in the work of
+00:37:48 Santa Fe fit into the bigger puzzle of the history of AI or maybe even your personal journey through that one of the
+00:37:58 last projects I did concerning AI in particular was looking at the work of Harold Cohen the painter
+00:38:10 and Harold was deeply involved with AI he was a painter first and and what his project Aaron which was a lifelong
+00:38:26 project did was reflect his own cognitive processes okay Harold and I even though I wrote a book about it we
+00:38:37 had a lot of friction between us and I went I thought this is it you know the book died it was published didn't fell
+00:38:47 into a ditch this is it I'm finished it's time for me to do something different by chance this was a
+00:38:56 sabbatical year for my husband and we spent two months at the Santa Fe Institute in two months at Caltech and
+00:39:05 then the spring semester in Munich Germany okay those two months at the Santa Fe Institute
+00:39:16 were so restorative for me and I began to it this the Institute was very small then it was in some kind of office
+00:39:25 complex on old Santa Fe Trail everybody kept their door open so you could crack your head on a problem and if you
+00:39:33 finally didn't get it you could walk in to see Stewart Coffman or you know any number of people and say I don't get
+00:39:44 this can you explain and one of the people that I was talking to about complex adaptive systems was Murray
+00:39:55 Gelman and I told Murray what Harold Cohen had done and I said you know this sounds to me like a complex adaptive system
+00:40:04 he said yeah it is well what do you know Harold's Erin had all these kissing cousins all over the world in science
+00:40:13 and in economics and so on and so forth I was so relieved I thought okay your instincts are okay you're doing the
+00:40:22 right thing I didn't have the vocabulary and that was one of the things that the Santa Fe Institute gave me if I could
+00:40:28 have rewritten that book no it had just come out I couldn't rewrite it I would have had a vocabulary to explain what
+00:40:36 Erin was doing okay so I got really interested in what was going on at the Institute and that people were again
+00:40:47 bright and funny and willing to explain anything to this amateur George Cowan who was then the head of
+00:40:55 the Institute said he thought it might be a nice idea if I wrote a book about the Institute and I thought about it and
+00:41:04 I I had my eye on some other project god knows what and I said I'm sorry George yeah I really love to do it but you know
+00:41:11 just not gonna work for me at this moment I said all too bad I think it would make an interesting book well he
+00:41:18 was right and I was wrong I wish I'd done it but that's interesting I hadn't thought about that that that was a road
+00:41:25 not taken' that I wish I'd taken well you know or this just on that on that point it's quite brave for you as an as
+00:41:35 a writer as a sort of coming from a world of literature and the literary thinking historical thing I mean just
+00:41:44 from that world and bravely talking to quite I assume large egos and in fact in  AI or in complexity and so on how did
+00:41:58 you do it like where did you I mean I suppose they could be intimidated of you as well this is two different worlds I I
+00:42:04 never picked up that anybody was intimidated by me how are you brave enough where did you find the guts it's
+00:42:12 not just dumb dumb luck I mean I this is an interesting Rock to turn over I'm gonna write a book about and you know
+00:42:18 people have enough patience with writers if they think they're gonna end up at a book that they let you flail around and
+00:42:26 so on as well but they also look if the writer has there's like if there's a sparkle in their eye if they get it yeah
+00:42:34 sure right when were you at the Santa Fe Institute  the time I'm talking about is 1990 yeah 1990 1901 92 but we then
+00:42:46 because Joe is an external faculty member we're in Santa Fe every summer we bought a house there and I didn't have
+00:42:53 that much to do with the Institute anymore I was writing my novels I was but I loved the Institute and I loved
+00:43:10 they again the audacity of the ideas that really appeals to me I think that there there's this feeling much like in
+00:43:21 great great Institutes of neuroscience for example that it's there they're in it for the long game of understanding
+00:43:30 something fundamental about reality in nature and that's really exciting so if we start to not to look a little bit
+00:43:41 more recently how you know AI is really popular today how is this world you mentioned the algorithmic but in
+00:43:52 general is the spirit of the people the kind of conversations you hear through the grapevine and so on is that
+00:43:56 different than the roots that you remember no the same kind of excitement the same kind of this is really gonna
+00:44:05 make a difference in the world and it will it has you know a lot of folks especially young you know 20 years old
+00:44:12 or something they think we've just found something special here we're going to change the world tomorrow on a timescale
+00:44:24 do you have a sense of what of the time scale at which breakthroughs in AI haven't I really don't because look at
+00:44:35 deep learning if that was a Geoffrey Hinton came up with the algorithm in 86 but it took all these years for the
+00:44:50 technology to be good enough to actually be be applicable so no I can't predict that at all
+00:44:58 I can't I wouldn't even try well let me ask you to not to try to predict but to speak to the you know I'm sure in the
+00:45:07 60s as it continues now there's people that think let's call it we can call it this fun word the singularity mmm when there
+00:45:15 is a phase shift there's some profound feeling where we're all really surprised by what's able to be achieved I'm sure
+00:45:23 those dreams were there I remember reading quotes in the 60s and those 15 you how have your own views maybe if you
+00:45:33 look back about the timeline of a singularity changed well I'm not a big fan of the singularity as Ray Kurzweil
+00:45:47 has presented it how would you define the Ray Kurzweil sort of a holiday well how do you think of singularity in the
+00:45:54 skin if I understand Kurt's Wiles view it's sort of there's going to be this moment when machines are smarter than
+00:46:03 humans and you know game game over however the game over is I mean do they put us on a reservation do they etc etc
+00:46:15 and first of all machines are smarter than humans in some ways all over the place and they have been since adding
+00:46:24 machines were invented so it's not it's not gonna come like some great eatable crossroads you know where they meet each
+00:46:34 other and our offspring Oedipus says your dad yeah it's just not gonna happen yes oh it's already game over with
+00:46:43 calculators right they're already out to do much better basic arithmetic than us but you know there's a human-like
+00:46:53 intelligence and it's not the ones that destroy us but you know somebody that you can have as a as a friend oh you can
+00:47:01 have deep connections with that kind of passing the Turing test and beyond those kinds of ideas have you dreamt of those
+00:47:10 oh yes yes yeah it was possible in a book I wrote with that Feigenbaum there's a little story called the
+00:47:20 geriatric robot and how I came up with the geriatric robot is a story in itself but here's here's what the Gerry
+00:47:27 robot does it doesn't just clean you up and feed you and we'll you out into the Sun it's great advantages it listens it
+00:47:41 says tell me again about the great coup of 73 tell me again about how awful or how wonderful your grandchildren are and
+00:47:52 so on and so forth and it isn't hanging around to inherit your money it isn't hanging around
+00:48:00 because it can't get any other job this is its job and so on and so forth well I would love something like that oh yeah I
+00:48:12 mean for me that deeply excites me so I think there's a lot of us like she got a no it was a joke I dreamed it up because
+00:48:21 I needed to talk to college students and I needed to give them some idea of what AI might be and they were rolling in the
+00:48:28 aisles as I elaborated and elaborated and elaborated when it went into the book they took my hide off in the New
+00:48:38 York Review of Books this is just what we have thought about these people in AI they're inhuman come on get over it
+00:48:47 don't you think that's a good thing for the world that AI could potentially walk I do absolutely and furthermore I want
+00:48:57 you know I'm pushing 80 now by the time I need help like that I also want it to roll itself in a corner and shut the
+00:49:08 up let me let me linger on that point do you really though yeah I do here's what you wanted to push back a
+00:49:16 little bit a little but I have watched my friends go through the whole issue around having help in the house and some
+00:49:26 of them have been very lucky and they had fabulous help and some of them have had people in the house who want to keep
+00:49:32 the television going on all day Oh so want to talk on their phones all day No so basically just
+00:49:41 yourself in the corner unfortunately as humans when were assistants we we care we're still even when we're assisting
+00:49:48 others we care about ourselves more of course and so you create more frustration and in robot AI assistant
+00:49:58 can really optimize the experience of you I was just speaking to the point you actually bring up a very very good point
+00:50:05 but I was speaking to the fact that as humans they're a little complicated that we don't necessarily want a perfect servant
+00:50:14 I don't maybe you disagree with that but there's I think there's a push and pull with humans mm-hmm a little tension
+00:50:26 a little mystery that of course that's really difficult failure to get right but I do sense especially in today with
+00:50:34 social media the people are getting more and more lonely even young folks and sometimes especially young folks that
+00:50:43 loneliness there's a longing for connection and AI can help alleviate some of that loneliness some just
+00:50:54 somebody who listens like in person that so we speak sodus so so so to speak yeah so to speak yeah that to me is really
+00:51:06 exciting but so if we look at that that level of intelligence is exceptionally difficult to achieve actually as the
+00:51:14 singularity or whatever that's the human level bar that people have dreamt of that to touring dreamt of it he had a
+00:51:24 date time line do you have how of your own timeline evolved on past don't I don't even think about it you don't even
+00:51:36 know just this field has been so full of surprises for me you just take him in and see yeah it's I just can't
+00:51:46 maybe that's because I've been around the field long enough to think you know don't don't go that way herps
+00:51:54 was terrible about making these predictions of when this and that would happen and he was a sensible guy yeah
+00:52:03 his quotes are often used right as a legend yeah yeah do you have concerns about AI the existential threats that
+00:52:17 many people like Oscars and some Harris and others oh yeah yeah that takes up a half a chapter in my book I
+00:52:31 called it the male gaze well you hang out the male gaze is actually a term from film criticism and I'm blocking on
+00:52:41 the woman's who dreamed this up but she pointed out how most movies were made from the male point of view
+00:52:51 that women were objects not subjects they didn't have any agency and so on and so forth
+00:53:00 so when Elon and his pals Hawking and so on came hey I was gonna eat our lunch our dinner and our midnight snack - I
+00:53:09 thought what and I said to Ed Val oh this is the first gun first these guys have always been the smartest guy
+00:53:16 on the block and here comes something that might be smarter ooh let's stamp it out before it takes over and and laughed
+00:53:23 he said I didn't think about it that way but I did I did and it is the male gaze you know okay suppose these things do
+00:53:36 have agency well let's wait and see what happens can we imbue them with ethics can we imbue them with a sense of
+00:53:50 empathy or are they just gonna be   I know we've had centuries of guys like that that's interesting that the the ego
+00:54:03 the male gaze is immediately threatened and so you can't think in a patient calm way of how
+00:54:13 the tech could have all and he's speaking of which here and then b6 book the future of women no I think at the
+00:54:22 time and now certainly now I mean I'm sorry maybe at the time but I'm more cognitive now is extremely relevant you
+00:54:30 and Nancy Ramsay talk about four possible futures right of women in science and tech so if we look at the
+00:54:39 decades before and after the book was released can you tell a history sorry of women in science and tech you know how
+00:54:49 it has evolved how have things changed where do we stand not enough they have not changed enough the way that women
+00:55:02 are ground down in computing is simply unbelievable but what are the four possible futures for women in tech from
+00:55:12 the book what you're really looking at our various aspects of the present so for each of those you could say oh yeah
+00:55:20 we do have backlash look at what's happening with abortion and so on and so forth we have one step forward one step
+00:55:30 back as a golden age of equality was the hardest chapter to write and I used something from the Santa Fe Institute
+00:55:38 which is the sand pile effect that you drop sand very slowly onto a pile and it grows and it grows and it grows until
+00:55:50 suddenly it just breaks apart and in a way me too has done that that was the last drop of sand that broke everything
+00:56:00 apart that was a perfect example of the sand pile effect and that made me feel good it didn't change all of society but
+00:56:08 it really woke a lot of people up but I you in general optimistic about maybe after me - I mean me choose about a very
+00:56:16 specific kind of thing boy solve that and you solve everything but are you in general optimistic about
+00:56:25 the future yes I'm a congenital optimist I can't help it what about AI what are your thoughts I
+00:56:35 went one way I of course I get asked what you worry about and the one thing I worry about is the things that we can't
+00:56:45 anticipate you know there's going to be something out of left field that what we will just say we weren't prepared for
+00:56:55 that I am generally optimistic when I first took up being interested in AI like most people in the field more
+00:57:05 intelligence was like more virtue you know what could be bad and in a way I still believe that but I realized that
+00:57:16 my notion of intelligence has broadened there are many kinds of intelligence and we need to imbue our machines with those
+00:57:26 many kinds see you've now just finished or in the process of finishing your the book you've been working on a memoir
+00:57:37 what how have you changed I know it's just writing but how have you changed the process if you look back what kind
+00:57:45 of stuff did it bring up to you that surprised you looking at the entirety of it all the biggest thing and it really
+00:57:58 wasn't a surprise is how lucky I was oh my to be it to have access to the beginning of a scientific field that is
+00:58:11 going to change the world how did I luck out and yes of course my my view of get back to one feminist part of our
+00:58:31 conversation without knowing it it really was subconscious I wanted AI to succeed because I was so tired of
+00:58:41 hearing that intelligence was inside the male cranium and I thought if there was something out there that wasn't a male
+00:58:52 thinking and doing well then that would put a lie to this whole notion of intelligence
+00:58:59 resides in the male cranium I did not know that until one night Harold Cohen and I were having a glass of wine maybe
+00:59:11 two and he said what drew you to AI and I said well you know smartest people I knew great project blah blah blah and I
+00:59:20 said and I wanted something besides male smarts and it just bubbled up out of me Lex brilliant actually so AI really humbles
+00:59:34 all of us and humbles the people that need to be humbled the most wow that is so beautiful

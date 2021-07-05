@@ -1,0 +1,85 @@
+00:00:04 hi everyone this scene was created in unreal engine 5 using the brushify environment toolkit
+00:00:17 everything you're about to see is running on a single 1080 ti this is not just a normal landscape
+00:00:31 this is a fully physicalized and interactive world think of it sort of like a futuristic
+00:00:36 version of minecraft i can chip away at the world by tunneling into the landscape
+00:00:43 and as i do rocks and all these small pebbles will become dislodged and move with real physics every single rock that you see is physicalized
+00:00:54 this sort of physical interaction unlocks a lot of gameplay possibilities for instance here i can summon these
+00:01:01 meteors to hit the ground and they'll cause real deformations in the landscape
+00:01:06 this is possible because this entire landscape is rendered using the vauxhall plugin in my opinion
+00:01:13 this really takes games to the next level in terms of technology not only is it now possible to have near photorealism
+00:01:21 but we can also physically interact with our worlds in a way never before possible on consumer hardware here you can see me
+00:01:28 actually tunneling into the landscape and actually creating a hole
+00:01:35 directly through the terrain brushify takes care of automatically texturing the landscape as
+00:01:40 it gets deformed we can sculpt the landscape in just the same way as we would a normal
+00:01:45 unreal engine landscape but with the added benefit of being able to create overhangs it's also really cool how all of the
+00:01:52 physicalized objects interact with the landscape as you sculpt and this is all able to take place
+00:02:00 in run time i'm also making use of unreal engine 5's nanite feature and here you can see in the nanite
+00:02:08 preview that i'm actually using it to make the distance mountains much much cheaper i'm able to use the high polygon version
+00:02:16 of all of the distance mountains and really just go completely crazy with the art side of things
+00:02:22 and not really worry about performance another really cool feature i was able to use in the scene
+00:02:31 is actually the volumetric clouds i'm actually using ultra dynamic sky in this scene with the volumetric clouds preset
+00:02:40 this is really cool because it allows me to have real three-dimensional clouds in the scene
+00:02:45 and also to take full control over the look i think ultra dynamic sky is perfect for these really dynamic
+00:02:51 gameplay scenes so i'm actually able to have a full 24 hour day and night cycle
+00:02:58 this entire lighting setup will pretty much work out of the box and you can pretty much just tweak
+00:03:03 sliders here and there and you'll get similar results to these by the way all of the assets that you
+00:03:09 see here the rocks the grass the distance mountains these are all assets that are included in the brushify packs
+00:03:17 these rocks are all brushify 3d scans they're all designed to be modular encapsulated and game ready
+00:03:23 which means they're really easy to place in the context of an open world game they're also completely set up to use
+00:03:30 physics out of the box the other quite impressive thing about this is that the
+00:03:36 world size is actually not small  it's five kilometers across by five kilometers across
+00:03:42 so 25 kilometers squared and what's also amazing is that as i move through this voxel world new procedural meshes will be generated
+00:03:50 on the fly so here you can see that wherever i go to it's going to become automatically populated
+00:03:57 completely procedurally with these sort of grass and rocks and those are all going to follow preset
+00:04:02 rules so that's sort of things like what angle the rocks are going to spawn at the sort of quantity and density of the rocks for
+00:04:10 different areas and it will really just sort of make its mind up what the world is going to
+00:04:16 look like so i didn't have to hand place all of the stuff it was all procedurally generated automatically
+00:04:23 another unreal engine 5 feature that i'm making use of here is lumen lumen allows us to have
+00:04:31 fully interactive global illumination so that means that as i put an object like this red cube into the world
+00:04:37 you can see that it's actually reflecting that red onto the nearby rocks so here if i make this red cube even
+00:04:45 bigger we can see that all of the nearby rocks are actually getting that red reflection from the cube so i think this is a
+00:04:52 really good example of global illumination because you can see the cube is effectively acting as a
+00:04:58 light source even though there are no actual red lights in the scene
+00:05:03 and if i actually change this cube's color to somewhere in the green here and i just have to move it around and
+00:05:10 you can see that as the light updates now all of the rocks have got the green reflection
+00:05:16 going on instead of red and that's because all of this stuff is happening dynamically
+00:05:22 in real time now this is quite an exaggerated example but what you can actually see when you
+00:05:27 turn on lumen is that every object in the scene feels more embedded in its surroundings
+00:05:34 and that's because it's actually getting light that is reflected from the rest of the scene
+00:05:40 which has the correct color and tonality that it should actually have the fact that you can just play around
+00:05:45 with colors and lighting and everything will update in real time is one of the big game changers with
+00:05:51 unreal engine 5 and lumen if i actually move this light further away you can see that that blue
+00:05:59 light's now completely disappeared and if i bring it back the blue light reappears again
+00:06:07 so it really is completely real-time and  interactive there's no baking there's no waiting
+00:06:15 and also it doesn't have the cost of rtx or ray tracing so it's a very cheap way to get very nice looking
+00:06:24 global elimination and i think just overall you can really see the big difference that it makes to
+00:06:31 pretty much any scene because all of the rocks here for instance just look like they're very well embedded into
+00:06:37 their environment at this point it really feels like i'm using a game engine from the future
+00:06:43 with this demo i really wanted to go crazy and string together all of the most sort of high-end and really experimental
+00:06:51 technology so unreal engine 5 brushify voxel plug-in ultra dynamic sky put them all together into one project
+00:06:59 and get everything working and see how it looks i really think the results have been
+00:07:03 really fantastic and to be honest i'm really surprised just how well all of this works
+00:07:09 in this early access version i was very surprised how stable it is it's running at least 60 fps on my 1080 ti
+00:07:18 which is now a pretty old video card and yeah i'm just very happy that all of this tech
+00:07:24 really can just work and really the setup worked pretty much out of the box to be honest
+00:07:29 unreal engine 5 itself is still early access and all of the plugins and things that i'm using
+00:07:35 are constantly being worked on and improved but i think with time we're going to get more stability more
+00:07:41 performance and even better graphics out of just stringing together all of these different technologies
+00:07:48 i'm really hoping that this video serves as a little bit of inspiration and a sort of glimpse into the future
+00:07:54 and maybe opens everyone's eyes to what could be possible for games going forward in the future i can see
+00:08:00 developers creating vast destructible worlds we really are no longer limited to
+00:08:06 corridor shooters or these sort of simplistic solid environments the world can be completely dynamic and
+00:08:12 we can have realistic graphics alongside this level of physicality since unreal engine 5 came out i felt
+00:08:20 more than ever like i'm living in the future of real-time graphics so i'd like to give a huge thanks to epic games
+00:08:28 for unreal engine 5 and for pushing us into the future of technology and i'd also like to give a big thank
+00:08:34 you to voxel plugin whose technology and customer support allowed me to create this demo
+00:08:40 and to ultra dynamic sky for the beautiful lighting presets hi everyone so yeah just wanted to wrap
+00:08:47 the video up by saying don't forget to subscribe by clicking the subscribe button below
+00:08:54 and a little bell notification icon thingy if that's still there i don't even know it really does help me with this channel
+00:09:00 and sort of growing the channel and also it helps me get a good idea of what you kind of
+00:09:05 want to watch what you guys are liking and what you don't like that kind of thing also feel free to add a comment below
+00:09:11 and ask me anything about you know brushify or unreal that kind of stuff most of the time i will reply if
+00:09:17 it's a serious question i think that's just about everything from my side don't spend all summer on
+00:09:22 unreal engine 5 go outside try and enjoy the sun while it lasts
+00:09:27 that's a big word of advice to everybody and after a winter like last winter i think we all need to have a little bit
+00:09:33 less stress in our lives go outside get some sun and live your best life alright guys joe garth

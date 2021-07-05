@@ -1,0 +1,468 @@
+00:00:01 the following is a conversation with Lee Smolin he's a theoretical physicist co-inventor of loop quantum gravity and
+00:00:08 a contributor of many interesting ideas to cosmology quantum field theory the foundations of quantum mechanics
+00:00:14 theoretical biology and the philosophy of science he's the author of several books including one that critiques the
+00:00:21 state of physics and string theory called the trouble with physics and his latest book Einsteins unfinished
+00:00:28 revolution the search for what lies beyond the quantum he's an outspoken personality in the public debates on the
+00:00:35 nature of our universe among the top minds in the theoretical physics community this community has its
+00:00:41 respected academics it's naked Emperor's its outcasts in his revolutionaries its Mad Men and his dreamers this is why
+00:00:49 it's an exciting world to explore it's a long-form conversation I recommend you listen back to the episodes with Leonard
+00:00:57 Susskind Sean Carroll Michio Kaku max tegmark Eric Weinstein and Jim Gates you might be asking why talk to physicist if
+00:01:07 you're interested in AI to me creating artificial intelligence systems requires more than Python and deep learning it
+00:01:13 requires that we return to exploring the fundamental nature of the universe and the human mind theoretical physicists
+00:01:21 venture out into the dark mysterious psychologically challenging place of first principles more than almost any
+00:01:29 other discipline this is the artificial intelligence podcast if you enjoy it subscribe on YouTube get five stars an
+00:01:36 Apple podcast supported on patreon or simply connect with me on Twitter Alex Friedman spelled Fri D M am as usual
+00:01:44 I'll do one or two minutes of ads now and never any ads in the middle that can break the flow of the conversation I
+00:01:50 hope that works for you and doesn't hurt the listening experience this show is presented by cash app the number-one
+00:01:56 finance app in the App Store when you get it you scolex podcast cash app lets you send money to friends
+00:02:04 buy Bitcoin and invest in the stock market with as little as $1 since cash app allows you to buy Bitcoin let me
+00:02:10 mention that the currency in the context of the history of money is fascinating I
+00:02:16 recommend a cent of money as a great book on this history debits and credits on Ledger's started around 30,000 years
+00:02:25 ago the US dollar of course created over two hundred years ago and Bitcoin the first decentralized cryptocurrency was
+00:02:32 released just over ten years ago so given that history cryptocurrencies still very much in its early days of
+00:02:38 development but it still is aiming to and just might redefine the nature of money if you get cash app from the App
+00:02:46 Store or Google Play and use the code Lex podcast you'll get ten dollars in cash app will also donate ten dollars
+00:02:52 the first one of my favorite organizations that's helping to advance robotics and STEM education for young
+00:02:59 people around the world and now here's my conversation with Lee Smolin what is real let's start with an easy question
+00:03:08 put another way how do we know what is real and what is merely a creation of our human perception and imagination we
+00:03:16 don't know you don't know this is science I presume were talking about science and we believe or I believe that
+00:03:27 there is a world that is independent of my existence in my experience about it my knowledge of it and this I call the
+00:03:37 real world so he said science but even bigger than science what sure sure I need not have said this is science I
+00:03:46 just was you know warming up warming up okay now that we're warmed up let's take a brief step outside of science is it
+00:03:54 completely a crazy idea to you that everything that exists is merely creation of our mind so like there's a
+00:04:02 few not many this is outside of science now people who believe sort of perception is fundamentally what's in
+00:04:10 our human perception the visual cortex and so on the the cognitive constructs that's being formed there is the reality
+00:04:20 and then anything outside is something that we can never really grasp that's the crazy idea too
+00:04:26 there's a version of that that is not crazy at all what we experienced is constructed by our brains and by our
+00:04:40 brains in an active mode so we don't see the raw world we see a very processed world we feel something was very
+00:04:47 processed through our brains and our brains are incredible but I still believe that behind that experience that
+00:04:58 mirror fail or whatever you want to call it there is a real world and I'm curious about it can we truly how do we get a
+00:05:07 sense of that real world is it through the tools of physics from theory to the experiments or can we actually grasp it
+00:05:16 in in some intuitive way that's more connected to our ape ancestors or is it still fundamentally the tools of math
+00:05:26 and physics that really allow us to grow so let's talk about what tools they are what you say are the tools of math and
+00:05:33 physics I mean I think we're in the same position as our ancestors in the caves or before the caves or whatever we find
+00:05:42 ourselves in this world and we're curious we also it's important to be able to explain what happens when there
+00:05:50 are fires when they're not fighters what animals and plants are good to eat and all that stuff and but we're also just
+00:05:59 curious we look up in the sky and we see the Sun and the moon and the stars and we see some of those move in we're good
+00:06:07 we're very curious about that I think we're just naturally curious so we make up this is my version of what I were we
+00:06:20 make up stories and explanations and where there are two things which I think are just true of being human we make
+00:06:31 judgments fast because we have to we're to survive we is that a tiger is that not a tiger
+00:06:39 and we go act we have to act fast on incomplete information so we we judge quickly and we're off and wrong but at
+00:06:47 least sometimes wrong which is all I need for this we're off in Iran so we fool ourselves and we fool other people
+00:06:58 readily and so there's lots of stories that get told and some of them result in a concrete benefit and some of them
+00:07:08 don't and so he said we're often wrong but what does it mean to be right right that's that's the that's a that's an
+00:07:17 excellent question to be right well since I'm I believe that there is a real world I believe that to be you can
+00:07:26 challenge me on this if you're not a realistic realistic somebody who believes in these this real objective
+00:07:32 world which is independent of our perception if I'm a realist I think that to be right is to come
+00:07:41 closer I think first of all this a relative scale is not right and wrong this writer more right than less right
+00:07:48 and you're more right if you come closer to an exact true description of that real world now can we know that for sure
+00:07:57 now in the scientific method is ultimately what allows us to get a sense of how close were getting to that real
+00:08:04 world no one to counts first of all I don't believe his scientific method ha I was very influenced when I was in
+00:08:11 graduate school by the writings of Paul fire Robin who was enough an important philosopher of science who argue that
+00:08:18 there is no scientific method there is or there is not there's not can you elaborate if sorry if you were going to
+00:08:26 but can you elaborate on the what does it mean for there not to be a scientific method this notion that I think a lot of
+00:08:34 people believe in in this day and age sure Paul Farben or he was a student of popper who taught opera Karl Popper and
+00:08:48 Farben argued both by logic and by historical exam well that you named anything that should
+00:08:55 be part of the practice of science say you should always make sure that your theories agree with all the data that's
+00:09:00 always meant it's already been taken and he'll prove to you that there have to be times when science contradicts when some
+00:09:12 scientist contradicts that advice for science to progress overall so it's not of science as a community and a people
+00:09:28 of people and as a community of people bound by certain ethical precepts precepts whatever that so in that
+00:09:39 community a set of ideas they operate under I'm meaning ethically of kind of the rules of the game they operate under
+00:09:47 don't lie report all your results whether they agree or don't agree with your hypothesis check the training of a
+00:09:58 scientist mostly consists of methods of checking because again we make lots of mistakes we're very error-prone
+00:10:05 but there are tools both on the mathematics and the experimental side to check and double-check and triple-check
+00:10:14 and a scientist goes through a training and I think this is part of it you can't just walk off the street and say yo I'm
+00:10:21 a scientist you have to go through the training and the training the test that lets you be done with the training is
+00:10:33 can you form a convincing case for something that your colleagues will not be able to shout down because the last
+00:10:43 did you check this and did you check that and did you check this and what about seeming contradiction with this
+00:10:51 and you've got to have answers to all those things or you don't get taken seriously and when you get to the point
+00:10:57 where you can produce that kind of defense and argument then they give you a PhD that's and you're kind of licensed
+00:11:05 you're still going to be questioned and you still may propose or publish mistakes but the community is gonna have
+00:11:15 to waste less time fixing your mistakes yes but if you can maybe linger on it a little longer what's the gap between the
+00:11:25 thing that that community does and the ideal of the scientific method was the scientific method is you should be able
+00:11:37 there's a lot of elements to what construes the the scientific method but the final result the hope of it is that
+00:11:47 you should be able to say with some confidence that a particular thing is close to the truth right but there's not
+00:11:56 a simple relationship between experiment and hypothesis or theory for example Galileo did this experiment of dropping
+00:12:04 a ball from the top of a tower and it falls right at the base of the tower and an Aristotelian would say Wow
+00:12:12 of course it falls right to the base of the tower that shows that the earth isn't moving while the ball is falling
+00:12:18 and Galileo says no wait there's a principle of inertia and has an inertia in the direction with the earth isn't
+00:12:25 moving and the tower and the ball in the or thought moves together when the principle of inertia tells you at his at
+00:12:31 the bottom it does look like therefore my principle of inertia is right you know Stettin Ian says no peristyle
+00:12:38 science is right the earth is stationary and so you gotta get an interconnected bunch of cases and work hard to line up
+00:12:51 and isolated centuries to make the transition from Aristotelian physics to the new physics it wasn't done till
+00:13:02 Newton in 1687 in 1687 so what do you think is the nature of the process that seems to lead to progress if we at least
+00:13:11 look at the long arc of science of all the community of scientists they seem to do a better job of coming up with ideas
+00:13:19 that engineers can then take on and build rockets with or build computers with or build cool stuff with I don't
+00:13:29 know a better job than what then this previous century so century by century we can talk about we'll talk
+00:13:36 about string theory and so on and kind of possible well you might think of as dead ends and and so on not do it we
+00:13:45 will string whistles straight but there's never less than science very often at least temporary dead ends but
+00:13:55 if you if you look sure at the through centuries you know the century before Newton in the century after Newton it seems like a
+00:14:06 lot of ideas came closer to the truth that then could be usable by our civilization to build the iPhone right
+00:14:14 to build cool things that improve our quality of life that's the progress I'm kind of referring to let me can I say
+00:14:24 that more precisely yes I think it's a it's important to get the time places right yes there was a scientific
+00:14:35 revolution that partly succeeded between about 1900 or late 1890s and into the 22 1930s 1940s and so and maybe some if she
+00:14:50 stretched it into the 1970s and the technology this was the discovery of relativity and that included a lot of
+00:14:59 developments of electromagnetism the conformation which wasn't really well confirmed into the 20th century that
+00:15:07 matter was made of atoms and the whole picture of nuclei with electrons going around this is early 20th century and
+00:15:17 then quantum mechanics was from 1905 it took a long time to develop to the late 1920s and then it was basically in final
+00:15:28 form and the basis of this partial revolution we can come back to why it's only a partial revolution is the basis
+00:15:38 of the technologies you mentioned all of I mean electrical technology was being developed slowly with this and in fact
+00:15:46 there's a close relation between development of electric electricity and the electrification of cities in the
+00:15:55 United States and Europe and so forth and the development of the science the size of the fundamental physics since
+00:16:09 the early 1970s doesn't have a story like that and so far there's not a series of triumphs and progresses and
+00:16:18 there's not a there's not any practical application so just to linger briefly on the early 20th century and the
+00:16:28 revolutions in science that happened there what was the method by which the scientific community kept each other in
+00:16:39 check about when you get something right when you get something wrong is experimental validation ultimately the
+00:16:45 final test it's absolutely necessary and the key things were all validated two key predictions of quantum mechanics and
+00:16:52 of the theory of electricity and magnetism so before we talk about Einstein now your new book before string
+00:17:00 theory quantum mechanics on let's take a step back at a higher level question what is that you mentioned what is realism
+00:17:12 what is anti realism and maybe why do you find realism as you mentioned so compelling realism is you is the belief
+00:17:26 in the in an external world independent of our existence our perception our belief our knowledge a realist as a
+00:17:35 physicist is somebody who believes that there should be possible some completely objective description of each and every
+00:17:47 process at the fundamental level which which describes and explains exactly what happens and why it happened
+00:17:55 that kind of implies that that system in a realist view is deterministic meaning there's no fuzzy magic going on that you
+00:18:02 can never get to the bottom you can get to the bottom of anything and perfectly describe it some people would say that
+00:18:12 I'm not interested in determinism but I I could live with the fundamental world which which had some chance in it so
+00:18:21 deep he said you could live with it but do you think God plays dice in our universe I think it's probably much
+00:18:29 worse than that in which direction I think that theories can change and theories unchanged
+00:18:37 without warning I think the future is open you mean the fundamental laws of physics can change you okay we'll get there I
+00:18:48 thought I thought we would be able to find some solid ground but apparently for the ground is the entirety of it
+00:18:55 temporarily so probably okay let's  so realism is the idea that while the ground is solid you can describe it
+00:19:04 what's the role of the human being our beautiful complex human mind in the in realism do we have them are we just
+00:19:15 another set of molecules connected together in a clever way or the observer this is the observer our human mind
+00:19:23 consciousness have a role in this realism view of the physical universe there's two ways there's two questions
+00:19:33 you can be asking it does our conscious mind you are perceptions play a role in making things become in making things
+00:19:42 real or if things becoming that's question one question two is does this we can call it a naturalist view of the
+00:19:55 world that is based on realism allow a place to understand the existence of and the nature of perceptions and
+00:20:02 consciousness in mind and that's question two question two I do think a lot about and
+00:20:10 my answer which is nine answers I hope so but it certainly doesn't yet so what question one I don't think so but of
+00:20:18 course the answer to question one depends on question two right so I'm not up to question one yeah the question two
+00:20:26 is the thing that you can kind of struggle with at this time as what about the anti-realists so what flavour what
+00:20:36 are the different camps of anti-realist that you've talked about I think it'd be nice if you can articulate for the
+00:20:44 people for whom there is not a very concrete real world as there's divisions or there's a it's Messier then the
+00:20:52 realist view of the universe what are the different camps for the different views I'm I'm not sure I'm a I'm a good
+00:20:58 scholar and can talk about the different camps and analyze it but some many of the inventors of quantum physics were
+00:21:07 not realness weren't I realist in their scholarship they lived in a very perilous time between the two world wars
+00:21:16 and there were a lot of trends in culture which were going that way but in any case they said things like the
+00:21:26 purpose of science is not to give an objective realist description of nature's it would be in our absence this
+00:21:32 movie might be saying Niels Bohr the purpose of science is as an extension of our conversations with each
+00:21:40 other to describe our interactions with nature and we're free to invent and use terms like particle or wave or a
+00:21:50 causality or a time or space if they're useful to us and they carry some intuitive implication but we shouldn't
+00:21:59 believe that they actually have to do with what nature would be like in our absence which we have nothing to say
+00:22:07 about do you find any aspect of that because you kind of said that we human beings tell stories defined aspects of
+00:22:16 that kind of entire realist view of Niels Bohr compelling that were fundamentally are
+00:22:23 storytellers and then we create tools of space and time and causality and whatever this fun quantum mechanic stuff
+00:22:31 is to help us tell the story of our world sure I just would like to believe that is an aspiration for the other
+00:22:42 thing driving being what the the realist point of view do you hope that the stories will eventually lead us to
+00:22:54 discovering discovering the real world as it is yeah it's perfection possible by the way though
+00:23:03 oh well that's you mean will we ever get there and know that we're there yeah exactly that's not mine that's for
+00:23:09 people 5,000 years in the future we're certainly nowhere near there yeah do you think reality that exists our sight
+00:23:21 outside of our mind do you think there's a limit to our cognitive abilities is again descendants of apes for just
+00:23:29 biological systems is there a limit to our minds capability to actually understand reality sort of there comes a
+00:23:41 point even with the help of the tools of physics that we just cannot grasp some fundamental aspects of that again I
+00:23:49 think that's a question for 5,000 years in the future element I think there is a universality here I don't agree with
+00:23:57 David Deutsch about everything but I admire the way he put things in his last book and he talked about the role of
+00:24:05 explanation and he talked about the universality of certain languages of the universality of mathematics or of
+00:24:16 computing and so forth and he believed that universality which is something real which is it somehow comes out of
+00:24:24 the fact that the symbolic system in a mathematical system can refer to itself and in every I forget what that's called
+00:24:30 in reference back to itself and build in which he argued for a universality of possibility
+00:24:41 for our understanding whatever is out there but I'm I admire that argument but I it seems to me we're doing okay so far
+00:24:54 but we'll have to see whether there is a limit or not for now we got we got plenty to play with yeah there are
+00:25:00 things which are right there in front of us which we miss and I'll quote my friend Eric Weinstein in saying look
+00:25:10 Einstein carried his luggage Freud carried his luggage Marx carried his luggage Martha Graham carried her
+00:25:18 luggage etcetera Edison carried his luggage all these geniuses carry their luggage and not once before relatively
+00:25:27 recently did it occur to anybody to put a wheel on luggage and pull it and it was right there waiting to be invented
+00:25:37 for centuries so this is Erik Y Stein yeah what do the wheels represent are you basically saying that there's stuff
+00:25:44 right in front of our eyes that once we it just clicks we put the wheels in the luggage a lot of things will fall into
+00:25:53 place yes that I do I do and every day I wake up and think why can't I be that guy who was walking through the airport
+00:26:01 what do you think it takes to be that guy because link you said a lot of really smart people carried their luggage
+00:26:11 mm-hmm what just psychologically speaking so Erik wants that is a good example of a person who thinks outside
+00:26:18 the box yes who resists almost conventional thinking you're an example of a person who by habit by psychology
+00:26:29 by upbringing I don't know but resists conventional thinking as well just by Nature that's that's a compliment
+00:26:36 good so what do you think it takes to do that is that something you were just born with I doubt it well from my
+00:26:47 studying some cases because I'm curious about that obviously and just in a more concrete way when I start out in physics
+00:26:56 because I started a long way from physics so it took me a long not a long time but a lot of work to get to study
+00:27:05 it and get into so I did wonder about that and so I read the biographies and in fact I started with the autobiography
+00:27:14 of Einstein and Newton in Galileo and all those all those people and I think there's a couple of things some of it is
+00:27:25 luck being in the right place the right time some of it is stubbornness and arrogance which can easily go wrong
+00:27:34 yes and I know I know all of these are doorways if you go through them slightly at the wrong speed or any wrong angle
+00:27:45 they're their ways to fail but if you somehow have the right look the right confidence and arrogance caring
+00:27:55 I think Einstein cared to understand nature with ferocity and commitment that exceeded other people of his time so he
+00:28:06 asked more stubborn questions he asked deeper questions I think and there's a level of ability and whether ability is
+00:28:20 born in or can be developed at a sensor which can be developed like any of these things like musical talent dimension ego
+00:28:28 what's the role of ego in that process confidence confidence but you do in your own life if you found yourself walking
+00:28:38 that nice edge of too much or too little so being overconfident and therefore leading yourself astray or not
+00:28:45 sufficiently confident to throw away the conventional thinking of whatever the theory of the day of theoretical physics
+00:28:53 I don't know if I I mean I've contributed where I've contributed whether if I had had more
+00:29:00 confidence in some things I would have gotten further I don't know whether certainly hi I'm sitting here at this
+00:29:12 moment with very much my own approach to telling everything and I'm calm I'm happy about that but on
+00:29:23 the other hand I know people whose self-confidence vastly exceeds mine and sometimes I think it's justified and
+00:29:32 sometimes I think it's not justified your most recent book titled Einstein's unfinished revolution so I have to ask
+00:29:41 what is Einsteins unfinished revolution and also how do we finish it well that's something I've been trying to do my
+00:29:49 whole life but Einsteins unfinished revolution is the twin revolutions which invented relativity theory special and
+00:29:57 especially general relativity and quantum theory which he was the first person to realize in 1905 there would
+00:30:07 have to be a radically different theory which somehow realized to resolve the paradox of the duality of particle wave
+00:30:17 for photons and he was I mean people I think don't always associate I style with quantum mechanics because I think
+00:30:23 his connection with it founding as a one of the founders I would say of quantum mechanics he kind
+00:30:31 of put it in the closet is it well he didn't believe that the quantum mechanics as it was developed in the
+00:30:38 late 19th middle late 1920s was completely correct at first he didn't believe it at all
+00:30:43 then he was convinced that it's consistent but incomplete and that also is my view it needs for various reasons
+00:30:54 I can elucidate to have additional degrees of freedom particles forces something to reach the stage where it
+00:31:03 gives a complete description of each phenomena and as I was saying realism demands so what aspect of quantum mechanics
+00:31:13 bothers you and Einstein the most is it some aspect of the wavefunction collapse discussions the measurement problem is
+00:31:24 it the the the measurement problem I'm not gonna speak for Einstein but the measurement problem basically and the
+00:31:32 fact that what is the measurement problem sorry the basic formulation of quantum mechanics gives you two ways to
+00:31:41 evolve situations in time one of them is explicitly when no observer is observing or no measurement is taking place and
+00:31:48 the other is when a measurement or observation is taking place and they can treat they basically contradict each
+00:31:55 other but there's another reason why the revolution wasn't completed which is we don't understand the relationship
+00:32:01 between these two parts general relativity which became our best theory of space and time and gravitation and
+00:32:11 cosmology and quantum theory so for the most part general relativity describes big things
+00:32:17 quantum theory describes little things and that's the revolution that we found really powerful tools to describe big
+00:32:24 things and little things and it's unfinished because you wouldn't have two totally separate things and we need to
+00:32:31 figure out how to connect them so it can describe everything right and we either do that if we believe quantum mechanics
+00:32:40 as understood now is correct by bringing general relativity or some extension or general relativity that describes
+00:32:47 gravity and so forth into the quantum domain that's called quantize the theory of gravity or if you believe with
+00:32:57 Einstein that quantum mechanics needs to be completed and this is my view then part of the job of finding the right
+00:33:06 completion or extension of quantum mechanics would be one that incorporated space-time in gravity so where do we
+00:33:18 begin so first let me ask perhaps you can give me a chance if I could ask you some just really basic questions well there
+00:33:24 at all the basic questions and the hardest but you mentioned space-time what is space-time space-time you talked
+00:33:33 about a construction so I believe the space-time is a intellectual construction that we make of the events
+00:33:40 in the universe I believe the events are real and the relationships between the events which cause which are real but
+00:33:49 the idea that here is a four-dimensional smooth geometry which has a metric in the connection and satisfies the
+00:33:57 equations that Einstein wrote it's a good description to some scale it's a good approximation it captures some of
+00:34:05 what's really going on in nature but I don't believe it for a minute is fundamental so okay let's we're gonna
+00:34:12 allow me to linger on that so the universe has events events cause other events there's this idea of causality
+00:34:23 okay so that that's happy let's in my in your view Israel or hypothesis so the theories that I have been working to
+00:34:31 develop make that assumption so space-time you said four dimensional space is kind of the location of things
+00:34:41 and time is whatever the heck time is and you're saying that space-time is both space and time are emergent and not
+00:34:52 fundamental no sorry before you correct me what is mean to be fundamental or emergent fundamental
+00:35:01 means it's part of the description as far down as you go we have real yes as real as real it could be yeah so I think
+00:35:11 the time is fundamental and quote goes all the way down and space does not and the combination of them we use in
+00:35:18 general relativity that we call space-time also it is not but what is time then I think that time the activity
+00:35:31 of time is the continual creation of events from existing event so if there's no events
+00:35:38 there's nothing then there's not only not no time there's no nothing so so I believe that history universe has a
+00:35:48 history which goes to the past I believe that a future does not exist there's a notion of a present and a notion of the
+00:35:59 past and the past consists of is a story about events that took place to our past could you say that again can you try to
+00:36:14 give me a chance to understand that one more time so what the events caused other events
+00:36:19 what is this universe because we'll talk about locality in nonlocality good because it's the crazy I mean it's
+00:36:29 not crazy it's a beautiful set of ideas that you you propose but and if because all these fundamental I just like to
+00:36:36 understand it better what is him what is the past what is the future what is the flow of time even the
+00:36:46 era of time in our universe in your view and maybe it was an event right Oh an event is where something changes or
+00:37:01 where to I it's hard to say because it's a primitive concept in the event is a moment of time within space this is the
+00:37:11 the view and general relativity where two particles intersect in their paths or something changes in the path of the
+00:37:22 particle now we are postulating the theories I have two fundamental level a notion which is an elementary notion so
+00:37:30 it doesn't have a definition in terms of other things but it is something elementary happening and it's it doesn't
+00:37:37 have a connection to energy or matter or exchange of any ties to have the connection energies at that level
+00:37:43 yeah it involves and that's why the version of a theory of that I've developed with Marina Cortez
+00:37:51 and they say by the way I want to mention my collaborators because they've been at least as important in this work
+00:38:00 as I have marina Cortes in all the works since about 2013 2012-2013 about causality Carlos set and in the period
+00:38:11 before that Roberto mangabeira Unger who is a philosopher and a professor of law and that's in your efforts
+00:38:17 together with your collaborators to finish the unfinished revolution so yeah and focus on causality and focus on
+00:38:27 mental yes as fundamental to physics so and there's certainly other people we've worked with but those two people's
+00:38:34 thinking had a huge influence on my own thinking so in the way you describe causality that's what you mean
+00:38:41 of time being fundamental that causality is from the yes and what does it mean for space to not be fundamental to be
+00:38:49 though that's very good this is a level of description in which there events there are events create other events but
+00:38:59 there's no space they don't live in space they have an order in which they caused each other
+00:39:06 and that is part of the nature of time for us so but but there is an emergent approximate description and you asked me
+00:39:19 to find a version I didn't an emergent property is a property that arises at some level of complexity larger than and
+00:39:30 more complex than the fundamental level which requires some property to describe it which is not directly explicable or
+00:39:44 drivable is the word I want from the properties of the fundamental things and space is one of those things in a
+00:39:54 sufficiently complex universe space three-dimensional position of things emerged yes and we have this we saw how
+00:40:01 this happened in detail in some models both computationally and analytically ok so
+00:40:10 connected to space is the idea of locality yes that so we talked about realism so I I live in this world at
+00:40:20 like sports you know locality is a thing that you know you can affect things close to you
+00:40:28 and don't have an effect on things that are far away mm-hmm it's the thing that bothers me about gravity in general or
+00:40:35 action in a distance the same thing that probably bothered Newton or at least he said a little bit about it okay so what
+00:40:45 do you think about localities it's just a construct is it us humans just like this idea and are connected to it
+00:40:54 because we exist in it we need it for our survival but it's not fundamental I mean it seems crazy for it not to be a
+00:41:02 fundamental aspect of our reality it does and you comfort me and a sort of as a therapist like how do i I'm not a good
+00:41:14 therapist okay there are several different definitions of locality when you come to talk about locality in
+00:41:24 physics in quantum field theory which is a mixture of special relativity and quantum mechanics there is a precise
+00:41:34 definition of locality operative field operators corresponding to events in space-time which are space like
+00:41:40 separated can meet with each other as operators so in the in quantum mechanics you think about the nature realities
+00:41:48 fields and things that are close and if you have an impact on each other more than farther away that's yes that's very
+00:41:56 comforting that makes sense so that's a property of quantum field theory and it's well tested unfortunately there is
+00:42:05 another definition of local which was expressed by Einstein and expressed more precisely by John Bell which has been
+00:42:14 tested experimentally and found fail and this setup is you take two particles so one thing that's really
+00:42:24 weird about quantum mechanics is a property called entanglement you can have two particles interact and then
+00:42:32 share a property without it being a property of either one of the two particles and if you take such a system
+00:42:40 and then you magically make a measurement on particle a which is over here on my right side and particle B
+00:42:48 which is over here and what somebody else makes a measurement in a particle B you can ask that whatever is the real
+00:43:00 reality of particle B it not be affected by the choice the observer at particle a makes about what to measure not the
+00:43:07 outcome just the choice of the different things they might measure and that's a notion of locality because it assumes
+00:43:14 that these things are very far space like separated and it's going to take a while for any information about the
+00:43:22 choice made by the people here at a to affect the reality of B but you make that assumption that's called bell
+00:43:29 locality and you derive a certain inequality that some correlation functions of correlations have to
+00:43:37 satisfy and then you can test that pretty directly in experiments which create pairs of photons or other
+00:43:46 particles and it's wrong by many sigma in experiment in is a match so what what does that mean that means that that
+00:43:55 definition of locality I stated is false the the one that Einstein was playing with and the one the one that I stated
+00:44:03 that is it's not true that whatever is real about particle B is unaffected by the choice that the observer makes as to
+00:44:12 what to measure in particle a no matter how long they've been propagating and almost the speed of light or the speed
+00:44:18 of light away from each other it's no matter so like the distance between them well it's been tested of course if you
+00:44:27 want to have hope for quantum mechanics in completely wrong and corrected by something that changes this it's been
+00:44:35 tested over a number of kilometers I don't remember whether it's 25 kilometers or 170 kilometers but so in
+00:44:46 trying to solve the unsolved revolution in trying to come up with a theory for everything is causality fundamental and
+00:44:58 breaking away from locality absolutely fun a crucial step so the in your book essentially those are the two things we
+00:45:06 really need to think about as a community especially the physics community has to think about this okay I
+00:45:15 guess my question is how do we solve how do we finish the unfinished revolution well that's I can only tell you what I'm
+00:45:24 trying to do and what I have abandoned yes it's not working as one ant smart ant in an ant colony yep or maybe dumb
+00:45:37 that's why he knows but anyway that's become my view of the we've had some nice theories invented there's a bunch
+00:45:48 of different ones both related to quantum mechanics related to quantum gravity there's a lot to admire in many
+00:45:57 of these different approaches but to my understanding they none of them completely solve the problems that I
+00:46:08 care about and so we're in a situation which is either terrifying for students or full of opportunity for the right
+00:46:16 student in which we've got more than a dozen attempts and I never thought I don't think anybody anticipated would
+00:46:25 work out this way which work partly and then at some point they have an issue that nobody can figure out how to go
+00:46:33 around or how to solve and that's the situation we're in my reaction to that is twofold one of them is to try to
+00:46:44 bring him we evolved into this unfortunate sociological situation in which there are communities around some
+00:46:51 of these approaches and to borrow again a metaphor from Eric they sit on top of hills in the landscape of theories and
+00:47:01 throw rocks in each other and as eric says we need two things we need people to get off their hills and come down
+00:47:09 into valleys and party and talk and become friendly and it's learning to say not know but but yes and yes your idea
+00:47:20 goes this far but maybe if we put it together with my idea we could go further yes so in that spirit of talked
+00:47:31 several times with Sean Carroll who's also written an excellent book recently and he kind of he plays around is a big
+00:47:39 fan of the many-worlds interpretation of quantum mechanics so I'm a troublemaker so let me ask well what's your sense of
+00:47:48 Sean and the idea of many-worlds interpretation I've read many the commentary back and forth you guys you guys are friendly
+00:47:56 respect each other but have a lot of fun debating I love Sean and he know I really he's not he's articulate and he's
+00:48:08 a great representative or an ambassador of science to the public in four different fields of science to each
+00:48:17 other he also like I do takes philosophy unlike what I do in all cases he has really done the homework he's read a lot
+00:48:30 he knows the people he talks to them he exposes his arguments to the to them and I did this mysterious thing that we so
+00:48:40 often end up on the opposite sides of with these issues it's fun though it's fun and I'd love to have a conversation
+00:48:48 about that but I would want to include him I see about many worlds well no I can tell you what I think about many I'd
+00:48:55 love to but actually on that let me pause Sean as a podcast you should definitely figure out how to talk to
+00:49:01 Sean I would I actually told Sean I would love to hear you guys just going back and forth so I hope you can make
+00:49:07 that happen eventually you and sure I want I won't tell you what it is but there's something that Sean said to me
+00:49:16 in June of 2016 that changed my whole approach to a problem but I have to tell him first yes and that that's they'll be
+00:49:24 great to tell him on his podcast so I can't invite myself to his podcast yeah okay we'll make it happen
+00:49:31 so so many worlds anyway what's your view many worlds we talk about nonlocality many worlds is also a very
+00:49:41 uncomfortable idea or beautiful depending on your perspective it's it's very nice in terms of I mean there's a
+00:49:51 realist aspect to it I think you called it magical realism yeah it's just a beautiful line but at the same time it's
+00:50:00 very difficult to far eliminate human minds to comprehend so what it what are your thoughts about it let me start with
+00:50:09 the easy and obvious and then go to the scientific okay it doesn't appeal to me it doesn't answer the questions that I
+00:50:19 want answered and it does so to such a strong case that when Roberto mangabeira Unger and I began looking for principles
+00:50:26 and I want to come back and talk about the use of principles in science cuz that's the other thing I was gonna say
+00:50:32 and I don't want to lose that when we started looking for principles we made our first principle there is
+00:50:41 just one world that happens once but so it's it's not helpful to my personal approach to my personal agenda but of
+00:50:54 course I'm part of a community and my sense of the many-worlds interpretation I have thought a lot about it and
+00:51:07 first of all there's Everett himself there's what's in Everett and there are several issues they're connected with
+00:51:17 the derivation of the born rule which is the rule that gives probabilities to events and the reasons why there is a
+00:51:26 problem with probability is that I mentioned the two ways that physical systems can evolve the many-worlds
+00:51:35 interpretation cuts off one the one having to do with measurement and just has the other one the Schrodinger
+00:51:41 evolution which is smooth evolution of the quantum state but the notion of probability is only in the second rule
+00:51:51 which we've thrown away so where there's probably come from and you have to answer the question because
+00:51:57 experimentalist use probabilities to check the theory now at first sight you get very confused because there seems to
+00:52:08 be a real problem because in the many-worlds interpretation the this talk about branches is not quite precise but
+00:52:17 I'll use it there is a branch in which everything that might happen does happen with probability one in that branch you
+00:52:25 might think you could count the number of branches in which things do and don't happen and get numbers that you can
+00:52:33 define as something like frequentist probabilities and Everett did have an argument in that direction but the
+00:52:43 argument gets very subtle when there are an infinite number of abilities as is the case in most quantum
+00:52:50 systems and my understanding although I'm not as much of an expert as some other people is that Everett's
+00:52:59 own proposal it's failed did not work there then it doesn't stop there there is an important idea that Everett didn't
+00:53:10 know about which is decoherence and it is a phenomenon that might be very much relevant and so a number of people post
+00:53:21 Everett have tried to make versions of what you might call many worlds quantum mechanics and this is a big area and
+00:53:31 it's subtle and it's not the kind of thing that I do well so I consulted that's why there's two chapters on this
+00:53:38 in the book I wrote chapter 10 which is about Everett's version in Chapter 11 there is a very good group of
+00:53:47 philosophers of physics in Oxford Simon Saunders David Wallace Harvey Brown and a number of others and of course is
+00:53:57 David Deutsch who is there and those people have developed and put a lot of work into a very sophisticated set of
+00:54:05 ideas designed to come back and answer that question they have the flavor of there are really no probabilities we
+00:54:13 admit that but imagine if you if the Everett story was true and you were living in that multiverse how would you
+00:54:24 make bets and so they they use decision theory from the theory of probability in gambling and so forth to shape a story
+00:54:33 of how you would bet if you were inside average in the universe and you knew that and there is a debate among those
+00:54:44 experts as to whether they or somebody else has really succeeded and when I checked in as I was finishing the book
+00:54:52 with some of those people like Simon who's a good friend of mine and David Wallace they told me that they
+00:55:00 weren't sure that any of them was yet correct so that's why I put in my book now to add to that sean has his own
+00:55:09 approach to that problem in what's called self referencing or self locating observers and it doesn't
+00:55:20 I just tried to read it and it didn't make sense to me but I didn't study it hard I didn't communicate with Sean I
+00:55:27 didn't do the things that I would do so I had nothing to say about in the book and I don't I don't know whether it's
+00:55:35 right or not let's talk a little bit about science you mentioned these principles in science what does it mean
+00:55:43 to have a principle and why is that important when I feel very frustrated about quantum gravity I like to go back
+00:55:53 and read history and of course Einstein and his achievements are a huge lesson and hopefully something like a role
+00:56:03 model and it's very clear the Einstein thought that the first job when you want to enter a new domain of theoretical
+00:56:11 physics is to discover and invent principles and then make models of how those principles might be applied in
+00:56:19 some experimental situation which is where the mathematics comes in so for Einstein there was no unified space in time
+00:56:29 Minkowski invented this idea of space-time Fry's time it was a model of his principles or his past humans and
+00:56:40 I've taken the view that we don't know the principles of quantum gravity I can think about candidates and I have some
+00:56:49 papers where I discuss different candidates and I'm happy to discuss them but my belief now is that those
+00:56:59 partially successful approaches are all models which might describe indeed some quantum gravity physics in some domain and
+00:57:12 aspect but ultimately could would be important because they model the principles and the first job is to tie
+00:57:18 down those principles so that's the approach that I'm taking so the so speaking of principles in your 2006 book
+00:57:30 the trouble with physics you criticized a bit string theory for taking us away from the rigors of the scientific method
+00:57:39 or whatever you would call it but what's the trouble with physics today and how do we fix it can I say how I read that
+00:57:50 book sure because I and I'm not this of course has to be my fault because you can't as an author to claim after all
+00:57:58 the work he put in this you were misread but I will I will say that many of the reviewers who were not personally
+00:58:08 involved in even many who were working on string theory or some other approach to quantum gravity told me communicate
+00:58:15 with me and told me they thought that I was fair and balanced was though was the way that was usually is so let me tell
+00:58:23 you what my purpose was in writing that book which clearly got diverted by because there was already a rather hard
+00:58:36 argument going on and this is on which topic on string theory specifically or in general and physics know more
+00:58:46 specifically than string theory so since we're in Cambridge can I say that we're doing this yeah Cambridge just to be
+00:58:54 clear Massachusetts and on Harvard campus right so Angie's rominger is a good friend of mine and has been for
+00:59:07 many many years and Andy so originally there was this beautiful idea that there were five string theories and maybe they
+00:59:15 would be unified into one and we would discover a way to break that symmetries of one of those string theories
+00:59:22 and discover the standard model and predict all the properties of standard model particles like their masses and
+00:59:30 charges and so forth coupling constants and then there was a bunch of solutions to string theory found which led each of
+00:59:40 them to a different version of particle physics with a different phenomenology these are called the khalaby Yau
+00:59:49 manifolds named after Yahoo is also here not certainly we've been friends at some time in the past anyway and then there
+00:59:58 were nobody was sure but hundreds of thousands of different versions of string theory and then Andy found there
+01:00:06 was a way to put a certain kind of mathematical curvature called torsion into the solutions and he wrote a paper
+01:00:14 of string theory with torsion in which he discovered there was and not formally uncountable but he was unable to invent
+01:00:24 any way to count the number of solutions are classified the diverse solutions and he wrote that this is worrying because
+01:00:33 doing phenomenology the old-fashioned way by solving the theory is not going to work because there's going to be
+01:00:41 loads of solutions for everything proposed phenomenology for anything the experiments just go now it hasn't quite
+01:00:48 worked out that way but nonetheless he took that worry to me he did he we spoke at least once maybe two or three times
+01:00:58 about that and I got seriously worried about that and this is just a little it's almost like an anecdote that
+01:01:06 inspired you're worried about string theory in general well I tried to solve the problem and I tried to solve the
+01:01:14 problem I was reading at that time a lot of biology a lot of evolutionary theory like lynn margulis and Steve Gould and
+01:01:28 so forth and I all right I could take your time to go through things that occurred to me maybe physics was like
+01:01:33 evolutionary biology and maybe the laws evolved and there was the Baris talked about a landscape a
+01:01:44 fitness landscape of DNA sequences or protein synthesis sequences or a species or something like that
+01:01:50 I took their concept and the word landscape from theoretical biology and made a scenario about how the universe
+01:02:00 as a whole could evolve to discover the parameters of the standard model and I'm happy to discuss that's called
+01:02:07 cosmological natural selection cosmological natural selection yeah so so the parameters of the standard model
+01:02:14 so it says the laws of physics are changing it this this idea would say that the laws of physics are changing in
+01:02:24 some way that echoes that of natural selection or just it adjusts in some way towards some goal yes and I published
+01:02:36 that I wrote the paper in 1880 or 1890 paper was published in 92 when I first book in 1997 the life of the cosmos was
+01:02:46 explicitly about that and I was very clear that what was important is that because you would develop an ensemble of
+01:02:56 universes but they were related by descent through natural selection almost every universe would share the property
+01:03:07 that it was its fitness was maximized to some extent were these close to maximum and I could deduce predictions that
+01:03:16 could be tested from that and and I worked all of that out and I compared it to the anthropic principle where you
+01:03:23 weren't able to make tests or make falsifications all of this was in the late eighties and early nineties that's
+01:03:30 a really compelling notion but how does that help you arrive I'm coming to whatever where the book came from yes so
+01:03:42 what we've got me I worked on string theory I also Don Luhan gravity and I was one of the
+01:03:50 inventors of the quantum gravity and because of my strong belief in some other principles which led to this
+01:03:58 notion of wanting a quantum theory of gravity to be what we call relational or background independent I tried very hard
+01:04:06 to make string theory backward independent and ended up developing a bunch of tools which then could apply
+01:04:12 directly to general relativity and that became a loop quantum gravity so the things were very closely related and
+01:04:18 have always been right closely related in my mind the idea that there were two communities one devoted to strings and
+01:04:25 one devoted to loops is nuts and this always been nuts okay so so anyway there's this nuts community of loops and
+01:04:35 strings that are all beautiful and compelling and mathematically speaking and what's the trouble with all that why
+01:04:40 is that why is there such a problem so what so I was interested in developing that notion of how science works based
+01:04:48 on a community and ethics that I told you about and I wrote a draft of a book about that
+01:04:57 which had several chapters on methodology of science and it was rather academically oriented a book in those
+01:05:06 chapters were the first part of the book the first third of it and you even find their remnants in what's now the last
+01:05:14 chapter last part of the trouble with physics and then I described a number of test cases case studies and one of them
+01:05:21 which I knew was the search for quantum gravity and string theory and so forth and I was unable to get that book
+01:05:31 published so somebody made the suggestion of flipping it around and starting with a story of string theory
+01:05:40 which was already controversial this was 2004-2005 but I was very careful to be detailed to criticize papers and not
+01:05:54 people you don't you won't find me criticizing individuals you'll find me criticizing certain writing but in any case here's
+01:06:05 what I regret let me make a program with y-yes I as far as I know with the exception of not understanding how large
+01:06:15 the applications to condensed matter say of a DMCA a DSC of T would get I think largely my diagnosis of string theory as
+01:06:31 it was then has stood up since 2006 what I regret is that the same critique I was using string theory as an example and
+01:06:40 the same critique applies to many other communities in science and all including and this is where I regret my own
+01:06:47 community that is a community of people working on quantum gravity outside string theory but and I considered
+01:06:56 saying that explicitly but I say that explicitly since I'm it's a small intimate community I would be telling
+01:07:05 stories and naming names of and making a kind of history that I have no right to write so I stayed away from that but was
+01:07:14 misunderstood but if I may ask is there a hopeful message for theoretical physics that we can take from that book
+01:07:22 sort of that looks at the community not just your your own work on now with causality and non locality but just
+01:07:29 broadly in understanding the fundamental nature of our reality what's your hope for the 21st century in physics well do
+01:07:41 we solve the problem it would solve the unfinished problem of my science this is that's certainly the the thing that I
+01:07:49 care about most in hopefully let me say one thing among the young people that I work with I hear very often and since a
+01:08:00 total disinterest in these arguments that we other scientists have and an interest in what each other is doing and
+01:08:08 this is starting to appear in conferences where the young people interested in quantum gravity make a
+01:08:15 conference may invite loops and strings and causal dynamical triangulations and causal set people and we're having a
+01:08:24 conference like this next week a small workshop at perimeter and I guess I'm advertising this and then in the summer
+01:08:32 we're having a big full-on conference which is just quantum gravity it's not strings it's not loops but the
+01:08:39 organizers and the speakers will be from all the different communities yes and this to me is very helpful that the
+01:08:48 different ideas are coming together at least people are expressing an interest in that there's a huge honor talking to
+01:08:57 you Lee thanks so much for your time today thank you thanks for listening to this conversation and thank you to our
+01:09:04 presenting sponsored cash app download it used coal export cast you'll get ten dollars and ten dollars will go to first
+01:09:11 an organization that inspires and educates young minds to become science and technology innovators of tomorrow if
+01:09:18 you enjoy this podcast subscribe on YouTube give it five stars an apple podcast follow on Spotify supported on
+01:09:24 patreon or simply connect with me on Twitter and lex friedman and now let me leave you with some words from lee smolin

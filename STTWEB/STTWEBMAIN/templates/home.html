@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<script>
+    $(document).ready(function(){
+
+    $("#button").click(function(){
+        $.ajax({
+            url: '/get-data',
+            type: 'get',
+            data: {
+                button_text: $(this).text()
+            },
+            success: function(response) {
+                $(".btn").text(response.seconds)
+            }
+        });
+    });
+
+});
+</script>
+<div class="container-home">
+
+    {% for channel in channels %}
+    <div class="box-home">
+
+    <a href="/channel/{{channel.channel_name}}">
+    <img style= "border-radius: 50%;" src="{{channel.profile_img}}" alt="1" width="120px">
+    </a>
+    <text style="font-size:20px">{{ channel.channel_name }}</text>
+
+    </div>
+    {% endfor %}
+</div>
+
+
+
+{% endblock %}
+
+
+

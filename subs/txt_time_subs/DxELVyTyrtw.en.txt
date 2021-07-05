@@ -1,0 +1,171 @@
+00:00:04 this is apn-311 more commonly known as quasiba a cutting-edge pharmaceutical antibody used to treat complex illnesses in hospitals
+00:00:11 all over the world this is manufactured by iperium biologics an austrian-based firm the raw medicine is then loaded into a
+00:00:18 canister like this one and shipped to the netherlands to be packaged then onto ireland for warehousing it
+00:00:24 will then be sold wholesaled to beijing who will label the product for individual markets in their plant in guangzhou
+00:00:30 before shipping it back to ireland which will in turn ship it to regional distribution centres
+00:00:34 who will distribute it directly to hospitals who will distribute it to doctors who will distribute it into
+00:00:40 their patients squishy squishy organs yeah i know right what's more is that this didn't even include
+00:00:45 the base chemicals needed to actually manufacture this raw medicine and apn311 supply chain
+00:00:51 isn't even an outlier in the pharmaceutical world if anything it's comparatively straightforward
+00:00:58 but not as straightforward as making a product and then just shipping it to distribution centers
+00:01:03 so why add all of this extra complexity and don't think this is a weird quirk of the medical industry either
+00:01:08 everything from your fridge to your phone to the clothes you are wearing right now
+00:01:12 have likely been produced bit by bit in dozens of countries in hundreds of different factories involving tens of
+00:01:17 thousands of workers if i were to ask you where iphones are made you'd probably turn around and say
+00:01:24 well China  but this isn't the whole story the entire iphone supply chain before retail distribution
+00:01:32 involves 43 countries from battery lithium mined in brazil to semiconductors printed in taiwan
+00:01:37 all the way down to really obscure things like those lovely little boxes which are produced in the czech republic so
+00:01:45 when does this all get too much sure there are comparative advantages to producing products in countries with
+00:01:50 good manufacturing infrastructure or low labor costs or hey even some nice tax policies
+00:01:55 but at what point does shipping things back and forth across the world end up costing more than the cheap
+00:02:00 salaries you're able to exploit well to find out we're going to as always look at a few critical factors
+00:02:06 how do companies come up with these intricate supply chains why are some of these supply chains
+00:02:12 so convoluted where others are extremely straightforward and will the severe restrictions put on international shipping during the
+00:02:18 fallout of the coronavirus make companies rethink how far they this video is brought to you by acorns
+00:02:27 the investment app trusted by over 9 million people including myself here at economics explained
+00:02:32 if you guys have been a viewer of this channel for any length of time you already know that i'm a big fan of acorns
+00:02:37 not only because they actually care about helping people build wealth but also because they make it really
+00:02:43 easy for anyone to get started with investing thanks to features like recurring contributions you can spend more time in
+00:02:48 the market and less time trying to time the market more on that later
+00:02:53 here's how it works just choose the amount that you wish to invest set the frequency like daily weekly or monthly
+00:03:01 and you're all set just like that you're investing in a diversified portfolio while also lowering your risk exposure
+00:03:08 by consistently investing over time stay tuned until the end to learn more or sign up now at acorns.com
+00:03:14 ee and acorns will deposit five dollars into your portfolio to help you get started with investing
+00:03:20 again that's acorns.com ee the link is on the screen now and in the video description below
+00:03:27 so the first thing to understand when looking at shipping maps like this one is the factors that can contribute to
+00:03:32 steps in the process that seem redundant the first and most obvious one to address up front
+00:03:37 is that most companies actually don't manufacture their own products from beginning to end
+00:03:41 a company like general motors will of course make some parts in-house from raw materials but even things like sheet metal are in
+00:03:48 turn purchased from steel manufacturers who purchase raw iron ore off the international commodities market
+00:03:53 taken a step further using our example of the iphone from earlier we will find that apple doesn't
+00:03:59 even handle the manufacturing at all themselves instead they subcontract this process to foxconn who in turn deals with the cheapest
+00:04:06 supplies they can find for individual components the natural push towards more focused component manufacturing is a natural
+00:04:13 part of efficient production why bother making something yourself when it can be purchased from a supplier
+00:04:18 who specializes in making these components as cheaply as possible but this raises the question of why
+00:04:23 anything at all would be manufactured outside of places like China  especially when it's a chinese product
+00:04:29 like the medicine we explored earlier well this is down to technology and regulation this particular drug is manufactured in
+00:04:36 austria which is one of the most expensive places on earth to produce something but it's still made here because of
+00:04:43 extensive government contributions towards harboring medical research in the nation
+00:04:47 the trade-off is that any breakthrough treatment that is developed in one of the nation's sponsored facilities
+00:04:53 needs to be produced in austria this is still a win-win for the people of austria and the pharmaceutical companies though
+00:04:58 the companies get a hotbed of medical research which is to pharmaceuticals what silicon values to technology
+00:05:04 and the people of the nation get a strong employer that pays people extremely well to perform a
+00:05:10 highly technical role this also works well because things like pharmaceutical products are expensive this one canister can
+00:05:16 easily contain millions of dollars worth of product so the difference between paying a team
+00:05:22 three thousand dollars versus fifteen thousand dollars to produce something like this
+00:05:26 is basically a rounding error what's more is that this item is very cost dense with very high profit margins
+00:05:32 so paying to ship it all over the world in every which way is not going to have much of an impact on the end price
+00:05:38 a price that is also most likely going to be paid by an insurance company or a government anyway
+00:05:43 rather than a cost-conscious consumer compared to say an automobile this kind of product
+00:05:48 making a few extra stops on the journey to its end destination is not a big deal this should be pretty
+00:05:53 obvious to most people but what you might not consider is the impact of mergers and acquisitions
+00:06:00 m a activity is at its highest point in history with total deal volume recently surpassing the record high of 2.4
+00:06:07 trillion dollars set in 2007 now there is a lot to be said about what this means for the global economy
+00:06:13 but one often overlooked impact is how it muddles supply chains if a company buys another company that
+00:06:19 is either a supplier or distributor of their product this is no big deal this is called vertical integration
+00:06:26 and in theory the actual supply chain shouldn't change except now it will all be managed by the
+00:06:31 acquiring company which will make it look longer and more convoluted but the products are really
+00:06:36 only doing what they would have done anyway for example suppose general motors buys a steel mill
+00:06:42 that hasn't added any extra steps to the process of manufacturing a car that wasn't there beforehand
+00:06:47 in that case it just means that the production of steel is now under the control of the supply chain managers at gm
+00:06:54 however if a company does what is called a horizontal integration where they buy at a competitor things
+00:07:00 can get more tricky that competitor would have had a supply chain all of their own
+00:07:04 and assuming that the purchasing business intends to keep the company running this supply chain will need to be
+00:07:10 maintained at least until such a time that the purchase company's processes can be effectively integrated into the
+00:07:15 purchasing company's processors or vice versa that's right sometimes companies will buy other companies
+00:07:22 exclusively to get access to their distribution networks i don't know why i've decided to use
+00:07:27 this as an example but think of dunder mifflin from the office in season six this fictional paper
+00:07:32 company got sold to a printer manufacturer specifically because the purchasing company wanted to use their distribution
+00:07:39 network to reach new customers dunder mifflin was purchased despite being bankrupt
+00:07:44 specifically for their supply chain this sort of stuff happens all the time in the real world but it
+00:07:49 does create a problem if the companies want to integrate this whole process into one succinct
+00:07:54 distribution system they will need to make a lot of changes they will need to expand some warehouses
+00:07:59 and close others they will need to change barcodes inventory numbers computer systems
+00:08:05 commission structures and a host of other systems to merge how paper and printers get from suppliers to customers
+00:08:15 now this is possible but it is extremely difficult especially if you want to make sure that customers can still be serviced
+00:08:21 while this change is taking place many companies just don't even bother and resign themselves to running two
+00:08:27 systems in parallel for the different product lines it's not the most efficient solution but
+00:08:31 it avoids a lot of the effort and operational downtime the ultimate result though is more
+00:08:37 convoluted supply chains so two things here the first is yes i am the most boring person in the world to
+00:08:42 watch comedies with because this is what i will be thinking about and the second is that sometimes
+00:08:48 complexities are just an unfortunate byproduct of running and expanding a business but all of
+00:08:53 these factors so far have not really been the decision of the company an acquiring company would love
+00:08:59 to have just one single supply chain pharmaceutical companies would love to be able to produce medicine wherever
+00:09:03 they wanted and of course it's almost impossible for a company to control everything from raw
+00:09:08 materials to finished product although don't tempt elon i suppose even still there are times where these factors are
+00:09:16 not an issue and companies still choose to add extra bits and pieces to a global supply chain
+00:09:22 that don't look to be necessary so then why do companies add unnecessary moving parts to their supply chains
+00:09:30 well there are actually a few things but the big ones are skirting around taxes lobbying and genuinely minimizing costs
+00:09:37 that last point is probably the easiest to cover on a large enough scale even tiny cost
+00:09:41 advantages to producing products in one country over another makes it worthwhile to do so and just
+00:09:46 absorb the cost of shipping this becomes more prevalent the more cost dense something is
+00:09:52 for example something small and expensive like electronics or medicine can afford to skip along multiple
+00:09:58 destinations as it gets produced because it doesn't cost very much to ship something like this compare that to
+00:10:03 something like a raw commodity and you will find that the same value of goods will be far heavier
+00:10:09 and far larger therefore far more expensive to ship minimising or eliminating any advantage
+00:10:13 of anything outside of going as directly as possible from the mine to the furnace to the end user
+00:10:19 you wouldn't mine iron ore in australia and then ship it to China  to have it mixed with zinc and carbon before
+00:10:24 shipping it to korea to be smelted into steel and then finally to japan to be formed into rebar
+00:10:29 i mean you could theoretically do this but you would be out of business very quickly wasting that much shipping money
+00:10:35 on a heavy low margin product now where this might start to make a bit more sense is in avoiding certain taxes
+00:10:41 countries have trade deals with one another which will often mean that trade between the countries involved in said deals
+00:10:47 does not incur import taxes that are levied on most other countries import taxes can be steep and make a big
+00:10:54 difference in the final price tag of a product part of the reason why foreign cars have such a bougie connotation
+00:11:00 is because they have historically been far more expensive in most markets than locally produced alternatives
+00:11:07 for example in england a new corvette costs about as much as a new aston martin however
+00:11:12 if companies can move products around these trade deals they can avoid these taxes altogether
+00:11:17 consider the medicine that we were studying earlier austria is part of the european union which means products can
+00:11:23 be traded between austria and ireland ireland is home to a specific duty-free zone which we explored in our
+00:11:29 video on ireland's economy this zone means it can export goods to China  with no tariffs to be packaged and
+00:11:34 then suddenly it's not an austrian product it's a product of China 
+00:11:39 which just so happens to contain an austrian component with its new designation as a chinese
+00:11:45 product it can now be distributed to any country that has made trade deals with China  which is a lot of them now of course
+00:11:51 this is a massively oversimplified example and these companies don't actually disclose
+00:11:55 the exact systems that they use to work through these regulations for obvious reasons
+00:12:01 so this goes to show most people know that supply chain engineers design supply chains
+00:12:07 but accountants and lawyers also have a big part to play and so too to lobbyists you see
+00:12:14 manufacturers that rely on favorable government legislation or government dollars have been known to spread out their
+00:12:19 facilities over multiple election districts in order to be a more influential employer if
+00:12:25 a party doesn't support a contract for oh i don't know let's say a new fighter jet then the
+00:12:30 involved company might have to shut down these facilities and lay off workers in crucial districts
+00:12:35 creating enough laid off and angry workers to swing the next election vox did a fantastic video on exactly
+00:12:41 this phenomenon and i'll leave a link to that in the video description if you want to learn more about that process in
+00:12:45 more detail however the ultimate end result of this is a supply chain that is needlessly
+00:12:50 spread out not because it makes economic sense to do so but because it makes political
+00:12:55 sense to do so this brings us on to maybe the most important thing to consider
+00:13:02 does all of this even make sense in the post-lockdown world the answer is of course we don't know
+00:13:08 for sure yet global supply chains have been massively altered because of two opposing forces
+00:13:14 the inventory bull whip and the push to minimize stock if one step in a supply chain is delayed
+00:13:18 for whatever reason like let's say a facility had to be shut down due to a covert case being
+00:13:23 contracted by one of its workers then this affects all of the other steps in this process downstream from that factory
+00:13:30 if an electrical insulator factory is shut down then it means that a capacitor manufacturer is going to need to haul
+00:13:35 production until it can find a new supplier which means circuit boards can't be produced to put on graphics cards and
+00:13:41 then the proverbial whip crack will be that nobody can buy any graphics cards now the solution to
+00:13:46 all of this would just be to keep more inventory on hand so that minor delays like this one can
+00:13:51 be filled in with spare stock to keep the whole machine chugging along the problem with this though is that it
+00:13:57 is expensive take an example like amazon at the end of 2020
+00:14:03 they had 24 billion worth of inventory on hand if hypothetically they were able to half
+00:14:08 that amount they would free up 12 billion dollars which could be reinvested into the future growth of the
+00:14:13 company or just invested into the market itself if we assume a generous market return of 10 that would be 1.2 billion dollars
+00:14:21 that they could add as profit every year or put another way that would be a five percent increase in
+00:14:27 total net profit over their largest year on record so yeah to stock up or not to stock up
+00:14:34 there really is no right answer but covert has certainly made a few companies ask the question
+00:14:40 once again but something that you shouldn't have to debate over is how important it is to save for your
+00:14:45 future and fortunately this is all made a lot easier with acorns thanks to acorns you can spend more time
+00:14:52 in the market and less time trying to time the markets that's not just a cute slogan it's sound
+00:14:59 investment wisdom investment wisdom based on data for instance according to one study by jp morgan
+00:15:06 which analyzed the last two decades of equity market data they found that being out of the market
+00:15:10 for just a handful of the best trading days had huge consequences on portfolio performance another fascinating correlation that was
+00:15:17 revealed by this study was how fast markets rebound following declines like how in 2019 six of the best days to
+00:15:24 be invested in the market occurred within only two weeks of the worst trading days
+00:15:29 with the largest dips usually occurring right before the largest rebounds case in point march 12 2020 a market
+00:15:36 decline of nearly 10 you probably remember it well it was the second worst day for the market in over
+00:15:42 20 years only to be followed the very next day by a gain of nearly 10 percent
+00:15:48 which just so happened to be the fourth best day for the markets in over 20 years the bottom line if you
+00:15:54 study the history of the stock market you'll find that investing consistently in a well-diversified portfolio
+00:16:00 and not succumbing to your emotions by selling out when things get painful is a tried and true wealth building
+00:16:05 strategy and that's the beauty of acorns thanks to features like recurring contributions
+00:16:10 you can invest funds into your diversified portfolio every day week or month there are so
+00:16:16 many other features of their app and i look forward to covering them all in later videos
+00:16:20 feel free to download the app today at acorns.com ee and they'll deposit five dollars into
+00:16:25 your portfolio to help you get started with investing again that's acorns.com ee the link is

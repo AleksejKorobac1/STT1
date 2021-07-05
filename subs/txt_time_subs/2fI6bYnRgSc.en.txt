@@ -1,0 +1,363 @@
+00:00:02 the following is a conversation with David Newman she's the Apollo program professor at MIT and the former deputy
+00:00:09 administrator of NASA and has been a principal investigator on for spaceflight missions
+00:00:14 her research interests are an aerospace biomedical engineering investigating human performance in varying gravity
+00:00:21 environments she has designed and engineered and built some incredible spacesuit technology namely the biosuit
+00:00:28 that we talk about in this conversation due to some scheduling challenges on both our parts we only had about 40
+00:00:35 minutes together and in true engineering style she said I talk fast you picked the best questions let's get it done and
+00:00:43 we did it was a fascinating conversation about space exploration and the future of space suits this is the artificial
+00:00:51 intelligence podcast if you enjoy it subscribe on YouTube give it five stars an apple podcast supported on patreon or
+00:00:58 simply connect with me on Twitter Alex Friedman spelled Fri D M a.m. for the first time this show is presented by
+00:01:06 cash app the number one finance app in the App Store cash wrap is the easiest way to send money to your friends and
+00:01:13 this is also the easiest way to buy sell and deposit a big coin most Bitcoin exchanges take days for bank transfer to
+00:01:20 become investable so cash up it takes seconds lest as little as $1 and now you own Bitcoin have several conversations
+00:01:28 about bitcoin coming up on this podcast decentralized digital currency is a fascinating technology in general to
+00:01:35 explore both at the technical and the philosophical level cash app is also the easiest way to try and grow your money
+00:01:42 with their new investing feature unlike investing tools that force you to buy entire shares of stock cash app
+00:01:50 amazingly lets you instantly invest as little or as much as you want some stocks in the market are hundreds if not
+00:01:56 thousands of dollars per share and now you can still own a piece with as little as one dollar
+00:02:03 brokerage services are provided by cash app investing a subsidiary of square and member si PC I'm also excited to be
+00:02:11 working with cash app to support one of my favorite organizations called first which is best known for their first
+00:02:17 robotics and Lego competitions that seeks to inspire young students in engineering and technology fields all
+00:02:24 over the world that's over a hundred and ten countries 660 thousand students three hundred thousand mentors and
+00:02:31 volunteers and a perfect rating on Charity Navigator which means the donated monies used to maximum
+00:02:38 effectiveness when you sign up for cash app and use the promo code lex podcast you'll instantly receive ten dollars in
+00:02:47 cash app will also donate ten dollars the first an amazing organization that I've personally seen inspired girls and
+00:02:56 boys to learn to explore and to dream of engineering a better world don't forget to use the code lex podcast when you
+00:03:04 download cash app from the App Store or Google Play Store today and now here's my conversation with
+00:03:13 daiva Neumann you circumnavigated the globe on boat so let's look back in history 500 years ago Ferdinand
+00:03:21 Magellan's crew was first to circumnavigate the globe but he died I think people don't know like halfway
+00:03:32 through and so did 242 of the 260 sailors that took that three-year journey what do you think it was like
+00:03:38 for that crew at that time heading out into the unknown to face probably likely death do you think they were filled with
+00:03:46 fear with excitement probably not fear I think in all of exploration is the challenge and the unknown
+00:03:54 so probably wonderment and then just the when you really are sailing the world's oceans you have extreme weather of all
+00:04:02 kinds when we were circumnavigating it was challenging a new dynamic you really appreciate Mother Earth you appreciate
+00:04:08 the winds of the ways so back to Magellan his crew since they really didn't have you know a three-dimensional
+00:04:17 of the globe of the earth when they went out just probably looking over the horizon thinking what's there what's
+00:04:22 there so I would say the challenge that had to be really important in terms of the team dynamics on that leadership had
+00:04:29 to be incredibly important team dynamics too how do you keep people focused on the mission do you think the psychology
+00:04:34 that's interesting that's probably echoes of that and the space exploration stuff we'll talk about so the psychology
+00:04:41 of the dynamics between the human beings on the mission is important absolutely for a Mars mission it's there's lots of
+00:04:48 challenges technology but you know since I specialize in keep my astronauts alive the cycle social issues the psychology
+00:04:54 of a psychosocial Team Dynamics leadership that's you know we're all people so that's gonna be that's a he
+00:05:00 always a huge impact one of the top three I think of any isolated confined environment it can any mission that is
+00:05:08 really pretty extreme so your twitter handle is david explorer so when did you first fall in love with the idea of
+00:05:16 exploration ah that's a great question maybe as long as I can remember as I grew up in Montana in the Rocky
+00:05:22 Mountains and Helena and the capital is so literally a mount Helen it was my backyard was right up there so exploring
+00:05:29 being in the mountains looking at caves just running around but always being in nature so since my earliest memories I
+00:05:39 you know think of myself is kind of exploring the natural beauty of the Rocky Mountains where I grew up so
+00:05:45 exploration is not living at changing domain it's just anything so the natural domain of any kind but going out to the
+00:05:51 woods into the place you haven't been it's all exploration I think so yeah I have a pretty all-encompassing
+00:05:57 definition what about space exploration when we first captivated by the idea that we little humans couldn't venture
+00:06:05 out into the space into the great unknown enough space so it's a great year to talk about that the 50th
+00:06:11 anniversary of Apollo 11s I was alive during Apollo and specifically Apollo when I was 5 years old and I distinctly
+00:06:18 remember that I remembered that humanity I'm sure I probably didn't know their names at the time you know there's Neil
+00:06:24 Armstrong Buzz Aldrin and never forget Michael Collins in orbit no those three man you know doing something that just
+00:06:33 seemed impossible seemed impossible a decade earlier even a year earlier but the Apollo program really inspired me
+00:06:41 and then I think it actually just taught me to dream to any impossible mission could be possible with enough focus yeah
+00:06:49 I'm sure you need some luck but you definitely need the leadership you need the the focus of the mission so since an
+00:06:55 early age I thought of course people should be interplanetary of course people we need people on earth and we're
+00:07:00 gonna have people exploring space as well that seemed obvious you know at that age it opened it up before we saw
+00:07:07 men on the moon it was not obvious to me at all but once we understood that yes absolutely astronauts that's what they do they
+00:07:14 explore they go into space and they land on other planets or moons so again maybe a romanticized philosophical question
+00:07:23 but when you look up at the stars knowing that you know there's at least a hundred billion of them in the Milky Way
+00:07:32 galaxy right so we're really a small speck in this giant thing that's the visible universe how does that make you
+00:07:40 feel about our efforts here I love the perspective I love that perspective I always opened my public talks with a big
+00:07:47 Hubble Space Telescope image looking out until you mentioned just now the solar system the Milky Way because I really
+00:07:52 think it's really important to know that we're just a small pill blue dot we're really fortunate we're on the best
+00:07:58 planet by far life is fantastic that we know of you're confident this is the best planet that we know of I mean I
+00:08:05 searched my research as you know in mission worlds and when will we find life I think actually in probably the
+00:08:11 next decade we find probably past life probably the evidence of past life on Mars let's say you think there was
+00:08:18 pretty like once life on Mars or do you think there's currently I'm more comfortable saying about 3.5 billion
+00:08:24 years ago feel pretty confident there was life on Mars just because then it had an electromagnetic shield it had an
+00:08:30 atmosphere has wonderful gravity level three 3s jeez fantastic you know you're all super human we can all slam dunk a
+00:08:36 basketball I mean it's gonna be fun to play sports on Mars but so I think we'll find past that no fossilize probably the
+00:08:42 evidence of past life on Mars currently that's again we need the next decade but the evidence is mounting for
+00:08:49 sure we do have the organics we're finding organics we have water seasonal water on Mars we used to just know about
+00:08:55 the ice caps you know north and south pole now we have seasonal water we do have the building blocks for life on
+00:09:02 Mars we really need to dig down into the soil because everything on the top surface is radiated but once we find
+00:09:08 down will we see any any life form so we see any bugs I leave it open as a possibility but I
+00:09:13 feel pretty certain that past life or you know fossilized life forms will find and then we have to get to all these
+00:09:20 ocean worlds these these beautiful moons of other other planets since we know they have water and we're looking for
+00:09:27 since simple search for life or follow the water you know carbon-based life that's the
+00:09:30 only life we know there could be other life forms that we don't know about but it was hard to search for them because
+00:09:35 we don't know so in our search for life in the solar system it's definitely you know search you know let's follow the
+00:09:40 water and look for the building blocks of life do you think in the next decade we might see hints of past life or even
+00:09:48 currently I think so I'm pretty active you humans have to be involved or can this be robots and Rovers and probably
+00:09:54 teams I mean we've been at it on Mars in particularly 50 years we've been exploring Mars for 50 years great day
+00:09:59 that right our images of Mars today are phenomenal now we know how Mars lost its atmosphere you know we're starting to
+00:10:05 know because of the lack of the electromagnetic shield we know about the water in Mars so we've been studying 50
+00:10:11 years with our robots we still haven't found it so I think once we have a human mission there we just accelerate things
+00:10:16 it's always humans and our Rovers and robots together but we just have to think that 50 years we've been looking
+00:10:23 at Mars Mars and taking images and doing the best science that we can people need to realise Mars this really far away
+00:10:28 it's really hard to get to you know this is extreme extreme exploration we mentioned Magellan first or all of the
+00:10:35 wonderful explorers and sailors of the past which kind of are lots of my inspiration for exploration Mars is a
+00:10:41 different ballgame I mean no sir eight months to get there year and a half to get home I mean it's really extreme
+00:10:48 environment in all kinds of ways but the kind of organism might be able to see himself on Mars or kind of
+00:10:54 microorganisms perhaps yeah I remember that humans were canal you know we're hosts right we're hosts
+00:11:00 all of our bacteria and viruses right do you think it's a big leap from the viruses in the bacteria to us humans
+00:11:09 put another way do you think on all those moons beautiful wet moons that you mentioned you think there's intelligent
+00:11:16 life out there I hope so I mean that's that's the hope but you know we don't have the scientific evidence for that
+00:11:22 now I think all the evidence we have in terms of life existing is much more compelling again because we have the
+00:11:28 building blocks of life now when that life turns into intelligence that's a big unknown if we ever meet do you think
+00:11:35 we would be able to find a common language I hope so we haven't met yet it's just so far I mean do physics just
+00:11:42 play a role here look at all these exoplanets 6000 exoplanets I mean even the couple dozen earth-like planets or
+00:11:48 exoplanets that really look like habitable planets these are very earth-like they look like they have all
+00:11:54 the building blocks I can't wait to get there the only thing is they're 10 to 100 light years away so scientifically
+00:12:00 we know they're there we know that they're habitable they have you know everything going from right you know we
+00:12:06 call the Goldilocks zone not too hot not too cold just perfect for how habitability for life but now the
+00:12:13 reality is if they're ten at the best to a hundred to thousands of light-years away so what's out there but I just can't
+00:12:21 think that we're not the only ones so absolutely life life in the universe probably intelligent life as well do you
+00:12:27 think there needs to be fundamental revolutions and how we the tools we use to travel through space in order for us
+00:12:34 to venture outside of our solar system or do you think the the ways the Rockets the ideas we have now the engineering
+00:12:42 ideas we have now will be enough to venture out well it's a good question right now
+00:12:46 yokas can speed of light is it is it is the limit we don't have a warp speed warp drive to explore our solar system
+00:12:52 to get to Mars to explore all the planets then we need a technology push but technology push here is just
+00:12:58 advanced propulsion would be great I could get humans to Mars and say you know three to four months not eight
+00:13:04 months I mean have the time 50% reduction that's great in terms of safety and wellness of the
+00:13:09 orbital my County but physics rules in orbital mechanics we can't defy physics I love that so the new physics I mean
+00:13:17 look at quantum you know look at quantum theories so you never know exactly I mean we are always learning so we
+00:13:23 definitely don't know all the physics that exists too but where we still have to it's not science fiction you know we
+00:13:29 still have to pay attention to physics in terms of our speed of travel for space flight so you were the deputy
+00:13:35 administrator of NASA during the Obama administration there's a current Artemis program that's what kind of cooed
+00:13:42 mission to the moon and then perhaps the Mars what are you excited about there what are your thoughts on this program
+00:13:49 what are the biggest challenges do you think of getting to the moon of landing to the moon once again and then the big
+00:13:59 step to Mars well I love you know the moon program now Artemis we it is definitely we've been in low-earth orbit
+00:14:04 I love low Earth orbit too but I just always look at those three phases so Laura Thoren where we've been 40 years
+00:14:09 so definitely time to get back to deep space time to get to the moon there's so much to do on the moon I hope we don't
+00:14:16 get stuck on the moon for 50 years I really want to get to the moon spent the next decade first with the lander then
+00:14:22 humans there's just a lot to explore but to me is a big technology push it's only three days away so the moon is
+00:14:28 definitely the right place so we kind of buy down our technology we invest in specifically habitats life support
+00:14:35 systems so we need suits we really need to understand really how to live off planet we've been off planet and low
+00:14:40 Earth orbit but still that's only you know 400 kilometers up 20 or 50 miles right so we get to the moon is really is
+00:14:45 a great proving ground for the technologies and now we're in deep space radiation becomes a huge issue can to
+00:14:52 keep our astronauts well alive and I look at all of that investment for moon moon exploration to the ultimate goal
+00:15:00 you know the horizon goals we call it to get people to Mars but we just don't go to Mars tomorrow
+00:15:04 right we really need a decade on the moon I think investing in the technologies learning making sure the
+00:15:09 astronauts are their health you know they're safe and well and also learning so much institute research you know
+00:15:17 utilization is are you in situ resource utilization is huge when it comes to exploration for the moon
+00:15:23 and Marceau was need a testbed and to me it really is a lunar testbed and then we use those same investments to think
+00:15:31 about getting people to Mars in the 2030s so developing sort of a platform of all the kind of research tools of all
+00:15:38 the what's the resource you know the can you speak to that yeah so is are you for the moon it's will go to the South Pole
+00:15:46 and fascinating we have images of it of course we know there's permanently shaded areas and Shackleton crater and
+00:15:52 there's areas that are permanently in the Sun well it seems that there's a lot of water ice you know water that's in
+00:15:59 trapped in ice and the lunar craters that's the first place you go why because it's water and when you want to
+00:16:04 try to it could be fuel you know life-support systems so you kind of get in you go where the water is and so when
+00:16:11 the moon is kind of for resources utilization but to learn how to it can we make the fuels out of the resources
+00:16:17 that are on the moon we have to think about 3d printing right you don't get to bring all this mass with you you have to
+00:16:22 learn how to literally live off the land we need a pressure shell we need to have an atmosphere for people to to live in
+00:16:30 so all of that is going to bind down the technology doing the investigation doing the science what are the basically the
+00:16:36 lunar volatiles you know what is that ice on the moon how much of it is there what are the resources look like to me
+00:16:44 that helps us that's just the next step in getting humans to Mars and it's cheaper and more effective to sort of
+00:16:49 develop some of these difficult challenges like solve some of these challenges practice develop test and so
+00:16:53 on on the moon absolutely so Mars absolutely people are gonna love to get to the moon you get to
+00:16:59 you have a beautiful earth rise I mean you have the most magnificent view of Earth being off planet so it just makes
+00:17:04 sense I think we're gonna have thousands lots of people hopefully tens of thousands in low-earth orbit because
+00:17:08 Laura Thoren it's a beautiful place to go and look down on the earth but people want to return home I think that the
+00:17:13 lunar explorers will also want to do round trips and you know beyond beyond the moon three-day trip explore do
+00:17:21 science also because the lunar day is 14 days in a lunar Nights also 14 days so in that 28-day cycle half of it is in
+00:17:30 light half of us in dark so people would probably want to do you know a couple week trips month long trips not longer
+00:17:34 than that what I mean by people what do you think explorers yeah astronauts are gonna be
+00:17:42 civilians in the future too not all not all astronauts are gonna be government astronauts actually when I was at NASA
+00:17:46 we changed we actually got the law changed to recognize astronauts that are not only government employees you know
+00:17:52 NASA astronauts or European Space Agency astronaut or Russian space agency that astronauts because of the big push we
+00:17:58 put in the private sector that astronauts essentially you're gonna be astronauts you get over a hundred
+00:18:03 kilometres up and I think once you've done orbital orbital flight then you're an astronaut so a lot of private
+00:18:09 citizens are going to become astronauts do you think one day you might step foot on the moon Mars I'm gonna it's my
+00:18:19 life's work to get the next generation to Mars that's that's that's you are even younger than you you know my
+00:18:25 students generation yes will be the Martian explorers I'm just working to facilitate that but
+00:18:30 that's not gonna be me hey the moon is pretty good and it's a lot tough I mean it's still a really
+00:18:36 tough mission it is an extreme mission exactly it's great for exploration but doable but again before Apollo we didn't
+00:18:43 think getting humans to the moon was even possible so we kind of made that possible but we need to go back we
+00:18:48 absolutely need to go back we're investing in the heavy lift launch capabilities that we need to get there
+00:18:52 we haven't had that you know since the Apollo days since since Saturn five so now we have three options on the board
+00:18:58 that's what's so fantastic NASA has its you know Space Launch System SpaceX is gonna have its it's heavy capability and
+00:19:04 Blue Origin is coming along too with heavy lifts so that's pretty fantastic from where I said I'm the Apollo program
+00:19:11 professor today I have zero heavy lift launch capability I can't wait just in a few years we'll
+00:19:15 have three different heavy lift launch capabilities so that's pretty exciting you know your heart is perhaps with NASA
+00:19:22 but you mentioned SpaceX and Blue Origin what are your what are your thoughts of SpaceX and the innovative efforts
+00:19:30 they're from the sort of private company aspect oh they're great they're mine remember that the investments in SpaceX
+00:19:37 is government funding it's NASA funding is US Air Force funding just as it should be because you're bettin on a
+00:19:45 company who is moving fast has some new technology development so I love it so when as
+00:19:49 it really was under our public-private partnerships so necessarily the government needs to fund these these
+00:19:55 startups now SpaceX is no longer a start-up but you know it's been at it for for ten years this has some axis
+00:20:01 learned a lot of lessons but it's great because it's the way you move faster and also some private industry folks and
+00:20:07 businesses will take a lot more risk that's also really important for the government what do you think about that
+00:20:14 culture of risk I mean sort of NASA and the government are exceptionally good at delivering sort of safe like there's a
+00:20:20 little bit more of a culture of caution and safety and sort of this kind of solid engineering and I think SpaceX
+00:20:26 wall has the same kind of stuff it has a little bit more of that startup feel where they take the bigger risk is that
+00:20:32 exciting for you to see seeing bigger risks in this case absolutely and the best scenario is both of them working
+00:20:39 together because there's really important lessons learned especially when you talk about human spaceflight
+00:20:44 safety quality assurance these things are the utmost importance but both aviation and space you know when human
+00:20:50 lives are at stake on the other hand government agencies NASA it can be European Space Agency you name it they
+00:20:55 become very bureaucratic pretty risk-averse move pretty slowly so I think the best is when you you combine
+00:21:02 the partnerships from both sides industry necessarily has to push the government take some more risks you know
+00:21:07 I got me they're smart risk or actually gave an award at NASA for failing smart I love that you've seen kind of break up
+00:21:14 when the cultures say no that they don't look Apollo that was a huge risk it was done well yeah so there's always a
+00:21:20 culture of safety quality assurance you know engineering you know edit at its best but on the other hand you want to
+00:21:27 get things done and you have to also get them you have to bring the cost down you know for when it comes to launch we
+00:21:31 really have to bring the cost down and get the frequency up and so that's what the newcomers are doing they're really
+00:21:37 pushing that so it's about the most exciting time I can imagine for for spaceflight again a little bit it really
+00:21:42 is the democratization of spaceflight opening it up not just because the launch capability but the science we can
+00:21:49 do on a CubeSat what you can do now for very those used to be you know student projects that we would go through
+00:21:54 conceive design implement and think about what a small satellite would be now they're the most you know there's a
+00:22:00 really advanced instrument science instruments are flying on little team cube sets that pretty much anyone can
+00:22:06 afford so there's not a there's every nation you know every place in the world can fly a cube set and so that's cube
+00:22:14 set Oh CubeSat is a this is called one YouYube says we measure in terms of units so you know just in terms of I put
+00:22:20 my both my hands together that's one unit two units trees so little small satellites so cube sets are for small
+00:22:26 satellites and we actually go by mass as well you know small satellite might be 100 kilos 200 kilos all well under a
+00:22:33 thousand kilos cube sets then our the next thing down from small sets you know basically you know kilos a tens of kilos
+00:22:40 things like that but kind of the building blocks cube sets are fantastic designs kind of modular design so I can
+00:22:47 take a1 u1 1 unit of CubeSat and you know but what if I have a little bit more money and payload I can fly three
+00:22:53 of them and just basically put a lot more instruments on it but essentially think about something the size of a
+00:22:58 shoebox if you will you know that would be a cube set and those how do those help empower you in terms of doing size
+00:23:03 doing exponents oh right now there's getting back to private industry planet the company is
+00:23:09 you know flying cube sets and literally looking down on earth and orbiting or taking a picture if you will of Earth
+00:23:16 every day every 24 hours covering the entire Earth so terms of earth observations in terms of climate change
+00:23:21 in terms of our changing earth it's revolutionising because they're affordable we can put a whole bunch of
+00:23:27 them up the telecoms we're all you know on our cell phones and GPS we have our telecoms but those used to be very
+00:23:34 expensive satellites providing that service now we can fly a whole bunch of modular cube sets so it really is
+00:23:42 breakthrough in terms of modularity as well as cost reduction so so that's one exciting set of developments is there
+00:23:50 something else that you've been excited about and like reusable rockets perhaps that you've seen in the last few years
+00:23:55 yeah well the reusability you had your usability is awesome I mean is the best now we have to remember the shuttle was
+00:24:03 a reusable vehicle yes which an shuttle is an amazing aerospace engineer I mean the shuttle is still just the most
+00:24:11 gorgeous elegant extraordinary design of a space vehicle it was reusable it just wasn't affordable
+00:24:16 but the reusability of it was really critical because we flew it up it did come back so the notion of usability and
+00:24:24 I think absolutely now what we're doing with we you know a global we but with SpaceX of origin sitting the Rockets up
+00:24:31 recovering the first stages where if they can regain seventy percent cost savings that's huge and just seeing the control
+00:24:38 you know the convenient control and dynamics person is just seeing that rocket come back and land oh yeah that's
+00:24:47 it never gets old it's exciting so it's so cool give me the landing is when I stand up start clapping he's just just
+00:24:54 the control control I go and hit that landing it's you know it's gymnastics for for a rocket ships better see these
+00:25:01 guys stick a landing or foot it's just wonderful so every time like I said every time I see ya the reusability and
+00:25:08 the rockets coming back and landing so precisely it's really exciting so it is it is actually that's a game-changer we
+00:25:15 are in a new era of lower costs and a lot the higher frequency and it's the world not just NASA it's many nations
+00:25:22 are really upping their frequency of launches you've done a lot of exciting research design engineering on
+00:25:30 spacesuits what does the spacesuit of the future look like very tight fitting suit we use them a chemical counter
+00:25:40 pressure to pressurize right directly on the skin seems that it's technically feasible we're still at the research and
+00:25:44 development stage we don't have a flight system but technically is feasible so we do a lot of work in the materials you
+00:25:50 know what materials do we need to pressurize someone what's the patterning we need that's what our patents are in
+00:25:55 the patterning kind of how we apply this is a third of an atmosphere just to sort of take a step back you have this
+00:26:01 incredible bio suit wear them it's tight fitting so it allows more mobility and so on so maybe even to take a bigger
+00:26:07 step back like what are the functions that a space it should perform here so start from the beginning a spacesuit is
+00:26:14 the world's smallest spacecraft so I really that's the best definition I can give you right now we fly gas
+00:26:18 pressurized suits but think of developing and designing an entire spacecraft so then you take all those
+00:26:24 systems and you shrink them around a person provide them with oxygen to breathe scrub out their carbon
+00:26:30 I know make sure they have pressure they need a pressure environment to live on so really a spacesuit is a shrunken you
+00:26:42 communications exactly so you really thermal control a little bit of radiation not so much radiation
+00:26:47 protection but thermal control humidity you know oxygen breeze so all those life support systems as well as the pressure
+00:26:53 production so it's an engineering marvel you know the spacesuits that have flown because they really are entire
+00:26:57 spacecraft that a small spacecraft that we have around a person but they're very massive but 140 kilo is the current suit
+00:27:04 and they're not mobility suits so since we're going back to the Moon and Mars we need a planetary suit we need a mobility
+00:27:09 suit so that's where we've kind of flipped the design paradigm I study astronauts I study humans in motion and
+00:27:16 if we can map that motion I want to give you a full flexibility you know move your arms and legs I really want you to
+00:27:22 be like a Olympic athlete in extreme Explorer I don't want to waste any of your energy so we take it from the human
+00:27:28 design so I take a look at humans we measure them we model them and then I say okay can I put a spacesuit on them
+00:27:34 that goes from the skin out so rather than a gas pressurized shrinking that spacecraft around the person so here's
+00:27:41 how humans perform can I design a spacesuit literally from the skin out that's what we've come up with
+00:27:45 mechanical counter-pressure some patterning and that way it could be order of magnitude less in terms of the
+00:27:52 mass and it should provide maximum mobility for moon or mars what's mechanical cano pressure like how
+00:27:59 the heck can you even begin to create something that's tight-fitting so and still doesn't protect you from the
+00:28:06 elements and so on and the hold of the pressure thing design channels we've been working on it from so you can
+00:28:11 either put someone in a balloon that's one way to do it that's conventional that's me that means the balloon doesn't
+00:28:16 get fresher eyes soon so put someone in a blue it's only a third of an atmosphere to keep someone alive so
+00:28:20 that's what the current system is so depending on what units you think in 30 kilo Pascal's you know 4.3 pounds per
+00:28:26 square so much less than the the pressure that's on earth you can still be a human alive with 0.3 and it's alive
+00:28:34 and happy alive in half India you mix the gases you need here we're we're having this chat and we're both we're at
+00:28:40 one sea level in Boston it you know one atmosphere but assume nitrogen arsenide you didn't you put a
+00:28:46 suit if we put someone to a third of an atmosphere so for mechanical counter pressure now so one ways to do it with a
+00:28:52 balloon and that's what we currently have or you can apply the pressure directly to the skin I only have to give
+00:28:58 you a third of an atmosphere right now you and I are very happy in one atmosphere so so you know we can so if I
+00:29:03 put that pressure a third of an atmosphere on you I just have to do it consistently you know across you know
+00:29:08 all of your body and your limbs and it'll be a gas pressurized helmet doesn't make sense to shrink wrap the
+00:29:17 head we don't need to there's no benefits of like shrink wrapping have you put on gas pressurized helmet
+00:29:22 because the helmet then the future of suits you asked me about the helmet just becomes your information portal yes so
+00:29:28 we'll have augmented reality you'll have all the information you need should have you know the maps that I need I'm on the
+00:29:34 moon okay well hey smart helmet then show me the map show me the topography hopefully it has the lab embedded too if
+00:29:40 it has really great cameras maybe I can see with that regolith that's just lunar dust and dirt what's that made of
+00:29:46 we talked about the water so the helmet then really becomes this information portal is how I see kind of the IT
+00:29:52 architecture the helmet is really allowing me to you know use all of my modalities of an explorer that I'd like
+00:30:01 to so cameras voiceover images if it were really good it would kind of be would have lab capabilities as well okay
+00:30:07 so the pressure comes for the body comes from the mechanical pressure just fascinating now what aspect when I look at BIOS they
+00:30:14 just the suits you're working on sort of from a fashion perspective they look awesome is that is that a small part of
+00:30:21 it too oh absolutely because the teams that we work with of course I'm an engineer there's engineering students
+00:30:26 there's design students there's architects so it really is a very much a multidisciplinary team so sure colors
+00:30:34 aesthetics materials all those things we pay attention to so it's not just an engineering solution it really is a much
+00:30:40 more holistic it's a suit it's a suit you're you know so we really have to pay attention to all those things and so
+00:30:49 that's the design team that we work with and my partner get rowdy you know we were partners in this in terms of he
+00:30:54 comes from an architect or industrial design background so bringing those skills to bear as well
+00:31:00 we team up with industry folks who are in athletic performance and designers so it really is a team that brings all
+00:31:07 those skills together so what role does the spacesuit play in our long-term staying in Mars sort of exploring the
+00:31:14 doing all the work that astronauts do but also perhaps civilians one day almost like taking steps towards
+00:31:20 colonization of Mars what world is a spacesuit play there so you always need life-support system
+00:31:26 pressurized habitat and I like to say we're not going to Mars to sit around you know even if you land and have the
+00:31:33 lander you're not going there to stay inside that's for darn sure we're going there to search for the evidence of life
+00:31:37 that's why we're going to Mars so you need a lot of mobility so for me the suit is the best way to give the human
+00:31:43 mobility we're always so gonna need Rovers we're gonna need robots so for me exploration is always a suite of
+00:31:50 explorers some people are gonna some of the suite of explorers or humans but many are gonna be robots smart systems
+00:31:56 things like that but I look at it it's kind of all those capabilities together make the best exploration team so let me
+00:32:03 ask I loved artificial intelligence and you thought I've also saw that you've enjoyed the movie space obviously 2001 a
+00:32:10 Space Odyssey let me ask the question about Hal 9000 that makes a few decisions there that prioritizes the
+00:32:17 mission over the the astronauts do you think from a high philosophical question do you think hell did the right thing
+00:32:25 prioritizing the mission I think our artificial intelligence will be smarter in the future for a Mars mission it's a
+00:32:31 great question of is that the reality isn't for a Mars mission you know we need fully autonomous systems we will
+00:32:36 get humans but they have to be fully autonomous and that's a really important concept because you know there's not
+00:32:43 going to be a Mission Control on earth you know I'd you know 20-minute time leg there's just no way you're gonna control
+00:32:50 so fully a ton so people have to be fully autonomous as well but all of our systems as well and so that's that's the
+00:32:55 big design challenge so that's why we test them out on the moon as well when we have a okay a few seconds you know a
+00:33:00 three-second time leg you can test him out we have to really get autonomous exploration down you asked me earlier
+00:33:07 about Magellan and Magellan and his crew they they left right they were autonomous mm-hmm you know they were
+00:33:13 autonomous they left and they were on their own to figure out that mission then when they hit land they have
+00:33:17 resources as Institue resource utilization and everything else they brought with them so we have to I think
+00:33:23 have that mindset for expression again back to the moon it's more the testing ground the proving ground with
+00:33:28 technologies but when we get to Mars it's so far away that we need fully autonomous systems so I think that's
+00:33:34 that's where again AI and autonomy come in really robust autonomy things that we don't have today yet so they're on the
+00:33:40 drawing boards but we really need to test them out because that's that's what we're up against so fully autonomous
+00:33:45 meaning like self-sufficient there's still a role for the human in that picture do you think there will be a
+00:33:53 time when AI systems just beyond doing fully autonomous flight control will also help or even take mission decisions
+00:34:00 like how did that's interesting it depends I mean they're gonna be designed by humans as you mentioned humans are
+00:34:05 always in the loop I mean we might be on earth we might be in orbit on Mars maybe the systems the Landers down on the
+00:34:11 surface of Mars but I think we're gonna get we are right now just on earth-based systems you know AI systems that are
+00:34:20 incredibly capable and you know training them with all the data that we have now you know petabytes of data from Earth
+00:34:26 what I care about for the autonomy and AI right now how we're applying it and research is to look at earth and look at
+00:34:32 climate systems I mean that's the it's not for Mars to me today right now AI is to eyes on earth all of our space data
+00:34:38 compiling that using supercomputers because we have so much information and knowledge and we need to get that into
+00:34:44 people's hands we need first there's the educational issue with climate and our changing climate then we need to change
+00:34:51 human behavior that's the biggie so this next decade it's urgent we take care of our own spaceship which is spaceship
+00:34:58 earth so that's to me where my focus has been for AI systems using whatever is out there kind of imagining also what
+00:35:05 the future situation is the satellite imagery of Earth of the future if you can hold that in your hands that's gonna
+00:35:11 be really powerful will that help people accelerate positive change for Earth and for us to live in balance with earth I
+00:35:17 hope so and kind of start with the ocean systems so oceans to land to air and kind of using all the space data so it's
+00:35:23 a huge role for artificial telogen to help us analyze I call it curating the data using the data it has
+00:35:31 a lot - of visualizations as as well do you think and a weird dark question do you think human species can survive if
+00:35:39 we don't become interplanetary in the next century or a couple of centuries absolutely we can survive
+00:35:47 I don't think Mars is option B actually I think is all about saving spaceship earth and humanity I simply put you know
+00:35:54 earth doesn't need us but we really need our you know all humanity needs to live in balance with
+00:36:00 earth because earth has been here a long time before we ever showed up and it'll be here a long time after it's just a
+00:36:06 matter of how do we want to live with all living beings you know much more in balance because we need to take care of
+00:36:12 the earth and right now we're we're not so that's the urgency and I think it is the next decade to try to live much more
+00:36:19 sustainably live more in balance with earth I think the human species has a great long optimistic future but we have
+00:36:26 to act it's urgent we you know it we have to change behavior we we have to work we have to realize that we're all
+00:36:31 in this together it's just one blue bubble it's for Humanity so when I think people realize that we're all astronauts
+00:36:37 that's the great news is everyone's be an astronaut you birth we're all on we're all astronauts of spaceship earth
+00:36:42 and okay this is our mission this is our mission to take care of the planet and yet as we explore out from our from our
+00:36:52 spaceship earth here out into the space what do you think the next 50 hundred 200 years look like for space
+00:36:58 exploration I'm optimistic so I think that we'll have lots of people thousands of people tens of thousands people who
+00:37:04 knows maybe millions in low-earth orbit that's just a place that we're gonna have people and actually some industry
+00:37:11 manufacturing things like that that that dream I hope we realize getting people to the moon so I can envision a lot of
+00:37:16 people on the moon again it's great place to living or visiting probably visiting and living if you want to most
+00:37:23 people are gonna want to come back to to earth I think but there'll be some people and it's not such a long it's a
+00:37:28 good view it's a beautiful view so I think that we will have you know many people on the moon as well I think
+00:37:33 there'll be some people you told me well you know hundreds of years out so we'll have people will be interplanetary for sure
+00:37:39 as a species so I think we'll be on the moon I think we'll be on Mars Venus no it's already a runaway greenhouse gas so
+00:37:45 not a great great place for science you know Jupiter all of in within the solar system great place for all of our
+00:37:51 scientific probes I don't see so much in terms of human physical presence we'll be exploring them so we we live in our
+00:37:56 minds there because we're exploring them and going on those journeys but it's really our choice in terms of our
+00:38:05 decisions of how in balance you know we're gonna be living here on the earth when do you think the first woman first
+00:38:12 person will step on Mars I asked about Mars Vaughn I'm gonna do everything I can to make sure it happens in the 2030s
+00:38:19 so I say mid you know 2020 mid 20 you know 2025 2030 five will be on the moon and hopefully with more people than less
+00:38:25 but first with you know a few astronauts it'll be global international folks but we really need those 10 years I think on
+00:38:31 the moon and then so by the way later in the decade in the 2030s we will have all the technology and know-how and we need
+00:38:37 to get that you know human mission to Mars 10 live in exciting times and David thank you so much for leading the way
+00:38:43 and thank you for talking today thank you my pleasure thanks for listening to this
+00:38:47 conversation and thank you to our presenting sponsor cash app remember to use code Lexx podcast when you download
+00:38:55 cash out from the App Store Google Play Store you'll get ten bucks ten dollars and ten dollars will go to first a stem
+00:39:02 education nonprofit that inspires hundreds of thousands of young minds to learn and to dream of engineering our

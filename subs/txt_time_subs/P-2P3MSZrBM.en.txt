@@ -1,0 +1,1551 @@
+00:00:01 the following is a conversation of Yoshi Bach VP of research at the AI foundation with a history of research positions at
+00:00:11 MIT and Harvard Yosha is one of the most unique and brilliant people in the artificial intelligence community
+00:00:17 exploring the workings of human mind intelligence consciousness life on Earth and the possibly simulated fabric of our
+00:00:27 universe I could see myself talking to Yoshi many times in the future quick summary of the ads to sponsors Express
+00:00:35 BPM and cash app please consider supporting the podcast by signing up at expressvpn comm slash FlexPod and
+00:00:44 downloading cash app and using code lex podcast this is the artificial intelligence podcast if you enjoy it
+00:00:52 subscribe on youtube review it with five stars in a podcast supported on patreon or simply connect with me on Twitter at
+00:01:00 Lex Friedman since this comes up more often than I ever would have imagined I challenge you to try to figure out how
+00:01:07 to spell my last name without using the letter E and it'll probably be the correct way as usual I'll do a few
+00:01:15 minutes of ads now and never any ads in the middle that can break the flow of the conversation this show sponsored by expressvpn
+00:01:24 get it at expressvpn comm slash flexpod to support this podcast and to get an extra three months free on a one-year
+00:01:32 package I've been using expressvpn from many years I love it I think expressvpn is the best VPN out there they told me
+00:01:40 to say it but think it actually happens to be true it doesn't log your data
+00:01:46 it's crazy fast and it's easy to use literally just one big power on button again for obvious reasons it's really
+00:01:54 important that they don't log your data it works on Linux and everywhere else too shout out to my favorite flavor of
+00:02:04 Linux Ubuntu mottai 2004 once again get it at expressvpn comm slash FlexPod to support this podcast and to get an extra
+00:02:13 three months free on a one-year package this show is presented by cash app the number one finance app in the App Store
+00:02:19 when you get it use code Lex podcast cash app lets you send money to friends buy Bitcoin and
+00:02:27 invest in the stock market with as little as one dollar since cash app does fractional share trading let me mention
+00:02:34 that the order execution algorithm that works behind the scenes to create the abstraction of the fractional orders is
+00:02:41 an algorithmic marvel so big props the cash app engineers for taking a step up to the next layer of abstraction over
+00:02:47 the stock market making trading more accessible for new investors and diversification much easier so again if
+00:02:54 you get cash out from the App Store Google Play and use the collects podcast you get ten dollars in cash wrap will
+00:03:02 also donate ten dollars to first an organization that is helping advanced robotics and STEM education for young
+00:03:10 people around the world and now here's my conversation with the OSHA buck as you've said
+00:03:18 up in a forest in East Germany just as what we're talking about off mic to parents who were artists and now I think
+00:03:25 at least to me you become one of the most unique thinkers in the AI world so can you try to reverse engineer your
+00:03:30 mind a little bit what were the key philosophers scientists ideas maybe even movies or
+00:03:40 just realizations that a impact on you when you're growing up that kind of led to the trajectory or what the key sort
+00:03:46 of crossroads in the trajectory of your intellectual development my father came from a long tradition of architects
+00:03:58 distant branch of the family and so basically he was technically a nerd and nerds need to interface in society with
+00:04:07 non-standard ways sometimes I define a nerd as somebody who thinks that the purpose of communication is to submit
+00:04:15 your ideas to peer review and normal people understand that the primary purpose of communication is to negotiate
+00:04:21 alignment and these purposes tend to conflict which means that nerds have to learn how to interact with society at
+00:04:30 large who is the reviewer in the nerd view of communication everybody who will consider to be a peer so whatever
+00:04:37 happiest individual is to around well you would try to make him or her the gift of information okay so you're now
+00:04:47 by the way my research will have Mellon for me so you're architect or artist I study architecture but basically my
+00:04:57 grandfather made the wrong decision he married an aristocrat and I was drawn into a window into the war and he came
+00:05:06 back after 15 years so basically my father was not parented by a nerd by but by somebody who tried him tell him what
+00:05:15 to do and expected him to do what he was told and he was unable to he's unable to do things if he's not intrinsically
+00:05:22 motivated so in some sense my grandmother broke her son and her son responded by when he became an architect
+00:05:29 to become an artist so he bought wounded bizarre architecture he built houses without
+00:05:35 right angles he'd be lots of things that didn't work in more brutalist traditions of eastern Germany and so he bought an
+00:05:42 old water mill moved out of the countryside and did only what he wanted to do which was art eastern Germany was
+00:05:49 perfect for p'jem because you had complete material safety put was heavily subsidized Oskar was free you didn't
+00:05:56 have to worry about rent or pensions or anything so as a socialized communist side yes and the other thing is it was
+00:06:02 almost impossible not to be in political disagreement with your government which is very productive for artists so
+00:06:07 everything that you do is intrinsically meaningful because it will always touch on the deeper currents of society of
+00:06:13 culture and be in conflict visit and tangent visit and you will always have to define yourself and with respect to
+00:06:19 this so what impact did your father this outside the bar outside the box thinker against the government against the world
+00:06:28 artists have it was not a thinker he was somebody who only got self-aware to the degree that he needed to make himself
+00:06:35 functional so in some sense he's it was also late 1960s and he was in some sense a hippie so he became a one-person cult
+00:06:44 he lived out there in his kingdom he built big sculpture gardens and he started many avenues of art and so on
+00:06:53 and convinced a woman to live with him she was also an architect and she adored him and decided to share her life with
+00:07:00 him and I basically grew up in a big cave full of books I'm almost feral and I was bored out
+00:07:07 there it was very very beautiful very quiet and quite lonely so I started to read and by the time I came to school
+00:07:14 I've read everything until fourth grade and then some and there was not a real way for me to relate to the outside
+00:07:21 world and I couldn't quite put my finger on why and today I know it was because I was a nerd obviously and it was the only
+00:07:28 nerd around so there was no other kids like me and there was nobody interested in physics or computing or mathematics
+00:07:36 and so on and this village school that I went to was busy in high school kids were nice to me I was not beaten up but
+00:07:43 I also didn't make many friends or but relationships that only happened and starting from ninth grade when I went to
+00:07:49 a school for mathematics and physics do you remember any key books from my cigarette everything so I went to the
+00:07:56 library and I've worked my way through the children's and young adult sections and then I read a lot of science fiction
+00:08:03 for instance Danny's laflamme basically the great author of cybernetics has influenced me back then I didn't see him
+00:08:09 as a big influence because everything that he wrote seem to be so natural to me and it's only later that I contrasted
+00:08:16 it with what other people wrote another thing that was very influential on me were the classical philosophers and also
+00:08:23 the Tudor of Romanticism so German poetry and art cross two heads off and Heine and up to Heather and so on that's
+00:08:33 a love Heather so at which point is a classical philosophers end at this point or in the 21st century what's what's the
+00:08:39 latest classical philosopher does this stretch through even as far as Nietzsche or just I were talking about Plato and
+00:08:46 there's that one I think that Nietzsche is the classical equivalent of a poster yeah but he's not so much tolling
+00:08:58 others he's trolling himself because he was at odds with the world largely his romantic relationships didn't work out
+00:09:04 he got angry and he basically became a nihilist and his nether is not a beautiful way to be isn't until I show
+00:09:12 it to cast him be trolling yourself to be in that conflict in that no Venice at some point you have to understand the
+00:09:20 comedy of your own situation if you take yourself seriously and you are not functional it ends in tragedy as I did for
+00:09:27 Nietzsche by thinking you think he took himself too seriously in the in that tension and as we apply the same thing
+00:09:33 and in HESA and so on this step involves two enormous classic a dollar sense where you basically feel misunderstood
+00:09:38 by the world and you don't understand that all the misunderstandings are the result of your own lack of
+00:09:43 self-awareness because you think that you are a prototypical human and the others around you should behave the same
+00:09:49 way as you expect them based on your innate instincts and it doesn't work out and you become a transcendentalist to
+00:09:56 deal with that and so it's very very understandable great sympathies for this to the degree that I can have sympathy for my own
+00:10:05 intellectual history but out of it was an intellectual a life well-lived a journey well traveled is one where you
+00:10:11 don't take yourself seriously from now I think that you are neither serious or not serious yourself because you need to
+00:10:20 become unimportant as a subject that is if you are if a lot of a belief is not a verb you don't do this for the audience
+00:10:27 you don't do it for yourself you have to submit to the things that are possibly true and you have to follow wherever
+00:10:34 your inquiry leads but it's not about you and has nothing to do with you so do you think then people like Iran
+00:10:41 believed sort of an idea of there's a objective truth so GE what's your sense in the philosophical well if you remove
+00:10:48 yourself a subjective from the picture you think it's possible to actually discover ideas that are true or we just
+00:10:54 in a measure relative concepts they're an either true nor false it's just a giant mess you cannot define objective
+00:11:01 truth without understanding the nature of truths in the first place so what does the brain mean by saying that it
+00:11:07 covers something as truth so for instance a model can be predictive or not predictive then there can be a sense
+00:11:15 in which a mathematical statement can be tool because it's defined as true under certain conditions so it's basically a
+00:11:23 particular state that a variable can have an assembled game and then you can have a correspondence between systems
+00:11:29 and talk about truth which is again a type of model correspondence and that also seems to be a particular kind of
+00:11:35 ground rules so for instance you're confronted with the enormity of something existing at all right that's
+00:11:41 standing when you realize something exists rather than nothing and this seems to be true right there is two EPs
+00:11:48 absolute truth in the fact that something seems to be happening yeah that that to me is a showstopper I
+00:11:53 could just think about that idea and be amazed by that idea for the rest of my life and not go any farther because I
+00:11:59 don't even know the answer to that why does anything exist at all well the easiest answer is existence is the
+00:12:04 default right so this is the lowest number of bits that you would need to encode this whose answer who brought the
+00:12:09 simplest answer sympathisers that existence is that if what about non-existence I mean that
+00:12:15 seems non-existence might not be a meaningful notion in the sense so in some sense if everything that can exist
+00:12:21 exists for something to exist it probably needs to be implementable the only thing that can be implemented as
+00:12:27 finite automata so maybe the whole of existence is the superposition of all finite automata and we are in some
+00:12:32 region of the fractal that has the properties that it can contain us what does it mean to be a superposition of
+00:12:41 fine and vanish superposition of all power like all possible rules imagine that every automaton is basic an
+00:12:47 operator that acts on some substrate and as a result you get emergent patterns most a substrate is no idea to know so
+00:12:56 it's based on substrate it's something that can store information something that can store information there is a
+00:13:01 counter something that can hold state still doesn't make sense to me the why that exists at all I could just sit
+00:13:08 there with a with a beer or or a vodka and just enjoy effect monitoring the why may not have a why this might be the
+00:13:15 wrong direction so a skin to this so there could be no relation in in the Y direction without asking for a purpose
+00:13:22 or for a course it doesn't mean that everything has to have a purpose or cause right so we mentioned some
+00:13:29 philosophers in that early just taking a brief step back into in today okay so we asked ourselves when did classical
+00:13:35 philosophy end I think what Germany largely ended was the first revolution that's basically even which was that
+00:13:43 this was when we ended the monarchy and started a democracy and at this point we basically came up with a new form of
+00:13:49 government that didn't have a good sense of the this new organism that society wanted to be and in a way it decapitated
+00:13:57 the universities so the university spent on so modernism like a headless chicken at the same time democracy failed in
+00:14:03 Germany and we got fascism as a result and it burnt down things in the similar way as Stalinism burnt down intellectual
+00:14:11 traditions in Russia and Germany boast Germany's have not recovered from this Eastern Germany at this bog or a
+00:14:16 dialectic materialism and western Germany didn't get much more edgy that Hamas so in some sense both countries
+00:14:23 lost their intellectual traditions and killing off and driving out Jules didn't help yeah so that was the
+00:14:31 end that was the end of really rigorous well you would say it's classical classical philosophy is also this thing
+00:14:38 that in some sense the low-hanging foods in philosophy were mostly wrapped and the last big things that we discovered
+00:14:46 was the constructivist turn in mathematics so to understand that the parts of mathematics that work are
+00:14:54 computation it was a very significant discovery in the first half of the 20th century and it hasn't fully permeated
+00:15:01 philosophy and even physics yet physicists checked out the core libraries from mathematics before
+00:15:07 constructivism became universal what's constructivist and what are you French girls incompleteness theorems that kind
+00:15:13 of discuss so it basically girdle himself I think didn't get it yet Hilbert could get it Hilbert saw that
+00:15:19 for instance a country's set theoretic experiments and mathematics led into contradictions and he noticed that mr.
+00:15:26 current semantics we cannot build a computer in mathematics that runs mathematics without crashing and a good
+00:15:32 proof could prove this and so what Google could show is using classical mathematical semantics you run into
+00:15:38 contradictions and because gödel strongly believed in these semantics and one then in what he could observe and so
+00:15:44 on he was shocked it basically shook his well to the core because in some sense he felt that the
+00:15:49 world has to be implemented in classical mathematics and for Turing it wasn't quite so bad I think that you were in
+00:15:56 could see that the solution is to understand the quest mathematics was computation all along which means you're
+00:16:02 for instance PI and classical mathematics is a value it's also a function but it's the same thing in a
+00:16:10 computation a function is only a value of n you can compute it and if you cannot compute the last digit of pi you
+00:16:16 only have a function you can plug this function into your local Sun let it run until the Sun burns out this is it this
+00:16:21 is the last digit of pi you will know but it also means that it can be no process in the physical universe or in
+00:16:28 any physically realized computer that depends on having known the last digit of pi yes which means there are parts of
+00:16:34 physics that are defined in such a way that cannot strictly be true because assuming that this could be true leads
+00:16:38 under contrary actions so I think putting computation at the center of the the worldview is
+00:16:45 actually the right way to think about it yes and Wittgenstein could see it and Wittgenstein basically preempted the
+00:16:52 largest program of AI that Minsky started later like thirty years later Turing was actually a pupil of Vidkun
+00:16:58 Stein and really I didn't know there's any connection if it can stand even cancel some classes venturing was not
+00:17:04 present because he thought it was not worth spending the time if you read the attract address it's a very beautiful
+00:17:12 book but capacity one salt on 75 pages it's very non typical for philosophy because it doesn't have arguments in it
+00:17:19 and it doesn't have references in it it's just one thought that is not intending to convince anybody hisses
+00:17:25 says it's mostly for people that had the same insight as me just spell it out and this insight is there is a way in which
+00:17:32 mathematics and philosophy ought to meet mathematics tries to understand the domain of all languages by starting with
+00:17:39 those that are so form Aliza bulette you can prove all the properties of the statements that you make but the price
+00:17:45 that you pay is that your language is very very simple so it's very hard to say something meaningful in mathematics
+00:17:51 yes and it looks complicated to people but it's far less complicated than what our brain is casually doing all the time
+00:17:58 it makes sense of reality and philosophy is coming from the top so it's mostly starting from natural languages which
+00:18:04 vaguely defined concepts and the hope is that mathematics and philosophy can meet at some point and Wittgenstein was
+00:18:10 trying to make them meet and he already understood that for instance you could express everything Western and calculus
+00:18:15 that you could produce the entire logic to NAND gates as we do in all modern computers so in some sense he already
+00:18:21 understood - and universality before touring spelled it out I think he when he wrote the Tractatus he didn't
+00:18:26 understand yet that the idea was so important and significant and I suspect then when curing wrote it out nobody
+00:18:32 cared that much your chewing was not that famous when he lived it was mostly his work in decrypting the German codes
+00:18:40 that made him famous and or gave him some notoriety but this same status that he has to computer science right now in
+00:18:46 the eye is something that I think he could acquire later it's kind of interesting and do you think of
+00:18:51 computation and computer science and you represent that to me is maybe that's the modern-day you in a sense are the new
+00:18:59 philosopher by sort of the computer scientist who dares to ask the bigger questions that philosophy originally
+00:19:07 started is the new philosophy is the new philosopher certainly not me I think I mostly the oldest child that grows up in
+00:19:14 a very beautiful Valley and looks at the world from the outside and tries to understand what's going on and my
+00:19:18 teachers tell me things and they largely don't make sense right so I have to make my own models I have to discover the
+00:19:23 foundations of what the others are saying I have to try to fix them to be charitable I try to understand what they
+00:19:30 must have thought originally or what their teachers or their teachers teachers must have thought until
+00:19:34 everything are lost in translation and how to make sense of the reality that we are in and whenever I have an original idea
+00:19:41 I'm usually late to the party by say 400 years and the only thing that's good is that the parties get smaller and smaller
+00:19:46 the older I get and the more I explore the part the party gets smaller and more exclusive and more exclusive so it seems
+00:19:54 like one of the key qualities of your upbringing was that you are not tethered whether it's because your parents or in
+00:20:02 general maybe you're something within your within your mind some genetic material you were not tethered to the
+00:20:10 ideas of the general populace which is actually a unique property we're kind of throughout you know the education system
+00:20:16 and whatever from that education system just existing in this world forces certain sets of ideas onto you can you
+00:20:25  disentangle that why were you why are you not so tethered even in your work today you seem to not care about perhaps a
+00:20:36 best paper in Europe's right being tethered to particular things that current today in this year people seem
+00:20:44 to value as a thing you put on your CV and resume you're a little bit more outside of that world outside of the
+00:20:50 world of ideas that people are especially focusing the benchmarks of today the things what
+00:20:56 can you disentangle that because I think that's inspiring and if there were more people like that we might be able to
+00:21:01 solve some of the bigger problems that sort of AI dreams to solve and that's a big danger in this because in a way you
+00:21:10 are expected to marry into an intellectual tradition and visit this tradition into a particular school if
+00:21:16 everybody comes up with their own paradigms the whole thing is not cumulative as an enterprise right so in
+00:21:23 some sense you need a healthy balance you need paradigmatic thinkers and you need people that work within given
+00:21:28 paradigms basically sciences today to find themselves largely by methods and it's almost a disease that we think as a
+00:21:37 scientist somebody who was convinced by the guidance counselor that they should join a particular discipline and then
+00:21:42 they find a good mentor to learn the right methods and then they are lucky enough and privileged enough to join the
+00:21:48 right team and then they will their name will show up on influential papers but we also see that there are diminishing
+00:21:55 returns with this approach and when our field computer science day I started most of the people that joined this
+00:22:01 field had interesting opinions and today's thinkers and AI either don't have interesting opinions at all or
+00:22:08 these opinions are inconsequential for what they actually doing because what they're doing is they apply the
+00:22:13 state-of-the-art methods with a small epsilon and this is often a good idea if if you think that this is the best way
+00:22:22 to make progress and for me it's first of all very boring if somebody else can do it why should I do it right if if the
+00:22:28 current methods of measuring learning lead to strong AI why should I be doing it right well just wait and hold that
+00:22:35 done and wait until they do this on the beach or read interesting books or write some and have fun but if you don't think
+00:22:42 that we are currently doing the right thing if we are missing some perspectives then it's required to think
+00:22:51 outside of the box it's also required to understand the boxes but it's it's necessary to understand what worked and
+00:22:59 what didn't work and for what reasons so you have to be willing to ask new questions and design new methods
+00:23:05 whenever you want to answer them and you have to be willing to dismiss the existing methods
+00:23:09 if you think that they're not going to give the right answers it's very bad career advice to do that so maybe to
+00:23:20 briefly stay for one more time in the early days one would you say for you was the dream before we dive into the
+00:23:28 discussions that we just almost started one was the dream to understand or maybe to create human level intelligence born
+00:23:37 for you I think that you can see AI largely today as advanced information processing if you would change the
+00:23:47 acronym of AI and to that most people in the field would be happy it would not change anything what they're doing for
+00:23:53 your automating statistics and when you of the statistical models are more advanced than what statisticians had in
+00:23:59 the past and it's pretty good work it's very productive and the the other aspect of AI is is philosophical project and
+00:24:05 this philosophical project is very risky and very few people work on it and it's not clear if it succeeds so first of all
+00:24:13 let's this is you you keep throwing a sort of a lot of really interesting ideas and I have to pick which ones we
+00:24:20 cook with but sort of first of all you use the term information processing just information processing as if it's it's
+00:24:28 the mirror it's the muck of existence as if it's the epitome of a logistic that that the
+00:24:36 entirety the universe may be information processing it consciousness the intelligence might be information
+00:24:40 problem so that maybe you can comment on if that's if the advanced information processing is is a limiting kind of
+00:24:49 realm of ideas and then the other one is would II mean by the philosophical project so I suspect that general
+00:24:57 intelligence is the result of trying to solve general problems so intelligence I think is the ability to model it's not
+00:25:05 necessarily goal directed rationality or something many intelligent people are bad at this but it's the ability to be
+00:25:12 presented with a number of patterns and see a structure in those patterns and be able to predict the next set of patterns
+00:25:19 right to make sense of things and some problems are very trainable usually Intel serfs control so you make these models
+00:25:26 for a particular purpose of interacting as an agent with the world and getting certain results but it's the
+00:25:31 intelligence itself is in the sense instrumental to something but by itself it's just the ability to make models and
+00:25:37 some of the problems are so general that the system that makes them needs to understand what itself is and how it
+00:25:44 relates to the environment so as a child for instance you notice you do certain things despite you perceiving yourself
+00:25:50 as wanting different things so you become aware of your own psychology you become aware of the fact that you have
+00:25:57 complex structure in yourself and you need to model yourself to reverse-engineer yourself to be able to
+00:26:02 predict how you will react to certain situations and how you deal with yourself in relationship to your
+00:26:07 environment and this process if this project if you reverse engineer yourself new relationships or reality in the
+00:26:13 nature of a universe that can continue if you go all the way this is basically the project of AI or you could say the
+00:26:20 project of AI is a very important component in it the tutoring test in a way is you ask a system what is
+00:26:27 intelligence if that system is able to explain what it is how it works then you would should assign it the property of
+00:26:35 being intelligent in this general sense so the test the Turing was administering in a way I don't think that he couldn't
+00:26:42 see it but he didn't express it yet and the original 1950 paper is that he was trying to find out other that he was
+00:26:49 generally intelligent because in order to take this test the wrappers of course you need to be able to understand what
+00:26:54 that system is saying and we don't yet know if we can build an AI have you don't yet know if you are generally
+00:27:00 intelligent basically you win the Turing test by building an AI yes so it so in a sense hidden within the Turing test is a
+00:27:07 kind of recursive test yes it's a test on us yeah the Turing test is basically a test of the conjecture whether people
+00:27:14 are intelligent enough to understand themselves okay but you also mentioned a little bit of a self-awareness and then
+00:27:21 the project of AI do you think this kind of emergent self-awareness is one of the fundamental aspects of intelligence so
+00:27:30 as opposed to goal oriented ease you said kind of puzzle solving is coming to grips with the idea that
+00:27:39 you're an agent in the world and I find that many highly intelligent people are not very self-aware right so
+00:27:45 self-awareness and intelligence are not the same thing and you can also be surf aware if you have put priors especially
+00:27:51 it without being especially intelligent so you don't need to be very good at solving puzzles if the system that you
+00:27:59 are already implements the solution but I do find intelligence so you kind of mentioned children right it is that the
+00:28:08 fundamental project of AI is to create the learning system that's able to exist in the world so you kind of drew a
+00:28:16 difference between self-awareness and intelligence and yet you said that the self-awareness seems to be important for
+00:28:25 children so I call this ability to make sense of the world and your own place and so to understable make you able to
+00:28:31 understand what you're doing in this world sentience and I would distinguish sentience from intelligence because
+00:28:37 sentience is the possessing certain classes of models and intelligence is the way to get to these models if you
+00:28:47 don't already have them I see so can you maybe pause a bit and try to answer the question that we just said we may not be
+00:28:57 able to answer and might be a recursive meta question of what is intelligence and I think that intelligence is the
+00:29:06 ability to make models the models is I think it's useful as examples very popular now neural networks form
+00:29:16 representations of large-scale data set they they form models of those data sets when you say models and look at today's
+00:29:24 new all networks what are the difference of how you're thinking about what is intelligent in saying that intelligence
+00:29:31 is the process of making models two aspects tool to this question one is the representation is the representation
+00:29:38 adequate for the domain that we want to represent and the other one is is the type of the model that you arrive at
+00:29:46 adequate so basically are your modeling the correct domain and I think in both of these cases
+00:29:53 modern AI is lacking stuff and I think that I'm not saying anything new you're not criticizing the field most of the
+00:30:00 people that design our paradigms are aware of that and so one aspect that you're missing is unified learning when
+00:30:07 we learned we'd at some point discover that everything that we sends this part of the same object which means we learn
+00:30:13 it all into one model and we call this model the universe so an experience of the world that we are embedded on it's
+00:30:19 not a secret direct via to physical reality physical reality is a view at quantum graph that we can never
+00:30:25 experience or get access to but it has this properties that it can create certain patterns at our systemic
+00:30:31 interface to the world and we make sense of these patterns and the relationship between the patterns that we discover is
+00:30:36 what we call the physical universe so at some point in our development is a nervous system we discover that
+00:30:45 everything that we relate to and in the world it can be mapped to a region in the same three-dimensional space by and
+00:30:51 large we now know in physics that this is not quite true well it's not actually three-dimensional but the world that we
+00:30:57 are entangled is at the level of which we are entangled this is largely a flat three-dimensional space and so this is
+00:31:04 the model that our brain is intuitively making and this is I think what gave rise to this intuition of res extends
+00:31:11 a-- of this material world this material domain it's one of the mental domains but it's just the class of all models
+00:31:16 that relate to this environment this v dimension of physics engine in which we are embedded physics engine or embedded
+00:31:23 i love that phrase it just slowly pause so the the quantum graph i think you called which is the real world which you
+00:31:35 can never get access to there's a bunch of questions i want to sort of disentangle that maybe one useful one
+00:31:42 one of your recent talks i looked at can you just describe the basics can you talk about what is dualism
+00:31:48 what does idealism what is materialism what is functionalism and what connects with you most in terms of because you
+00:31:53 just mentioned there's a reality we don't have access to okay what does that even mean
+00:32:00 and why don't we get access to it only part of that one week why can we access it so the
+00:32:05 particular trajectory that mostly exists in the West is the result of our indoctrination by a card for 2000 years
+00:32:13 occult which yes the Catholic cause mostly yes and for better or worse right it has created or defined many of the
+00:32:20 modes of interaction that we have that have best created this society but it has also in some sense scarred our
+00:32:29 rationality and the intuition that exists if you would translate the mythology of the Catholic Church into
+00:32:36 the modern world is that the world in which you and me interact is something like a multiplayer role-playing
+00:32:42 adventure yes and the money and the objects that we have in this world this is all not real or is Eastern
+00:32:49 philosophers would say it's my eye it's just stuff that is it appears to be meaningful and this embedding in this
+00:32:55 meaning and people leave in it is samsara this it's basically the identification with the needs of the
+00:33:03 mundane secular everyday existence and the Catholics also introduced the notion of higher meaning the sacred and this
+00:33:11 existed before but eventually the natural shape of God is the Platonic form of the civilization that you're
+00:33:16 part of it's basically the super organism that is formed by the individuals as an intentional agent and
+00:33:23 basically the Catholics used relatively crude mythology to implement software on the minds of people and get the software
+00:33:29 synchronized to make them walk in lockstep this basically get they get this got online and you make it
+00:33:38 efficient and effective and I think our God technically is just itself that spends multiple brains as opposed to
+00:33:44 your and myself which mostly exists just on one brain right and so in some sense you can
+00:33:49 construct yourself functionally as a function is implemented by brains that exists across brains and this is a God
+00:33:56 with a small G that's one of the if you look evil Harare kind of talking about this is one of the nice features of our
+00:34:03 brains it seems to that we can all download the same piece of software I got in this case and kind of share it
+00:34:10 yes you give everybody a spec and the mathematical constraints that are in front to information-processing make sure that
+00:34:19 given the same spec you come up with a compatible structure okay so that's there's the space of ideas
+00:34:24 that we all share and we think that's kind of the mind and but that's separate from the idea is from from Christianity
+00:34:33 for from religion is that there's a separate thing between the mind as a real vault and this real world is the
+00:34:40 world in which God exists God is the quarter of the multiplayer adventure so to speak and we are all players in this
+00:34:49 game and that's dualism usually but it is because the mental realm is exists in a different implementation than a
+00:34:56 physical realm and the mental realm is real and a lot of people have this intuition that there is this real room
+00:35:02 in which you and me talk and speak right now then comes a layer of physics and abstract rules and so on and then comes
+00:35:09 another real room where our souls are and our tool form isn't the thing that gives us phenomenal experience and this
+00:35:16 of course a very confused notion that you would get and it's basically it's the result of connecting materialism and
+00:35:25 idealism in the wrong way so okay I apologize but I think it's really helpful if we just tried to define try
+00:35:32 to define terms like what is joules and what is idealism what is materialism for people done' so the idea of dualism and
+00:35:38 our cultural tradition is that there are two substances a mental substance and a physical substance and they interact by
+00:35:46 different rules and the physical world is basically causally closed and is built on a low level causal structures
+00:35:53 or the bezier bottom level that is causally closed it's entirely mechanical and mechanical in the widest sense
+00:35:59 so it's computational there's basically a physical world in which information flows around and physics describes the
+00:36:06 laws of how information flows around an adult would you compare it to like a computer where you have a hardware and
+00:36:11 software the computer is a generalization of information flowing around basically but join discovered
+00:36:17 that there is genuine universal principle you can define this Universal machine that is able to perform all the
+00:36:24 computations so all these machines have the same power this this means that you can always define a translation between them
+00:36:31 as long as they have unlimited memory to be able to perform each other's computations so would you then say that
+00:36:38 materialism is this whole world is just the hardware and idealism is this whole world is just a software why I think
+00:36:44 that most idealists don't have a notion of software yet because software also comes down to information processing
+00:36:51 right so what you notice is the only thing that is real to you and me is this experimental world in which things
+00:36:56 matter in which things have taste in which things of color phenomenal content and so on and you are bringing up
+00:37:03 consciousness okay and this is distinct from the physical world in which things have values in only in an abstract sense
+00:37:11 and you only look at cold patterns moving around so how does anything feel like something in this connection
+00:37:18 between the two things is very puzzling to a lot of people of course to many philosophers so idealism starts out with
+00:37:23 the notion that mind is primary materialism thinks that matter is primary and so for the idealist the
+00:37:31 material patterns that we see a play in playing out a part of the dream that the mind is dreaming and we exist in the
+00:37:38 mind on a higher plane of existence if you want and for the materialist there is only this material thing and that
+00:37:48 generates some models and via the result of these models and in some sense I don't think that we should understand if
+00:37:54 you understand it properly materialism and idealism is a dichotomy but there's two different aspects of the same thing
+00:38:01 so the via thing is we don't exist in the physical world we do exist inside of a store way that the brain tells itself
+00:38:10 ok that's it let me  let my my my information processing I take they take that in we don't exist in the physical
+00:38:18 world we exist in the narrative basic your brain cannot feel anything New York cannot feel anything they're
+00:38:23 physical things physical systems are unable to experience anything but it would be very useful for the brain or
+00:38:28 for the organism to know what it would be like to be a person and to feel something yeah so the brain creates a
+00:38:35 simulacrum of such a person that it uses to model the interactions of the person's the best model of what that
+00:38:41 brain this organism thinks it is in relationship to its and so it creates that model it's a
+00:38:46 story a multimedia novel that the brain is continuously writing and updating but you also kind of said that you said that
+00:38:53 we kind of exist in the head and that's alright yes that story yeah what is real in any of this so like there's a again
+00:39:05 these terms are you kind of said there's a quantum graph I mean what is what is this whole thing running on then is this
+00:39:13 story and is it completely fundamentally impossible to get access to it because isn't the story supposed to is in the
+00:39:23 brain in a in something in existing in some kind of context so what we can identify as computer scientists we can
+00:39:30 engineer systems and test our theories this way that may have the necessary and sufficient properties to produce the
+00:39:37 phenomena that you're observing which is there is itself in a virtual world that is generated in somebody's neocortex who
+00:39:45 that is contained in the skull of this primate here and when I point at this this indexicality is of course wrong but
+00:39:52 I do create something that is likely to give rise to patterns on your retina that allow you to interpret what I'm
+00:39:59 saying right but I both know that the world that you and me are seeing is not the real physical world what we are
+00:40:05 seeing is a virtual reality generated in your brain to explain the patterns on your retina how close is it to the real
+00:40:11 world that's kind of the the question is it when you have when you have like people like Donald Hoffman let's say
+00:40:18 that like that you're really far away the thing we're seeing you and I now that interface would have it's very far
+00:40:25 away from anything like we don't even have anything close like to the sense of what the real world is or is it a very
+00:40:32 surface piece of architecture imagine you look at the Mandelbrot fractal right this famous thing that when a man would
+00:40:40 discover deadlines if you're you see an overall shape and they're right but you know if you truly understand it you know
+00:40:46 it's two lines of quote it's basically in a series that is being tested for complex numbers and in the complex
+00:40:53 number plane for every point and for those for this year is is diverging you paint this black and where it's
+00:41:03 converging you don't and you get the intermediate colors by taking how far it diverges yes right this gives you this
+00:41:12 shape of this fractal but imagine you live inside of this fractal and you don't have access to where you are in
+00:41:18 the fractal or you have not discovered the generator function even right so what you see is all of all I can see
+00:41:24 right now is the spiral and the spiral moves a little bit to the right is this an accurate model of reality yes it is
+00:41:30 right it is an adequate description is you know that there is actually no spiral and the mailboat fractal it only
+00:41:36 appears to like this to an observer that is interpreting things as a two-dimensional space and then define
+00:41:41 certain regularities in there at a certain scale that currently observes because if you zoom in the spiral might
+00:41:46 disappear and turn out to be something different at the different resolution right yes so at this level you have the
+00:41:51 spiral and then you discover the spiral moves to the right and some point it disappears so you have a singularity at
+00:41:57 this point your model is no longer valid you cannot predict what happens beyond the singularity but you can observe
+00:42:02 again and you will see it is another spiral and at this point it disappeared so maybe we now have a second-order law
+00:42:09 and if you make 30 layers of these laws then you have a description of the world that is similar to the one that we come
+00:42:14 up with when we describe the reality around us it's reasonably predictive it does not cut to the core of it so you
+00:42:20 explain how it's being generated how it actually works but it's relatively good to explain the University of your
+00:42:26 entangled fence but you don't think the tools are computer sizes the tools of physics could get could step outside see
+00:42:33 the whole drawing and get at the basic mechanism of how the pattern the spiral is generated imagine you would find
+00:42:40 yourself embedded into a mother but Franklin you try to figure out what works and you you know somehow have a
+00:42:44 throwing machine there's enough memory to think and as a result you've come to this idea it must be some kind of
+00:42:52 automaton and maybe you just enumerate all the possible automata until you get to the one that produces your reality so
+00:42:58 you can identify necessary and sufficient condition for instance we discover that mathematics itself is the
+00:43:04 domain of all languages and then we see that most of the domains of mathematics that we have discovered are in some
+00:43:10 sense describing the same this is what category theory is obsessed about that you can map these different
+00:43:15 domains to each other so they're not that many fractals and some of these have interesting structure and symmetry
+00:43:23 breaks and so you can just cover what region of this global fractal you might be embedded in from first principles yes
+00:43:29 but the only way you can get there is from first principles so basically your understanding of the universe has to
+00:43:34 start with automata and the number theory and then spaces and so on yeah I think like Stephen Wolfram still dreams
+00:43:40 that he's it that he'll be able to arrive at the fundamental rules of the cellular automata or the generalization
+00:43:48 of which is behind our universe yeah it's you've said on this topic you said in a recent conversation that quote some
+00:43:57 people think that a simulation can't be conscious and only a physical system can but they got a completely backward a
+00:44:04 physical system cannot be conscious only a simulation can be cautious yeah consciousness is a simulated property
+00:44:11 that's simulate itself yeah just like you said the mind is kind of the call it story narrative there's a simulation or
+00:44:19 our mind is essentially a simulation and usually I try to use the terminology so that the mind is basically a principles
+00:44:27 that produce the simulation it's the software that is implemented by your brain and the mind is creating both the
+00:44:34 universe that we are in and the self the idea of a person that is on the other side of attention and is embedded in
+00:44:41 this world why is that important that idea of a self why is that an important feature in
+00:44:47 simulation it's basically a result of the purpose that the mind has it's a tool for modeling right we are not
+00:44:54 actually monkeys via side effects of the regulation needs of monkeys and what the monkey has to regulate is the
+00:45:03 relationship of an organism to an outside world that is a large part also consisting of other organisms and as a
+00:45:10 result it basically has regulation targets that it tries to get to this regulation target start with priors
+00:45:16 they're basic like unconditional reflexes that we are more less born with and then we can reverse-engineer them to
+00:45:21 make them more consistent and then we get more detailed models about how the world works
+00:45:26 and how to interact with it and so these priors that you commit to are largely target values that our needs should
+00:45:33 approach set points and this deviation to the set point creates some urge some tension and we find ourselves living
+00:45:40 inside of feedback loops right consciousness emerges over dimensions of disagreements with the universe things
+00:45:47 that you care things are not the way there should be but you need to regulate and so in some sense the sense self is
+00:45:53 the result of all the identifications that you're having an identification is a regulation tracker that you're
+00:45:58 committing to it's a dimension that you care about do you think is important and this is also what locks you in if you
+00:46:05 let go of these commitments of these identifications you get free there's nothing that you have to do anymore and
+00:46:11 if you let go of all of them you're completely free and you can enter Nirvana because you're done and actually
+00:46:17 this is a good time to pause and say thank you to sort of a friend of mine Gustav's or Ostrom who introduced me to
+00:46:23 your work I wanted to give him a shout out he's a brilliant guy and I think the AI community is actually quite amazing
+00:46:30 and Gustav is a good representative that you are as well some I'm glad first of all I'm glad the internet exists you -
+00:46:38 who's this where I can watch your talks and then get to your book and study your writing and think about you know that's
+00:46:43 that's amazing okay but the you've kind of described instead of this emergent phenomena of
+00:46:51 consciousness from the simulation so what about the hard problem of consciousness the can you just linger on
+00:47:02 it like but why this is still feel like I understand you're kind of the self is an important part of the simulation but
+00:47:09 why does the simulation feel like something so if you look at the book by say george RR martin with the characters
+00:47:17 have plausible psychology yeah and they stand on a hill because they want to conquer the city below the hill and
+00:47:21 they've done in it and then look at the color of the sky and they are Princip and feel empowered and all these things
+00:47:27 why do they have these emotions it's because it's written into the story right and threatened with the story
+00:47:32 because it's an adequate model of the person that predicts what they're going to do next
+00:47:37 and the same thing is helpful it's basically a story that our brain is writing it's not written in words it's
+00:47:44 written in perceptual content basically multimedia content and it's a model of what the person would feel if it existed
+00:47:53 so it's a virtual person and you and me happen to be this virtual person so if this virtual person gets access to the
+00:47:59 language center and talks about the sky being blue and this is us but hold on a second do I exist in your simulation you
+00:48:09 do exist even almost similar way as me so there are internal states that I that are less accessible for me in that you
+00:48:19 have and so on and you're my model might not be completely adequate there are also things that I might perceive about
+00:48:24 you that you don't perceive but in some sense both you and me are some puppets - puppets that enact this play in my mind
+00:48:32 and I identify with one of them because I can't control one of the puppet directly and with the other one I can
+00:48:39 create things in between so for instance we can go or in an interaction that even leads to a coupling to a feedback loop
+00:48:45 so we can sync things together in a certain way or feel things together but this coupling is itself not a physical
+00:48:51 phenomena entirely a software phenomenon it's a result of two different implementations interacting with each
+00:48:57 other so this is thing so are you suggesting I did like the way you think about it is the entirety of existence
+00:49:05 simulation and we're kind of each mind is a little sub simulation that like why don't you why doesn't your mind have
+00:49:20 access to my mind's full state like for the same reason that my mind hasn't have access to its own full state so what I mean
+00:49:28 there is no trick involved so basically when I say know something about myself it's because I made a model yes of your
+00:49:34 brain is tasked with modeling what other parts of your brain are doing yes but there seems to be an incredible
+00:49:41 consistency about this world in the physical sense that is repeatable experiments and so on yeah how does that
+00:49:48 fit into our silly the center of apes sim you of the world so why is it some repeat
+00:49:53 why is everything so repeatable and not everything there's a lot of fundamental physics experiments that are repeatable
+00:50:02 for a long time all over the place and so on laws of physics how does that fit in it
+00:50:07 seems that the parts of the world that are not deterministic are not long-lived so if you build a system any kind of
+00:50:16 automaton so if you build simulations of something you'll notice that the phenomena that endure are those that
+00:50:23 give rise to stable dynamics so basically if you see anything that is complex in the world it's the result of
+00:50:29 usually of some control of some feedback that keeps it stable around certain attractors and the things that are not
+00:50:34 stable that don't give rise to certain harmonic patterns and so on they tend to get weeded out over time so if we are in
+00:50:43 a region of the universe that sustains complexity which is required to implement Minds like ours this is going
+00:50:49 to be a region of the universe that is very tightly controlled and controllable so it's going to have lots of
+00:50:56 interesting symmetries and also symmetry breaks that allow the creation of structure but they exist where so
+00:51:04 there's such an interesting idea that our - simulation is constructing the narrative but my question is just to try
+00:51:13 to understand how that fits with this with the entirety of the universe you're saying that there's a region of this
+00:51:19 universe that allows enough complexity to create creatures like us but what's the connection between the the brain the
+00:51:28 mind and the broader universe which comes first which is more fundamental is the is the mind the starting point the
+00:51:34 universe is emergent is the universe the starting point the minds are emergent I think quite clearly the letter it's at
+00:51:41 least a much easier explanation because it allows us to make causal models and I don't see any way to construct an
+00:51:48 inverse cos allottee so what happens when you die to your mind simulation my implementation ceases so basically the
+00:51:56 thing that implements myself will no longer be present it means if I am NOT implemented on the minds of other people
+00:52:02 to think that I identify this is the weird thing is I don't actually have an identity beyond the identity
+00:52:09 that I construct if I was the Dalai Lama he identifies as a form of government so basically the dad Adama gets reborn not
+00:52:18 because he is confused but because he is not identifying as a human being he runs on a human being he's basically a
+00:52:25 governmental software right that is instantiated in every new generation in you so his advisors will pick someone
+00:52:32 who does this in the next generation so if you identify as this you are no longer human and you don't die and
+00:52:38 essentially what dies is only the body of the human that you ran on here to kill the Dalai Lama you would have to
+00:52:45 kill his tradition and if we look at ourselves we realized that we are to a small part like this most of us so for
+00:52:50 instance if you have children you realize something lives on in them or if you spark an idea in the world something
+00:52:57 lives on or if you identify it as a society around you because you are part that you are not dressed this human
+00:53:03 being yes so in a sense you are kind of like a Dalai Lama and since that you Jascha Bach is just a collection of
+00:53:11 ideas so like you have this operating system on which is a bunch of ideas live and interact and then once you die they
+00:53:18 kind of part some of them jump off the should it put it the other way identity is a software state it's a construction
+00:53:26 it's not physically real identity is not a physical concept it's basically a representation of different objects on
+00:53:35 the same world line but identity let lives and eyes are you attached this is it's what's the fundamental thing is
+00:53:42 that the ideas that come together to form identity or is each individual identity actually a fundamental thing
+00:53:48 it's a representation that you can get agency over if you care so basically you can choose what you identify best if you
+00:53:56 want to nobody just seems if if the mind is not very real it's not that the the birth and death is not a crucial part of it
+00:54:09 well maybe I'm silly maybe I'm attached to this whole biological organism but it's
+00:54:17 that the physical being a physical object in this world is is a an important aspect of birth and death like
+00:54:25 it feels like it has to be physical to die it feels like simulations don't have to die the physics that we experience is
+00:54:33 not the real physics that explains is no color and sound in the real world color and sound are types of representations
+00:54:40 that you get if you want to model reality with oscillators right so colors and sound in some sense have octaves yes
+00:54:46 and it's because they are represented probably with oscillators right so that's why colors form a circle of views
+00:54:52 and colors have harmonic sounds have harmonics is a result of synchronizing oscillators in in the brain right so the
+00:54:59 world that we subjectively interact with is fundamentally the result of the representation mechanisms in our brain
+00:55:05 they are mathematically to some degree Universal they are certain regularities that you can discover in the patterns
+00:55:11 and not others but the patterns that we get this is not the real world the world that we interact with is always made of
+00:55:18 too many parts to count right so when you look at this table and so on it's consisting of so many more molecules and
+00:55:24 atoms that you cannot count them so you only look at the aggregate dynamics at limit dynamics if you had almost
+00:55:30 infinitely many patterns of particles what would be the dynamics of the table and this is roughly what you get so
+00:55:36 geometry that we are interacting this is the result of discovering those operators that work in the limit that
+00:55:42 you get by building an infinite series that converges for those parts where it converges its geometry for those parts
+00:55:49 or a dozen convergence chaos right and then so all that is filtered through with the cuts of the consciousness
+00:55:56 that's emergent in our narrative the the consciousness gives it color gives a feeling gives it flavor so I think the
+00:56:04 feeling flavor and so on is given by the relationship that a feature has to all the other features it's basically a
+00:56:10 giant relational graph that is our subjective universe the color is given by those aspects of the representation
+00:56:17 or the this experiential color where you care about but you have identifications but something means something where you
+00:56:23 are the inside of a feedback loop when the dimensions of of caring are basically dimensions of this
+00:56:29 motivational system that we emerge over the the meaning of the relations the graph can you elaborate that a little bit like
+00:56:37 where does the maybe we can even step back and ask the question of what is consciousness to be sort of more
+00:56:44 systematically what what what do you how do you think about consciousness consciousness is largely a model of the
+00:56:51 contents of your attention it's a mechanism that has evolved for a certain type of learning at the moment of a
+00:56:58 machine learning systems we largely work by building chains of weighted sums of real numbers with some non-linearity and
+00:57:08 you will learn by typing an error signal so these different chained layers and adjusting the weights in this way that
+00:57:17 Samms and you can approximate most polynomials if you have enough training data but the prices you need to change a
+00:57:25 lot of these weights basically the error is piped backwards into the system until it accumulates at certain junctures in
+00:57:32 the network and everything else evens out statistically and only at these junctures this is where you had the
+00:57:37 actual error in the network you make the change there this is a very slow process and our brains don't have enough time
+00:57:43 for that because we don't get old enough to play go the way that our machines learn to play go so instead what we do
+00:57:48 is an attention based learning we pinpoint the probable region in the network where we can make an improvement
+00:57:57 and then we store the this binding state together with the expected outcome in a protocol and there's ability to make
+00:58:02 index memories for the purpose of learning to revisit these commitments later this requires an memory of the
+00:58:10 contents of our attention another aspect is when I construct my reality and make mistakes so I sees things that turn out
+00:58:17 to be reflections or shadows and so on which means I have to be able to point out which features of my perception gave
+00:58:24 rise to a present construction of reality so the system needs to pay attention to the earth features that are
+00:58:32 currently in its focus and it also needs to pay attention to whether it pays attention itself in part because the
+00:58:37 attentional system gets trained is the same mechanism so it's reflexive but also in part because your attention
+00:58:42 lapses if you don't pay attention to the attention itself all right so it's this thing that I'm
+00:58:47 currently seeing just a dream that my brain has spun off into some kind of daydream or am I still paying attention
+00:58:53 to my percept so you have to periodically go back and see whether you are still paying attention and if you
+00:58:58 have this loop and you make it tight enough between the system becoming aware of the contents of its attention and the
+00:59:04 fact that it's paying attention itself and makes attention the object of its attention I think this is the loop over
+00:59:11 which if you wake up so there's this so there's this attentional mechanism that's somehow self referential that's
+00:59:16 fundamental to what consciousness is mm-hmm so just  ask you a question I don't know how much you're familiar with
+00:59:23 the recent break there is a natural English processing they use attentional mechanisms used something called
+00:59:32 transformers to learn patterns and sentences by allowing a network to focus its attention to particular parts of a
+00:59:40 sentence at each individual so like parameterize and make it learn about the dynamics of a sentence by having like a
+00:59:49 little window into the into the sentence do you think that's like a little step towards that eventually would will take
+00:59:58 us to the intentional mechanisms from which consciousness could emerge not quite I think it models only one aspect
+01:00:05 of attention in the early days of automated language translation there was a example that I found particularly
+01:00:12 funny where somebody tried to translate a text from English into German and it was a bet broke the window and the
+01:00:20 translation in German was eine Fledermaus it's a practice Fenster MIT einem baseball schlager so to translate
+01:00:28 it back into English a bet the this flying mammal broke the window with a baseball bat yes and it seemed to be the
+01:00:35 most similar to this program because it somehow maximized the possibility of translating the concept bat into German
+01:00:43 in the same sentence and this is some a mistake that the Transformer model is not doing because it's tracking identity
+01:00:49 and the attentional mechanism in the Transformer model is basically putting its finger on individual concepts and
+01:00:56 make sure that these concepts pop up later in the text yeah and tracks basically the
+01:01:01 individuals through the text and it's why the system can learn things that other systems couldn't before it which
+01:01:07 makes the for instance possible to write a text where it talks about the scientist then the scientist is a name
+01:01:13 and has a pronoun and it gets a consistent story about that thing what it does not do it doesn't fully
+01:01:18 integrate this so his meaning falls apart at some point it loses track of this context it does not yet understand
+01:01:24 that everything that it says has to refer to the same universe and this is where this thing falls apart but the
+01:01:31 attention in transformer model does not go beyond tracking identity and tracking identity is an important part of
+01:01:37 attention but it's a different very specific attentional mechanism and it's not the one that gives rise to the type
+01:01:42 of consciousness that they have okay just to linger I know what what do you mean by identity in the context of
+01:01:49 language so when you talk about language that you have different words that can refer to the same concept got it and in
+01:01:56 the sensor concepts so yes and it can also be in a nominal sense or an indexical sense that you say yeah this
+01:02:04 word does not only refer to this class of objects but it refers to a definite object to some kind of agent that waves
+01:02:12 their way to through the story and it's only referred by different ways in the language so the language is basically a
+01:02:19 projection from a conceptual representation from a scene that is evolving into a discrete string of
+01:02:26 symbols and what the transformer is able to it learns aspects of this projection mechanism that other models couldn't
+01:02:33 learn so have you ever seen an artificial intelligence or any kind of construction idea that allows for unlike
+01:02:41 neural networks or perhaps within your networks it's able to form something where the space of concepts continues to
+01:02:49 be integrated so the way you're describing building an all knowledge base building this consistent larger and
+01:02:56 larger sets of ideas that would then allow for a deeper understanding of it concerns thought that we can build
+01:03:03 everything from language from basically a logical grammatical construct and I think to some degree this was also what
+01:03:10 Minsky believed so that's why I focus so much on common sense reasoning and so on and project that was inspired by him both
+01:03:19 psyche there was special going on yes of course ideas don't die only people die and
+01:03:27 that's true but in doubt psyche is a productive project it's just probably not one that is going to converge to
+01:03:33 general intelligence the thing that Wittgenstein couldn't solve and he looked at this in his book at the end of
+01:03:39 his life philosophical investigations was the notion of images so images play an important role in track titles the
+01:03:46 Tractatus an attempt to basically turn philosophy into logical probing language to design a logical language in which
+01:03:52 you can do actual philosophy that rich enough for doing this and the difficulty was to deal with perceptual content and
+01:04:00 eventually I think he decided that he was not able to solve it and I think this preempted the failure of the logit
+01:04:07 his program in AI in the solution as we see it today is we need more general function approximation there are
+01:04:13 functions geometric functions that we learn to approximate that cannot be efficiently expressed and computed in a
+01:04:19 grammatical language can of course build automata that go via number theory and so on and to learn linear algebra and
+01:04:25 then compute an approximation of this geometry but to equate language and geometry is not an efficient way to
+01:04:34 think about it so functional is well you kind of just said then you'll now work sir the sort of the approach in you all
+01:04:39 know this takes is actually more general than the then what can be expressed through language yes so what can be
+01:04:48 efficiently expressed through language at the data rates at which we process grammatical language okay so you don't
+01:04:55 think so you don't think languages so you disagree with Wittgenstein that language is not fundamental - I agree
+01:05:01 with commit constrain it I just agree with the late Wittgenstein and I also agree with the beauty of the early
+01:05:09 Wittgenstein I think that the Tractatus itself is probably the most beautiful philosophical text that was written in
+01:05:15 the twentieth century but but language is not fundamental to cognition and intelligence and consciousness so I
+01:05:21 think that language is a particular way or the natural language that we're using is a particular level
+01:05:25 of abstraction that we used to communicate with each other but the languages in which people express
+01:05:32 geometry are not grammatical languages in the same sense so they work slightly different they're more general
+01:05:39 expressions of functions and I think the general nature of a model is you have a bunch of parameters these are have
+01:05:46 arranged it as these are the variances of the world and you have relationships between them which are constraints which
+01:05:51 say if certain parameters have these values then other parameters have to have the following values and this is a
+01:05:59 very early insight in computer science and I think the some of the earliest formulations is the Boltzmann machine
+01:06:05 and the problem is the Boltzmann machine is that it has a measure of whether it's good this is basically the energy on the
+01:06:10 system the amount of tension that you have left and the constraints where the constraints don't quite match it's very
+01:06:17 difficult to despite having this global measure to train it because if yes as soon as you add more than trivially fuel
+01:06:24 elements parameters into the system it's very difficult to get it settle in the right architecture and so we the
+01:06:32 solution that Hinton and Sinofsky found was to use a restricted Boltzmann machine which uses the hidden links the
+01:06:38 internal links and in the Boltzmann machine and only has based the input and output layer but this limits the Express
+01:06:44 ativy Civet e of the boltzmann machine so now he builds a network of small of these primitive Boltzmann machines and
+01:06:50 in some sense you can see a almost continuous development from this to the deep learning models that we are using
+01:06:56 today even though we don't use Boltzmann machines at at this point but the idea of the Boltzmann machine is you take
+01:07:00 this model you clamp some of the values to perception and this forces the entire machine to go into a state that is
+01:07:05 compatible with the states that you currently perceive and this state is your model of the world right so I think
+01:07:13 it's a very general way of thinking about models but we have to use a different approach to make it work this
+01:07:20 is we have to find different networks that train the Boltzmann machine so the mechanism that trains the Boltzmann
+01:07:25 machine and the mechanism that makes the Boltzmann machine settle into its state are distinct from the constrained
+01:07:31 architecture of the Boltzmann machine itself the the kind of mechanism we want to develop
+01:07:38 yes so this the direction in which I think our research is going to go is going to for instance what you notice in
+01:07:46 perception is our perceptual models of the world are not probabilistic but possible istic which means with them you
+01:07:51 should be able to perceive things that are improbable but possible right the sexual State is valid not if it's
+01:07:58 probable but if it's possible if it's quite coherent yeah so if you see a tiger coming after you should be able to
+01:08:06 see this even if it's unlikely and the probability is necessary for convergence of the model so given the state of
+01:08:13 possibilities that is very very large and a set of perceptual features how should you change the state of states of
+01:08:20 the model together to convert with your perception but the space of the space of ideas that are coherent with the context
+01:08:30 that you're sensing is perhaps not as large I mean that that's perhaps pretty small the degree of coherence
+01:08:38 that you need to achieve depends of course how deep your models goal is for instance politics is very simple when
+01:08:43 you know very little without game theory and human nature so the younger you are the more obvious is
+01:08:49 how politics should work right yes and because you get in a Korean aesthetics from relatively few inputs and the more
+01:08:56 layers you model them add more layers you model reality the harder it gets to satisfy all the constraints so you know
+01:09:04 the current neural networks are fundamentally supervised learning system with the feed-forward neural network is
+01:09:11 back propagation to learn what's your intuition about what kind of mechanisms might we move towards to improve the
+01:09:19 learning procedure I think one big aspect is going to be meta learning and architecture search starts in this
+01:09:25 direction in some sense the first wave of AI classical a I work by identifying a problem into the possible solution and
+01:09:31 implementing the solution right program that plays chess and right now we are in the second wave of AI so instead of
+01:09:38 writing the algorithm that implements the solution revise an algorithm that automatically searches for an algorithm
+01:09:44 that implements the solution so the learning system in some sense is an algorithm that itself discovers the
+01:09:50 algorithm that solves the problem or goes too hard to implement it by dissolution by hand but we can implement
+01:09:56 an algorithm that finds the solution yes so now let's move to the third stage right the third stage would be meta-learning
+01:10:03 find an algorithm that discovers the learning algorithm for the given domain our brain is probably not a learning
+01:10:08 system but a meta learning system this is one way of looking at what we are doing there is another way if you look
+01:10:14 at the way our brain as for instance implemented there is no central control that tells all the new ones how to wire
+01:10:20 up yes instead every neuron is an individual reinforcement learning agent every neuron is a single-celled organism
+01:10:26 that is quite complicated and in some sense quite motivated to get fed and it gets fed if it fires on average at the
+01:10:35 right time yes auntie the right time depends on the context that the neuron exists in which is the electrical and
+01:10:42 chemical environment that it has so it basically has to learn a function over its environment that tells us when to
+01:10:49 fire to get fat or if you see it as a reinforcement learning agent every neuron is in some sense making a
+01:10:54 hypothesis when it sends a signal it tries to pipe a signal through the universe and tries to get positive
+01:11:00 feedback for it and the entire thing is set up in such a way that it's robustly self-organizing into a brain which means
+01:11:06 you stride out with different neuron types that have different priors in which hypothesis to test on how to get
+01:11:13 its reward and you put them into different concentrations in a certain spatial alignment and then you entrain
+01:11:20 it in a particular order and as a result you get develop a nice brain yeah so okay so the brain is a meta learning
+01:11:28 system with a bunch of with reinforcement learning agents and what I think you said but just to clarify where
+01:11:38 do the LA there's no centralized government that tells you here's a loss function here's a loss function here's a
+01:11:48 loss function like what who is who says what's the also governments which impose loss functions on different parts of the
+01:11:54 brain so we have differential attention some areas in your brain get especially rewarded when you look at faces if you
+01:11:59 don't have that you will get post of agnosia which basically mean the inability to tell people apart by their faces
+01:12:07 so and the reason that happens is because it was had an evolutionary advantage like evolution comes in a play
+01:12:12 here about it's basically an extraordinary attention that we have for faces I don't think that people were
+01:12:17 supposed to up no see I have Percy a defective brain the brain just has an average attention for faces so people
+01:12:23 were supposed of agnosia don't look at faces more than they look at cups so the level at which they resolve the geometry
+01:12:29 of faces is not higher than the one that then four cups and people that don't have prosopagnosia looked obsessively at
+01:12:36 faces right for you and me it's impossible to move through a crowd without scanning the faces and as a
+01:12:42 result we make insanely detailed models of faces that allow us to discern mental states of people so obviously we don't
+01:12:50 know 99% of the details of this meta learning system that's our mind okay but still we took a leap from something
+01:12:59 much dumber to that from love through the evolutionary process can you first of all maybe say how hard these how big
+01:13:08 of a leap is that from our brain from our a branch asters to multi cell organisms and is there something we can
+01:13:19 think about about as we start to think about how to engineer intelligence is there something we can learn from
+01:13:27 evolution in some sense life exists because of the market opportunity of controlled chemical reactions we compete
+01:13:35 with some chemical reactions and we win in some areas against this damp combustion because we can harness those
+01:13:40 entropy gradients where you need to add a little bit of energy in a specific way to harvest more energy so we are
+01:13:46 competing combustion yes in many regions we do and we try very hard because when we under ekam petition we lose right
+01:13:54 yeah so because the combustion is going to close the entropy gradients much faster than we can run yes you gotta
+01:14:01 quit so I probably am yeah so basically to this because every cell has a Turing machine built into it it's like
+01:14:07 literally a read/write head of the tape and so everything that's more complicated than a molecule that just is
+01:14:16 a vortex around attractors that needs the Turing machine in it for its regulation and then you bind cells
+01:14:22 together and you get next level organization or organism where the cells together implement some kind of software
+01:14:30 and for me very interesting discovery in the last year was the word spirit because I realized that what spirit
+01:14:35 actually means it's an operating system for an autonomous robot and when the word was invented people needed this
+01:14:42 word but they didn't have robots that they built themselves yet the only autonomous robots that were known were
+01:14:48 people animals plants ecosystems cities and so on and they all had spirits and it makes sense to say that the plant is
+01:14:54 an operating system right if you pinch the plant in one area then there's going to have repercussions throughout the
+01:14:59 plant everything in the plant is in some sense connected into some global aesthetics like in other organisms an
+01:15:05 organism is not a collection of cells is a function that tells cells how to behave and this function is not
+01:15:13 implemented as some kind of supernatural thing like some more for genetic field it is an emergent result of the
+01:15:19 interactions of the each service each other cell all right so you're you're saying is the organism is a function
+01:15:29 that tells what's what what now that the cell sells what to do and the function is an emerging the interaction of the
+01:15:39 cells yes so it's basically a description of what the plant is doing in terms of macro States and the micro
+01:15:46 States the physical implementation are too many of them to describe them so the software that we use to describe what
+01:15:53 the plant is doing the spirit of the plant is the software the operating system of the plant right this is a way
+01:16:00 in which V the observers make sense of the plant yes okay same is true for people so people have spirits which is
+01:16:05 their operating system in a very rightness aspects of that operating system that relate to how your body
+01:16:11 functions and others how you socially interact or you interact with yourself and so on and we make models of that
+01:16:19 spirit and we think it's a loaded term because it's from a pre-scientific age but we it took the scientific age a long
+01:16:26 time to rediscover a term that is pretty much the same thing and I suspect that the difference is that we still
+01:16:31 between the old world and the new world our translation errors over the centuries but can you actually link
+01:16:38 around that like well why do you say that spirit just to clarify because I'm a little bit confused so the the word
+01:16:44 spirit is a powerful thing but why did you say in the last year or so they discovered this do you mean the same old
+01:16:51 traditional idea of a spirit or Jamie I try to find out what people mean by spirit when people say spirituality in
+01:16:57 the u.s. it usually is the refers to the phantom limb that they developed in the absence of culture and a culture is in
+01:17:04 some sense you could say the spirit of a society that is long game this thing that it's become self-aware at a level
+01:17:12 above the individuals where you say if you don't do the following things then the grand crying crying when children of
+01:17:17 our children will not have nothing to eat yeah so if you take this long scope where you
+01:17:23 try to maximize the length of the game that you are playing as a species to realize that you're part of a larger
+01:17:28 thing that you cannot fully control you probably see to submit to the ecosphere instead of trying to completely control
+01:17:36 it right there needs to be a certain level at which we can exist as a species if you want to endure and our culture is
+01:17:43 not sustaining this anymore we basically made this bet with the Industrial Revolution that we can control
+01:17:47 everything and the modernist societies was basically unfettered growth led to a situation in which we depend on the
+01:17:56 ability to control the entire planet and since we are not able to do that as it seems this culture will die if we
+01:18:04 realize that it doesn't have a future right we called our children generations that it's not very optimistic things
+01:18:12 yeah you can have this kind of intuition that our civilization you say culture but you really mean this the spirit of
+01:18:22 the civilization do in the entirety the civilization may not exist for long yeah so what can you kion tangle that what's
+01:18:31 your intuition behind that so you you kind of offline mentioned to me that the Industrial Revolution was kind of a the
+01:18:39 moment we agreed to accept the offer sign on the paper on the dotted line with the Industrial
+01:18:45 lucien we doomed ourselves can you elaborate and this is suspicion i of course don't know how it plays out but
+01:18:54 gosh it seems to me that in society in which you leverage yourself very far over an entropic a piss without land on
+01:19:01 the other side it's relatively clear that your cantilevers at some point going to break down into this entropic
+01:19:08 abyss and you have to pay the bill okay russia is my first language and i'm also an idiot this is just two apes instead
+01:19:21 they're playing with the banana trying to have fun by talking okay and throbbing what in what's anthropic and
+01:19:29 tropic and drop and and so n tropic in the sense of entropy and all entropic that yes so this end and tropical oils
+01:19:35 the other word you have this what's that it's a big porch abyss abyss yes and tropic abyss so many of the things you
+01:19:44 say are poetic it's and often rings meb's amazing right it's miss Burrell which makes you do more poetic
+01:19:54 Wittgenstein would be proud so entropic abyss okay let's let's rewind then the Industrial Revolution so how does that
+01:20:05 get us into the entropic abyss so in some sense we burned a hundred million years worth of trees to get everybody
+01:20:12 plumbing yes and the society that we had before that had a very limited number of people so basically since 0 BC we
+01:20:21 hovered between 300 and 400 million people yes and this only changed with the Enlightenment and the subsequent
+01:20:28 Industrial Revolution and in some sense the Enlightenment a feat of rationality and also freed our norms from the
+01:20:36 pre-existing order gradually it was an process that basically have been feedback loop so it was not that just
+01:20:42 one cost the other it was a dynamic that started and the dynamic worked by basically increasing productivity to
+01:20:50 such a degree that we could fit all our children and I think the definition of property is that you have as many
+01:20:57 children as you can feed before they die which is in some sense the state that all animals on
+01:21:05 earth are in the definition of poverty is having enough so you can have only so many children as you can feed and if you
+01:21:11 have more they die yes and in our societies you can basically have as many children as you want they don't die
+01:21:18 right so I the reason why we don't have as many children as we want us because we also have to pay a price in terms of
+01:21:23 you have to insert ourselves in the lowers also tritonus yeah if you have too many so basically everybody in the
+01:21:30 under middle and lower upper class has only a limited number of children because having more of them would mean a
+01:21:37 big economic hit to the individual families yes because children especially in u.s. super expensive to have and you
+01:21:43 only are taken out of this if you are basically super rich or if you are super poor if you're super poor it doesn't
+01:21:48 matter how many kids you have because your status is not going to change and these children are largely not going to
+01:21:55 die of hunger so how does this leads us just self-destruction so there's a lot of unpleasant properties about this
+01:22:02 process so basically what we try to do is we try to let our children survive even if they have diseases it's like I
+01:22:09 would have died and before my mid-twenties without modern medicine and most of my friends would have as well
+01:22:17 and so many of us wouldn't live without the advantages of modern medicine and modern industrialized society we get our
+01:22:25 protein in largely by subduing the entirety of nature imagine there would be some very clever microbe that would
+01:22:32 live in our organisms and would completely harvest them and change them into a thing that is necessary to
+01:22:41 sustain itself and it would discover that for instance brain cells are kind of edible but they're not quite nice so
+01:22:47 you need to may have more fat in them and you turn them into more fat cells yes and basically this big organism
+01:22:53 would become a vegetable that is barely alive and it's going to be very brittle and not resilient when the environment
+01:22:59 changes yeah but some part of that organism the one that's actually doing all the using of the there's still be
+01:23:07 somebody thriving so as it relates back to this original question I suspect that we are not
+01:23:13 smartest thing on this planet I suspect that basically every complex system has to have some complex regulation if if it
+01:23:21 depends on feedback loops and so for instance it's likely to that we should describe a certain degree of
+01:23:28 intelligence to plants the problem is that plants don't have a nervous system so they don't have a way to Telegraph
+01:23:34 messages over large distances almost instantly in the plant and instead they will rely on chemicals between adjacent
+01:23:41 cells which means the signal processing speed depends on their signal processing with a rate of a few millimeters per
+01:23:49 second yes and as a result the if the plant is intelligent it's not going to be intelligent it's similar timescales
+01:23:55 yes the ability process the timescales different so you suspect we might not be the most intelligent but when were the
+01:24:04 most intelligent and this in our timescale so basically if you would room out very far you might discover that
+01:24:11 they have been intelligent ecosystems on the planet that existed for thousands of years in a almost undisturbed state and
+01:24:18 it could be that these ecosystems actively related their environment so basically change the course of the
+01:24:24 evolution within this ecosystem to make it more efficient and as brittle as possible something like plants is
+01:24:30 actually a set of living organisms an ecosystem of living organisms they're just operating a different time scale
+01:24:36 and a far superior intelligence than human beings and then human beings will die out and plus will still be there and
+01:24:42 they'll be there yeah they also there's an evolutionary adaptation playing a role at all of
+01:24:48 these levels for instance if mice don't get enough food and get stressed the next generation of mice will be more
+01:24:54 sparse in most quani and the reason for this is because they in a natural environment the mice have probably
+01:25:00 hidden a drought or something else and if they over grace then all the things that sustain them might go extinct and
+01:25:07 there will be no mice a few generations from now so and to make sure that there will be mice and five generations from
+01:25:13 now they see the mice scale back and a similar thing happens with the Predators of mice they should make sure that the
+01:25:19 mice don't completely go extinct so in some sense if the Predators are smart enough they will be tasked this shepherd
+01:25:27 their food supply may be the reason why Alliance have much larger brains and antelopes is not so much because it's so
+01:25:34 hard to catch antelope as opposed to run away from the lion but the Lions need to make complex models of their environment
+01:25:40 more complex than the antelopes so the first of all just describing that there's a bunch of complex systems and
+01:25:46 human beings may not even be the most special or intelligent to those complex systems even on earth makes me feel a
+01:25:52 little better about the extinction of human species that we're talking about yes maybe you addressed Gaia's ploy to
+01:25:57 put the carbon back into the atmosphere this is just a nice big stain on evolution is not as it was trees hers I
+01:26:05 evolved trees before they could be to adjust it again right there were no insects that would break all of them apart
+01:26:11 cellulose is so robust that you cannot get all of it with microorganisms so many of these trees fell into swamps and
+01:26:18 all this carbon became inert and could no longer be recycled into organisms and via the species that is destined to take
+01:26:26 care of that so this is kind of dig it out of the ground for the decade the atmosphere in the u.s. is already
+01:26:32 greening yeah so visitin million years or so when the ecosystems have recovered from the rapid changes yeah that they're
+01:26:37 not compared to us right now yeah this is going to be awesome again and there won't be even a memory of us of us
+01:26:42 little apes I think that will be memories of us I suspect we are the first generally intelligent species in
+01:26:48 the sense we are the first species with an industrial society because we believe more phones than bones in the
+01:26:55 stratosphere well see I have phones them bones I like it but then let me push back idea you've
+01:27:01 kind of suggested that with a very narrow definition of of until I mean why aren't trees more general a higher-level
+01:27:10 general intelligence than trees very intelligent and it would be at different time scales which means within a hundred
+01:27:16 years the tree is probably not going to make models that are as complex as the one step you make in ten years but maybe
+01:27:22 the trees are the ones that made the phones right like like you could say the entirety of life did it you know the
+01:27:31 first cell never died the first cell only split right and every divided and every cell in our body is still an
+01:27:37 instance of the first cell that split off from that a first sell it was only one sell on
+01:27:42 this planet as far as we know and so the cell is not just a building block of life it's a hypo organism yeah right and we
+01:27:49 are part of this type of organism so nevertheless this type of organism no the this little particular branch of it
+01:27:58 which is us humans because the Industrial Revolution and maybe the exponential growth of technology might
+01:28:05 somehow destroy ourselves so what what do you think is the most likely way we might destroy ourselves so some people
+01:28:11 worry about genetic manipulation some people as we've talked about worry about either dumb artificial intelligence or
+01:28:18 super intelligent artificial intelligence destroying us some people worry all nuclear weapons and weapons of
+01:28:26 war in general what do you think if you had to if you are a betting man what would you bet on in terms of
+01:28:32 self-destruction and it would be higher than 50 or to be higher than 50% so it's very likely that nothing that we bet on
+01:28:41 matters after we win our bet so I don't think that bets are literally the right thing way to go about I mean once you're
+01:28:46 dead it doesn't you you won't be there to collect so it's also not clear if we as a species go extinct but I think that
+01:28:53 our present civilization is not sustainable so the thing that will change is there will be probably fewer
+01:29:00 people on the planet NR today and even if not then still most of people that are alive today will not offering 100
+01:29:06 years from now because of the geographic changes and so on in the change in the food supply it's quite likely that many
+01:29:14 areas of the planet will only be livable is a closed cooling chain in 100 years from now so many of the areas around the
+01:29:22 equator and in subtropical climates that are now quite pleasant to live in will stop to be inhabitable this is out
+01:29:29 everyday you honestly Wow cooling chain close knit cooling chain communities so you think you have a strong worry about
+01:29:38 the the effects of global warming itself it's not the big issue if you will live in Arizona right now you have basically
+01:29:44 three months in the summer in which you cannot be outside yes and so you have a closed cooling chain you have air
+01:29:49 conditioning in your car in your home and you're fine and if the air conditioning would stop
+01:29:54 for a few days then in many areas you would not be able to survive frankly we just pause for a second
+01:30:01 like you say so many brilliant poet ik things like what is a closed is that do people use that term closed cooling
+01:30:07 chain I imagine that people use it when they describe how they get meat into a supermarket right it could break the
+01:30:13 cooling chain and this thing's rights to saw you had trouble and you have to solve it away there's such a beautiful
+01:30:21 way to put it's like calling a city a closed social chain or something like that I mean yeah that's right I mean the
+01:30:26 locality of is really yeah but it basically means you wake up in the climatized room you go to work in the
+01:30:31 climatized car you work in the car all into the shop and acclimatized supermarket and in between you have very
+01:30:37 short distance which you run from your car to the supermarket but you have to make sure that your your temperature
+01:30:42 does not approach the temperature of the environment yeah so the usual thing is the bad pub temperature the what the
+01:30:47 best pub temperature it's what you get when you take wet clothes and you put it around your thermometer and then you
+01:30:56 move it very quickly through the air so you get the evaporation heat yes and as soon as you can no longer cool your body
+01:31:05 temperature via app evaporation to a temperature below something like I think 35 degrees you die right and which means
+01:31:14 if the outside world is dry you can still cool yourself down by sweating but if it has a certain degree of humidity
+01:31:20 or if it goes up over a certain temperature then sweating will not save you and this means you even if you're a
+01:31:26 healthy fit individual within a few hours even if you try to be in the shade and so on you'll die unless you have
+01:31:34 some climate sizing equipment and this itself if you as long as you maintain civilization and you have energy supply
+01:31:39 and you have food trucks coming to your home that are climatized everything is fine but what if you lose a large scale
+01:31:46 open every culture at the same time so basically we'll run into food insecurity because climate becomes very irregular
+01:31:52 or weather becomes very irregular and you have a lot of extreme weather events so you need to roll most of your foot
+01:32:00 maybe indoor or you need to import your food from certain regions and maybe you are not able to maintain the
+01:32:05 civilization notes without the planet to get the infrastructure to get the foot to your home right but there
+01:32:11 could be is so there could be significant impacts in a sense that people begin to suffer
+01:32:16 they could be wars over resources and so on but ultimately do you have do you not have a lot of faith but what do you make
+01:32:25 of the capacity of technology technological innovation to help us prevent some of the worst damages that
+01:32:36 this condition can create so as an example as a almost out there example is the work of SpaceX Elon Musk is doing of
+01:32:46 trying to also consider our propagation throughout the universe in deep space to colonize other planets
+01:32:52 that's one technological step but of course what Hamas is trying on Mars is not to save us from global warming
+01:32:58 because Mars looks much worse than planet Earth will look like after the worst outcomes of global warming
+01:33:05 imaginable right yes Martha said essentially not habitable it's exceptionally harsh environment yes but
+01:33:11 what he is doing what a lot of people throughout history since the Industrial Revolution are doing are just doing a
+01:33:16 lot of different technological innovation was some kind of target and one ends up happening is totally
+01:33:22 unexpected new things come up so trying to trying to terraform or trying to colonize Mars extremely harsh
+01:33:30 environment might give us totally new ideas of how to expand the or increase the power of this closed cooling circuit
+01:33:41 that that empowers the community so like do you it seems like there's a little bit of a race between our open-ended
+01:33:51 technological innovation of this communal operating system that we have and our general tendency to want to
+01:34:02 overuse resources and thereby destroy ourselves would you don't think technology can win that race I think the
+01:34:09 probability is relatively low given that our technology is Prince the u.s. is stagnating since the 1970s roughly in
+01:34:16 terms of technology most of the things that we do are the result of incremental processes sort of our Intel what about
+01:34:23 Moore's law it's basically it's very incremental the things that we're doing is so after the invention of the
+01:34:29 microprocessor was a major thing right the miniaturization of transistors was really major but the things that we did
+01:34:39 afterwards largely were not that innovative trifle changes of scaling things into a foams GPUs into from CPUs
+01:34:50 into GPUs and things like that but I don't think that there are basic they're not many things if you take a person
+01:34:57 that died in the 70s and was at the top of that game they would not need to read that many books to all be current again
+01:35:02 but it's all about books who cares about books so the there might be things that are beyond what books might be every
+01:35:09 papers or no papers forget papers there might be things that are so papers and books and knowledge that's a that's a
+01:35:15 concept of a time when you were sitting there by candlelight and individual consumers of knowledge what about the
+01:35:21 impact that you we're not in the middle of we're not might not be understanding of Twitter of YouTube the reason you and
+01:35:29 I are sitting here today is because of Twitter and YouTube yes so the the ripple effect and there's there's two
+01:35:37 minds sort of two dumb apes coming up with the new perhaps a new clean insights and there's 200 other apes
+01:35:44 listening right now 200,000 other Apes listening right now and that effect it's very difficult to understand what that
+01:35:51 effect will have that might be bigger than any of the advancements of the microprocessor Ernie the Industrial
+01:35:56 Revolution the ability of spread knowledge and that that the the that knowledge the like it allows good ideas
+01:36:08 to reach millions much faster and the effect of that that might be the new that might be the 21st century is the
+01:36:14 multiple the multiplying of ideas of good ideas because if you say one good thing today that will multiply across
+01:36:23 you know huge amounts of people and then they will say something and then they'll have another pocket and I'll say
+01:36:28 something and then I'll write a paper that that could be a huge you don't think that yeah if you should have billion
+01:36:34 fun for Normans right now often omens right now in two rings and we don't for some reason I suspect the reason is that
+01:36:41 we destroy our attention span also the incentives of course different but in Cardassians yeah so the reason why we
+01:36:46 are sitting here and doing this as a YouTube video is because you and me don't have the attention span to write a
+01:36:51 book together right now and you guys probably don't have the attention span to read it so let me tell you but we're
+01:37:02 you know we're an hour and 40 minutes in and I guarantee you that 80% of the people are still listening so there's an
+01:37:08 attention span it's just the the forum you know who said that the book is the optimal way to transfer information
+01:37:14 that's said this is still an open question I mean that's what we're something that social media could be
+01:37:19 doing that other forms could not be doing I think the end game of social media is a global brain and Twitter is
+01:37:24 in some sense a global brain that is completely hooked on dopamine doesn't have any kind of inhibition and as a
+01:37:29 result is caught in a permanent seizure yes it's also in some sense a multiplayer role-playing game and people
+01:37:37 use it to play an avatar that is not like them as the Verna's sane world and they look through the world through the
+01:37:42 lens of their phones and think it's the real world but it's the Twitter of all that is thwarted by the popularity
+01:37:47 incentives of Twitter yet the the incentives and just our natural biological the the dopamine rush of
+01:37:56 alike no matter how like I consider I try to be very kind of zen-like and minimalist and not being influenced by
+01:38:03 likes and so on but it's probably very difficult to avoid that to some degree the speaking at a small tangent of
+01:38:14 Twitter what how can be how can Twitter be done better I think it's an incredible mechanism
+01:38:20 that has a huge impact on society by doing exactly what you're doing oh sorry doing exactly you described
+01:38:28 which is having this but we're like is this some kind of game and we're kind of our individual RL agents in this game
+01:38:34 and it's uncontrolled because there's not really a centralized control neither jack dorsey nor the engineers at twitter
+01:38:41 seem to be able to control this game or can they that's sort of a question is there any advice you would give
+01:38:50 and control is advice because I am certainly not an expert but I can give my thoughts on this and I our brain is
+01:38:58 has solved this problem to some degree right our brain has lots of individual agents that manage to play together
+01:39:04 anyway and you have also many contexts in which other organisms have found ways to solve the problems of cooperation
+01:39:13 that we don't solve on Twitter and maybe the solution is to go for an evolutionary approach so imagine that
+01:39:20 you have something like reddit or something like Facebook and something like Twitter and do you think about what
+01:39:26 they have in common what they have in common they're companies that in some sense own a protocol and this protocol
+01:39:33 is imposed on a community and the protocol has different components for monetization for a user management for
+01:39:40 user display for rating for anonymity for importer of other content and so on and now imagine that you take these
+01:39:47 components of the protocol apart and you do it in some sense like communities visiting this social network and these
+01:39:54 communities are allowed to mix and match their protocols and design new ones so for instance the UI and the UX can be
+01:40:01 defined by the community the walls for sharing content across communities can be defined the monetization can be
+01:40:08 redefined the way you reward individual users for what can be redefined the way users can represent themselves and to
+01:40:15 each other can redefined and will be the redefine er so it can individual human beings build enough intuition to
+01:40:21 redefine those things if self can become part of the protocol so for instance it could be in some communities it will be
+01:40:27 a single person that comes up with these things and others it's a group of friends some might implement a voting
+01:40:32 scheme that has some interesting weighted voting who knows who knows what will be the best self organizing
+01:40:37 principle for this but the process can be automated I mean it seems like the brain can be automated so people can
+01:40:44 write a software for this and eventually the idea is let's not make a assumption about this thing if you don't know what
+01:40:50 the right solution is in those areas that we have no idea whether the right solution will be people designing this
+01:40:57 ad hoc or machines doing this whether you want to enforce compliance by social norms like weak
+01:41:04 Orvis software solutions or this AI that goes through the post of people or is a legal principle and so on this is
+01:41:10 something maybe you need to find out and so the idea would be if you let the communities evolve and you just control
+01:41:17 it to say in such a way that you are incentivizing the most sentient communities the ones that produce
+01:41:25 the most interesting behaviors and that allow you to interact in the most helpful ways to the individuals right so
+01:41:30 you have a network that gives you information that is relevant to you it helps you to maintain relationships to
+01:41:36 others in healthy ways it allows you to build teams it allows you to basically bring the best of you into this thing
+01:41:42 and goes into a coupling into a relationship with others in which you produce things that you would be unable
+01:41:47 to produce alone yes beautifully put so but the key process of that with incentives and evolution is
+01:41:58 things that don't adapt themselves to effectively get the incentives have to die and the thing about social media is
+01:42:07 communities that are unhealthy or whatever you want and it defines the incentives really don't like dying one
+01:42:13 of the things that people really get aggressive protests aggressively is when they're censored especially in America I
+01:42:20 don't know I don't know much about the rest of the world but the idea of freedom of speech the idea of censorship
+01:42:30 is really painful in America and so what yeah well what do you think about that have been growing up in East Germany
+01:42:40 what do you think censorship is an important tool in our brain in the intelligence and in the social networks
+01:42:49 so basically if you're not a good member of the entirety of the system they should be blocked away well locked away
+01:42:57 blocked important thing is who decides that you are a good member who is it distributed or and what is the outcome
+01:43:04 of the process that decides it both for the individual and for society at large for instance if you have a high trust
+01:43:10 society you don't need a lot of surveillance and the surveillance is even in
+01:43:16 undermining trust yes because it's basically punishing people that look suspicious when surveyed but do the
+01:43:23 right thing anyway and the opposite if you have a low trust society in there and surveillance can be
+01:43:29 a better trade-off and the u.s. is currently making a transition from a relatively high trust a mixed trust
+01:43:34 society to a low trust society so surveillance will increase another thing is that beliefs are not just Inuit
+01:43:40 representations there are implementations that run code on your brain and change for a reality and change the
+01:43:45 way you interact with each other at some level and some of the beliefs are just public opinions that we use to display
+01:43:54 our alignment so for instance people might say all characters have are the same and equally good but still they
+01:44:00 prefer to live in some cultures over others very very strongly so and it turns out that the cultures are defined
+01:44:06 by certain rules of interaction and these rules of interaction lead to different results when you implement
+01:44:12 them right so if you adhere to certain rules you get different outcomes in different societies and this all leads
+01:44:20 to very tricky situations when people do not have a commitment to shared purpose and our societies what we need to
+01:44:26 rediscover what it means to have a shared purpose and how to make this compatible with a non totalitarian view
+01:44:34 so in some sense the u.s. is caught in a conundrum between totalitarianism and diversity and doesn't it need to how to
+01:44:43 resolve this and the solutions that the u.s. has found so far a very crude because it's a very young society that
+01:44:49 is also under a lot of tension it seems to me that the US will have to reinvent itself what do you think just 
+01:44:58 philosophizing what kind of mechanisms of government do you think we as a species should be involved with us or
+01:45:06 broadly what do you think will work well as a system of course we don't know it all seems to work pretty crapoly some
+01:45:13 things worse than others some people argue that communism is the best others say yeah look at the Soviet Union some
+01:45:21 people argue that anarchy is the best and then completely discarding the positive effects of government you know
+01:45:28 there's a lot of argument u.s. seems to be doing pretty damn well in in the span of history there says
+01:45:36 respect for human rights which seems to be a nice feature not a bug and economically a lot of girls law
+01:45:43 technological development people seem to be relatively kind and the grand scheme of things what lessons do you draw from
+01:45:51 that what kind of government system do you think is good ideally a government would not be perceivable all right it
+01:46:00 should be frictionless the more you notice the influence of the government the more friction you experience the
+01:46:06 less effective and efficient the government probably is right so a government game theoretically is an
+01:46:14 agent that imposes an offset on your payout metrics to make your Nash equilibrium compatible with the common
+01:46:23 good right so you have these situations and these local incentives everybody does the thing that's locally the best
+01:46:29 for them but the global outcome is not good and this is even the case when people care about the global outcome
+01:46:35 because a regulation mechanisms exist that creates a course of relationship between what I want to have for the
+01:46:40 global good and what I do so for instance if I think that we should fly less and I stay at home there is not a
+01:46:46 single plane that is going to not start because of me right it's not going to have an influence but I don't get from A
+01:46:52 to B so the way to implement this would be to have a government that is sharing this idea that you should fly less and
+01:46:59 is then imposing a regulation that for instance makes flying more expensive and it gives incentives for inventing other
+01:47:08 forms of transportation that are less putting the strain on the environment for instance so there's so much optimism
+01:47:15 and so many things you described and yet there's the pessimism of you think our civilization is gonna come to an end so
+01:47:21 that's not a hundred percent probability nothing in this world is so what's the trajectory out of self-destruction do
+01:47:31 you think I suspect that in some sense we are both too smart and not smart enough which means we are very good at
+01:47:37 solving near-term problems and at the same time we are unwilling to submit to the end
+01:47:43 to the imperatives of that we would have to follow in if you want to stick around right so that makes it difficult if you
+01:47:50 were unable to solve everything technologically you can probably understand how it the child mortality
+01:47:55 needs to be to absorb the mutation rate and tell why the mutation mutation rate needs to be to adapt to a slowly
+01:48:01 changing ecosystemic environment right so you could in principle compute all these things game theoretically and
+01:48:09 adapt to it but if you all cannot do this because you are like me and you have children you don't want them to die
+01:48:14 you will use any kind of medical information to keep travel to a mortality low even if it means that our
+01:48:20 visit a few generations we have enormous genetic drift and most of us have allergies as a result of not being
+01:48:26 adapted the changes that we made to our food supply that's for now I say technologically speaking which is a very
+01:48:32 very very young you know 300 years industrial revolution we're very new to this idea so you're attached to your
+01:48:38 kids being alive and not being murdered for the greater good of society but that might be a very temporary moment of time
+01:48:45 yes that we might move might evolve in our thinking so like you said when we're both smart and not smart enough you're
+01:48:52 probably not this first human civilization that has discovered technology that allows to efficiently
+01:48:59 over grace our resources and this overgrazing is think at some point we think they can compensate this because
+01:49:05 if we have eaten all the grass we will find a way to grow mushrooms right but it could also be that the ecosystems tip
+01:49:12 and so what really concerns me is not so much the end of the civilization because we will invent a new one but what
+01:49:20 concerns me is the fact that for instance the oceans might tip so for instance maybe the plankton dies because
+01:49:26 of ocean acidification and cyanobacteria take over and as a result we can no longer raise the atmosphere this would
+01:49:32 be really concerning so basically a major reboot of most complex organisms on earth and I think this is a
+01:49:39 possibility I don't know if what the percentage for this possibility is but it doesn't seem to be our language to me
+01:49:45 if you look at the scale of the changes that we've already triggered on this planet and so Danny Hillis suggests that
+01:49:51 for instance we may be able to put chalk into the stratosphere to solar radiation maybe it works maybe
+01:49:57 there's a sufficient to counter the effects of what we've done maybe it won't be maybe we won't be able to
+01:50:02 implement it by the time it's prevalent I have no idea how how the future is going to play out in this regard it's
+01:50:10 just I think it's quite likely that we cannot continue like this all our cousin so the right step would be to what to
+01:50:22 rewind rewind towards a destro Revolution and slow the the so it's to try to contain the technological process
+01:50:30 that leads to the overconsumption of resources imagine you had get to choose you have one lifetime yes you get born
+01:50:37 into a sustainable agricultural civilization 300 maybe 400 million people on the planet tops or before this
+01:50:46 some kind of nomadic species feels like a million or two million and so you don't meet new people unless you give
+01:50:53 birth to them you cannot travel to other places in the world there is no internet there is no interesting intellectual
+01:50:59 tradition that reaches considerably deep so you would not discover your own completeness probably and so on so we
+01:51:05 wouldn't exist and the alternative is you get born into an insane world one that is doomed to die because it has
+01:51:11 just burned 100 million years worth of trees in a single century which one do you like I think I like this one it's a
+01:51:17 very weird thing then when you find yourself on a Titanic and you see this iceberg and it looks like we are not
+01:51:22 going to miss it and a lot of people are in denial and most of the counter arguments sound like
+01:51:27 denial to me that don't seem to be rational arguments and the other thing is we were born on this Titanic without
+01:51:33 this Titanic we wouldn't have been born we wouldn't be here we wouldn't be talking we wouldn't be on the internet
+01:51:38 we wouldn't do all the things that we enjoy and if you're not responsible for this happening it's basically if he had
+01:51:45 the choice we would probably try to prevent it but when we were born we were never asked when we want to be born in
+01:51:52 which society we want to be born but incentive structures we want to be exposed to we have relatively little
+01:51:57 agency in the entire thing humanity has relatively daily machine the whole thing it's basically a giant
+01:52:02 machine it's tumbling down a hill and everybody is Fanta Klee trying to push some buttons nobody knows what these
+01:52:07 buttons are meaning what they connect - and most of them are not stopping this tumbling down the hill is impossible the
+01:52:17 artificial intelligence will give us an escape latch somehow so the you know there's a lot of worry about existential
+01:52:26 threats of artificial intelligence but what AI also allows in general forms of automation allows the potential of
+01:52:36 extreme productivity growth that will also perhaps in a positive way transform society that may allow us to inadvertently to
+01:52:51 return to the more to the same kind of ideals of closer to nature that's represented in hunter-gatherer societies
+01:52:59 you know that's not destroying the planet that's not doing overconsumption and so on I mean generally speaking do
+01:53:05 you have hope that a I can help them  I think it is not fun to be very close to nature until you completely subdue
+01:53:14 nature so our idea of being close to nature means being close to agriculture basically forests that don't have
+01:53:23 anything in them that eats us see I mean I want to disagree with that I I think the niceness of being close to nature is
+01:53:33 to being fully present and in like Wirthlin survival becomes your primary not just your goal but your whole
+01:53:44 existence mm-hmm it I mean that is a in I'm not just romanticizing I can just speak for myself I am self-aware enough
+01:53:53 that that is  that is a fulfilling existence that's one that's very to be in nature ah and not fight for my survival
+01:54:00 I think fighting in yourself for your survival well being in the cold and in the rain and being hunted by animals and
+01:54:07 having open wounds it's very unpleasant well there's a contradiction in there yes I in you just as you said would not
+01:54:17 choose it but if I was forced into it it would be a fulfilling existence Lemar adapted to it basically
+01:54:23 if your brain is fed up in such a way that you get rewards optimally in such an environment and there's some evidence
+01:54:31 for this that for a certain degree of complexity basically people are more happy in such environment because it's
+01:54:37 what we largely have evolved for in between we had a few thousand years in which I think we have evolved for a
+01:54:42 slightly more comfortable environment so there is probably something like an intermediate stage in which people would
+01:54:50 be more happy than there would be if they would have to fend for themselves in small groups in the forest and often
+01:54:57 die versus something like this very now have basically a big machine a big of Mordor in which we run concrete boxes
+01:55:06 and press buttons and machines and largely don't feel well cared for as the monkeys that we are so returning briefly
+01:55:18 to not briefly but returning to AI what let me ask a romanticized question what is the most beautiful - you silly ape
+01:55:26 the most beautiful or surprising idea in the development of artificial intelligence well there in your own life
+01:55:31 or in the history of artificial intelligence that you've come across if you built an AI it probably can make
+01:55:39 models at an arbitrary degree of detail right of the world and then it would try to understand its own nature it's
+01:55:45 tempting to think that at some point when we have general intelligence we have competitions very evil that the AIS
+01:55:51 wake up in different kinds of physical universes and we measure how many movements of the rubik's cube it takes
+01:55:57 until it's figured out what's going on in its universe and what it is and its own nature and its own physics and so on
+01:56:03 right so what if we exists in the memory of an AI that is trying to understand its own nature and remembers its own
+01:56:09 genesis and remembers lex and Yasha sitting in hotel sparking some of the ideas of that led to the development of
+01:56:16 general each other so we're a kind of simulation is running in an AI system is trying to understand itself
+01:56:24 it's not that I believe that but as I think it's a beautiful I mean it you kind of return to this idea with the
+01:56:37 Turing test of intelligence being of intelligence being the process of asking and answering what is intelligence I
+01:56:49 mean what why do you think there's there is an answer what why is there such a search for an answer what so does there
+01:56:57 have to be and I can I can answer you just had an AI system that's trying to understand the why of what you know
+01:57:06 understand itself is that a fundamental process of greater and greater complexity greater greater intelligence
+01:57:12 is the continuous trying of understanding itself no I think you will find that most people don't care about
+01:57:18 that because they're well adjusted enough to not care and the reason why people like you and me occur about it
+01:57:25 probably has to do with the need to understand ourselves it's because we are in fundamental disagreement is the
+01:57:31 universe that we wake up in what looks like me and I see oh my god I'm caught in a monkey what's that sorry that's the
+01:57:38 feeling right it's just the government and I'm unhappy with the entire universe that I fight myself in so you don't
+01:57:45 think that's a fundamental aspect of human nature that some people are just suppressing that they're they wake up
+01:57:51 shocked they're there in the body of a monkey no there is clear adaptive value to not be confused by that and by well
+01:58:01 no no that's our air so oh so you have to clear adaptive value then there's clear adaptive value to while
+01:58:09 fundamentally your brain is confused by that by creating an illusion another layer of the narrative that says you
+01:58:17 know that tries to suppress that and instead say that you know what's going on with the government right now is the
+01:58:22 most important thing what's going on with my football team is the most important thing but it seems to me the
+01:58:30 like I would like for me it was a really interesting moment reading Ernest Becker's denial of death
+01:58:38 the you know there's this kind of idea that we're all you know the fundamental thing from which most of our human mind
+01:58:50 Springs is this fear of mortality being cognizant of your mortality and the fear of that mortality and then you construct
+01:58:58 illusions on top of that I guess I'm you being just a push on it you you really don't think it's possible that this
+01:59:08 worry of the big existential questions is actually fundamental as of as the existentialist thought to our existence
+01:59:14 I think that the fear of death only plays a role as long as you don't see the big picture the thing is that Minds
+01:59:22 our software States right software doesn't have identity software in some sense is a physical law but if last like
+01:59:29 a brief yeah right so but it feels like there's an identity I thought that was the for this particular piece of
+01:59:35 software and then narrative it tells there's a fundamental property of assigning it maintenance of the identity
+01:59:41 is not terminal it's instrumental to something else you maintain your identity so you can serve your meaning
+01:59:46 so you can do the things that you're supposed to do before your bad died and I suspect that for most people the fear
+01:59:52 of death is the fear of dying before they're done with the things that they feel they have to do even though they
+01:59:56 cannot quite put their finger on it what it is what that is right but in the software world okay they return to the
+02:00:11 because what you care you will not be longer there the point of trying is that you're gone or maybe I'm not and this is
+02:00:20 what you know it it seems like there's so much any idea that this is just the mind is just the simulation is
+02:00:29 constructing a narrative around some particular aspects of the quantum mechanical wave function world that we
+02:00:39 can't quite get direct access to then like the idea of mortality seems to be a little fuzzy as well it doesn't maybe
+02:00:47 there's not a clear and the quasi idea is the one of continued existence we don't have continuous
+02:00:52 existence how do you know that like that it's not computable because you're saying it's good it's no process the
+02:00:59 only thing that binds you together with the leg Sweetman from yesterday is the illusion that you have memories about
+02:01:04 him so if you want to upload it's very easy you make a machine that thinks it's you because this the same thing that you
+02:01:09 are you are a machine that thinks it's you but that's that's more and that's immortality yeah but it's just a belief
+02:01:15 you can create this body very easily once you realize that the question whether you are immortal or not depends
+02:01:22 entirely on your beliefs and your own continuity but then it then then you can be immortal by the continuity of the
+02:01:30 belief you cannot be immortal but you can stop being afraid of your mortality because you realize you were never
+02:01:36 continued ously existing in the first place well I don't know if I'd be more terrified or less terrified with that it
+02:01:44 seems like the fact that I existed also you don't know this state in which you don't have itself you can turn off
+02:01:50 yourself you know I can't turn you can turn it off you can turn it off I can yes and you can basically meditate
+02:01:56 yourself in a state where you are still conscious there's still things are happening where you know everything that
+02:02:01 you knew before but you no longer identified was changing anything and this means that yourself and way it
+02:02:09 dissolves there is no longer this person you know that this person construct exists in other states and it runs on
+02:02:15 this brain of legs Freedman but it's it's not a real thing it's a construct it's an idea and you can change that
+02:02:23 idea and if you let go of this idea if you don't think that you are special you realize it's just one of many people and
+02:02:29 it's not your favorite person even right it's just one of many and it's the one that you are doomed to control for the
+02:02:34 most part and that is basically informing the actions of this organism yeah as a control model and this is all
+02:02:42 there is and you are somehow afraid that this control model gets interrupted or loses the identity of continuity
+02:02:50 yeah so I'm attached I mean yeah there is a very popular it's a somehow compelling notion that
+02:02:56 being being attached like there's no need to be attached to this idea of an identity but that in itself could be a an
+02:03:06 illusion that you construct so the process of meditation while popular is thought of as getting under the concept
+02:03:13 of identity it could be just putting a cloak over it just telling it to be quiet for the moment you know it I think
+02:03:23 that meditation is eventually just a bunch of techniques that let you control attention and when you can control the
+02:03:30 attention you can get access to your own source code hopefully not before you understand what you're doing and then
+02:03:34 you can change the way it works temporarily or permanently so yeah meditations in get a glimpse at
+02:03:42 the source code get under there so basically how much role or is it that you learn to control attention so yeah
+02:03:47 everything else is downstream from controlling attention and control the attention that's looking at the
+02:03:53 attention not only only get attention in the parts of our mind that create heat where you have a mismatch between model
+02:03:59 and the results that are happening and so most people are not self-aware because their control is too good if
+02:04:05 everything works out roughly the way you want and the only things that don't work out is whether your football team vents
+02:04:11 then you will mostly have models about these domains and it's only when for instance your fundamental relationships
+02:04:17 to the world around you don't work because the ideology of your country is insane and the other kids are not nerds
+02:04:24 and don't understand why you understand physics and you don't why you want to understand physics and you don't
+02:04:29 understand why somebody would not want to understand physics so we kind of brought up neurons in the brain as
+02:04:39 reinforcement learning agents and there's been some successes as you brought up with go with alpha go alpha
+02:04:46 zero with ideas of self play which I think are incredibly interesting ideas those systems playing each other and in
+02:04:55 an automated way to improve by playing other systems of in a particular construct of a game that are a little
+02:05:02 bit better than itself and then thereby improving continuously all the competitors in the game are improving
+02:05:09 gradually so being just challenging enough and from learning from the process of
+02:05:14 competition do you've hoped for that reinforcement learning process to achieve greater and greater level of
+02:05:19 intelligence so we talked about different ideas in AI then we need to be solved is RL a part of that process of
+02:05:29 trying to create a GI system so it forms of unsupervised learning but the many algorithms that can achieve that and I
+02:05:35 suspect that ultimately the algorithms that work there will be a class of them or many of them and they might have
+02:05:42 small differences of like a magnitude in efficiency but eventually what matters is the type of model that you form and
+02:05:49 the types of models that we form right now are not sparse enough just bars that what does it mean to be sparse so it
+02:05:59 means that ideally every potential model State should correspond to a potential world state so if I see if you vary
+02:06:07 States in your model you always end up as valid world States and all mind is not quite there so an indication
+02:06:13 especially what we see in dreams the older we get the more boring our dreams become because we incorporate more and
+02:06:19 more constraints that we learned about how the world works so many of the things that we imagined to be possible
+02:06:25 as children turn out to be constrained by physical and social dynamics and as a result fewer and fewer things remain
+02:06:32 possible it's not because our imagination scales back but the constraints under which it operates
+02:06:39 become tighter and tighter and so the constraints under which our neural networks operate are almost limitless
+02:06:45 which means it's very difficult to get a neural network to imagine things that look real right so as a SPECT part of
+02:06:54 what we need to do is we probably need to build dreaming systems I suspect that part of the purpose of dreams is to
+02:07:00 similar to a generative adversarial network to learn certain constraints and then it produces alternative
+02:07:07 perspectives on the same set of constraints so you can recognize it under different circumstances maybe we
+02:07:13 have flying dreams as children because we recreate the objects that we know on the maps that we know from different
+02:07:18 perspectives which also means from the bird's eye perspective so I mean aren't we doing that anyway I mean not without
+02:07:24 with our eyes and with our eyes closed and when we're sleeping are we just constantly running
+02:07:30 dreams and simulations in our mind as we try to interpret the environment I mean it's sort of considering all the
+02:07:36 different possibilities there's the way we interact with the environment it seems like essentially like you said of
+02:07:46 creating a bunch of simulations that are consistent with our expectations with previous experiences with the things we
+02:07:56 just saw recently and through that hallucination process we are able to then somehow stitch together what
+02:08:05 actually we see in the world with the simulations that match it well and thereby interpret it I suspect it you're
+02:08:12 in my brain are slightly unusual in this regard which is probably what got you into MIT
+02:08:17 so this obsession of constantly pondering possibilities and solutions to problems I'll stop I think I I'm not
+02:08:27 talking about intellectual stuff I'm talking about just doing the kind of stuff it takes to walk and not fall I
+02:08:40 guess this is largely automatic yes but the process is mean it's not complicated it's very easy to pull the neural
+02:08:46 network that in some sense learns the dynamics the fact that we haven't done it right so far it doesn't mean it's
+02:08:52 hard because you can see that a biological organism does it there's relatively few neurons yeah as
+02:08:57 you build a bunch of neural oscillators that in train themselves this the dynamics of your body in such a way that
+02:09:03 the regulator becomes isomorphic and it's modeled through the dynamics that are regulates and then is automatic and
+02:09:09 it's only interesting the sense that it captures attention when the system is off see but thinking of the kind of
+02:09:16 mechanism that's required to do walking as a controller as like a as a neural network I think I think it's a
+02:09:26 compelling notion but it's discards quietly or at least makes implicit the fact that you need to have something
+02:09:34 like common sense reasoning to walk it's not as an open question whether you do or not but my intuition
+02:09:40 to be to act in this world there's a huge knowledge base that's underlying it somehow there's so much information of
+02:09:49 the kind we have never been able to construct in our in your networks on an artificial intelligence systems period
+02:09:58 which is like it's humbling at least in my imagination the amount of information required to act in this world humbles me
+02:10:08 and I think saying that your levels can accomplish it is missing is missing the fact that we don't yeah we don't have
+02:10:16 yet a mechanism for constructing something like common sense reasoning I mean what's your sense about to linger
+02:10:27 on how much if you know to linger on the idea of what kind of mechanism would be effective at walking you said just a
+02:10:34 neural network not maybe the kind we have but something a little bit better we'll be able to walk easily don't you
+02:10:44 think it also needs to know like a huge amount of knowledge that's represented under the flag of common sense reasoning
+02:10:49 how much common sense knowledge to be actually have imagine that you are pretty hard working through all your
+02:10:55 life and you form two new concepts every half hour or so yes you end up with something like a million concepts
+02:11:01 because you don't get that old so a million concept that's not a lot it's not just a million concepts I think
+02:11:09 you'll be a lot I personally think it might be much more than a million if you think just about the numbers
+02:11:15 you don't live that long if you think about how many cycles do your neurons have in your life it's quite limited you
+02:11:21 don't get that all yeah but the the powerful thing is a number of concepts and they're probably deeply hierarchical
+02:11:31 in nature the relations as you described between them is the key thing so it's like even if it's the chameleon concepts
+02:11:38 the the graph of relations that's formed and some kind of perhaps some kind of probabilistic relationships that's the
+02:11:46 that's what's common-sense reasoning is a relationship between things that yeah so but in some sense I think of the
+02:11:52 concepts as the space for our behavior programs and the waiver poems allow us to recognize
+02:11:58 objects and interact with them also mental objects and a large part of that is the physical world that we interact
+02:12:05 with which is this res extend Lansing which is basically navigation of information in space and basically it's
+02:12:13 similar to a game engine it's a physics engine that you can use to describe and predict how things that look in a
+02:12:20 particular way that feel when you touch them particular way they love proprioception I love auditory
+02:12:25 perception and so on how they work out so basically the geometry of all these things and this is probably 80% of what
+02:12:32 our brain is doing is dealing with debt with this real-time simulation and by itself a game engine is fascinating but
+02:12:39 it's not that hard to understand what it's doing right and our game engines are already in some sense approximating
+02:12:47 the Magna deep fidelity of what we can perceive so if we put on an oculus quest we get something that is still
+02:12:54 qualitatively crude with respect to what we can perceive but it's also in the same ballpark already right it's just a
+02:13:00 couple order of magnitudes away to home saturating our perception jumps of the complexity that it can produce so in
+02:13:07 some sense it's reasonable to say that our the computer that you can buy it the put into your home is able to give a
+02:13:14 perceptual reality that has a teacher that is already in the same ballpark as what your brain can process and
+02:13:21 everything else our ideas about the world and I suspect that they are relatively sparse and also the intuitive
+02:13:27 models that we form about social interaction social interaction is it's not so hard it's just hard for us nerds
+02:13:33 because we all have our wires crossed so we need to use them but the priors are present in most social animals so it's
+02:13:40 interesting thing to notice that many domestic social animals like cats and dogs have better social cognition than
+02:13:50 children right I hope so I hope it's not that many concepts fundamentally and - due to existence world social sorry it's
+02:13:57 more like I'm afraid so because this thing that we only appear to be so complex to each other because we are so
+02:14:04 stupid it's a little bit interesting now one that yeah to me that's inspiring if we're indeed as as as stupid as it
+02:14:12 seems so thinks our brains don't scale and the information processing that we built tend to scale very well yeah but I
+02:14:19 mean one of the things that worries me is that the you know that the fact that the brain doesn't scale means that
+02:14:26 that's actually a fundamental feature of the brain you know the all the flaws of the brain everything we see that we see
+02:14:32 has limitations perhaps there's a fundamental the constraints on the system could be the requirement of its
+02:14:42 power which is like different than our current understanding of intelligent systems were scale especially with deep
+02:14:48 learning especially with reinforcement learning the hope behind open a eye deep mind all the major results really have
+02:14:59 to do with huge compute and it also be that our brains are so small not just because they take up so much glucose in
+02:15:06 our body like 20% of the glucose so they don't arbitrarily scale there's some animals like elephants which have larger
+02:15:11 brains than us and atoms need to be smarter all right elephants seem to be autistic they have very very good motor
+02:15:16 control and they're really good with details but they really struggle to see the big picture so you can make them
+02:15:23 recreate drawings stroke by stroke they can do that but they cannot reproduce a still life so they cannot make a drawing
+02:15:29 of a scene that I see there will always be only able to reproduce the line drawn at least as far away from what I could
+02:15:37 see in the experiments yeah by is that maybe smarter elephants would meditate themselves out of existence because
+02:15:42 their brains are too large so they basically the elephants that were not autistic they didn't reproduce yet so we
+02:15:48 have to remember that the brain is fundamentally interlinked with the body and our human and biological system do
+02:15:54 you think that a GI systems that we try to create or greater intelligence systems would need to have a body so I
+02:16:00 think that should be able to make use of a body if you give it to them but I don't think that a fundamentally new
+02:16:07 body so I suspect if you can interact with the world by moving your eyes and your head you can make controlled
+02:16:14 experiments and this allows you to have many magnitudes fewer observations in order to reduce the uncertainty in
+02:16:22 your models alright so you can pinpoint the areas in your models but you're not quite sure and you just move your head
+02:16:27 and see what's doing what's going on over there and you get additional information if you just have to use
+02:16:32 YouTube as an input and you cannot do anything beyond this you probably need just much more data but if we have much
+02:16:39 more data so if you can build a system that has enough time and attention to browse all of YouTube and extract all
+02:16:44 the information that there is to be found I don't think that's an obvious limit to what it can do yeah but it
+02:16:51 seems that the interactivity is a fundamental thing that the physical body allows you to do but let me ask on that
+02:16:57 topic sort of that does what a body is is allowing the brain to like touch things and move things and interact with
+02:17:05 the weather the physical world exists or not whatever but interact with someone interface to the physical world what
+02:17:13 about a virtual world do you think do you think we can do the same kind of reasoning consciousness intelligence if
+02:17:22 we put on a VR headset and move over to that world do you think there's any fundamental difference between the
+02:17:28 interface the physical world that is here in this hotel and if we were sitting in the same hotel in a virtual
+02:17:33 world the question is just as physical this non-physical world with this other environment near entice you to solve
+02:17:40 problems that require general intelligence if it doesn't then you probably will not develop general
+02:17:46 intelligence and arguably most people are not genuinely intelligent because they don't have to solve problems that
+02:17:51 make them generally intelligent and even for us it's not yet clear if we are smart enough to put AI and understand
+02:17:57 our own nature to this degree right so it could be a matter of capacity and for most people it's in the first place a
+02:18:02 matter of interest they don't see the point because the benefit of attempting this project are marginal because you're
+02:18:08 probably not going to succeed in it and the cost of trying to do a requires complete dedication of your entire life
+02:18:13 all right but it seems like the possibilities of what you can do in a virtual world so imagine a cut is much
+02:18:19 greater than you can in the real world so imagine a situation maybe interesting option for me if somebody came to me and
+02:18:28 offered what I'll do is yeah so from now on you can only exist in the virtual world and so you put on this headset and when
+02:18:36 you eat we'll make sure to connect your body up in a way that when you eat in the virtual world your body will be
+02:18:43 nourished in the same way in the virtual world so the aligning incentives between the our common sort of real world in the
+02:18:50 virtual world but then the possibilities become much bigger like I could be other kinds of creatures I could do I can
+02:18:58 break the laws of physics as we know them I can do a lot I mean the possibilities are endless right it
+02:19:03 that's as far as we think it's an interesting thought whether like what existence would be like what kind of
+02:19:11 intelligence would emerge there what kind of consciousness what kind of maybe greater intelligence even me and me Lex
+02:19:19 even I'm at this stage in my life if I spend the next 20 years in our world to see how that intelligence emerges and if
+02:19:26 I was if that happened at the very beginning before I was even cognizant of my existence in this physical world it's
+02:19:32 interesting to think how that child would develop and the way virtuality and digitization of everything is moving
+02:19:39 it's not completely out of the realm of possibility that we're all that some part of our lives will be if not
+02:19:47 entirety of it we'll live in a virtual world to a greater degree than we currently have living on Twitter and
+02:19:54 social media and so on do you have I mean it does something draw you intellectually or naturally in terms of
+02:20:02 thinking about AI to this virtual world we're more possible easier I think that currently it's a waste of time to deal
+02:20:09 with the physical world before we have mechanisms that can automatically learn how to deal with it the body gives you a
+02:20:16 second order agency but you conserve what constitutes the body is the things that you can indirectly control I third
+02:20:23 or our tools right and the second order is the things that are basically always present but you operate on them with
+02:20:29 first order things which are mental operators yes and the zero order is in some sense the direct sense of what you
+02:20:38 are deciding right so you in you observe yourself initiating an action there features but that you interpret as the
+02:20:44 initiation of an action then you are the operations that you perform to make that happen and then you see the
+02:20:50 movement of your limbs and you learn to associate those and thereby model your own agency over this feedback right but
+02:20:56 the first feedback that you get is from this first order thing already basically you decide to think a thought and the
+02:21:01 thought is being thought you decide to change the thought and you observe how the thought is being changed yes and in
+02:21:07 some sense this is you could say an embodiment already right and I suspect it's sufficient as an embodiment really
+02:21:14 origins and so it's not that important at least at this time to consider variations in the second order yes but
+02:21:21 the thing that you also put a mentioned just now as physics that you could change in any way you want so you need
+02:21:27 an environment that puts up resistance against you if you if there's nothing to control you cannot make models right
+02:21:33 there needs to be a particular way that resists you and by the way your motivation is usually outside of your
+02:21:39 mind it resists your motivation is what gets you up in the morning even though it would be much less work to stay in
+02:21:45 bed and so it's basically forcing you to resist the environment and it forces your mind to serve it to serve this
+02:21:54 resistance to the environment so in some sense it is also putting up resistance against the natural tendency of the mind
+02:22:00 to not do anything yeah but some of that resistance just like you described as motivation is like in the first order
+02:22:07 space in the mind some resistance is in the second order like the actual physical objects pushing against you so
+02:22:12 ah yeah it seems that the second order stuff and virtuality could be recreated of course but it might be sufficient
+02:22:18 that you just do mathematics and mathematics is already putting up enough resistance against you so basically just
+02:22:25 visiting a static motive this could may be sufficient to form a type of intelligence it would probably not be a
+02:22:31 very human intelligence but it might be one that is already general so to to mess with this 0th order may be first
+02:22:40 order what do you think about ideas of brain computer interfaces so again returning to our friend Elon Musk and
+02:22:46 your link a company that's trying to of course there's a lot of trying to cure diseases and so on with a near term but
+02:22:54 the long term vision is to add an extra layer to so basically expand the capacity of the brain
+02:23:01 and connected to the computational world aha do you think one that's possible - how does that change the fundamentals of
+02:23:08 the zeroth order in the first order it's technically possible but I don't see that the FDA would ever allow me to
+02:23:13 drill holes on my skull to interface my neocortex the veyron mask envisions so at the moment I can do horrible things
+02:23:20 to mice but I'm not able to do useful things to people except maybe at some point down the line in medical
+02:23:27 applications so this thing that we are envisioning which means recreational and creational brain computer interfaces are
+02:23:35 probably not going to happen in the present legal system I love it how I'm asking you out there philosophical and
+02:23:44 sort of engineering questions and for the first time ever he jumped to the legal FDA there would be enough people
+02:23:50 that would be crazy enough to have holes drilled in their skull to try a new type of brain computer interface but also if
+02:23:58 it works it FDA will approve it I mean it's the yes you're it's like exert on most vehicles yes you can say that's
+02:24:04 gonna be very difficult regulatory process of approving with honesty but it doesn't mean autonomous vehicles are
+02:24:08 never gonna happen so no devil totally happen as soon as we create jobs for at least we lawyers and
+02:24:18 one regulator per car yes lawyers that's actually like lawyers is the fundamental substrate of reality it's a very good
+02:24:28 system it's not Universal in the world the law is a very interesting software once you realize it right these circuits
+02:24:35 are in some sense streams of software and this is largely works by exception handling so you make decisions on the
+02:24:40 ground and they get synchronized with the next level structure as soon as an exception as being wrong is a yeah so so
+02:24:47 isolates the exception handing the process is very expensive especially since it's incentivizes the lawyers for
+02:24:54 producing lot of work for lawyers yes so the exceptions are actually incentivize for for firing often but but
+02:25:03 to return outside of lawyers is there anything fundamentally like is there anything interesting insightful
+02:25:13 about the possibility of this extra layer of intelligence a little rain I do think so but I don't think that you need
+02:25:20 technically invasive procedures to do so we can already interface with other people by observing them very very
+02:25:25 closely and getting in some kind of empathetic resonance and I'm a nerd so I'm not very good at this but I noticed
+02:25:33 that people are able to do this to some degree and it basically means that we model an interface lay off the other
+02:25:41 person in real time and it works despite our neurons being slow because most of the things that we do are built on
+02:25:46 periodic process these two just need to entrain yourself with the oscillation that happens and if the Association
+02:25:52 itself changes slowly enough you can basically follow along right but the bandwidth of the interaction the you
+02:26:02 know it seems like you can do a lot more computation one yes of course the but the other thing is that the event was
+02:26:08 that our brain our own mind is running on is actually quite slow so the number of thoughts that I can productively
+02:26:14 think in any given day is quite limited but it's much if they had the discipline to write it down and the speed to write
+02:26:21 it down maybe it would be a book every day or so but if you think about the computers that we can build the
+02:26:27 magnitudes at which they operate right this would be nothing it's something that it can put out in a second well I
+02:26:34 don't know so as possible sort of the number of thoughts you have in your brain is it could be several orders of
+02:26:40 magnitude higher than what you're possibly able to express through your fingers or through your voice like so
+02:26:46 most of them are going to be repetitive because they how do you know that I mean they have to control the same problems
+02:26:53 every day when I walk they are going to be processed this in my brain that model my walking pattern and regulate them and
+02:26:58 so on but it's going to be pretty much the same every day but that movies every step but I'm talking about intellectual
+02:27:04 reasoning like thinking so the question what is the best system of government so you sit down and start thinking about
+02:27:10 that one of the constraints is that you don't have access to a lot of like you you don't have access to a lot of facts
+02:27:15 a lot of studies you have to do you always have to interface with something else to learn more to to aid in your
+02:27:24 reasoning process if you can direct access all over Kapadia in trying to understand what is the best form of
+02:27:29 government then every thought won't be stuck in a loop like every thought that requires some extra piece of information
+02:27:35 will be able to grab it really quickly that that's the possibility of if the bottleneck is literally the information
+02:27:45 that you know the bottleneck of breakthrough ideas is just being able to quickly access huge amounts of
+02:27:51 information then the possibility of connecting your brain to the computer could lead to totally new like you know
+02:27:59 totally new breakthroughs you can think of mathematicians being able to you know just up the orders of magnitude of power
+02:28:08 in their reasoning about that matter what humanity has already discovered the optimal form of government to a
+02:28:15 revolutionary process is an evolution and so what we discover is that maybe the problem of government doesn't have
+02:28:22 stable solutions for us right as a species because we are not designed in such a way that we can make everybody
+02:28:29 conform to them so but there could be solutions that work under given circumstances or that are the best for
+02:28:35 certain environment and depends on for instance the primary forms of ownership and the means of production so if the
+02:28:42 main means of production is lent then the forms of government will be regulated by the landowners and you get
+02:28:49 a monarchy if you also want to have a form of government in which a subset you depend on some form of slavery for
+02:28:56 instance where the peasants have to work very long hours for very little gain so very few people had enough plumbing then
+02:29:03 maybe you need to promise them that we had paid in in the afterlife there over time right so you need a theocracy and
+02:29:12 so for much of human history in the West we had a combination of monarchy and theocracy that was our form of
+02:29:18 governance right at the same time the Catholic Church implemented game theoretic principles I recently reread
+02:29:25 Thomas or kindness it's very interesting to see this because he was not duelist he was translating Aristotle in a
+02:29:32 particular way for the designing an operating system for the Catholic society and he says that basically people
+02:29:39 our animals and very much the same way as Aristotle envisions which basically organisms with cybernetic control and
+02:29:45 then he says that there are additional rational principles that humans can discover and everybody can discover them
+02:29:51 so they are universal if you are saying you should understand you should submit to them because you can rationally
+02:29:56 deduce them and these principles are roughly you should be willing to self-regulate correctly you should be
+02:30:06 willing to do correct social regulation it's intro organismic you should be willing to act on your models so we have
+02:30:17 skin in the game and you should have called rationality you should be choosing the right to calls to work on
+02:30:24 and so basically these three rational principles call rationality he calls prudence or wisdom the social regulation
+02:30:32 is justice the correct social one and the internal regulation is temperance and this thing to be willingness to act
+02:30:40 on your models is courage and then he says that they are additionally to these four cardinal virtues three divine
+02:30:46 virtues and these three divine virtues cannot be resonated used but they reveal themselves by the harmony which means if
+02:30:51 you assume them and you extrapolate what's going to happen you will see that that makes sense and it's often been
+02:30:58 misunderstood as God has to tell you that these are the things so they're a see there's something nefarious going on
+02:31:04 with the christian conspiracy forces you to believe some guy with a long beard that they discovered this but so these
+02:31:12 principles are relatively simple again you need it's for high level organization for the resulting
+02:31:17 civilization that you form commitment to unity so basically you serve this higher larger thing this structural principle
+02:31:25 on the next level and he calls that phase then there needs to be a commitment to shared purpose this is
+02:31:31 basically this global reward that you try to figure out what that should be and now you can facilitate this and this
+02:31:36 is love the commitment to shared purpose is the core of love right you see the sacred thing that is more important than
+02:31:42 your own organism ayk interests in the other and you serve this together and this is how you see the sacred and the
+02:31:49 other and the last one is hope which means you need to be willing to act on that prayer
+02:31:53 principle without getting rewards in the here and now because it doesn't exist yet then you start out building the
+02:31:58 civilization right so you need to be able to do this in the absence of its actual existence yet so it can come into
+02:32:06 being so yes so the way it comes into being is by you accepting those notions and then you see there these these three
+02:32:12 divine concepts then you see them and realized now the most divine is the loaded concept and olive oil and ice
+02:32:18 because we are outside of this cart and we are still scarred from breaking free of it but the idea is basically we need
+02:32:24 to have a civilization that acts as an intentional agent like an insect State and we are not actually a tribal species
+02:32:31 we are state building species and was what enabled State Building is basic the formation of religious states and other
+02:32:38 forms of rule-based administration in which the individual doesn't matter as much as the rule or the higher goal
+02:32:44 right we got there by the question what's the optimal form of governance so I don't think that chaos or Catholicism
+02:32:50 is the optimal form of governance because it's obviously on the way out right so it is for the present type of
+02:32:56 society that we are in religious institutions don't seem to be optimal to organize that so what we discovered
+02:33:02 right now that we live in in the West is democracy and democracy is the rule of oligarchs there are the people that
+02:33:08 currently own the means of production that is administered not by the oligarchs themselves because they
+02:33:14 there's too much distraction right here so much innovation that we have in every generation new means of production let
+02:33:22 me invent and corporations dive usually after 30 years or so and something either takes the leading role in our societies
+02:33:29 so it's administered by institutions and these institutions themselves are not elected but they provide continuity and
+02:33:36 they are led by electable politicians and this makes it possible that you can adapt to change without having to kill
+02:33:42 people right so you can tell for instance of a change in government's if people think that the current government
+02:33:47 is too corrupt or is not up-to-date you can just elect new people or if a journalist finds out something
+02:33:53 inconvenient about the institution and the institution is has no plan B like in Russia the journalist has to die this is
+02:34:00 what but when you run society by the deep state so ideally you have a administration layer that you can change
+02:34:08 if something bad happens right so you will have a continuity in the whole thing and this is the system that we
+02:34:14 came up in in the West and the way it's set up in the US is largely result of low-level models was mostly just second
+02:34:21 third order consequences that people are modeling in the design of these institutions it's relatively young
+02:34:25 society that doesn't really care take care of the downstream effects of many of the decisions that are being made and
+02:34:32 I suspect that AI can help us this in a way if you can fix the incentives the Society of the u.s. is a society of
+02:34:39 teeters it's basically cheating so indistinguishable from innovation and we want to encourage innovation can you
+02:34:44 elaborate on what you mean by cheating especially people do things that they know are wrong it's acceptable to do
+02:34:50 things that you know are wrong in this society who a certain degree you can for instance suggest some non sustainable
+02:34:57 business models and implement them right but you're always pushing the boundaries I mean yeah you're yes you're and yes
+02:35:04 this is seen as a good thing largely yes and this is different from other societies so for instance social
+02:35:09 mobility is an aspect of this social mobility is the result of individual innovation that would not be sustainable
+02:35:15 at scale for everybody else right normally you should not go up you should go deep right we need Baker's and if you
+02:35:21 are very good bakers but in a society that innovates maybe you can replace all the Baker's with a really good machine
+02:35:27 right and that's not a bad thing and it's a thing that made us so successful right but it also means that the u.s. is
+02:35:33 not optimizing for sustainability but for innovation and so it's not obvious as the evolutionary processes unrolling
+02:35:40 is not obvious that that long term would be better it's it has side effect so you basically if you cheat you will have a
+02:35:47 certain layer of toxic sludge that covers everything there is a result of cheating and we have to unroll this
+02:35:53 evolutionary process to figure out if these side effects are so damaging that the system is horrible or if the
+02:36:01 benefits actually outweigh the the the negative effects how do we get to the which system of government is best
+02:36:09 that was from I'm trying to trace back like five minutes I suspect that we can find a way back to AI by thinking about
+02:36:16 the way in which our brain has to organize it right in some sense our brain is a
+02:36:23 society of neurons and our mind is a society of behaviors and they need to be organizing themselves into a structure
+02:36:31 that implements regulation and government is social regulation we often see government is the manifestation of
+02:36:38 power or local interests but it's actually a platform for negotiating the conditions of human survival and this
+02:36:45 platform emerges over the current needs and possibilities in the trajectory that we have so given the present state there
+02:36:52 are only so many options on how we can move into the next stage without completely disrupting everything and we
+02:36:57 mostly agree that it's a bad idea to disrupt everything because it will endanger our food supply for a while and
+02:37:02 the entire infrastructure and fabric of society so we do try to find natural transitions and they're not that many
+02:37:09 natural transitions available at any given point Murray you're a natural transition so we try to not to have
+02:37:16 revolutions if he can have it right so speaking of revolutions and the connection between in government systems
+02:37:24 in the mind you've also said that you said that in some sense becoming an adult means you take charge of your
+02:37:30 emotions maybe never said that maybe I just made that up but in context of the mind what's the role of emotion and what
+02:37:41 is it first of all what is emotion was its role it's several things so psychologists often distinguish between
+02:37:48 emotion and feeling and in common day parlance we don't don't I think that in motion is a configuration of the
+02:37:54 cognitive system and that's especially true for the lowest level for the affective state so when you have an
+02:37:59 effect it's the configuration of certain modulation parameters like arousal valence your your attentional focus
+02:38:06 whether it's right or narrow interception or extra reception and so on and all these parameters together put
+02:38:13 you in a certain way to you relate to the environment and to yourself and this is in some sense an emotional
+02:38:18 configuration and the more narrow sense an emotion is an affective state it has an object and the relevance of that
+02:38:25 object is given by motivation and motivation is a bunch of needs that are associated with rewards things that give
+02:38:31 you pleasure and pain and you don't actually act on your needs you act on models of your needs because
+02:38:36 when the pleasure and pain manifest it's too late you've done everything but so you act on expectations what will give
+02:38:42 you a pleasure and pain and these are your purposes the needs don't form a hierarchy they just coexist and compete
+02:38:48 and your organism is why brain has to find it on dynamic homeostasis between them but the purposes need to be
+02:38:54 consistent so you basically can create a story for your life and make plans and so we organize them all into hierarchies
+02:39:01 and there is not a unique solution for this and people eat to make art and other people regard to eat and they
+02:39:07 might up be end up doing the same things but they cooperate in very different ways because they automate codes are
+02:39:13 different and vie cooperate based on shared purpose everything else it is not cooperation on shared purpose is
+02:39:19 transactional I don't think I understood the last piece of the achieving the homeostasis are you distinguishing
+02:39:29 between the experience of emotion and the expression of emotion of course so the experience of emotion is a feeling
+02:39:37 and in the sense what you feel is an appraisal that your perceptual system is made of the situation at hand and it
+02:39:44 makes this based on your motivation yes and on the you are estimates not your but of the subconscious geometric parts
+02:39:52 of your mind that assess the situation in the world with something like a neural network and this neural network
+02:39:58 is making itself known to the symbolic parts of your mind to your conscious attention by our mapping the them as
+02:40:05 features into a space so what you will feel about your emotion is a projection usually enjoy your body map you might
+02:40:12 feel anxiety in your solar plexus and you might feel it as a contraction which is all geometry right your body map is
+02:40:19 the space that is always instantiate and always available so it's a very obvious cheat if your non-symbolic parts of your
+02:40:28 brain try to talk to your symbolic parts of your brain to map the feelings into the body map and then you perceive them
+02:40:34 as pleasant and unpleasant depending on whether the appraisal has a negative or positive valence and then you have
+02:40:40 different features of them that give you more knowledge about the nature of what you're feeling so for instance when you feel
+02:40:45 connected to other people you typically feel this new chest region around your heart and you feel this is an expansive
+02:40:51 feeling in which you're reaching out right and it's very intuitive to encode it like this that's why it's encoded
+02:40:59 like it's incredible it's in code it's a code in which the non symbolic parts of your mind
+02:41:03 talk to the symbolic ones and then the expression of emotion is then the final step that could be sort of gestural or
+02:41:09 visual yeah so on that's part of this MOOC is probably evolved as part of an adversarial communication so as soon as
+02:41:16 you started to observe the facial expression and poster of others to understand what emotional state they're in
+02:41:22 others started to use this as signalling and also to subvert your model of the emotional state so we now look at the
+02:41:28 inflections at the difference between the standard face that they're going to make in this situation right when you
+02:41:33 were at the funeral everybody expects you to make a solemn face but the solemn face doesn't express whether you're said
+02:41:38 or not it just expresses that you understand what face you have to make it a funeral nobody should know that you
+02:41:44 are Trump triumphant so when you try to read the emotion of another person you try to look at the Delta between said
+02:41:52 truly said expression and the things that are animated mating this face behind the curtain so the interesting
+02:42:00 thing is so having done these having them as podcast and the video component one of the things I've learned is that
+02:42:08 now I'm Russian and I don't know how to express emotion on my face when I see that as weakness but whatever the people
+02:42:17 look to me after you say something they look to my face - just to help them see how they should feel about we said which
+02:42:24 is fascinating because then they'll often comment on why did you look bored or why did you particularly enjoy that
+02:42:31 part or why did you whatever it's a kind of interesting it makes me cognizant of on part like
+02:42:37 you're basically saying a bunch of brilliant things but I am part of the play that you're the key actor and by
+02:42:45 making my facial expressions and then do and therefore telling the narrative of what the big like the big point is which
+02:42:51 is fascinating makes me makes me cognizant I'm supposed to be making facial expressions even
+02:42:56 this conversation is hard because my preference will be to wear a mask with sunglasses to wear I
+02:43:02 could just listen yes which is understand this because it's intrusive to interact with others this way and
+02:43:09 basically Eastern European society have a taboo against that and especially Russia the further you go to the east
+02:43:16 and in the u.s. it's the opposite you are expected to be hyper animated in your face and you're also expected to
+02:43:24 show positive affect yes and if you show positive effect without a good reason in Russia they people will think you are
+02:43:32 a stupid and sophisticated person exactly and here positive effect without reason goes either appreciate or goes
+02:43:42 unnoticed no it's the default it's being expected everything is amazing have you seen these lego movie no there was a
+02:43:50 diagram where somebody gave the appraisals that exist in the US and Russia so you have your black curve and
+02:44:00 the lower 10% in u.s. yeah are it's a good start everything about the lowest 10% is it's
+02:44:08 amazing it's amazing and for Russians yeah everything below the top 10% is it's terrible and then everything except
+02:44:17 the top percent is I don't like it and the 10% is even so yeah it's funny but it's kind of true no yeah there's a
+02:44:29 deeper aspect to this it's also how we construct meaning in the u.s. usually you focus on the positive aspects and
+02:44:37 you just suppress the negative aspects and and our Eastern European traditions we emphasize the fact that if you hold
+02:44:46 something above the waterline you also need to put something below the waterline because existence by itself is
+02:44:52 as best neutral right that's the basic intuition if at best neutral yes or can is just suffering the default there are
+02:44:59 moments of beauty but these moments of beauty are in is inextricably linked to the reality of suffering and to not
+02:45:05 acknowledge the reality of suffering means that you are really stupid unaware of the fact that basically every
+02:45:11 conscious being spends most of the times of yeah you just summarized the ethos of the Eastern Europe yeah most of life is
+02:45:20 suffering with an occasional mobile to beauty and if your facial expressions don't acknowledge the abundance of
+02:45:27 suffering in the world and in existence itself then you must be an idiot it's an interesting thing when you raise
+02:45:35 children in the yes and you in some sense preserve the identity of the intellectual and cultural traditions
+02:45:41 that are embedded in your own families and your daughter asks you about Arielle the mermaid yeah and ask you why is Aria
+02:45:49 not allowed to play with the humans and you tell her the truth she was a siren siren see people you don't play with
+02:45:57 your does not end well and then you tell her the original story which is not the one by Anderson which is the romantic
+02:46:03 one and there's a much darker one Eugene a story what happened so when Dean is a mermaid or a water woman she lives on
+02:46:12 ground off a river and she meets this prince and they fall enough and the prince really really wants to be with
+02:46:18 her and she says okay but the deal is you cannot have any other woman if you marry somebody else even though you
+02:46:23 cannot be with me because obviously you cannot breathe and the water and I have other things to do then managing your
+02:46:30 Kingdom busy up here you will die and eventually after a few years he falls in love with some princess and marries her
+02:46:37 and she shows up and quietly goes into his chamber and nobody is able to stop her or willing to do so because she is
+02:46:44 fierce and she comes quietly and said out of his chamber and they asked her what has happened what did you do when
+02:46:52 she said I kissed him to death all done and do you know the end is in story right in the Anderson story the mermaid
+02:47:00 is playing with this prince that she saves and she falls in love with him and she cannot live out there so she is
+02:47:07 giving up her voice and her tail for a human-like appearance so she can walk among the humans but this guy does not
+02:47:15 recognize that she is the one that you would marry instead he marries somebody who has a kingdom and economical and
+02:47:20 political relationships to his own kingdom and so on as he shoots quite so yeah instead Disney The Little
+02:47:34 Mermaid story has a little bit of a happy ending that's the Western that's the American Way my own problem is
+02:47:39 business of course that I read Oscar Wilde before I read the other things so I mean doctor II needed inoculated with
+02:47:45 this romanticism and I think that the mermaid is right you sacrifice your life for romantic love that's what you do
+02:47:51 because if you are confronted with either serving the Machine and doing the the obviously right thing under the
+02:47:58 economic and social and all other human incentives that's wrong you should follow your heart so do you think
+02:48:07 suffering is fundamental to happiness along these lines suffering is the result of caring about things that you
+02:48:14 cannot change and if you are able to change what you care about to those things that you can't change you will
+02:48:19 not suffer well then would you then be able to experience happiness yes but happiness itself is not important
+02:48:27 happiness is like a cookie when you are a child you think cookies are very important and you want to have all the
+02:48:31 cookies in the world you look forward to being an adult because then you have as many cookies as you want right yes but
+02:48:37 as an adult you realize the cookie is a tool it's a tool to make you eat vegetables and once you eat your
+02:48:42 vegetables any way you stop eating cookies for the most part because otherwise you will get diabetes and will
+02:48:47 not be around for your kids yes but then the cookie the scarcity of a cookie if scarcity is enforced nevertheless so
+02:48:53 like the pleasure comes from the scarcity yes but the happiness is a cookie that your brain bakes for itself
+02:49:00 it's not made by the environment the moment cannot make you happy it's your appraisal of the environment that makes
+02:49:06 you happy and if you can change the appraisal of the environment which you can learn to then you can create
+02:49:10 arbitrary states of happiness and some meditators fall into this trap so they discover the room this basement room in
+02:49:16 their brain where the cookies are made and they indulge in stuff themselves and after a few months it gets really old
+02:49:21 and the big crisis of meaning comes because they saw before that their unhappiness was the result of not being
+02:49:28 happy enough so they fixed this right they can release the neurotransmitters at will if they train and then the
+02:49:34 crisis of meaning pops up at a deeper layer and the question is why do I live how can I make
+02:49:39 a sustainable that is meaningful to me how kinda insert myself would do this and this was
+02:49:44 the problem that you couldn't solve in the first place well at the end of all this let me then ask that same question
+02:49:54 what is that the answer to that what could but possibly answer be of the meaning of life what what could an
+02:50:01 answer be what is it to you I think that if you look at the limiting of life you look at what the cell is the life is the
+02:50:09 cell is cell yes or this principle the cell it's this self-organizing thing that can participate in evolution in
+02:50:15 order to make it work it's a molecular machine it needs a self replicator and entropy extractor and the Turing machine if any
+02:50:22 of these parts is missing you don't have a cell and it is not living right and life is facing the emergent complexity
+02:50:28 over that principle once you have this intelligent super molecule the cell there is very little as you cannot make
+02:50:34 it to it's probably the optimal compute for human especially in terms of resilience it's very hard to sterilize
+02:50:40 the plant at once it's infected with life so it's active function of these three components or the super cell of
+02:50:49 cell is as present in the cell is present in us and it's just the are just an expression of the cells a certain
+02:50:55 layer of complexity and the organization of cells that so in a way it's tempting to think of the cell as a von neumann
+02:51:03 probe if you want to build intelligence on other planets the best way to do this is to infect them b-cells and wait for
+02:51:09 long enough and visit reasonable chance the stuff is going to evolve into an information processing principle that is
+02:51:14 general enough to become sentient whether that idea is very akin to sort of the the same dream and beautiful
+02:51:21 ideas that are expressed the cellular automata in their most simple mathematical form you just inject the
+02:51:28 system with some basic mechanisms of replication so our basic rules amazing things would emerge that the cell is
+02:51:35 able to do something that James Hardy calls existential design he points out that in technical design we go from the
+02:51:42 outside in we work in a highly controlled environment in which everything is deterministic like about
+02:51:47 computers of our labs or our engineering workshops and then we use this determinism to implement a particular
+02:51:53 kind of function that dream up and that seamlessly interfaces with all the other deterministic
+02:51:58 functions that we already have in our world so it's basically from the outside in and biological systems designed from
+02:52:06 the inside out as seed will become a seedling by taking some of the relatively unorganized matter around it
+02:52:13 and turn it into its own structure and thereby subdue the environment and cells can cooperate if they can rely on other
+02:52:20 cells having a similar organization that is already compatible but unless that's that's there the cell needs to divide to
+02:52:27 create that structure by itself right so it's a self organizing principle that works on a somewhat chaotic environment
+02:52:33 and the purpose of life in the sense is to produce complexity and the complexity allows you to harvest negentropy
+02:52:40 gradients that you couldn't harvest without the complexity and in the sense intelligence and life are very strongly
+02:52:46 connected because the purpose of intelligence is to allow control and the conditions of complexity so basic you
+02:52:52 shift the boundary between the ordered systems into the realm of the Kay of chaos you build bridgeheads into a chaos
+02:53:01 with complexity and this is what we are doing this is not necessarily a deeper meaning I think the meaning that we have
+02:53:07 priors for that we evolved for outside of the priors there is no meaning meaning only exists if a mind protects
+02:53:12 it right yeah there is only civilization I think that what feels most meaningful to me is to try to build and maintain
+02:53:21 the sustainable civilization and taking a sliced Abad outside of that we talked about a man with a beard and God but
+02:53:34 something some mechanism perhaps must have planted the seed the initial seed of the cell do you think there is a God
+02:53:43 what is a God and what would that look like so if there was no spontaneous abiogenesis in the sense that the first
+02:53:51 cell formed by some happy random accidents where the molecules just happened to be in the right consolation
+02:53:56 to each other but there could also be the mechanism of that allows for the random I mean there's like turtles all
+02:54:03 the way down there seems to be there has to be a head turtle at the bottom consider something really wild imagine
+02:54:10 is it possible that a gas giant could become intelligent but would that involve so imagine you jet you have
+02:54:16 vortices that spontaneously emerge on the gas giants like big storm systems that endure for thousands of years and
+02:54:23 some of these form systems produce electromagnetic fields because some of the clouds are ferromagnetic or
+02:54:28 something and as a result they can change how certain clouds react rather than other clouds and thereby produce
+02:54:34 some self-stabilizing patterns that eventually to regulation feedback loops nested feedback loops and control so
+02:54:41 imagine you have such this thing that basically has emergent self-sustaining self-organizing complexity and at some
+02:54:46 point this wakes up and realizes and basically LEM Solaris I am a thinking planet yes but I will not replicate
+02:54:52 because I cannot recreate the conditions of my own existence somewhere else I'm just basically an intelligence that has
+02:54:59 spontaneously formed because it could and now it was a von Lohmann probe and the best von Neumann purpose at resting
+02:55:06 might be the cell so maybe it will because it's very very clever and very enduring create cells and sends them out
+02:55:12 and one of them has infected our planet and I'm not suggesting that this is the case but it would be compatible with the
+02:55:18 prints Permian hypothesis and with my intuition that abiogenesis is very unlikely it's possible but it's you
+02:55:24 probably need to all the cosmic dice very often maybe more often than they are planetary surfaces I don't know
+02:55:34 so god is just a large enough a system that's large enough that allows randomness now I don't think that God
+02:55:40 has anything to do with creation I think it's a mistranslation of the time wood into the Catholic mythology I think that
+02:55:46 Genesis is actually the childhood memories of a God so the when sorry that he Anna says is the world the childhood
+02:55:53 memories of a God it's basically a mind that is memory remembering how it came into being and we typically interpret
+02:56:02 Genesis is the creation of a physical universe by a supernatural being yes and I think when you'll read it there's
+02:56:11 light and darkness that is being create it and then you discover sky and ground you create them you will construct the
+02:56:19 plants and the animals and you give everything their names and so on that's basically cognitive development it's a sequence of
+02:56:26 steps that every mind is to go through then it makes sense of the world and then you have children you can see how
+02:56:31 initially they distinguish light and darkness and then they make out directions in it and they discover sky
+02:56:37 and ground and they discover the plants and the animals and they give everything their name and it's an creative process
+02:56:42 that happens in every mind because it's not given right your mind has to invent these structures to make sense of the
+02:56:48 patterns on your retina also if there was some big nerd who set up a server and runs this world on it
+02:56:54 this would not create a special relationship between us and the nerd this nerd would not have the magical
+02:56:59 power to give meaning to our existence right so this equation of a Creator God is the God of meaning is a slate off
+02:57:08 hand you shouldn't do it the other one that is done in Catholicism is the equation of the first mover the prime
+02:57:14 mover of Aristotle which is basically automaton that runs the universe earth total says if things are moving and
+02:57:21 things seem to be moving here something must move them right if something moves them something must move
+02:57:26 the thing that is moving it so there must be a prime mover this idea to say that this prime mover is a supernatural
+02:57:32 being is complete nonsense right it's an automaton in the simplest case so we have to explain the enormity
+02:57:40 that this automaton exists at all but again we don't have any possibility to infer anything about its properties
+02:57:48 except that it's able to produce change in information right so there needs to be some kind of computational principle
+02:57:54 this is all there is but to say this automaton is identical again with the creator of first cause over the thing
+02:58:00 that gives meaning to our life is confusion now I think that what we perceive is the higher being that we are
+02:58:08 part of and the higher being that we are part of is the civilization it's the thing in which you have a similar
+02:58:13 relationship as the cell has 12 a body and we have this prior because we have evolved to organize in these structures
+02:58:23 so basically the Christian God in its natural form without the mythology if you to undress it it's basically the
+02:58:30 Platonic form of the civilization is the is the ideal it's this ideal that you try to approximate when you interact
+02:58:37 with others not based on your incentives but on what you think is right Wow we covered a lot of ground and we
+02:58:46 left with one of my favorite lines and there's many which is happiness is a cookie that the brain bakes itself it's
+02:58:57 been a huge honor and a pleasure to talk to you I'm sure our paths will cross many times again Joshua thank you so
+02:59:04 much for talking today or they protect your necks yeah it's so much fun I enjoyed it awesome
+02:59:10 thanks for listening to this conversation with Yoshi Bach and thank you to our sponsors expressvpn and cash
+02:59:17 app please consider supporting this podcast by getting expressvpn at expressvpn comm slash FlexPod and
+02:59:26 downloading cash app and using collects podcast if you enjoy this thing subscribe on youtube review it with five
+02:59:34 stars an apple podcast supported on patreon are simply connect with me on Twitter at lex friedman and yes try to
+02:59:42 figure out how to spell it without the e and now let me leave you with some words of wisdom from your Shabak if you take
+02:59:51 this as a computer game metaphor this is the best level for humanity to play and this best level happens to be the last

@@ -1,0 +1,1372 @@
+00:00:01 the following is a conversation with manolas kellis his third time on the podcast he is a
+00:00:07 professor at mit and head of the mit computational biology group
+00:00:14 this time we went deep on the science biology and genetics so this is a bit of an experiment manolas went back and forth
+00:00:23 between the basics of biology to the latest state of the art and the research he's a master at this
+00:00:29 so i just said back and enjoyed the ride this conversation happened at 7 00 am
+00:00:36 so it's yet another podcast episode after an all-nighter for me and once again since the universe has a
+00:00:41 sense of humor this one was a tough one for my brain to keep up
+00:00:48 but i did my best and i never shy away from good challenge quick mention of your sponsor followed by some thoughts
+00:00:53 related to the episode first is sem rush the most advanced seo optimization tool
+00:01:02 i've ever come across i don't like looking at numbers but someone probably should
+00:01:09 it helps you make good decisions second is pessimist archive they're back one of my favorite history podcasts on why people
+00:01:17 resist new things from recorded music to umbrellas to cars chess coffee and the elevator
+00:01:24 third is eight sleep a mattress that cools itself measures heart rate variability has an
+00:01:30 app and has given me yet another reason to look forward to sleep including the all-important power nap and finally
+00:01:38 better help online therapy when you want to face your demons with a licensed professional not just by doing the david goggins like
+00:01:44 physical challenges like i seem to do on occasion please check out the sponsors in the
+00:01:51 description to get a discount and to support this podcast as a side note let me say that biology
+00:01:59 in the brain and in the various systems of the body fill me with awe every time i think
+00:02:03 about how such a chaotic mess coming from its humble origins in the ocean
+00:02:09 was able to achieve such incredibly complex and robust mechanisms of life that survived despite all the forces of nature that
+00:02:18 want to destroy it it is so unlike the computing systems we humans have engineered
+00:02:23 that it makes me feel that in order to create artificial general intelligence and artificial consciousness we may have
+00:02:30 to completely rethink how we engineer computational systems if you enjoy this thing subscribe on
+00:02:37 youtube review it with five stars in apple podcast follow on spotify support on patreon or
+00:02:42 connect with me on twitter at lex friedman and now here's my conversation with manolis kalis so your group at mit
+00:02:52 is trying to understand the molecular basis of human disease what are some of the biggest challenges
+00:02:57 in your view don't get me started i mean irregularities standing human disease
+00:03:04 is the most complex challenge in modern science so because human disease is as complex as the human genome
+00:03:15 it is as complex as the human brain and it is in many ways even more complex because the more we understand disease complexity
+00:03:23 the more we start understanding genome complexity and epigenome complexity and brain circuitry complexity
+00:03:30 and immune system complexity and cancer complexity and so on and so forth so traditionally
+00:03:38 human disease was following basic biology you would basically understand basic biology and model organisms
+00:03:45 like you know mouse and fly and yeast you would understand sort of mammalian biology and animal biology and
+00:03:53 eukaryotic biology in sort of progressive layers of complexity getting closer to human phylogenetically
+00:04:01 and you would do perturbation experiments in those species to see if i knock out a gene what happens
+00:04:09 and based on the knocking out of these genes you would basically then have a way to drive
+00:04:15 human biology because you would you would sort of understand the functions of these genes and then if you find that
+00:04:19 a human gene locus something that you've mapped from human genetics
+00:04:26 to that gene is related to a particular human disease you say now i know the function of the gene from
+00:04:31 the model organisms i can now go and understand the function of that gene
+00:04:38 in human but this is all changing this is dramatically changed so that that was the old way of doing basic biology you
+00:04:43 would start with the animal models the eukaryotic models the mammalian models and then you would
+00:04:48 go to human human genetics has been so transformed in the last
+00:04:55 decade or two that human genetics is now actually driving the basic biology there is more genetic mutation
+00:05:02 information in the human genome than there will ever be in any other species
+00:05:08 what do you mean by mutation information so perturbations is how you understand systems so an engineer builds systems and then
+00:05:15 they know how they work from the inside out a scientist studies systems through perturbations you basically say if i poke that balloon
+00:05:23 what's going to happen and i'm going to film it in super high resolution understand i don't know
+00:05:27 aerodynamics or fluid dynamics if it's filled with water etc so you can then make experimentation by perturbation and
+00:05:34 then the scientific process is sort of building models that best fit the data designing new
+00:05:41 experiments that best test your models and challenge your models and so forth that's the same thing with science
+00:05:45 basically if you're trying to understand biological science you basically want to do perturbations
+00:05:51 that then drive the models so how do these perturbations allow you to understand
+00:06:00 disease so if if you know that a gene is related to disease you don't want to just know that it's related to
+00:06:06 the disease you want to know what is the disease mechanism because you want to go and intervene so
+00:06:11 the way that i like to describe it is that traditionally epidemiology which is basically the
+00:06:18 study of disease you know sort of the observational study of disease has been
+00:06:24 about correlating one thing with another thing so if you if you have a lot of people with liver disease who are also alcoholics
+00:06:31 you might say well maybe the alcoholism is driving the liver disease or maybe those who have liver disease
+00:06:36 self-medicate with alcohol so that the connection could be either way with genetic epidemiology it's about
+00:06:45 correlating changes in the genome with phenotypic differences and then you know the direction of causality
+00:06:52 so if you know that a particular gene is related to the disease you can basically say okay perturbing that gene in mouse
+00:07:03 causes the mice to have x phenotype so perturbing that gene in human causes the humans to have the disease
+00:07:09 so i can now figure out what are the detailed molecular phenotypes in the human that are related to that organismal
+00:07:19 phenotype in the disease so it's all about understanding disease mechanism understanding what are
+00:07:24 the pathways what are the tissues what are the processes that are associated with the disease so that we
+00:07:28 know how to intervene you can then prescribe particular medications that also alter these processes
+00:07:35 you can prescribe lifestyle changes that also affect these processes and so forth that's such a beautiful
+00:07:40 puzzle to try to solve like what kind of perturbations eventually have this ripple effect that
+00:07:45 leads to disease across the population and then you study that for animals
+00:07:51 a mice first and then see how that might possibly connect to humans how hard is that puzzle of
+00:07:57 trying to figure out how little perturbations might lead to in a stable way to a disease
+00:08:07 in animals we make the puzzle simpler because we perturb one gene at a time that's the beauty of it's the power of
+00:08:14 animal models you can basically decouple the perturbations you only do one perturbation and you only do strong
+00:08:21 perturbations at a time in human the puzzle is incredibly complex because i mean obviously you don't do
+00:08:28 human experimentation you wait for natural selection and natural genetic variation
+00:08:34 to basically do its own experiments which it has been doing for hundreds and thousands of years in the human population
+00:08:43 and for hundreds of thousands of years across you know the the history leading to the human population
+00:08:51 so you basically take this natural genetic variation that we all carry within us every one of
+00:08:55 us carries six million perturbations so i've done six million experiments on you
+00:09:02 six million experiments for me six million experiments on every one of seven billion people on the planet
+00:09:08 what's the six million correspond to six million unique genetic variants that are segregating the human
+00:09:15 population every one of us carries millions of polymorphic sites poly many morph forms polymorphic
+00:09:24 means many forms variants that basically means that every one of us has
+00:09:29 single nucleotide alterations that we have inherited from mom and from that that basically can be thought of as tiny
+00:09:35 little perturbations most of them don't do anything but some of them
+00:09:42 lead to all of the phenotypic differences that we see between us the reason why two twins are
+00:09:46 identical is because these variants completely determine the way that i'm going to look at exactly 93
+00:09:52 years of age how happy are you with this kind of data set is it 
+00:09:58 large enough of the human population of earth is that too big too small yeah so so the the is it is it
+00:10:04 large enough is a power analysis question and in every one of our grants we do a power analysis
+00:10:11 based on what is the effect size that i would like to detect and what is the natural variation
+00:10:19 in the two forms so every time you do a perturbation you're asking i'm changing form a into for
+00:10:24 b form a has some natural genetic vary some natural phenotypic variation around it and form b has some natural phenotypic
+00:10:31 variation around it if those variances are large and the differences between the mean of a and
+00:10:35 the mean of b are small then you have very little power the further the means go apart
+00:10:43 that's the effect size the more power you have and the smaller the standard deviation
+00:10:48 the more power you have so basically when you're asking is that sufficiently large
+00:10:54 certainly not for everything but we already have enough power for many of the stronger effects
+00:11:01 in the more tight distributions so that's a hopeful message that there exists parts of the genome
+00:11:10 that that have a strong effect that has a small variance that's exactly right unfortunately
+00:11:16 those perturbations are the basis of disease in many cases so it's not a you know hopeful message
+00:11:22 sometimes it's a terrible message it's basically well some people are sick but if when
+00:11:27 if we can figure out what are these contributors to sickness we can then help make them better and
+00:11:32 help many other people better who don't carry that exact mutation but who carry
+00:11:38 mutations on the same pathways and that's what we like to call the allelic series of a gene
+00:11:46 you basically have many perturbations of the same gene in different people each with a different
+00:11:52 frequency in the human population and each with a different effect on the individual charism so you said 
+00:11:58 in the past there would be these small experiments on perturbations and animal models
+00:12:06 what does this puzzle solving process look like today so we basically have you know something
+00:12:12 like seven billion people in the planet and every one of them carries something like six million mutations
+00:12:19 you basically have an enormous matrix of genotype by phenotype by systematically measuring the phenotype
+00:12:28 of these individuals and the traditional way of measuring this phenotype has been to look at one trait at a time
+00:12:35 you would gather families and you would sort of paint the pedigrees of a strong effect what we
+00:12:40 like to call mendelian mutation so a mutation that gets transmitted in a dominant or a recessive
+00:12:50 but strong effect form where basically one locus plays a very big role in that disease
+00:12:55 and you could then look at carriers versus non-carriers in one family carries versus
+00:13:00 non-carriers in another family and do that for hundreds sometimes thousands of families
+00:13:05 and then trace these inheritance patterns and then figure out what is the gene that plays that role is this the matrix
+00:13:11 that you're showing in in talks or lectures so that matrix is the
+00:13:20 input to the stuff that i saw in talks so basically that matrix has traditionally been strong effect genes
+00:13:26 what the matrix looks like now is instead of pedigrees instead of families you basically have thousands and sometimes
+00:13:34 hundreds of thousands of unrelated individuals each with all of their genetic variants and each with their
+00:13:42 phenotype for example height or lipids or you know whether they're sick or not for a particular trait
+00:13:49 that has been the modern view instead of going to families going to unrelated individuals with one
+00:13:55 phenotype at a time and what we're doing now as we're maturing in all of these sciences is that we're
+00:14:02 doing this in the context of large medical systems or enormous cohorts that are very well phenotyped across
+00:14:09 hundreds of phenotypes sometimes with our complete electronic health record
+00:14:15 so you can now start relating not just one gene segregating one family not just thousands of variants
+00:14:22 segregating with one phenotype but now you can do millions of variants versus hundreds of phenotypes
+00:14:28 and as a computer scientist i mean deconvolving that matrix partitioning it into the layers of biology
+00:14:36 that are associated with every one of these elements is a dream come true it's it's like the
+00:14:42 world's greatest puzzle and you can now solve that puzzle by throwing in
+00:14:49 more and more knowledge about the function of different genomic regions and how these functions are changed across tissues
+00:14:58 and in the context of disease and that's what my group and many other groups are doing we're trying to systematically relate
+00:15:03 this genetic variation with molecular variation at the expression level
+00:15:10 of the genes at the epigenomic level of the gene regulatory circuitry and at the cellular level
+00:15:15 of what are the functions that are happening in those cells at the single cell level
+00:15:20 using single cell profiling and then relate all that vast amount of knowledge computationally
+00:15:27 with the thousands of traits that each of these of thousands of variants are perturbing i mean this is something
+00:15:34 we talked about i think last time so there's these effects at different levels that happen you said at a single
+00:15:38 cell level you're trying to see things that happen due to certain perturbations
+00:15:45 and then so it's not just like a puzzle of perturbation and disease it's perturbation then effect at a
+00:15:53 cellular level at an organ level a body like how do you disassemble this into like
+00:16:02 what your group is working on you're basically taking a bunch of the hard problems in the space
+00:16:08 how do you break apart a difficult disease  and break it apart into problems that you into puzzles that you can now start solving
+00:16:17 so there's a struggle here computer scientists love hard puzzles and they're like oh i want to you know
+00:16:22 build a method that just deconvolves the whole thing computationally and you know that's very tempting and
+00:16:28 it's very appealing but biologists just like to decouple that complexity experimentally to just
+00:16:34 like peel off layers of complexity experimentally and that's what many of these modern tools that you know my
+00:16:39 group and others have both developed and used the fact that we can now figure out tricks
+00:16:45 for peeling off these layers of complexity by testing one cell type at a time or by testing
+00:16:51 one cell at a time and you could basically say what is the effect of this genetic
+00:16:57 variant associated with alzheimer's on human brain human brain sounds like oh it's an organ of course
+00:17:04 just go one organ at a time but human brain has of course dozens of different brain regions
+00:17:10 and within each of these brain regions dozens of different cell types and every single type of neuron every
+00:17:16 single type of glial cell between astrocytes oligodendrocytes microglia between you know all of the neural cells
+00:17:26 and the vascular cells and the immune cells that are co-inhabiting the the brain between the different types of
+00:17:33 excitatory and inhibitory neurons that are sort of interacting with each other between different layers
+00:17:39 of neurons in the cortical layers every single one of these has a different type of function
+00:17:47 to play in cognition in interaction with the environment in maintenance of the brain in energetic needs
+00:17:57 in feeding the brain with blood with oxygen in clearing out the debris that are resulting from the super high energy
+00:18:06 production of cognition in in humans so all of these things are basically potentially deconvolvable
+00:18:16 computationally but experimentally you can just do single cell profiling of dozens of regions of the brain across
+00:18:22 hundreds of individuals across millions of cells and then now you have
+00:18:28 pieces of the puzzle that you can then put back together to understand that complexity
+00:18:34 i mean first of all i mean the human brain the cells in the human brain are the most
+00:18:39 okay maybe i'm romanticizing it but cognition seems to be very complicated breaking alzheimer's down to
+00:18:54 the cellular level seems very challenging is that basically you're trying to find a way that
+00:19:04 some perturbation and genome results in some obvious major dysfunction in the cell
+00:19:13 you're trying to find something like that exactly so so what does human genetics do human
+00:19:18 genetics basically looks at the whole path from genetic variation all the way to disease so human genetics has basically taken thousands
+00:19:29 of alzheimer's cases and thousands of controls matched for age for
+00:19:36 sex for you know environmental backgrounds and so forth and then looked at that map
+00:19:42 where you're asking what are the individual genetic persuasions and how are they related to all the way
+00:19:48 to alzheimer's disease and that has actually been quite successful so we now have
+00:19:54 you know more than 27 different loci these are genomic regions that are associated with alzheimer's at this
+00:20:03 end-to-end level but the moment you sort of break up that very long path into smaller levels
+00:20:09 you can basically say from genetics what are the epigenomic alterations at the level of gene regulatory elements
+00:20:16 where that genetic variant perturbs the control region nearby that effect is much larger
+00:20:23 you mean much larger in terms of this down the line impact or it's much larger in terms of the
+00:20:29 measurable effect this a versus b variance is actually so much cleanly defined when you go to the shorter branches
+00:20:37 because for one genetic variant to affect alzheimer's that's a very long path that basically means that in the context of
+00:20:43 millions of these six million variants that every one of us carries that one single nucleotide has a
+00:20:50 detectable effect all the way to the end i mean it's just mind-boggling that that's even possible
+00:20:56 but indeed yeah but indeed there are such effects so the hope is or the most
+00:21:01 scientifically speaking the the most effective place where to detect the alteration that results in disease is
+00:21:10 earlier on in the pipeline as early as possible it's it's a trade-off if you go very early on
+00:21:14 in the pipeline now each of these epigenomic alterations for example this enhancer control region
+00:21:23 is active maybe 50 less which is a dramatic effect now you can ask well how much does
+00:21:28 changing one regulatory region in the genome in one cell type change disease well that path is now long
+00:21:37 so if you instead look at expression the path between genetic variation the expression of one gene goes through many
+00:21:42 enhancer regions and therefore it's a subtler effect at the gene level but then now you're
+00:21:47 closer because one gene is acting on you know in the context of only 20 000 other genes
+00:21:53 as opposed to one enhancer acting in the context of two million other enhancers so you basically now have genetic
+00:22:01 epigenomic the circuitry transcriptomic the gene expression level and then
+00:22:07 cellular where you can basically say i can measure various properties of those cells what is the calcium influx
+00:22:17 rate when i have this genetic variation what is the synaptic density what is the electric impulse conductivity and so on so forth
+00:22:28 so you can measure things along this path to disease and you can also measure endophenotypes you can basically measure
+00:22:35 you know your brain activity you can do imaging in the brain
+00:22:41 you can basically measure i don't know the heart rate the pulse the lipids the amount of blood secreted and so forth
+00:22:48 and then through all of that you can basically get at the path to causality the path to disease
+00:22:57 and is there something beyond cellular so you mentioned lifestyle interventions or changes as a way to
+00:23:06 or like be able to prescribe changes in life style like what what about organs what about like
+00:23:13 the function of the body as a whole yeah absolutely so basically when you go to your doctor they always
+00:23:18 measure you know your pulse they always measure your height those measure your weight your you know your bmis basically these
+00:23:23 are just very basic variables but with digital devices nowadays you can start measuring hundreds of
+00:23:29 variables for every individual you can basically also phenotype cognitively through tests  alzheimer's patients
+00:23:38 there are cognitive tests that you can imagine that you that you typically do for  cognitive decline these minimental
+00:23:46 you know observations that that you have specific questions too you can think of sort of enlarging the
+00:23:51 set of cognitive tests so in the mouse for example you do experiments for how do they get out of mazes
+00:23:57 how do they find food whether they recall a fear whether they shake in a new environment
+00:24:02 and so forth in the human you can have much much richer phenotypes where you can
+00:24:06 basically say not just imaging at the you know organ level but and all kinds of other
+00:24:13 activities at the organ level but you can also do at the organism level you can do behavioral tests and how did
+00:24:20 they do on empathy how did they do on memory how did they do on
+00:24:25 long-term memory versus short-term memory and so forth i love how you're calling that phenotype
+00:24:31 i guess it is it is but like your behavior patterns that might change over over  over a period of a life
+00:24:38 it's yeah your ability to remember things your ability to be yeah empathetic or emotionally your intelligence
+00:24:45 perhaps even yeah but intelligence has hundreds of variables you can be your math intelligence your
+00:24:49 literary intelligence your puzzle-solving intelligence your logic it could be like hundreds of things
+00:24:55 and all of that is it's we were able to measure that better and better so and all that could be connected to the
+00:24:58 entire pipeline we used to think of each of these as a single variable like intelligence i mean
+00:25:03 that's ridiculous it's basically dozens of different genes that are controlling every single
+00:25:11 variable you can basically think of you know imagine us in a video game where every one of us has measures of
+00:25:18 you know strength stamina you know energy left and so forth but you could click on each of those like
+00:25:24 five bars that are just the main bars and each of those will just give you then hundreds of bars yeah and you can
+00:25:27 basically say okay great for my you know machine learning task
+00:25:34 i want someone who i'm a human who has these particular forms of intelligence i require now these
+00:25:40 you know 20 different things and then you can combine those things and then relate them to of course
+00:25:45 performance in a particular task but you can also relate them to genetic variation that might be affecting different parts
+00:25:52 of the brain for example your frontal cortex versus your temporal cortex versus your visual cortex
+00:25:59 and so forth so genetic variation that affects expression of genes in different parts of your brain
+00:26:04 can basically affect your you know music ability your auditory ability your smell your you know just dozens of different phenotypes
+00:26:14 can be broken down into you know hundreds of cognitive variables and then relate each of those
+00:26:19 to thousands of genes that are associated with them so somebody who loves rpgs role-playing games
+00:26:27 there's  there's too few variables that we can control so i'm excited if we're in fact living in a simulation
+00:26:32 and this is a video game i'm excited by the quality of of the video game the
+00:26:38 the the the game designer did a hell of a good job so we're impressed oh i don't know the
+00:26:42 sunset last night was a little unrealistic yeah yeah the graphics exactly come on nvidia to zoom back out we've been talking
+00:26:52 about the genetic origins of diseases but i think it's fascinating to
+00:26:58 talk about what are the most important diseases to understand and especially as it connects to the
+00:27:05 things that you're working on so it's very difficult to think about important diseases to understand there's
+00:27:10 many metrics of importance one is lifestyle impact i mean if you look at kovid the impact on lifestyle
+00:27:17 has been enormous so understanding kovid is important because it has impacted the well-being in terms of ability to have a job
+00:27:26 ability to have an apartment ability to go to work ability to have a mental circle of support
+00:27:32 and all of that for you know millions of americans like huge huge impact so that's one aspect of
+00:27:38 importance so basically mental disorders alzheimer's has a huge importance in the well-being of americans
+00:27:45 whether or not it die it kills someone for many many years it has a huge impact so the first measure of importance is
+00:27:51 just well-being like impact on the quality of life impact on the quality of life absolutely
+00:27:57 the second metric which is much easier to quantify is deaths what is the number one killer the number
+00:28:03 one killer is actually heart disease it is actually killing 650 000 americans per year
+00:28:12 number two is cancer with 600 000 americans number three far far down the list is accidents every single accident combined so
+00:28:21 basically you you know you read the news accidents like you know there was a huge car crash all over the news
+00:28:28 but the number of deaths number three by far 167 000 lower respiratory disease so that's asthma not being able to breathe and so
+00:28:37 forth 160 000 alzheimer's number four number five with 120 so forth that's 147
+00:28:50 that's 85 000. the flu is 60 000 suicide 50 000 and then overdose et cetera
+00:29:00 you know goes further down the list so of course kovit has creeped up to be the number three killer
+00:29:07 this year with you know more than 100 and counting and you know but but if you think about sort of what
+00:29:16 do we use what are the most important diseases you have to understand both the quality of life and the
+00:29:23 the sheer number of deaths and just numbers of years lost if you wish and and  each of these diseases you
+00:29:28 can think of as  and also including terrorist attacks and school shootings for example
+00:29:36 things which lead to fatalities you can look at as problems that could be solved
+00:29:43 and some problems are harder to solve than others i mean that's part of the equation so
+00:29:48 maybe if you look at these diseases if you look at heart disease or cancer or alzheimer's or just
+00:29:57 like schizophrenia and obesity w like not necessarily things that kill you but affect the quality of life
+00:30:04 which problems are solvable which aren't which are harder to solve which aren't i love your question because it puts it in
+00:30:09 the context of a global effort rather than just a local effort so
+00:30:17 basically if you look at the global aspect exercise and nutrition are two interventions that
+00:30:24 we can as a society make a much better job at so if you think about sort of the availability
+00:30:32 of cheap food it's extremely high in calories it's extremely detrimental for you like a lot of processed food
+00:30:39 etc so if we change that equation and as a society we made availability of healthy food
+00:30:46 much much easier and charged a burger at mcdonald's the price that it costs on the health system then people would
+00:30:55 actually start buying more healthy foods so basically that's sort of a societal intervention if you wish
+00:31:02 in the same way increasing empathy increasing education increasing the social framework and support would basically
+00:31:09 lead to fewer suicides it would lead to fewer murders it would lead to fewer
+00:31:16 you know deaths overall so you know that's something that we as a society can do you can you can also
+00:31:21 think about external factors versus internal factors so the external factors are basically communicable diseases
+00:31:28 like covid like the flu etc and the internal factors are basically things like you know cancer and
+00:31:33 alzheimer's where basically your your genetics will eventually you know drive you there
+00:31:39 and then of course with all of these factors every single disease has both a genetic component
+00:31:46 and environmental component so heart disease you know huge then they contribute contribution alzheimer's it's like you know
+00:31:55 60 plus genetic so i think it's like 79 heritability so that basically means that genetics
+00:32:02 alone explains 79 of alzheimer's incidence and yes there's a 21 environmental component
+00:32:13 where you could basically enrich your cognitive environment enrich your social interactions read more books learn a
+00:32:20 foreign language go running you know sort of have a more fulfilling life
+00:32:25 all of that will actually decrease alzheimer's but there's a limit to how much that
+00:32:30 that can impact because of the huge genetic footprint so this is fascinating so each one of these problems have a
+00:32:36 genetic component and an environment component and so like when there's a genetic component
+00:32:42 what can we do about some of these diseases what what have you worked on what can you say that's  in terms of
+00:32:48 problems that are solvable here or understandable so my group works on the genetic component
+00:32:54 but i would argue that understanding the genetic component can have a huge impact even on the environmental component why
+00:33:00 is that because genetics gives us access to mechanism and if we can alter the mechanism
+00:33:07 if we can impact the mechanism we can perhaps counteract some of the environmental components
+00:33:12 interesting so understanding the biological mechanisms leading to disease
+00:33:19 is extremely important in being able to intervene but when you can intervene what you know the analogy that i like to gay
+00:33:27 to give is for example for obesity you know think of it as a giant bathtub of fat there's basically fat coming in from
+00:33:32 your diet and there's fat coming out from your exercise okay that's an in out equation and
+00:33:41 that's the equation that everybody's focusing on but your metabolism impacts that
+00:33:48 you know bathtub basically your metabolism controls the rate at which you're burning energy
+00:33:54 it controls away the rate at which you're storing energy and it also teaches you about
+00:34:01 the various valves that control the input and the output equation so if we can learn from the genetics
+00:34:09 the valves we can then manipulate those valves and even if the environment is feeding you a lot of fat
+00:34:16 and getting a little that out you just poke another hole at the bathtub and just get a lot of the fat out yeah
+00:34:21 that's fascinating yeah so that we're not just passive observers of our genetics
+00:34:27 the more we understand the more we can come up with actual treatments and i think that's an important 
+00:34:33 aspect to realize when people are thinking about strong effect versus weak effect variants
+00:34:39 so some variants have strong effects we talked about these mendelian disorders where a single gene has a sufficiently
+00:34:43 large effect pen and trans expressivity and so so forth that basically
+00:34:51 you can trace it in families with cases and not cases cases not cases and so forth
+00:34:58 but even the you know but so so these are the genes that everybody says oh that's the genes we should go after
+00:35:04 because that's a strong effect gene i like to think about it slightly differently these are the genes where genetic
+00:35:12 impacts that have a strong effect were tolerated because every single time we have a genetic association with disease
+00:35:20 it depends on two things number one the obvious one whether the gene has an impact on the
+00:35:26 disease number two the more subtle one is whether there is genetic in variation standing and circulating and segregating
+00:35:35 in the human population that impacts that gene some genes are so darn important that if you mess
+00:35:42 with them even a tiny little amount that person is dead so those genes don't have variation
+00:35:50 you're not going to find the genetic association if you don't have variation that doesn't mean that the gene has no role
+00:35:56 it's simply that the gene it simply means that the gene tolerates no mutations so that's actually a strong signal when
+00:36:02 there's no variation that's so fast exactly genes that have very little variation are hugely important you can actually
+00:36:08 rank the importance of genes based on how little variation they have and those genes that have very little
+00:36:15 variation but no association with disease that's a very good metric to say oh that's probably a
+00:36:19 developmental gene because we're not good at measuring those phenotypes so it's genes that you
+00:36:24 can tell evolution has excluded mutations from but yet we can't see them associated
+00:36:30 with anything that we can measure nowadays it's probably early embryonic lethal what are all the words you just said
+00:36:37 earlier in brionic what lethal meaning meaning that if you don't have it
+00:36:44 okay there's a bunch of stuff that is required for a stable functional organism exactly across the board for our entire
+00:36:53 for for entire species i guess if you look at sperm it expresses thousands of proteins
+00:37:00 does sperm actually need thousands of proteins no but it's probably just testing them
+00:37:08 so my speculation is that misfolding of these proteins is an early test for failure so that out of the you know millions of sperm
+00:37:18 that are possible you select the subset that are just not grossly misfolding thousands of proteins
+00:37:24 so it's kind of an assert  that this is followed correctly correct yeah this  just  because
+00:37:30 if this little thing about the folding of a protein is incorrect that probably means somewhere down the
+00:37:35 line there's a bigger issue that's exactly right so fail fast so basically if you look at
+00:37:42 the mammalian investment in a new born that investment is enormous in terms of resources
+00:37:49 so mammals have basically evolved mechanisms for fail fast where basically in those early months of development i mean it's it's
+00:37:58 horrendous of course at the personal level when you lose a  you know your future child but in some ways
+00:38:09 there's so little hope for that child to develop and sort of make it through the remaining months that sort of fail fast
+00:38:14 is probably a good evolutionary principle from an evolutionary perspective for
+00:38:21 mammals and of course humans have a lot of medical resources that you can sort of give those children a chance
+00:38:29 and you know we have so much more success in sort of giving folks who have these strong carrier mutations a chance
+00:38:36 but if they're not even making it through the first three months we're not going to see them so that's
+00:38:41 why when we when we say what are the most important genes to focus on the ones that have a
+00:38:46 strong effect mutation or the ones that have a weak effect mutation
+00:38:51 well you know the jury might be out because the ones that have a strong effect mutation
+00:38:57 are basically you know not mattering as much the ones that only have weak effect mutations by understanding through genetics that
+00:39:06 they have a weak effect mutation and understanding that they have a causal role on the disease
+00:39:11 we can then say okay great evolution has only tolerated a two percent change in that gene pharmaceutically
+00:39:19 i can go in and induce a 70 change in that gene and maybe i will poke another hole at
+00:39:24 the bathtub that was not easy to control in you know many of the other
+00:39:34 sort of strong effect genetic variants so okay so there's this beautiful map of  across the population of things that
+00:39:42 you're saying strong and weak effects so stuff with a lot of mutations and stuff with little
+00:39:47 mutations with no mutations and you have this map and it's it lays out the puzzle
+00:39:53 yeah so so when i say strong effect i mean at the level of individual mutations so so basically
+00:40:00 genes where so so you have to think of first the effect of the gene on the disease remember how i
+00:40:05 was sort of painting that map earlier from genetics all the way to phenotype
+00:40:12 that gene can have a strong effect on the disease but the genetic variant might have a
+00:40:17 weak effect on the gene so basically when you ask what is the effect of that genetic
+00:40:24 variant on the disease it could be that that genetic variant impacts the gene by a lot
+00:40:30 and then the gene impacts the disease by a little or it could be that the genetic variant impacts the gene by a little and then
+00:40:35 the gene impacts the disease by a lot so what we care about is genes that impact the disease a lot
+00:40:43 but genetics gives us the full equation and what i would argue is if we couple the genetics
+00:40:52 with expression variation to basically ask what and you know which genes correlate with
+00:41:01 disease by a lot even if the genetic variants change them by a little
+00:41:06 then that those are the best places to intervene those are the best places where pharmaceutically if i have
+00:41:13 even a modest effect i will have a strong effect on the disease whereas those genetic variants that have
+00:41:18 a huge effect on the disease i might not be able to change that gene by this much without affecting all kinds of other things
+00:41:24 interesting so yeah okay so that's what we're looking at then what have we been able to find in terms of
+00:41:33 which disease could be helped again don't get me started this is we have found so much our understanding
+00:41:40 of disease has changed so dramatically with genetics i mean places that we had no
+00:41:48 idea would be involved so one of the worst things about my genome is that i have a genetic
+00:41:53 predisposition to age-related macular degeneration amd so it's a form of blindness that causes
+00:42:00 you to to lose the central part of your vision progressively as you grow older my increased risk
+00:42:06 is fairly small i have an eight percent chance you only have a six percent chance you i'm on average yeah by the way when
+00:42:14 you say my you mean literally yours you know this about you i know this about me
+00:42:20 yeah which is kind of  i mean  philosophically speaking is a pretty powerful thing
+00:42:27 so to live with i mean maybe that's  so we agreed to talk again by the way for the
+00:42:32 listeners to where we're going to try to focus on science today and a little bit of philosophy next time but
+00:42:40 it's  interesting to think about the more you're able to know about yourself from the genetic information in
+00:42:45 terms of the diseases how that changes your own view of life yeah so there's there's a lot of impact there
+00:42:52 and there's a something called genetic exceptionalism which basically thinks of genetics as
+00:42:59 something very very different than everything else as a type of determinism and you know let's talk about that
+00:43:07 next time so basically it's a good preview yeah so let's go back to amd so basically with amd
+00:43:17 we have no idea what causes amd you know it was it was a mystery until the genetics were worked out and
+00:43:25 now the fact that i know that i have a predisposition allows me to sort of make some life choices number one
+00:43:33 but number two the genes that lead to that predisposition give us insights as to how does it actually work
+00:43:40 and that's a place where genetics gave us something totally unexpected so there's a complement pathway
+00:43:50 which is an immune function pathway that was in you know most of the loci associated with amd and that basically
+00:43:59 told us that wow there's an immune basis to this eye disorder that people had just not expected before
+00:44:06 if you look at complement it was recently also implicated in schizophrenia and there's a type of microglia
+00:44:17 that is involved in synaptic pruning so synapses are the connections between neurons and in this whole use it or lose it view of
+00:44:26 mental cognition and other capabilities you basically have  microglia which are immune cells that are sort of
+00:44:33 constantly traversing your brain and then pruning neuronal connections pruning synaptic connections
+00:44:41 that are not utilized so in schizophrenia there's thought to be a change in the pruning that basically
+00:44:49 if you don't prune your synapses the right way you will actually have an increased role
+00:44:54 of schizophrenia this is something that was completely unexpected for schizophrenia of course we knew it
+00:44:59 has to do with neurons but the role of the complement complex which is also implicated in amd which is
+00:45:05 now also implicating schizophrenia was a huge surprise what's the complement complex so it's basically a set of genes the
+00:45:11 complement genes that are basically having various immune roles and as i was saying earlier our
+00:45:18 immune system has been co-opted for many different roles across the body so they actually play
+00:45:24 many diverse roles and somehow the immune system is connected to the synaptic pruning
+00:45:29 process exact process exactly so immune cells were co-opted to prune synapses how did you figure this out
+00:45:38 how does one go about figuring this intricate connection  like pipeline of connections out yeah
+00:45:43 let me give you another example so so alzheimer's disease the first place that you would expect it to act is
+00:45:49 obviously the brain so we had basically this roadmap epigenomics consortium view of the human epigenome
+00:45:59 the largest map of the human epigenome that has ever been built across 127 different tissues and samples
+00:46:08 with dozens of epigenomic marks measured in you know hundreds of donors so what we've basically
+00:46:14 learned through that is that you you basically can map what are the active gene regulatory
+00:46:19 elements for every one of the tissues in the body and then we connected these gene regulatory
+00:46:27 active maps of basically what regions of the human genome are turning on in every one of different tissues
+00:46:34 we then can go back and say where are all the genetic loci that are associated with disease
+00:46:41 this is something that my group i think was the first to do back in 2010 in this ernst nature biotech paper
+00:46:50 but basically we were for the first time able to show that specific chromatin states specific epigenomic
+00:46:55 states in that case enhancers were in fact enriched enriched in disease associated variants
+00:47:03 we pushed that further in the ernst nature paper a year later and then in this roadmap epigenomics paper
+00:47:11 you know a few years after that but basically that matrix that you mentioned earlier was in
+00:47:17 fact the first time that we could see what genetic traits have genetic variants that are enriched
+00:47:26 in what tissues in the body and a lot of that map made complete sense if you looked at
+00:47:31 a diversity of immune traits like allergies and type 1 diabetes and so forth you basically could see that they were
+00:47:38 enriching that the genetic variants associated with those traits were enriched in enhancers in these gene
+00:47:44 regulatory elements active in t cells and b cells and hematopoietic stem cells and so forth
+00:47:52 so that basically gave us a confirmation in many ways that those immune traits were instead
+00:47:59 indeed enriching immune cells if you look if you if you looked at type 2 diabetes you basically saw an enrichment in only
+00:48:07 one type of sample and it was pancreatic eyelids and we know that type 2 diabetes in you know sort of stems from the
+00:48:14 dysregulation of insulin in the beta cells of pancreatic eyelids and that sort of was
+00:48:21 you know spot on super precise if you looked at blood pressure where would you expect blood pressure to occur
+00:48:26 you know i don't know maybe in your metabolism in ways that you process coffee or something like that maybe in
+00:48:32 your brain the way that you stress out increases your blood pressure etc what we found is that blood pressure
+00:48:37 localized specifically in the left ventricle of the heart so the enhancers of the left technology in
+00:48:42 the heart contain a lot of genetic variants associated with blood pressure
+00:48:48 if you look at height we found an enrichment specifically in embryonic stem cell enhancers so the
+00:48:55 genetic variants predisposing you to be taller or shorter are in fact acting in developmental stem
+00:48:59 cells makes complete sense if you looked at inflammatory bowel disease
+00:49:05 you basically found inflammatory which is immune and also bowel disease which is digestive
+00:49:11 and indeed we saw a double enrichment both in the immune cells and in the digestive cells so that
+00:49:17 basically told us that this is acting in both components there's an immune component to
+00:49:21 inflammatory bowel disease and there's a digestive component and the big surprise was for alzheimer's
+00:49:28 we had seven different brain samples we found zero enrichment in the brain samples for genetic variants associated with
+00:49:37 alzheimer's and this is mind-boggling our brains were literally hurting what is going on
+00:49:43 and what is going on is that the brain samples are primarily neurons oligodendrocytes and astrocytes
+00:49:51 in terms of the cell types that make them up so that basically indicated that genetic
+00:49:58 variants associated with alzheimer's were probably not acting in oligodendrocytes astrocytes or neurons
+00:50:06 so what could they be acting in well the fourth major cell type is actually microglia microglia are resident immune cells in
+00:50:13 your brain oh nice the immune oh wow and they are cd14 plus which is this
+00:50:23 sort of cell surface markers  of those cells so their cd14 plus cells just like macrophages that are circulating
+00:50:31 in your blood the microglia are resident monocytes that are basically sitting in your brain they're tissue-specific
+00:50:39 monocytes and every one of your tissues like your your fat for example has a lot of macrophages that are resin
+00:50:46 and the m1 versus m2 macrophage ratio has a huge role to play in obesity and you know so basically again these immune
+00:50:52 cells are everywhere but basically what we found through this completely unbiased view of
+00:50:58 what are the tissues that likely underlie different disorders we found that alzheimer's was
+00:51:06 humongously enriched in microglia but not at all in the other cell types so what what are we supposed to make that
+00:51:11 if you look at the tissues involved is that simply useful for indication of 
+00:51:21 propensity for disease or does it give us somehow a pathway of treatment it's very much the second if you look at the
+00:51:32 the way to therapeutics you have to start somewhere what are you gonna do you're gonna
+00:51:36 basically make assays that manipulate those genes and those pathways in those cell types
+00:51:46 so before we know the tissue of action we don't even know where to start we basically are at a loss but if you
+00:51:52 know the tissue of action and even better if you know the pathway of action then you can basically screen your small molecules
+00:51:59 not for the gene you can screen them directly for the pathway in that cell type so you can basically
+00:52:07 develop a high throughput multiplexed you know robotic system for testing the impact of your favorite molecules
+00:52:14 that you know are safe efficacious and you know sort of hit that particular gene and so forth
+00:52:21 you can basically screen those molecules against either a set of genes that act in that pathway
+00:52:27 or on the pathway directly by having a cellular assay and then you can basically go into mice
+00:52:32 and do experiments and basically sort of figure out ways to manipulate these processes
+00:52:37 that allow you to then to go back to humans and do a clinical trial that basically says okay
+00:52:42 i was able indeed to reverse these processes in mice can i do the same thing in humans
+00:52:49 so that the the knowledge of the tissues gives you the pathway to treatment but that's not the only
+00:52:53 part there are many additional steps to figuring out the mechanism of disease
+00:52:59 i mean so that's really promising maybe  to take a small step back you've you've mentioned all these puzzles that were
+00:53:06 figured out with the nature paper for i mean you've mentioned a ton of diseases from obesity to alzheimer's even
+00:53:15 schizophrenia i think you mentioned and just what is the actual methodology of figuring this out
+00:53:22 so indeed i mentioned a lot of diseases and and my lab works on a lot of different disorders
+00:53:29 and the reason for that is that if you look at biology it used to be you know zoology
+00:53:40 departments in both technology departments and you know virology departments and so on so forth and mit
+00:53:45 was one of the first schools to basically create a biology department like oh we're going to study
+00:53:50 all of life suddenly why was that even the case because the advent of dna and the genome
+00:53:57 and the central dogma of dna makes rna mixed protein in many ways unified biology you could suddenly
+00:54:04 study the process of transcription in viruses or in bacteria and have a huge impact on yeast and fly and maybe even mammals
+00:54:14 because of this realization of these common underlying processes and in the same way that dna unified biology
+00:54:25 genetics is unifying disease studies so you used to have you used to have
+00:54:34  you know i don't know cardiovascular disease department and  you know neurological disease department
+00:54:43 and neurodegeneration department and  you know basically immune and cancer and so forth
+00:54:49 and all of these were studied in different labs you know because it made sense because
+00:54:54 basically the first step was understanding how the tissue functions and we kind of knew the tissues involved
+00:55:00 in cardiovascular disease and so forth but what's happening with human genetics is that all of that
+00:55:05 all of these walls and edifices that we had built are crumbling and the reason for that is that
+00:55:14 genetics is in many ways revealing unexpected connections so suddenly we now have to bring the immunologists
+00:55:21 to work on alzheimer's they were never in the room they were in another building altogether
+00:55:28 the same way for schizophrenia we now have to sort of worry about all these interconnected aspects for
+00:55:34 metabolic disorders we're finding contributions from brain so suddenly we have to call the
+00:55:39 neurologist from the other building and so forth so in my view it makes no sense
+00:55:47 anymore to basically say oh i'm a geneticist studying immune disorders i mean that's that's ridiculous because i mean yeah of
+00:55:54 course in many ways you still need to sort of focus but what what what we're doing is that we're
+00:56:00 basically saying we'll go wherever the genetics takes us and by building these massive resources
+00:56:09 by working on our latest map is now 833 tissues sort of the the next generation of the epigenomics roadmap which we're now
+00:56:15 called epimap is 833 different tissues and using those we've basically found enrichments in 540
+00:56:24 different disorders those enrichments are not like oh great you guys work on that and we'll work on this
+00:56:31 they're intertwined amazingly so of course there's a lot of modularity but there's these enhancers that are
+00:56:37 sort of broadly active and these disorders that are broadly active so basically some enhancers are active
+00:56:42 in on tissues and some disorders are enriching in all tissues so basically there's these multifactorial
+00:56:48 and this other class which i like to call polyfactorial diseases which are basically lighting up
+00:56:54 everywhere and in many ways it's you know sort of cutting across
+00:56:59 these walls that were previously built across these departments and the polyfactorial ones were probably
+00:57:05 the previous structure departments wasn't equipped to deal with those
+00:57:12 i mean again maybe it's a romanticized question but you know there's in physics there's a theory of
+00:57:17 everything do you think it's possible to move towards an almost theory of everything of disease from a
+00:57:23 genetic perspective so if this unification continues is it possible that
+00:57:29 like do you think in those terms like trying to arrive at a fundamental understanding of how
+00:57:35 disease emerges period that unification is not just foreseeable it's inevitable
+00:57:44 i see it as inevitable we have to go there you cannot be a specialist anymore if you're a genomicist you have to be a specialist
+00:57:54 in every single disorder and the reason for that is that the fundamental understanding of the circuitry
+00:58:01 of the human genome that you need to solve schizophrenia that fundamental circuitry is hugely important to solve alzheimer's
+00:58:10 and that same circuitry is hugely important to solve metabolic disorders and that same exact circuitry is 
+00:58:17 hugely important for solving immune disorders and cancer and you know every single disease so
+00:58:26 all of them have the same sub task and i teach dynamic programming in my class dynamic program is all about sort of
+00:58:35 not re doing the work it's reusing the work that you do once so basically for us to say oh great you
+00:58:41 know you guys in the immune building go solve the fundamental circuitry of everything and then you guys in the
+00:58:46 schizophrenia building go solve the fundamental circuitry of everything separately is crazy so what we need to
+00:58:52 do is come together and sort of have a circuitry group the circuitry building that sort of
+00:58:58 tries to solve the circuitry of everything and then the immune folks who will apply this knowledge
+00:59:05 to all of the disorders that are associated with immune dysfunction and the schizophrenia folks
+00:59:12 will basically interact with both the immune folks and with the neuronal folks and all of them will be interacting with
+00:59:18 the circuitry folks and so forth so that's sort of the current structure of my group if you wish so
+00:59:23 basically what we're doing is focusing on the fundamental circuitry but at the same time we're the users of
+00:59:31 our own tools by collaborating with many other labs in every one of these disorders that we
+00:59:38 mentioned we basically have a heart focus on cardiovascular disease coronary artery disease heart failure and so forth
+00:59:47 we have an immune focus on several immune disorders we have a cancer focus
+00:59:54 on metastatic melanoma and immunotherapy response we have a psychiatric disease focus on schizophrenia autism ptsd
+01:00:04 and other psychiatric disorders we have an alzheimer's and neurodegeneration focus on huntington disease als and
+01:00:11 you know ad related disorders like frontotemporal dementia and lewy body dementia and of course a huge focus on
+01:00:18 alzheimer's we have a metabolic focus on the role of exercise and diet and sort of how they're impacting metabolic
+01:00:27 you know organs across the body and across many different tissues and all of them are interfacing
+01:00:34 with the circuitry and the reason for that is another computer science principle of eat your own dog food if everybody
+01:00:45 ate their own dog food dog food would taste a lot better the reason why microsoft excel and word
+01:00:54 and powerpoint was so important and so successful is because the employees that were working on them were using
+01:01:01 them for their day-to-day tasks you can't just simply build a circuitry and say
+01:01:06 here it is guys take the circuitry we're done without being the users of that circuitry because you then
+01:01:11 go back and because we span the whole spectrum from profiling the epigenome
+01:01:17 using comparative genomics finding the important nucleotides in the genome building the basic functional map of
+01:01:23 what are the genes in the human genome what are the gene regulatory elements of the human genome
+01:01:29 i mean over the years we've written a series of papers on how do you find human genes in the first place
+01:01:34 using comparative genomes how do you find the motifs that are the building blocks of gene
+01:01:39 regulation used in comparative genomics how do you then find how these motifs come together
+01:01:45 and act in specific tissues using epigenomics how do you link regulators to enhancers and enhancers to their target genes using
+01:01:55 epigenomics and regulatory genomics so through the years we've basically built all this infrastructure for
+01:02:01 understanding what i like to say every single nucleotide of the human genome and how it acts in every one of the
+01:02:09 major cell types and tissues of the human body i mean this is no small task this is an
+01:02:14 enormous task that takes the entire field and that's something that my group has taken on along with many other groups
+01:02:22 and we have also and that sort of thing sets my group perhaps apart we have also worked with specialists in
+01:02:28 every one of these disorders to basically further our understanding all the way down to disease
+01:02:33 and in some cases collaborating with pharma to go all the way down to therapeutics because of our deep deep understanding
+01:02:42 of that basic circuitry and how it allows us to now improve the circuitry not just treat it as a black box but
+01:02:50 basically go and say okay we need a better cell type specific wiring that we now have at the tissue specific level so we're
+01:02:58 focusing on that because we're understanding you know the needs from the disease front so you have a sense of the entire pipeline
+01:03:07 i mean one maybe you can indulge me one nice question to ask would be how do you from the scientific perspective
+01:03:15 go from knowing nothing about the disease to going you said  to go into the entire pipeline and
+01:03:23 actually have a drug or or a treatment that cures that disease so that's an enormously long path
+01:03:32 and an enormously great challenge and what i'm trying to argue is that it progresses in stages of understanding
+01:03:40 rather than one gene at a time the traditional view of biology was you have one postdoc working on this gene
+01:03:46 and another prosthetic working on that gene and they'll just figure out everything about
+01:03:51 that gene and that's their job what we've realized is how polygenic the diseases are so we can't have one
+01:03:58 postdoctoral gene anymore we now have to have these cross-cutting needs and
+01:04:06 i'm going to describe the path to circuitry along those needs and every single one of these paths
+01:04:15 we are now doing in parallel across thousands of genes so the first step is you have a genetic association
+01:04:23 and we talked a little bit about sort of the mendelian path and the polygenic path to that
+01:04:28 association so the mendelian path was looking through families to basically find gene regions
+01:04:35 and ultimately genes that are underlying particular disorders the polygenic path is basically looking at
+01:04:42 unrelated individuals in this giant matrix of genotype by phenotype and then finding hits where a particular
+01:04:48 variant impacts disease all the way to the end and then we now have
+01:04:55 a connection not between a gene and a disease but between a genetic region and a disease and that distinction is not understood
+01:05:03 by most people so i'm going to explain it a little bit more why do do we not have a connection
+01:05:09 between a gene and a disease but we have a connection between a genetic region and a disease
+01:05:17 the reason for that is that 93 of genetic variants that are associated with disease don't
+01:05:26 impact the protein at all so if you look at the human genome there's 20 000 genes there's 3.2 billion nucleotides
+01:05:36 only 1.5 percent of the genome codes for proteins the other 98.5
+01:05:46 does not code for proteins if you now look at where are the disease variants located 93 percent of them fall in that
+01:05:55 outside the genes portion of course genes are enriched but they're only enriched by a factor of three
+01:06:02 that means that still 93 of genetic variants fall outside the proteins why is that difficult why is that a
+01:06:11 problem the problem is that when a variant falls outside the gene you don't know what gene is impacted by
+01:06:17 that variant you can't just say oh it's near this gene let's just connect that variant to the gene
+01:06:22 and the reason for that is that the genome circuitry is very often long range
+01:06:29 so you basically have that genetic variant that could sit in the intron of one gene and an intron is sort of
+01:06:37 the place between the axons that code for proteins so proteins are split up into exons and introns and every exon
+01:06:44 codes for a particular subset of amino acids and together they're spliced together and then make the final protein
+01:06:50 so that genetic variant might be sitting in an intron of a gene it's transcribed with the gene
+01:06:55 it's processed and then excised but it might not impact this gene at all it might actually impact
+01:07:00 another gene that's a million nucleotides away so it's just riding along even though it has nothing to do
+01:07:03 with the with this nearby neighborhood that's exactly right
+01:07:10 let me give you an example the strongest genetic association with obesity was discovered in this fto gene
+01:07:18 fat and obesity-associated gene so this fto gene was studied ad nauseum people did tons of
+01:07:25 experiments on on it they figured out that fto is in fact a rna methylation transferase it basically
+01:07:36 crea it sort of impacts something that we know that we call the epi transcriptome just like the genome
+01:07:40 can be modified the transcriptome the transcript of the genes can be modified
+01:07:46 and we basically said oh great that means that that ap transcriptomics is hugely involved in obesity because that
+01:07:53 that gene fto is is you know  clearly where the genetic locus is at my group studied
+01:08:00 fto in collaboration with you know a wonderful team led by melina klausmitzer and what we found
+01:08:08 is that this fto locus even though it is associated with obesity does not implicate the genetic variant sits in the first
+01:08:20 intron of the fdo gene but it controls two genes irx3 and ir x5 that are sitting 1.2
+01:08:31 million nucleotides away several genes away oh boy  what am i supposed to feel about that because isn't that like super
+01:08:38 complicated then  so so the way that i was introduced at a conference a few years ago
+01:08:43 was  and here's manolis kellys who wrote the most depressing paper of 2015 and the reason for that is that
+01:08:51 the entire pharmaceutical industry was so comfortable that there was a single gene in that locus
+01:08:57 because in some loci you basically have three dozen genes that are all sitting in the same region of association
+01:09:02 and you're like gosh which ones of those is it but even that question of which ones of those
+01:09:07 is it is making the assumption that it is one of those as opposed to some random gene just far
+01:09:14 far away which is what our paper showed so basically what our paper showed is that you can't ignore the circuitry
+01:09:20 you have to first figure out the circuitry all of those long-range interactions how every genetic variant impacts the
+01:09:26 expression of every gene in every tissue imaginable across hundreds of individuals
+01:09:33 and then you now have one of the building blocks not even all of the building blocks
+01:09:39 for them going and understanding disease so okay so so embrace the the wholeness of the circuitry
+01:09:45 correct but what so back to the question of starting knowing nothing
+01:09:50 to the disease and and going to the treatment so what are the next steps so you basically
+01:09:55 have to first figure out the tissue and then describe how you figure out the tissue you figure out the tissue by
+01:09:59 taking all of these non-coding variants that are sitting outside proteins
+01:10:04 and then figuring out what are the epigenomic enrichments and the reason for that you know thankfully
+01:10:13 is that there is convergence that the same processes are impacted in different ways
+01:10:19 by different loci and that's a saving grace for our field the fact that if i look at hundreds of genetic
+01:10:27 variants associated with alzheimer's they localize in a small number of processes can you clarify why that's helpful so
+01:10:36 like they show up in the same exact way in the in the specific set of processes yeah so basically there's a small number
+01:10:43 of biological processes that underlie or at least that play them the biggest role
+01:10:49 in every disorder so in alzheimer's you basically have you know maybe 10 different types of
+01:10:54 processes one of them is lipid metabolism one of them is immune cell function one of them is
+01:11:03 neuronal energetics so these are just a small number of processes but you have multiple lesions multiple genetic
+01:11:09 perturbations that are associated with those processes so if you look at schizophrenia it's
+01:11:14 excitatory neuron function it's inhibitory neuron function it's synaptic pruning it's calcium signaling and so forth
+01:11:21 so when you look at disease genetics you have one hit here and one hit there and one hit there and one hit there
+01:11:27 completely different parts of the genome but it turns out all of those he hits are calcium signaling proteins oh cool
+01:11:35 you're like aha that means that calcium signaling is important so those people who are focusing on one
+01:11:41 doctors at a time cannot possibly see that picture you have to become a genomicist you have to
+01:11:48 look at the omics the the holistic picture to understand these enrichments but you mentioned the convergence thing so the
+01:11:56 the whatever the thing associated with the disease shows up so let me explain convergence
+01:12:01 yeah convergence is such a beautiful concept so you basically have these four genes that are converging on calcium signaling
+01:12:14 so that basically means that they are acting each in their own way but together in the same process
+01:12:22 but now in every one of these loci you have many enhancers controlling each of those genes that's another type of convergence where
+01:12:31 dysregulation of seven different enhancers might all converge on this regulation of that one gene
+01:12:37 which then converges on calcium signaling and in each one of those enhancers you might have multiple genetic variants
+01:12:46 distributed across many different people everyone has their own different mutation but all of these mutations are impacting that
+01:12:53 enhancer and all of these enhancers are impacting that gene and all of these genes are impacting
+01:12:58 this pathway and all these pathways are acting in the same tissue and all these tissues are converging
+01:13:03 together on the same biological process of schizophrenia and and you're saying the saving grace
+01:13:09 is that that conversion seems to happen for a lot of these diseases for all of them basically that for every
+01:13:15 single disease that we've looked at we have found an epigenomic enrichment how do you do that
+01:13:21 you basically have all of the genetic variants associated with the disorder and then you're asking for all of the
+01:13:27 enhancers active in a particular tissue for 540 disorders we've basically found that indeed
+01:13:34 there is an enrichment that basically means that there is commonality and from the commonality we can just get insights
+01:13:43 so to explain in mathematical terms we're basically building an empirical prior
+01:13:49 we're using a bayesian approach to basically say great all of these variants are equally likely in a particular locus
+01:13:55 to be important energy so in a genetic locus you basically have
+01:14:02 a dozen variants that are co-inherited because the way that inheritance works in the human genome is through all of
+01:14:08 these recombination events during meiosis you basically have you know you you inherit maybe three
+01:14:17 chromosome three for example in your in your body it's inherited from four different parts one part comes from your dad
+01:14:23 another part comes from your mom another part comes from your dad and other part comes from your mom so basically
+01:14:29 the way that it i'm sorry from your mom's mom so you basically have one copy that
+01:14:33 comes from your dad and one copy that comes from your mom but that copy that you got from your mom
+01:14:37 is a mixture of her maternal and her paternal chromosome and the copy that you got from your dad
+01:14:43 is a mixture of his maternal and his paternal chromosome so these break points that happen when
+01:14:49 chromosomes are lighting up and lining up are basically ensuring through these crossover events they're
+01:14:57 ensuring that every  child cell during the process of meiosis where you
+01:15:03 basically have you know one spermatozoid that basically couples with one oval
+01:15:10 to basically create one egg to basically create the zygote you basically have half of your genome
+01:15:15 that comes from that and half of your genome that comes from mom but in order to light up not line them
+01:15:20 up you basically have these crossover events these crossover events are basically leading to
+01:15:27 co-inheritance of that entire block coming from the your maternal grandmother and that entire
+01:15:32 block coming from your mother grand grandfather over many generations these crossover events don't happen randomly
+01:15:41 there's a protein called prdm9 that basically guides the double-stranded breaks and then leads to these crossovers
+01:15:49 and that protein has a particular preference to only a small number of hot spots of recombination which then lead to a
+01:15:56 small number of breaks between these co-inheritance patterns so even though there are six million
+01:16:03 variants there are six million loci there there's you know this variation is inherited in blocks
+01:16:11 and every one of these blocks has like two dozen genetic variants that are all associated so in the case of fto it wasn't just one variant
+01:16:20 it was 89 common variants that were all humongously associated with obesity which ones of those is the important one
+01:16:28 well if you look at only one locus you have no idea but if you look at many loci you
+01:16:34 basically say aha all of them are enriching in the same epigenomic map in that particular case
+01:16:41 it was mesenchymal stem cells so these are the progenitor cells
+01:16:48 that give rise to your brown fat and your white fat progenitor is like the early on developmental substance
+01:16:56 so you start from one zygote and that's a totipotent cell type it can do anything you then
+01:17:02 differ you know that cell divides divides divides and then every cell division is
+01:17:10 leading to specialization where you now have a mesodermal lineage and ectodermal lineage and endodermal lineage
+01:17:17 that basically leads to different parts of your day or your body the ectoderm will basically give rise to
+01:17:22 your skin ecto means outside derm is skin so ectoderm but it also gives rise to
+01:17:29 your neurons and your whole brain so that's a lot of ectoderm mesoderm gives rise to your
+01:17:33 internal organs including the vasculature and you know your muscle and stuff like that
+01:17:41 so you basically have this progressive differentiation and then if you look further further down that lineage you basically have one
+01:17:48 lineage that will give rise to both your muscle and your bone but also your fat and if you go further down the lineage
+01:17:55 of your fat you basically have your white fat cells these are the cells that store energy so
+01:18:02 when you eat a lot but you don't exercise too much there's an excess a set of calories a lot excess energy
+01:18:08 what you do with those you basically create you spend a lot of that energy to create these high-energy molecules
+01:18:16 lipids which you can then burn when you need them on a rainy day so that leads to obesity if you don't
+01:18:24 exercise and if you overeat because your body is like oh great i have all these calories i'm going to
+01:18:28 store them more calories i'm going to store them too oh more calories and
+01:18:36 the you know 42 of european chromosomes have a predisposition to storing fat which was selected probably in
+01:18:46 the you know food scarcity periods like basically as we were exiting africa you know before and during the ice ages
+01:18:53 you know there was probably a selection to those individuals who made it north to basically be able to store energy you
+01:19:00 know a lot more energy so you basically now have this lineage that is deciding whether you want to
+01:19:08 store energy in your white fat or burn energy in your base fat it turns out that your fat is you know we
+01:19:18 like we we have such a bad view of fat fat is your best friend fat can both store all these excess
+01:19:23 lipids that would be otherwise circulating through your you know body and causing damage but it
+01:19:29 can also burn calories directly if you have too much of energy you can just choose to just burn some of that as heat
+01:19:38 so basically when you're cold you're burning energy to basically warm your body up and
+01:19:42 you're burning all these lipids and you're burning all these scatters so what we basically found is that
+01:19:48 across the board genetic variants associated with obesity across many of these regions were all enriched
+01:19:56 repeatedly in mesenchymal stem cell enhancers so that gave us a hint as to which of these genetic variants
+01:20:04 was likely driving this whole association and we ended up with this one genetic variant called rs1421085
+01:20:17 and that genetic variant out of the 89 was the one that we predicted to be causal for the disease
+01:20:23 wow so going back to those steps first step is figure out the relevant tissue based on the global enrichment second
+01:20:30 step is figure out the causal variant among many variants in this linkage disequilibrium in this co-inherited block
+01:20:39 between these recombination hotspots these boundaries of these inherited blocks that's the second step the third step is
+01:20:47 once you know that causal variant try to figure out what is the motif that is disrupted
+01:20:52 by that causal variant basically how does it act variants don't just disrupt elements they disrupt the binding of specific regulators
+01:21:00 so basically the third step there was how do you find the motif that is responsible like the gene regulatory
+01:21:07 word the building block of gene regulation that is responsible for that disregulatory event and the
+01:21:14 fourth step is finding out what regulator normally binds that motif and is now
+01:21:20 no longer able to bind and then once you have the regulator can you then try to figure out how to
+01:21:26 what  after it developed how to fix it that's exactly right you now know how to intervene you have basically
+01:21:33 a regulator you have a gene that you can then perturb and you say well maybe that regulator has a global role in obesity i can
+01:21:40 perturb the regulator just to clarify when we say perturb like on the scale of a human life can a human
+01:21:48 being be helped of course of course yeah so i guess her understanding is the first step
+01:21:55 no no but perturbed basically means you now develop therapeutics pharmaceutical therapeutics against that
+01:22:00 or you develop other types of intervention that affect the expression of that gene
+01:22:05 what do  pharmaceutical therapeutics look like when your understandings in a genetic level
+01:22:13 yeah sorry if it's a dumb question no no it's a brilliant question but i want to save it for a little bit later when we
+01:22:17 start talking about therapeutics perfect we've talked about the first four steps there's two more
+01:22:23 so basically the first step is figure out i mean the zeroth step the starting point is the genetics
+01:22:29 the first step after that is figure out the tissue of action the second step is figuring out the nucleotide
+01:22:35 that is responsible or set of nucleotides the third step is figure out the motif
+01:22:40 and the upstream regulator number four number five and six is what are the targets so number five
+01:22:45 is great now i know the regulator i know the motif i know the tissue
+01:22:51 and i know the variant what does it actually do so you have to now trace it to the
+01:22:56 biological process and the genes that mediate that biological process
+01:23:03 so knowing all of this can now allow you to find the target genes how by basically doing perturbation experiments
+01:23:11 or by looking at the folding of the epigenome or by looking at the genetic impact of that genetic variant on the
+01:23:19 expression of genes and we use all three so let me go through them
+01:23:26 basically one of them is physical links this is the folding of the genome onto itself how do you even figure out the folding
+01:23:33 it's a little bit of a tangent but it's a super awesome technology think of the genome as again this
+01:23:41 massive packaging that we talked about of taking two meters worth of dna and putting it
+01:23:47 in something that's a million times smaller than 2 meters worth of dna that's a single cell
+01:23:52 you basically have this massive packaging and this packaging basically leads to
+01:23:58 the chromosome being wrapped around in sort of tight ways in ways however that are functionally
+01:24:06 capable of being reopened and reclosed so i can then go in and figure out that folding by sort of chopping up the spaghetti soup
+01:24:17 putting glue and ligating the segments that were chopped up but nearby each other and then sequencing through these
+01:24:24 ligation events to figure out that this region of these chromosomes that region of the chromosome were near
+01:24:28 each other that means they were interacting even though they were far away on the genome itself
+01:24:36 so that chopping up sequencing and re-gluing is basically giving you folds of the genome that we said
+01:24:47 how does cutting it help you figure out which ones were close in the original folding so you have a
+01:24:54 bowl of noodles go on and in that bowl of noodles some some noodles are
+01:25:00 near each other yes so throw in a bunch of glue you basically freeze the noodles in
+01:25:07 place throw in a cutter that chops up now throw in some ligation enzyme that lets those pieces that were free
+01:25:18 re-ligate near each other in some cases they re-ligate what you had just got
+01:25:24 but that's very rare most of the time they will re-ligate in whatever was proximal
+01:25:32 you now have glued the red noodle that was crossing the blue noodle to each other you then
+01:25:40 reverse the glue the glue goes away and you just sequence the heck out of it most of the time you'll find red segment with
+01:25:48 you know red segment but you can specifically select for ligation events that have happened
+01:25:52 that were not from the same segment by sort of marking a particular way and then selecting those and then your
+01:25:58 sequencing you look for red with blue matches of sort of things that were glued
+01:26:04 that were not immediate proximal to each other and that reveals the linking of the blue noodle and the red noodle
+01:26:10 you're with me so far yeah good so we you know we've done these experiments physical that's the physical that's step one of
+01:26:16 the physical and what what the physical revealed is topologically associated domains basically big blocks of the genome
+01:26:22 that are topologically don't you know connected together that's the physical the second one is the
+01:26:31 genetic links it basically says across individuals that have different genetic variants how are their genes expressed differently
+01:26:40 remember before i was saying that the path between genetics and disease is enormous but we can break it up to look at the
+01:26:45 path between genetics and gene expression so instead of using alzheimer's as a phenotype
+01:26:53 i can now use expression of irx3 as the phenotype expression of gene a and i can look at all of the g
+01:27:00 all of the humans who contain a g at that location and all the humans will contain a t
+01:27:05 at that location and basically say wow turns out that the expression of this gene is higher
+01:27:09 for the t humans than for the g humans at that location so that basically gives me a genetic
+01:27:14 link between a genetic variant a locus or region and the expression of nearby genes good on the genetic link
+01:27:23 i think so awesome so the third link is the activity link what's an activity link it basically
+01:27:29 says if i look across 833 different epigenomes whenever these enhancer is active this gene is active that gives me an
+01:27:37 activity link between this region of the dna and that gene and then the fourth one is perturbations
+01:27:45 where i can go in and you know blow up that region and see what are the genes that change in expression
+01:27:51 or i can go in and over activate that region and see what genes change in expression  so i guess that's
+01:27:59 similar to activity yeah yeah so that's basically it's similar to activity i agree but it's causal rather than correlational
+01:28:05 again i'm i'm a little weird like no no you're 100 on it's exactly the same but the
+01:28:11 perturbation where i go and intervene yes i basically take a bunch of cells so you know crispr
+01:28:19 right crispr is this genome guidance and cutting mechanism it's what george like likes to call genome vandalism so you basically are
+01:28:27 able to one you can basically take a guide rna that you put into the crispr
+01:28:35 system and the crispr system will basically use this guide rna scan the genome find wherever there's a match and then
+01:28:42 cut the genome so you know i digress but it's a bacterial immune defense system so basically
+01:28:50 bacteria are constantly attacked by viruses but sometimes they win against the viruses and they chop up these viruses and
+01:28:58 remember as a trophy inside their genome they have this loci this crispr loci
+01:29:04 that basically stands for clustered repeats interspersed et cetera so basically it's it's an
+01:29:09 interspersed repeats structure where basically you have a set of repetitive regions
+01:29:15 and then interspersed were these variable segments that were basically matching viruses so
+01:29:21 when this was first discovered it was basically hypothesized that this is probably a bacterial immune system
+01:29:26 that remembers the trophies of the viruses that manage to kill
+01:29:32 and then the bacteria pass on you know they sort of do lateral transfer of dna and they pass on these memories so that
+01:29:38 the next bacterium says oh you killed that guy when that guy shows up again i will
+01:29:42 recognize him and the crispr system was basically evolved as a bacterial adaptive immune response
+01:29:50 to sense foreigners that should not belong and to just go and cut their genome so it's an rna guided
+01:29:58 rna cutting enzyme or an rna guided dna cutting enzyme so there's different systems some of them called dna some of them called rna
+01:30:08 but all of them remember this  sort of viral attack so what we have done now as a field is you know through the work
+01:30:15 of you know  jennifer donna emmanuel carpenter feng zhang and many others
+01:30:22 is co-opted that system of bacterial immune defense as a way to cut genomes
+01:30:29 you basically have this guiding system that allows you to use an rna guide
+01:30:36 to bring enzymes to cut dna at a particular locus that's so fascinating just so this is
+01:30:41 like already a natural mechanism a natural tool for cutting that was useful this particular context yeah and we're
+01:30:49 like well we can use that thing to actually it's a nice tool that's already in the body yeah yeah it's not in our body it's
+01:30:55 a bacterial body it was discovered by the by the yogurt industry they were trying to make better yogurts
+01:31:02 and they were trying to make their bacteria in their yogurt cultures more resilient to viruses
+01:31:10 and they were studying bacteria and they found that wow this crispr system is awesome it allows you to defend against that and
+01:31:16 then it was co-opted in mammalian systems that don't use anything like that as a as a as a targeting way to
+01:31:22 basically bring these dna cutting enzymes to any locus in the genome why would you want to cut dna
+01:31:30 to do anything the reason is that our dna has a dna repair mechanism where if a region of the genome gets
+01:31:37 randomly cut you will basically scan the genome for anything that matches and sort of use it by homology
+01:31:45 so the reason why we're deployed is because we now have a spare copy as soon as my mom's copy is deactivated
+01:31:50 i can use my dad's copy and somewhere else if my dad's copy is deactivated i can use my mom's copy
+01:31:55 to repair it so this is called homologous based repair so all you have to do is the the cutting and that's it you don't have
+01:32:04 to do the fixing that's exactly right you don't have to do the fixing because it's already built in that's
+01:32:09 exactly right but the fixing can be co-opted by throwing in a bunch of homologous
+01:32:15 segments that instead of having your dad's version have whatever other version you'd like
+01:32:19 to use so the thing so you you then control the fixing by throwing in a bunch of other
+01:32:24 stuff exactly right that's how you do genome editing so that's what crispr is that's what's
+01:32:29 wonderful in popular culture people use the term i've never well that's brilliant that's
+01:32:34 a crispr regional explanation genome vandalism followed by a bunch of band-aids that have the sequence that you'd like and
+01:32:40 you can control the the choices of band-aids correct yeah and of course there's new generations of
+01:32:47 crispr there's something that's called prime editing that was sort of very very much in the press
+01:32:52 recently that basically instead of sort of making a double stranded break which again is genome vandalism you
+01:32:59 basically make a single stranded break you basically just nick one of the two strands
+01:33:06 enabling you to sort of peel off without sort of completely breaking it up and then repair it locally using a guide
+01:33:15 that is coupled to your initial rna that took you to that location dumb question but
+01:33:23 is crispr as awesome and cool as it sounds i mean technically speaking in terms of like as a tool for manipulating our genetics
+01:33:34 in the positive  meaning of the word manipulating or is there downsides drawbacks in this whole context of therapeutics that we're
+01:33:41 talking about yeah or understanding and so so so when i teach my students about crispr i show them articles with the headline
+01:33:51 genome editing tool revolutionizes biology and then i show them the date of these two of these articles and they're 2004
+01:33:58 like five years before crispr was invented and the reason is that they're not talking about crispr they're
+01:34:04 talking about zinc finger enzymes that are another way to bring these cutters to the genome
+01:34:11 it's a very difficult way of sort of designing the right set of zinc finger proteins the right set of
+01:34:16 amino acids that will now target a particular long stretch of dna because you you know for every location
+01:34:22 that you want to target you need to design a particular regulator a particular protein that will match that region well there's
+01:34:31 another technology called talens which are basically you know just a different way of using
+01:34:38 proteins to sort of you know guide these cutters to a particular location of the genome these require a massive team of engineers
+01:34:46 of biological engineers to basically design a set of amino acids that will target a particular sequence
+01:34:51 of your genome the reason why crispr is amazingly awesomely revolutionary
+01:34:57 is because instead of having this team of engineers design a new set of proteins for every
+01:35:02 locker that you want to target you just type it in your computer and you just synthesize an rna guide
+01:35:09 the beauty of crispr is not the cutting it's not the fixing all of that was there before it's the guiding
+01:35:15 and the only thing that changes that it makes the guiding easier by sort of you know just typing in the
+01:35:21 rna sequence which then allows the system to sort of scan the dna to find that
+01:35:28 so the coding the the engineering of the cutter is easier on the  in terms of
+01:35:33 that's kind of similar to the story of deep learning versus  old school machine learning some of the
+01:35:38 some of the challenging parts are automated okay so  but crispr is just one cutting exact technology exactly and
+01:35:46 then there's that's part of the challenges and exciting opportunities of the field is to design
+01:35:52 different cutting technologies yeah yeah so now we you know this was a big parenthesis on
+01:35:57 crispr but now you you know when we were talking about perturbations you basically now have the
+01:36:03 ability to not just look at correlation between enhancers and genes but actually go and either
+01:36:10 destroy that enhancer and see if the gene changes in expression or you can use the crispr targeting system
+01:36:19 to bring in not vandalism and cutting but you can couple the crispr system with and the crispr system is called
+01:36:28 usually crispr cas9 because cast 9 is the protein that will then come and cut but there's a version of that protein
+01:36:35 called dead cast 9 where the cutting part is deactivated so you basically use d cas9 dead cas9
+01:36:43 to bring in an activator or to bring in a repressor so you can now ask is this enhancer changing that gene
+01:36:51 by taking this modified crispr which is already modified from the bacteria to be used in humans that you
+01:36:56 can now modify the cast 9 to be dead cas9 and you can now further modify it to bring in a regulator
+01:37:02 and you can basically turn on or turn off that enhancer and then see what is the impact on that gene
+01:37:08 so these are the four ways of linking the locus to the target gene and that's step
+01:37:13 number five okay step number five is find the target gene and step number six is
+01:37:19 what the heck does that gene do you basically now go and manipulate that gene to basically see what are the processes
+01:37:27 that change and you can basically ask well you know in this particular case in the fto locus
+01:37:34 we found mesenchymal stem cells that are the progenitors of white fat and brown fat or beige fat
+01:37:42 we found the rs-1421085 nucleotide variant as the causal variant we found this
+01:37:49 large enhancer this master regulator i like to call it ob1 for  obesity one like the strongest
+01:37:55 enhancer associated with whatever and ob1 was kind of chubby as the actor i don't know if you remember him
+01:38:02 yeah so you basically are using this jedi mind trick to basically find out the 
+01:38:07 thank you the location of the genome that is responsible the enhancer that harbors it the motif
+01:38:15 the upstream regulator which is arid 5b for 80 rich interacting domain 5b that's a protein that sort of comes and
+01:38:21 binds normally that protein is normally a repressor it represses this super enhancer this
+01:38:27 massive 12 000 nucleotide master regulatory control region and it turns off irx3 which is a gene that's 600 000
+01:38:34 nucleotides away and irix 5 which is 1.2 million nucleotides away
+01:38:39 so those are what's the effect of turning them off that's exactly the next question so step six is what do
+01:38:45 these genes actually do so we then ask what does rx3 and rx5 do the first thing we did is look across
+01:38:52 individuals for individuals that had higher expression of rx3 or lower expression rx3
+01:38:56 and then we looked at the expression of all of the other genes in the genome and we look for simply correlation and
+01:39:03 we found that iric 3 and rx-5 were both correlated positively with lipid metabolism and negatively with mitochondrial
+01:39:14 biogenesis you're like what the heck does that mean it doesn't sound related to obesity not
+01:39:20 at all superficially but lipid metabolism should because lipids is these high energy molecules that
+01:39:27 basically store fat so hyer extreme and rx5 are negatively correlated with lipid
+01:39:34 metabolism so that basically means that when they turn on lipid metabolism positively when they
+01:39:39 turn on they turn on lipid metabolism and they're negatively correlated with
+01:39:45 mitochondrial biotins what do mitochondria do in this whole process again small
+01:39:52 parenthesis what are mitochondria mitochondria are little organelles they arose they only are found in
+01:40:02 eukaryotes u means good karyo means nucleus so truly like a true nucleus so eukaryotes have a nucleus
+01:40:09 prokaryotes are before the nucleus they don't have a nucleus so eukaryotes have a nucleus compartmentalization
+01:40:19 eukaryotes have also organelles some eukaryotes have chloroplasts these are the plants they photosynthesize
+01:40:29 some other eukaryotes like us have another type of organelle called mitochondria these
+01:40:37 arose from an ancient species that we engulfed this is an endosymbiosis event symbiosis bio means life sim
+01:40:48 means together so symbiotes are things that live together endosymbiosis endomeans inside so
+01:40:53 endosymbiosis means you live together holding the other one inside you so the pre-eukaryotes engulfed
+01:41:04 an organism that was very good at energy production and that organism eventually shed most of its genome
+01:41:13 to now have only 13 genes in the mitochondrial genome and those 13 genes are all involved in
+01:41:20 energy production the electron transport chain so basically electrons are these massive super energy
+01:41:28 rich molecules we basically have these organelles that produce energy and when your muscle exercises
+01:41:37 you basically multiply your mitochondria you basically sort of you know use more and more mitochondria
+01:41:43 and that's how you get beefed up so basically the m the muscle sort of learns how to generate more energy
+01:41:49 so basically every single time your muscles will you know overnight regenerate and sort of become stronger
+01:41:53 and amplify their mitochondrions and so forth so what does mitochondria do the mitochondria use energy to sort of do any kind of task
+01:42:04 when you're thinking you're using energy this energy comes from mitochondria your neurons have mitochondria all over
+01:42:10 the place basically this mitochondria can multiply as organelles and they can be spread along the body of your muscle
+01:42:16 some of your muscle cells have actually multiple nuclei they're polynucleated but they also have multiple mitochondria
+01:42:21 to basically  deal with the fact that your muscle is enormous you can sort of span this super
+01:42:26 super long length and you need energy throughout the length of your muscle so that's why you
+01:42:31 have mitochondria throughout the length and you also need transcription through the length so you have multiple nuclei
+01:42:34 as well so these two processes lipids store energy what do mitochondria
+01:42:43 do so there's a process known as thermogenesis thermoheat genesis generation thermogenesis is
+01:42:50 generation of heat remember that bathtub with in and out that's the equation that
+01:42:56 everybody's focused on so how much energy do you consume how much energy you burn
+01:43:03 but in every thermodynamic system there's three parts to the equation there's energy in
+01:43:10 energy out and energy lost any machine has loss of energy how do you lose energy you
+01:43:17 emanate heat so heat is energy loss so there's which is where the thermogenesis
+01:43:27 comes in thermogenesis is actually a regulatory process that modulates the third component of the
+01:43:33 thermodynamic equation you can basically control thermogenesis explicitly you can turn on and turn off
+01:43:39 thermogenesis and that's where the mitochondria comes into exactly so irix 3 and rx5 turn out to be the
+01:43:46 master regulators of a process of thermogenesis versus lipogenesis generation of fat so irex
+01:43:55 and rx5 in most people burn heat burn burn calories as heat so when you eat too much
+01:44:01 just burn it burn it off in your in your fat cells so if that bathtub has basically a sort of dissipation
+01:44:10 knob that most people are able to turn on i am unable to turn that on because i am a homozygous carrier
+01:44:19 for the mutation that changes a t into a in the rs1421085 allele a locus a snip i have the risk allele twice from
+01:44:28 my mom and for my dad so i'm unable to thermogenize i'm unable to turn on thermogenesis
+01:44:35 through irix 3 and rx5 because the regulator that normally binds here r85b can no longer buy
+01:44:41 because it's an 80 rich interacting domain and as soon as i change the t into a c it can no longer bind because
+01:44:47 it's no longer at rich but doesn't that mean that you're able to use the energy more efficiently
+01:44:54 you're not generating heat or is it that means that i can eat less and get around just fine yes yeah so
+01:45:00 that's a feature actually it's a feature in a food scarce environment yeah but if we're all starving i'm doing
+01:45:06 great if we all have access to massive amounts of food i'm i'm obese basically that's taken us
+01:45:11 through the entire process of then understanding that why mitochondria and then the lipids are both
+01:45:19 no distant or somehow different size of the same coin and you basically choose to store energy
+01:45:23 or you can choose to burn energy and then all of that is involved in the puzzle of obesity
+01:45:29 and that's what's fascinating right here we are in 2007 discovering the strongest genetic
+01:45:34 association with obesity and knowing nothing about how it works for almost 10 years
+01:45:40 for 10 years everybody focused on this fto gene and they were like oh it must have to do
+01:45:45 something with you know rna modification and it's like no it has nothing to do with the function of fto
+01:45:52 it has everything to do with all of this other process and suddenly the moment you solve that
+01:45:57 puzzle which is a multi-year effort by the way and tremendous effort by melina and many many others
+01:46:03 so this tremendous effort basically led us to recognize this circuitry you went from having some
+01:46:11 89 common variants associated in that region of the dna sitting on top of this gene to knowing
+01:46:17 the whole circuitry when you know the circuitry you can now go crazy you can now start
+01:46:24 intervening at every level you can start intervening at the arid 5b level you can start intervening with
+01:46:29 crispr cas9 at the single snip level you can start intervening at iraq 3 and rx5
+01:46:35 directly there you can start intervening at the thermogenesis level because you know the pathway
+01:46:39 you can start interviewing at the at the differentiation level where these the decision to make
+01:46:46 either white fat or beige fat the energy burning base fat is made developmentally in the first
+01:46:52 three days of differentiation of your adipocytes so as they're differentiating you basically
+01:46:57 can choose to make fat burning machines or fat storing machines and sort of that's how you populate your your fat
+01:47:03 you basically can now go in pharmaceutically and do all of that and in our paper we actually did all of that
+01:47:11 we went in and manipulated every single aspect at the nucleotide level we used crispr cast 9 genome editing to
+01:47:16 basically take primary adipocytes from risk and non-risk individuals
+01:47:23 and show that by editing that one nucleotide out of 3.2 billion nucleotides in the human genome
+01:47:29 you could then flip between an obese phenotype and a lean phenotype like a switch you can basically take a micelles that
+01:47:34 are non-thermogenizing and just flipping to thermogenizing cells by changing one nucleotide
+01:47:41 it's mind-boggling it's so inspiring that this puzzle could be solved in this way and it feels
+01:47:47 within reach to then be able to crack the problem with some of these diseases what are
+01:47:54 so 2007 you mentioned 2000 what are the technologies the tools that came along that made this possible like what
+01:48:02 what are you excited about maybe if we just look at the buffet of things that you've kind of mentioned is there is
+01:48:07 this what's involved what should we be excited about what are you excited about
+01:48:13 i love that question because there's so much ahead of us there's so so much there's
+01:48:20  so so basically solving that one locus required massive amounts of knowledge that we have been building across the years
+01:48:27 through the epigenome through the comparative genomics to find out the causal variant and the
+01:48:33 control the controller regulatory motif through the conserved circuitry it required knowing this regulatory
+01:48:38 genomic wiring it required high c of these sort of topologically associated domains to
+01:48:43 basically find this long-range interaction it required eqtls of this sort of genetic perturbation of these intermediate
+01:48:52 gene phenotypes it required all of the arsenal of tools that i've been describing was put together for one locus and this
+01:48:59 was a massive team effort huge you know investment in time energy money effort intellectual you
+01:49:06 know everything you're referring to i'm sorry this one basically yeah this one piece
+01:49:11 this one single paper at least one single locus i like to say that this is a paper about one nucleotide in the
+01:49:17 human genome about one bit of information c versus t in the human genome that's one bit of information and we have 3.2 billion
+01:49:25 nucleotides to go through so how do you do that systematically i am so excited about the next phase of research
+01:49:34 because the technologies that my group and many other groups have developed allows us to now do this systematically
+01:49:40 not just one locus at a time but thousands of loci at a time so let me describe some of
+01:49:47 these technologies the first one is automation and robotics so basically you know we talked about
+01:49:56 how you can take all of these molecules and see which of these molecules are targeting each of
+01:50:01 these genes and what do they do so you can basically now screen through millions of molecules
+01:50:07 through thousands and thousands and thousands of plates each of which has thousands and thousands and thousands of molecules
+01:50:16 every single time testing you know all of these genes and asking which of these molecules perturb these
+01:50:23 genes so that's technology number one automation and robotics technology number two
+01:50:29 is parallel readouts so instead of perturbing one locus and then asking if i use crispr cast 9
+01:50:35 on this enhancer to basically use dcas9 to turn on or turn off the enhancer
+01:50:41 or if i use crystal cast 9 on the snip to basically change that one snip at a time then what
+01:50:47 happens but we have 120 000 disease associated snips that we want to test
+01:50:54 we want we don't want to spend 120 000 years doing it so what do we do we've basically
+01:51:01 developed this technology for massively parallel reporter assays mpra so in collaboration with
+01:51:10 tarzan mickelson mary flanders i mean jason dura's group has done a lot of that so there's
+01:51:13 there's a lot of groups that basically have developed technologies for testing 10 000 genetic variants at a time
+01:51:23 how do you do that you you know we talked about micro array technology the ability to synthesize
+01:51:29 these huge microarrays that allow you to do all kinds of things like measure gene expression by hybridization
+01:51:36 by measuring the genotype of a person by looking at hybridization with one version with a t versus the other
+01:51:40 version with the t with an with a c and then sort of figuring out that i am
+01:51:45 a risk carrier for obesity based on these hybridization differential hybridization in my genome
+01:51:50 that says oh you seem to only have this allele or you seem to have that allele microarrays can also be used to
+01:51:58 systematically synthesize small fragments of dna so you can basically synthesize these 150
+01:52:05 nucleotide long fragments across 450 000 spots at a time you can now take the result of that synthesis
+01:52:15 which basically works through all of these sort of layers of adding one nucleotide at a time
+01:52:19 you can basically just type it into your computer and order it and you can basically order 10
+01:52:31 dna segments at a time and that's where awesome molecular biology comes in you can basically take all these
+01:52:37 segments have a common start and end barcode or sort of like gator like you just like pieces of a puzzle
+01:52:44 you can make the same end piece and the same start piece for all of them and you can now use
+01:52:52 plasmids which are these extra chromosomal small dna circular segments that are basically inhabiting all our
+01:53:01 all our genomes we basically have you know plasmids floating around i mean bacteria use plasmids
+01:53:07 for transferring dna and that's where they put a lot of antibiotic resistance genes so they can easily transfer them
+01:53:13 from one but one bacterium to the other so one bacterium involves a gene to be resistant to
+01:53:19 a particular antibiotic it basically says to all its friends hey here's that sort of dna piece we can now co-opt
+01:53:28 these plasmids into human cells you can basically make a human cell culture and add plasmids to that human cell culture that contain
+01:53:38 the things that you want to test you now have this library of 450 000 elements you can insert them each into the common
+01:53:45 plasmid yeah and then test them in millions of cells in parallel
+01:53:50 and the common plasmid is all the same before you add it exactly the rest of the plasmid is the same
+01:53:56 so it's it's called an episomal reporter assay episome means not inside the genome it's sort of outside
+01:54:03 the chromosomes so it's an episomal assay that allows you to have a variable region where you basically test
+01:54:09 10 000 different enhancers and you have a common region which basically has the same reporter gene
+01:54:15 you know some can do some very cool molecular biology you can basically take the 450 000
+01:54:21 elements that you've generated and and you have a piece of the puzzle here a piece of the puzzle here which is
+01:54:24 identical so they're compatible with that plasmid you can chop them up in the middle
+01:54:31 to separate a barcode reporter from the enhancer and in the middle put the same gene again using the same pieces of the puzzle
+01:54:39 you now can have a barcode readout of what is the impact of 10 000 different versions of an enhancer
+01:54:47 on gene expression so we're not doing one experiment we're doing 10 000 experiments and those ten thousand can be five thousand
+01:54:56 of different loci and each of them in two versions risk or non-risk i can now test
+01:55:04 tens of these little hypotheses exactly and then you can do ten thousand and we can test ten thousand hypothesis at once
+01:55:10 how how hard is it to generate those ten thousand  trivial trivial but it's biology no no generating the ten thousand is
+01:55:18 trivial because you basically add it by technology you basically have these arrays
+01:55:24 that that add one nucleotide at a time at every spot oh and yeah so it's printing in it so
+01:55:28 you're able to you're able to control yeah  super costly is it ten thousand bucks so this isn't millions
+01:55:36 thousand bucks for ten thousand experiments sounds like the right you know i mean so that's super that's exciting
+01:55:42 because you don't have to do one thing at a time yeah you can now use that technology these
+01:55:47 massively parallel reporter assays to test 10 000 locations at a time we've made multiple modifications of that
+01:55:55 technology one was sharper mpra which stands for you know basically getting
+01:56:06 a higher resolution view by tiling these these elements so you can see where along the
+01:56:15 region of control are they acting and we made another modification called hydra for
+01:56:23 high you know definition regulatory annotation or something like that which basically allows you to
+01:56:30 test seven million of these at a time by sort of cutting them directly from the dna so instead of synthesizing which
+01:56:36 basically has the limit of 450 000 that you can synthesize at a time we basically said hey if we want to test
+01:56:42 all accessible regions of the genome let's just do an experiment that cuts accessible regions
+01:56:47 let's take those accessible regions put them all with the same end joints of the puzzles and then now use
+01:56:53 those to create a much much larger much much larger  array of things that you can test and
+01:57:01 then tiling all of these regions you can then pinpoint what are the driver nucleotides what are the elements how are they
+01:57:06 acting across seven million experiments at a time so basically this is all the same family of
+01:57:12 technology where you're basically using these parallel readouts of the barcodes and then you know to do this we used a
+01:57:20 technology called starseek for self-transcribing  reporter asses a technology developed by alex stark
+01:57:28 my my former postdoc who's now api over in vienna so we basically coupled the starsig the self-transcribing
+01:57:37  reporters where the enhancer can be part of the the gene itself so instead of having a separate barcode
+01:57:42 that enhancer basically acts to turn on the gene and it's transcribed as part of the gene so you don't have to
+01:57:47 have the two separate parts exactly so you can just read them so there's a constant improvements in
+01:57:52 this whole process yes by the way generating all these options are is it basically brute force
+01:57:59  how much human intuition is oh gosh of course it's human intuition and human creativity and incorporating
+01:58:04 all of the input data sets because again the the genome is enormous
+01:58:10 3.2 billion you don't want to test that instead you basically use all of these tools that i've
+01:58:15 talked about already you generate your top favorite 10 000 hypothesis and then you go and
+01:58:20 test all ten thousand and then from what what comes out you can then go go to the next step
+01:58:25 so that's technology number two so technology one number one is robotics automation where you have thousands of
+01:58:31 wells and you constantly test them the second technology is instead of having wells you have these massively
+01:58:37 parallel readouts in sort of these pooled asses the third technology is coupling crispr perturbations
+01:58:49 with these single cell rna readouts so let me make another parenthesis here
+01:58:55 to describe now single cell rna sequencing okay so what does single cellular sequencing mean so
+01:59:03 rna sequencing is what has been traditionally used oh well traditionally the last 20 years
+01:59:09 ever since the advent of next generation sequencing so basically before rna expression profiling was based on
+01:59:14 this microarrays the next technology after that was based on sequencing so you chop up your rna
+01:59:21 and you just sequence small molecules just like you would sequence the genome basically
+01:59:25 reverse transcribe the small rnas into dna and you sequence that dna in order to get the number of sequencing reads
+01:59:35 corresponding to the expression level of every gene in the genome you now have rna sequencing how do you
+01:59:42 go to single cell rna sequencing that technology also went through stages of evolution
+01:59:48 the first was microfluidics you basically had these or even even chambers you
+01:59:52 basically had these ways of isolating individual cells putting them into a well for every one
+01:59:57 of these cells so you have 384 well plates and you know do 384
+02:00:02 parallel reactions to measure the expression of 384 cells that sounds amazing and it was amazing
+02:00:09 but we want to do a million cells how do you go from you know these wells to a million cells you can't
+02:00:17 so what what what the next technology was after that is instead of using a well for every
+02:00:22 reaction you now use a lipid droplet for every reaction so you use micro droplets as reaction chambers
+02:00:33 to basically amplify rna so here's the idea you basically have microfluidics where you basically have
+02:00:38 every single cell coming down one tube in your microfluidics and you have little
+02:00:44 bubbles getting created in the other way with specific primers that mark every cell with its own barcode
+02:00:51 you basically couple the two and you end up with little bubbles that have a cell and tons of markers for that cell
+02:00:59 you now mark up all of the rna for that one cell with the same exact barcode and you then lice all of the droplets
+02:01:08 and you sequence the heck out of that and you have for every rna molecule a unique identifier that tells you what
+02:01:13 cell was it on that is such good engineering microfluidics and  using some kind of primer to put it put
+02:01:22 up put a label on the thing i mean i don't you're making it sound easy i assume it's it's beautiful right
+02:01:27 challenging but it's gorgeous yeah so there's the next generation engineering yeah so that's the second generation
+02:01:32 next generation is forget the microfluidics all together just use big bottles how can you possibly do that with big
+02:01:39 bottles so here's the idea you dissociate all of your cells or all of your nuclei
+02:01:44 from complex cells like brain cells that you know are very long and sticky so you can't do that
+02:01:49 so you know if you have blood cells or if you have you know neuronal nuclei or brain nuclei
+02:01:54 you can basically dissociate let's say a million cells you now want to add a unique barcode a
+02:02:00 unique barcode in each one of a million cells using only big bottles i can't possibly do that sounds crazy
+02:02:07 but here's the idea you use a hundred of these bottles you randomly shuffle all your million cells
+02:02:14 and you throw them into the hundred bottles randomly completely random you add one barcode out of 100 to every
+02:02:21 one of those cells you then you now take them all out you shuffle them again
+02:02:25 and you throw them again into the same hundred bottles but now in a different randomization
+02:02:34 and you add a second barcode so every cell now has two barcodes you take them out again
+02:02:39 you shuffle them and you throw them back in another third barcode is adding randomly from
+02:02:47 the same hundred barcodes you've now labeled every cell probabilistically based on the unique path that he took of
+02:02:55 which of a hundred bottles to go for the first time which of 100 bottles a second time and
+02:03:00 which of 100 bottles a third time a hundred times 100 times 100 is a million unique barcodes
+02:03:07 in every single one of these cells without ever using microfluidic very clever that's beautiful right computer
+02:03:13 science perspective that's very clever so you now have the single cell sequencing technology you can use the
+02:03:17 wells you can use the bubbles or you can use the bottles and you know sort of
+02:03:23 you have way bubbles still sound pretty damp because bubbles are awesome and that's basically the main technology
+02:03:27 that we're using okay so the evolves is the main technology so so there are kids now that companies
+02:03:32 to sell to basically carry out single cell or any sequencing that you know you can
+02:03:37 basically for two thousand dollars you can basically get ten thousand cells from one sample
+02:03:44 and for every one of those cells you basically have the transcription of thousands of genes and
+02:03:51 you know of course the data for any one cell is noisy but being computer scientists we can aggregate the data from all of
+02:03:57 those cells together across thousands of individuals together to basically make very robust inferences
+02:04:04 okay so the third technology is basically single cell rna sequencing that allows you to now
+02:04:08 start asking not just what is the brain expression level difference of that genetic variant
+02:04:15 but what is the expression difference of that one genetic variant across every single subtype of brain cell
+02:04:24 how is the variance changing you can't just you know with a brain sample you can just ask about the mean
+02:04:30 what is the average expression if i instead have 3 000 cells that are neurons
+02:04:37 i can ask not just what is the neuronal expression i can say for layer 5 excitatory neurons of which i have i don't know 300 cells
+02:04:45 what is the variance that this genetic variant has so suddenly it's amazingly more powerful i can
+02:04:51 basically start asking about this middle layer of gene expression at unprecedented levels
+02:04:57 and when you look at the average it washes out some potentially important signal that corresponds to
+02:05:04 ultimately the disease completely yeah so that i can do that at the rna level but i can also do that at the dna level
+02:05:11 for the epigenome so remember how before i was telling you about all these technologies we're using
+02:05:15 to probe the epigenome one of them is dna accessibility so what we're doing in my lab is that from the same
+02:05:23 dissociation of say a brain sample where you now have all these tens of thousands of cells floating around
+02:05:28 you basically take half of them to do rna profiling and the other have to do epigenome
+02:05:33 profiling both at the single cell level so that allows you to now figure out what are
+02:05:39 the millions of dna enhancers that are accessible in every one of tens of thousands of cells
+02:05:46 and computationally we can now take the rna and the dna readout and group them together to
+02:05:51 basically figure out how is every enhancer related to every gene and remember these
+02:05:59 sort of enhancer gene linking that we were doing across 833 samples 833 is awesome don't get me wrong but
+02:06:08 10 million is way more awesome so we can now look at correlated activity across 2.3 million enhancers and 20 000 genes
+02:06:16 in each of millions of cells to basically start piecing together the regulatory circuitry
+02:06:22 of every single type of neuron every single type of astrocytes oligodendrocyte microglial cell inside the brains of
+02:06:31 1500 individuals that we've sampled across multiple different brain regions across both dna and rna
+02:06:38 so that's the data set that my team generated last year alone so in one year we basically generated 10
+02:06:43 million cells from human brain across a dozen different disorders
+02:06:50 across schizophrenia alzheimer's frontal temporal dementia louis body dementia als you know huntington's disease
+02:06:59 post-traumatic stress disorder autism like you know bipolar disorder healthy aging etc so it's possible that
+02:07:06 even just within that data set lie a lot of keys to understanding these diseases
+02:07:16 and then be able to like directly leads to then treatment correct correct so basically we are now
+02:07:23 motivating yeah so our computational team is in heaven right now and we're looking for people i mean if
+02:07:28 you have super how much does this decision so this is a very interesting kind of side question
+02:07:34 how much of this is biology how much of this is computation so you have the computational biology
+02:07:39 group but how much of are you should should you be comfortable with biology
+02:07:47 to be able to solve some of these problems if you just find if you put several of the hats you were on
+02:07:54 fundamentally are you thinking like a computer scientist here you have to this is the only way
+02:08:01 as i said we are the descendants of the first digital computer we're trying to understand the digital computer we
+02:08:05 understand we're trying to understand the circuitry the logic of this digital you know core computer
+02:08:12 and all of these analog layers surrounding it so you you know the case that i've been
+02:08:18 making is that you cannot think one gene at a time the traditional biology is dead there's
+02:08:23 no way you cannot solve disease with traditional biology you need it as a component once you've
+02:08:29 figured out rx3 and rx5 you now can then say hey have you guys worked on those genes with your single
+02:08:33 gene approach we'd love to know everything you know and if you haven't we now know how
+02:08:38 important these genes are let's now launch a single gene program to dissect them and understand them
+02:08:45 but you cannot use that as a way to dissect disease you have to think genomically you have to think from the global
+02:08:51 perspective and you have to build these circuits systematically so we need numbers of computer scientists who are
+02:08:58 interested and willing to dive into this data you know fully fully in
+02:09:05 and sort of extract meaning we need computer science people who can understand sort of machine learning and
+02:09:11 inference and sort of you know decouple these matrices come up with super smart ways of sort of
+02:09:16 dissecting them but we also need by all computer scientists who understand biology
+02:09:22 who are able to design the next generation of experiments because many of these experiments no one
+02:09:28 in the right mind would design them without thinking of the analytical approach that you would use to
+02:09:32 deconvolve the data afterwards right because it's massive amounts of ridiculously noisy data
+02:09:38 and if you don't have the computational pipeline in your head before you even design the experiment you would never design the
+02:09:44 experiment that way that's brilliant so you in designing the experiment you have to see the entirety
+02:09:50 of the computational pipeline that drives the design that that even drives the necessity for
+02:09:55 that design basically you know if you didn't have a computer scientist way of thinking
+02:10:02 you would never design these hugely combinatorial massively parallel experiments so that's why you need interdisciplinary
+02:10:10 teams you need teams and and i want to i want to sort of clarify that what do we mean by
+02:10:15 computational biology group the focus is not on computational the focus is on the biology
+02:10:21 so we are a biology group what type of biology computational biology yeah the type of biology that uses the whole genome that's the
+02:10:29 type of biology that designs experiments genomic experiments that can only be interpreted in the context of
+02:10:34 the whole genome right so it's it's philosophically looking at biology as a computer
+02:10:42 correct correct so which is a in the context of the history of biology is a big transformation
+02:10:48 yeah yeah you can think of the name as what do we do only computation that's not true but how
+02:10:53 do we study it only computationally that is true so all of these single cell sequencing
+02:11:00 can now be coupled with the technologies that we talked about earlier for perturbation so here's a crazy thing instead of using
+02:11:06 these wells and these robotic systems for doing one drug at a time
+02:11:13 or for perturbing one gene at a time in thousands of wells you can now do this using a pool of cells
+02:11:20 and single cell or any sequencing how you basically can take these perturbations using crispr
+02:11:29 and instead of using a single guide rna you can use a library of guide rnas generated exactly the same way using
+02:11:34 this array technology so you synthesize a thousand different guide rnas
+02:11:42 you now take each of these guide rnas and you insert them in a pool of cells where every cell gets one perturbation
+02:11:49 and you use crispr editing or crispr  so with either crispr cas9 to edit the gina with these thousand
+02:11:58 perturbations or the or with the activation or with the repression and you now can have a single cell readout
+02:12:07 where every single cell has received one of these modifications and you can now in massively parallel ways
+02:12:15 couple the perturbation and the readout in a single experiment how are you tracking which perturbations
+02:12:22 each cell received so there's there's ways of doing that but basically one way is to make that
+02:12:27 perturbation an expressible vector so that part of your rna reading is actually
+02:12:33 that perturbation itself so you can basically put it in a expressible part so you can self-drive it
+02:12:39 so the the point that i want to get across is that the sky is the limit you basically have these tools these
+02:12:46 building blocks of molecular biology you have this massive data sets of computational biology
+02:12:52 you have this huge ability to sort of use machine learning and statistical methods and you know linear algebra to sort of
+02:12:59 reduce the dimensionality of all these massive data sets and then you end up with a series of
+02:13:08 actionable targets that you can then couple with pharma and just go after systematically so the ability to sort of bring genetics
+02:13:18 to the epigenomics to the transcriptomics to the cellular readouts using these sort of high throughput
+02:13:24 perturbation technology that i'm talking about and ultimately to the organismal through the electronic health record endophenotypes
+02:13:33 and ultimately the disease battery of assays at the cognitive level at the physiological level
+02:13:41 and you know every other level this there is no better or more exciting field in my view
+02:13:47 to be a computer scientist then or to be a scientist in period basically this confluence of
+02:13:52 technologies of computation of data of insight and of tools for manipulation is unprecedented in human history and i
+02:14:00 think this is what's shaping the next century to really be a transformative century for our species
+02:14:09 and for our planet so you think the 21st century will be remembered for
+02:14:14 the big leaps in biology and understanding and alleviation of biology if you look at
+02:14:20 the path between discovery and therapeutics it's been on the order of 50 years
+02:14:27 it's been shortened to 40 30 20 and now it's on the order of 10 years but the huge number of technologies that are
+02:14:35 going on right now for discovery will result undoubtedly in the most dramatic manipulation of human biology
+02:14:42 that we've ever seen in the history of humanity in the next few years do you think we might be able
+02:14:47 to cure some of the diseases we started this conversation with absolutely absolutely it's it's only a
+02:14:55 matter of time basically the complexity is enormous and i don't want to underestimate the complexity
+02:15:00 but the number of insides is unprecedented and the ability to manipulate is unprecedented and the ability to deliver
+02:15:08 these small molecules and other non-traditional medicine perturbations there's a lot of sort of new gen there's
+02:15:14 a new generation of perturbations that you can use at the dna level at the rna level
+02:15:21 at the you know microrna level  the genomic level there's there's a battery of new
+02:15:26 generations of perturbations if you couple that with cell type identifiers that can basically sense when you are in
+02:15:33 the right cell based on the specific combination and then turn on that intervention for that cell
+02:15:38 you can now think of combinatorial interventions where you can basically sort of feed a synthetic biology construct to someone
+02:15:46 that will basically do different things in different cells so basically for cancer this is one of
+02:15:50 the therapeutics that our collaborator ron weiss is using to basically start sort of engineering
+02:15:55 these circuits that will use microrna sensors of the environment to sort of know if you're in a tumor cell
+02:16:00 or if you're in an immune cell or if you're in stromal cells and so forth and basically turn on particular
+02:16:05 interventions there you can sort of create constructs that are tuned to only the liver cells or only the heart cells
+02:16:12 or only the you know  you know brain cells and then have these new generations of
+02:16:19 therapeutics coupled with this immense amount of knowledge on the sort of which targets to choose and what biological
+02:16:25 processes to measure and how to intervene my view is that disease is going to be fundamentally altered and alleviated
+02:16:38 next time we talk we'll talk about the philosophical implications that the effect of life but let's stick to biology
+02:16:44 for just a little longer we did pretty good today we still stuck to the science what what are you excited in terms of 
+02:16:54 the future of this of this field the technologies in your own group in your own mind you're leading the world at mit in the science
+02:17:04 and the engineering of this work so what are you excited about here i could not be more excited
+02:17:10 we are one of many many teams who are working on this in my team the most exciting parts are um
+02:17:18 you know manifold so basically we've now assembled this battery of technologies we've assembled these massive massive
+02:17:23 data sets and now we're really sort of in the stage of  our our team's path of generating disease insights so we are
+02:17:34 simultaneously working on a paper on schizophrenia right now that is basically using the single cell
+02:17:38 profiling technologies using this editing and manipulation technologies to basically show how the
+02:17:46 master regulators underlying changes in the brain that are sort of found in in
+02:17:50 schizophrenia are in fact affecting excitatory neurons and inhibitory neurons in pathways
+02:17:57 that are active both in synaptic pruning but also in early development we've basically found a set of four regulators
+02:18:03 that are connecting these two processes that were previously separate in schizophrenia in sort of having
+02:18:10 a sort of more unified view across those two those two sides the second one is in the in the
+02:18:16 area of metabolism we basically now have a beautiful collaboration with the goodyear lab that's basically looking at
+02:18:24 multi-tissue perturbations in six or seven different tissues across the body
+02:18:30 in the context of exercise and in the context of nutritional interventions using both mouse and human
+02:18:38 where we can basically see what are the cell to cell communications that are that are changing across them
+02:18:43 and what we're finding is this immense role of both immune cells as well as
+02:18:49 adipocyte stem cells in sort of reshaping that circuitry of all of these different tissues
+02:18:54 and that sort of painting to a new path for therapeutical interventions there in alzheimer's it's this huge focus on microglia
+02:19:02 and now we're discovering different classes of microglial cells that are basically either synaptic or
+02:19:11 immune and these are playing vastly different roles in alzheimer's versus in schizophrenia
+02:19:18 and what we're finding is this immense complexity as you go further and further down of how in fact there's 10 different types
+02:19:26 of microglia each with their own sort of expression programs we used to think of them as oh yeah they're microglia
+02:19:32 but in fact now we're realizing just even in that sort of least abundant of cell types there's
+02:19:39 this incredible diversity there the differences between brain regions is is another
+02:19:44 sort of major major insight again you know one would think that oh astrocytes are astrocytes no matter
+02:19:49 where they are but no there's incredible region-specific differences in the expression patterns of all of the
+02:19:56 major brain cell types across different brain regions so basically there's the neocortical
+02:20:00 regions that are sort of the recent innovation that makes us so different from all other species there's the sort of
+02:20:06 you know reptilian brain sort of regions that are sort of much more  you know very extremely distinct
+02:20:11 there's a cerebellum there's each of those basically is associated in a different way
+02:20:18 with disease and what we're doing now is looking into pseudotemporal models for how disease progresses
+02:20:25 across different regions of the brain if you look at alzheimer's it basically starts in this
+02:20:29 small region called the enter rhino cortex and then it spreads through the brain and  you know
+02:20:35 through the hippocampus and you know the  ultimately affecting the neocortex and with every brain region
+02:20:41 that it hits it basically has a different impact on the cognitive and you know memory aspects orientation
+02:20:52 short-term memory long-term memory etc which is you know dramatically affecting the
+02:20:57 cognitive path that the individuals go through so what we're doing now is creating these computational models for ordering
+02:21:06 the cells and the regions and the individuals according to their ability to predict alzheimer's disease
+02:21:13 so we can have a cell level predictor of pathology that allows us to now create a temporal time course that tells us
+02:21:20 when every gene turns on along this pathology progression and then trace that across
+02:21:26 regions and pathological measures that are region-specific but also cognitive measures and so so
+02:21:30 forth so that allows us to now sort of for the first time look at can we actually do
+02:21:36 early intervention for alzheimer's where we know that the disease starts manifesting for 10 years before
+02:21:42 you actually have your first cognitive loss can we start seeing that path to build new diagnostics new prognosis new biomarkers
+02:21:52 for this sort of early intervention in alzheimer's the other aspect that we're looking at is mosaicism we talked about the common
+02:21:59 variants and the rare variants but in addition to those rare variants as your
+02:22:05 initial cell  that that forms the zygote divides and divides and divides with every cell division there are
+02:22:12 additional mutations that are happening so what you end up with is your brain being a mosaic
+02:22:17 of multiple different types of genetic underpinnings some cells contain imitation that other cells don't have
+02:22:26 so every human has the common variant that all of us carry to some degree
+02:22:32 the rare variant that your immediate tree of the human species carries and then there's the somatic variant which is the tree
+02:22:41 that happened after the zygote that sort of forms your own body so these somatic alterations is
+02:22:48 something that has been previously inaccessible to study in human postmortem samples but right now with the advent of single
+02:22:57 cell rna sequencing in this particular case we're using the well-based sequencing which is much more
+02:23:01 expensive but gives you a lot richer information about each of those transcripts so we're using now that richer information
+02:23:09 to infer mutations that have happened in each of the thousands of genes that sort of are active
+02:23:16 in these cells and then understand how the genome relates to the function this genotype
+02:23:25 phenotype relationship that we usually build in geos between genomic association studies between
+02:23:31 genetic variation and disease we're now building that at the cell level where for every cell we can relate
+02:23:38 the unique specific genome of that cell with the expression patterns of that cell and the predicted function using these
+02:23:44 predictive models that i mentioned before on this regulation for cognition for pathology
+02:23:50 in alzheimer's at the cell level and what we're finding is that the genes that are altered and the
+02:23:55 genetic regions that are altered in common variants versus rare variant versus somatic variant
+02:24:00 are actually very different from each other the somatic variants are pointing to neuronal energetics and oligodendrocyte functions
+02:24:10 that are not visible in the genetic lesions that you find for the common variants probably because they have too strong of
+02:24:16 an effect that evolution is just not tolerating them on the common side of the allele
+02:24:21 frequency spectrum so the somatic one that's the variation that happens after the the zygo after
+02:24:27 correct you individual i mean it's a dumb question but there's there's mutation and variation i
+02:24:32 guess that happens there and you're saying that they're through this if we focus in on
+02:24:38 individual cells we're able to detect a story that's interesting there and that might be a very unique kind of
+02:24:46 important variability that arises for you said neuronal or something energetic energetics energetic cool
+02:24:52 terms so your your i mean the metabolism of humans is dramatically altered from that of
+02:24:59 nearby species you know we talked about that last time that basically we are able to consume meat
+02:25:06 that is incredibly energy rich and that allows us to sort of have functions that are you know meeting this humongous
+02:25:14 brain that we have it's basically on one hand every one of our brain cells is much more energy
+02:25:19 efficient than our neighbors than our relatives number two we have way more of these cells
+02:25:26 and number three we have you know this new diet that allows us to now feed all these needs
+02:25:32 that basically creates a massive amount of damage oxidative damage from this huge super
+02:25:40 powered factory of ideas and thoughts that we that we carry in our skull and that factory has energetic needs
+02:25:47 and there's a lot of sort of biological processes underlying that that we are finding are altered in the
+02:25:52 context of alzheimer's disease that's fascinating that so you have to consider all of these systems
+02:25:59 if you want to understand even something like diseases that you would maybe traditionally associate with just
+02:26:05 the particular cells of the brain yeah the immune system the metabolic system the metabolic
+02:26:12 system and these are all the things that makes us uniquely human so our immune system is dramatically different from that of
+02:26:18 our neighbors our societies are so much more clustered the history of infections that have plagued
+02:26:23 the human population is you know dramatically different from every other species the the you know the way that our
+02:26:29 society in our population has sort of exploded has basically put unique pressures on our immune system and our immune system
+02:26:35 has both coped with that density and also been shaped by as i mentioned the you know vast amount
+02:26:41 of death that has happened in the black plague and other sort of selective events in human history famines ice ages and so forth
+02:26:48 so that's number one then on on the sort of immune side on the metabolic side you know again we are able to sort of
+02:26:54 run marathons you know you know i don't know if you remember the sort of human versus horse experiment
+02:26:59 where the horse actually tires out faster than the human and the human actually wins
+02:27:04 so so on the metabolic side we're dramatically different on the immune side we're dramatically different on the
+02:27:08 brain side again you know no need to sort of you know it's a no-brainer how
+02:27:15 our brain is like just enormously more capable and then  in you know in the side of cancer so basically the cancers that humans
+02:27:22 are having the exposure the environmental exposures is again dramatically different
+02:27:27 and the lifespan the expansion of human lifespan is unseen in any other species in you know recent evolutionary history
+02:27:38 and that now leads to a lot of new disorders that are starting to you know manifest late in life so  you know alzheimer's
+02:27:46 is one example where basically you know these vast energetic needs over a lifetime
+02:27:53 of thinking can basically lead to all of these debris and eventually saturate the system and
+02:27:57 lead to you know alzheimer's in in the late life but there's you know there's just such a
+02:28:04 such a dramatic  set of frontiers when it comes to aging research
+02:28:11 that you know will so what i often like to say is that if you want to re to to engineer a car
+02:28:16 to go from 70 miles an hour to 120 miles an hour that's fine you can basically you know fix a few
+02:28:21 components if you wanted to now go out 400 miles an hour you have to completely redesign the
+02:28:25 entire car because the system has just not evolved to go that far basically our human body
+02:28:34 has only evolved to live to i don't know 120 maybe we can get to 150 with minor changes but if you know as we start pushing
+02:28:42 these frontiers for not just living but well living the f zine that we talked about last time so
+02:28:49 to to basically push f zine into the 80s and 90s and 100s and you know much further than that
+02:28:57 we will face new challenges that have you know never been faced before in terms of cancer the number of
+02:29:03 divisions in terms of alzheimer's and brain related disorders in terms of metabolic disorders in terms
+02:29:08 of regeneration there's just so many different frontiers ahead of us so
+02:29:14 i am thrilled about where we're heading so basically i see this confluence in my lab and many other labs of ai
+02:29:21 of you know sort of you know the next frontier of ai for drug design so basically these sort of
+02:29:27 graph neural networks on specific chemical  designs that allow you to create new generations of therapeutics these
+02:29:38 molecular biology tricks for intervening at the system at every level this personalized medicine prediction
+02:29:47 diagnosis and prognosis using the electronic health records and using these polygenic risk scores weighted
+02:29:55 by the burden the number of mutations that are accumulating across common rare and somatic variants
+02:30:01 the burden converging across all of these different molecular pathways the delivery
+02:30:08 of specific drugs and specific interventions into specific cell types and again you've talked with bob langer
+02:30:13 about this there's you know many giants in that field and then the last concept is not
+02:30:20 intervening at the single gene level i want you to sort of conceptualize the concept of an
+02:30:27 on target side effect what is an on target side effect an off-target side effect is when you
+02:30:32 design a molecule to target one gene and instead it targets another gene and you have side effects because
+02:30:36 of that an on target side effect is when your molecule does exactly what you're expecting
+02:30:44 but that gene is pliotropic plio means many tropos means ways many ways it acts in many ways
+02:30:50 it's a multifunctional gene so you find that this gene plays a role in this but as we talked about
+02:30:56 the wiring of genes to phenotypes is extremely dense and extremely complex so the next stage of intervention will be
+02:31:03 intervening not at the gene level but at the network level intervening at the set of pathways and
+02:31:09 the set of genes with multi-input perturbations to the system multi-input modulations
+02:31:17 pharmaceutical or other interventional that basically allow you to now work at the sort of full level of understanding not
+02:31:26 just in your brain but across your body not just in one gene but across the set of pathways and so forth
+02:31:33 for every one of these disorders so i think that we're finally at the level of systems medicine of basically instead of
+02:31:39 sort of medicine being at the single gene level medicine being at the systems level where it can be personalized
+02:31:45 based on a specific set of genetic markers and genetic perturbations that you are
+02:31:50 either born with or that you have developed during your lifetime your unique set of exposures
+02:31:57 your unique set of biomarkers and you know your unique set of you know current set of
+02:32:02 conditions through your ehr and other ways and the precision component
+02:32:11 of intervening extremely precisely in the specific pathways and specific combinations of genes that
+02:32:16 should be modulated to sort of bring you from the disease state to the physiologically normal state or
+02:32:23 even to a physiologically improved state through this combination of intervention so that that's in my view the field
+02:32:28 where basically computer science comes together with you know artificial intelligence statistics all of these other tools
+02:32:34 molecular biology technologies and biotechnology and pharmaceutical technologies that are sort of
+02:32:39 in revolutionary the way of intervention and of course this massive amount of molecular biology and data gathering and
+02:32:44 generation perturbation in massively parallel ways so there's no better way there's no better
+02:32:51 you know time there's no better place to be sort of you know looking at this whole confluence
+02:32:57 of of ideas and i'm just so thrilled to be a small part of this amazing enormous ecosystem it's exciting to imagine what the humans
+02:33:05 of 100 200 years from now what their life experience is like because these ideas seem to have potential to
+02:33:14 transform the quality of life that when they look back at us they probably wonder how we were put up
+02:33:22 with all the suffering in the world manoa it's a huge honor thank you for spending this early sunday
+02:33:29 morning with me i deeply appreciate it see you next time so like a plan thank you
+02:33:34 thanks for listening to this conversation with manolas kellis and thank you to our sponsors
+02:33:42 scm rush which is an seo optimization tool pessimist archive which is one of my favorite history podcasts
+02:33:49 eight sleep which is a self-cooling mattress with smart sensors and an app and finally better help
+02:33:57 which is an online therapy service please check out the sponsors in the description to get a discount
+02:34:03 and to support this podcast if you enjoy this thing subscribe on youtube review it with five
+02:34:07 stars not a podcast follow on spotify support it on patreon or connect with me on twitter
+02:34:15 at lex friedman and now let me leave you some words from haruki murakami human beings are
+02:34:21 ultimately nothing but carriers passageways for genes they ride us into the ground like race horses from
+02:34:30 generation to generation genes don't think about what constitutes good or evil they don't care whether we're happy
+02:34:38 or unhappy we're just means to an end for them the only thing they think about is what

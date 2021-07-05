@@ -1,0 +1,5 @@
+https://gist.github.com/glasslion/b2fcad16bc8a9630dbd7a945ab5ebf5e
+https://github.com/AxelAli/VTT-Formatter/blob/master/VTT%20Formatter.py
+https://stackoverflow.com/questions/18953499/youtube-api-to-fetch-all-videos-on-a-channel
+
+youtube-dl --write-auto-sub --ignore-errors --skip-download -o "C:\Programs\STT\subs\vttsubs\ %(id)s"^"%(uploader)s"^"%(title)s"^"%(upload_date)s"

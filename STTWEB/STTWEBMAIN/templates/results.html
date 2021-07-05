@@ -1,0 +1,42 @@
+{% load static %}
+    <div class="form__group field">
+    <form id="deep_search_form">
+<!--        <label for="search">Results for </label>-->
+    <input type="text" placeholder="Search in video" class="form__field" name="search" value={% if search %} "{{search}}" {% else %} {% endif %}>
+    <input type="hidden" name="video_id" value="{{ video_id}}">
+<!--        <input type="submit" id="deep_search_button">-->
+    </form>
+        <hr style="margin: 0px;">
+    <br>
+    </div>
+
+
+{% for result in search_detailed %}
+    {% if result.4 != 'full' %}
+        {{ result.1 }}<br><button onclick="seek({{result.0}})"class="button_similar">{{ result.2 }}</button><br><br>
+    {% endif %}
+{% endfor %}
+
+    <script>
+$("#deep_search_form").on("submit", function (e) {
+e.preventDefault();
+$.ajax({
+        url: '/get-data',
+        type: 'get',
+        data: $("#deep_search_form").serialize(),
+        success: function(response) {
+            $('.results').html('').load(response);
+            $('#results').html(response);
+        }
+    });
+});
+
+</script>
+
+    <script type="text/javascript" src="{% static 'hilitor.js' %}"></script>
+<script type="text/javascript">
+
+  var myHilitor = new Hilitor("results"); // id of the element to parse
+  myHilitor.apply("{{ search }}");
+
+</script>

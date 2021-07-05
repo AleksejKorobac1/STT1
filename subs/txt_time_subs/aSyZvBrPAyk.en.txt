@@ -1,0 +1,491 @@
+00:00:01 the following is a conversation with Tommaso poggio he's the professor at MIT and as a director of the Center for
+00:00:09 brains minds and machines sited over 100,000 times his work has had a profound impact on our understanding of
+00:00:16 the nature of intelligence in both biological and artificial neural networks he has been an advisor to many highly
+00:00:24 impactful researchers and entrepreneurs in AI including demis hassabis of deep mind I'm nacho of mobile eye and
+00:00:32 Christof Koch of the Allen Institute for brain science this conversation is part of the MIT course on artificial general
+00:00:38 intelligence and the artificial intelligence podcast if you enjoy it subscribe on youtube itunes or simply
+00:00:45 connect with me on twitter at Lex Friedman spelled Fri D and now here's my conversation with Tommaso poggio you've
+00:00:54 mentioned that in your childhood you've developed a fascination with physics especially the theory of relativity and
+00:01:02 that Einstein was also a childhood hero to you what aspect of Einstein's genius the nature was genius do you think was
+00:01:11 essential for discovering the theory of relativity you know Einstein was a hero to me and I'm sure to many people
+00:01:21 because he was able to make of course a major major contribution to physics with simplifying a bit just a Gedanken
+00:01:35 experiment a fourth experiment you know imagining communication with Lights between a stationary observer and
+00:01:46 somebody on a train and I thought you know the the fact that just with the force of his fault of his thinking of
+00:01:54 his mind he could guide to some something so deep in terms of physical reality how time depend on space and
+00:02:03 speed it was something absolutely fascinating was the power of intelligence the power of the mind do
+00:02:11 you think the ability to imagine to visualize as he did as a lot of great forces sister do you think that's in all of us
+00:02:19 human beings or is there something special to that one particular human being I think you know all of us can
+00:02:31 learn and have in principle similar breakthroughs there are lesson to be learned from Einstein he was one of five PhD students
+00:02:44 at ETA and the ID Canarsie technician actua in Zurich in physics and he was the worse of the five but the only one
+00:02:54 who did not get an academic position when he graduated well finished his PhD and he went to work as everybody knows
+00:03:04 for the Patent Office and so it's not so much the work for the Patent Office but the fact that obviously it was marked
+00:03:11 but he was not the top student obviously was the anti conformist I was not thinking in the traditional way that
+00:03:19 probably stitches and the other students were doing so there is a lot to be said about you know trying to be to do the
+00:03:28 opposite or something quite different from what other people are doing that's actually true for the stock market
+00:03:36 never never buy for very bodies by and also true for science yes so you've also mentioned staying on a theme of physics
+00:03:47 that you were excited and a young age by the mysteries of the universe that physics could uncover such as I saw
+00:03:55 mentioned the possibility of time travel so the most out-of-the-box question I think I'll get to ask today do you think
+00:04:04 time travel is possible well it would be nice if it were possible right now you know you in science you never say no
+00:04:14 but your understanding of the nature of time yeah it's very likely that it's not possible to travel in time you may be
+00:04:26 able to travel forward in time if we can for instance freeze ourselves or you know go on some spacecraft
+00:04:37 traveling close to the speed of light but in terms of activity traveling for instance back in time I find probably
+00:04:47 very unlikely so do you still hold the underlying dream of the engineering intelligence that will build systems
+00:04:57 that are able to do such huge leaps like discovering the kind of mechanism that would be required to travel through time
+00:05:04 do you still hold that dream or are echoes of it from your childhood yeah I you know I don't think whether there are
+00:05:13 certain problems that probably cannot be solved depending what what you believe about the physical reality like you know
+00:05:22 maybe totally impossible to create energy from nothing or to travel back in time but about making machines that can
+00:05:37 think as well as we do or better or more likely especially in the short and midterm helped us think better which is
+00:05:44 in a sense is happening already with the computers we have and it will happen more and more but that I certainly
+00:05:52 believe and I don't see in principle why computers at some point could not become more intelligent than we are although
+00:06:03 the word intelligence it's a tricky one and one who should discuss which I mean with that in intelligence consciousness
+00:06:13 yeah words like love is all these are very you know you need to be disentangled so you've mentioned also
+00:06:19 that you believe the problem of intelligence is the greatest problem in science greater than the origin of life
+00:06:27 and the origin the universe you've also in the talk I've listened to said that you're open to arguments against against
+00:06:38 you so what do you think is the most captivating aspect of this problem of understanding the nature of intelligence
+00:06:46 why does it captivate you as it does well originally I think one of the motivation that I had as I guess a
+00:06:56 teenager when I was infatuated with theory of relativity was really that I I found that there was the problem of time
+00:07:08 and space and general relativity but there were so many other problems of the same level of difficulty and importance
+00:07:16 that I could even if I were I stein it was difficult to hope to solve all of them so what about solving a problem
+00:07:25 whose solution allowed me to solve all the problems and this was what if we could find the key to an intelligence
+00:07:35 you know ten times better or faster than Einstein so that's sort of seeing artificial intelligence as a tool to
+00:07:44 expand our capabilities but is there just an inherent curiosity in you and just understanding what is in our in
+00:07:54 here that makes it all all work yes absolutely all right so I was starting I started saying this was the motivation
+00:08:02 when I was a teenager but you know soon after I think the problem of human intelligence became a real focus of you
+00:08:14 know of my sent my science and my research because I think he's for me the most interesting problem is really
+00:08:29 asking oh we we are right is asking not only a question about science but even about the very tool we are using to do
+00:08:38 science which is our brain how does our brain work from where does it come from after its limitation can we make it better
+00:08:47 and that in many ways is the ultimate question that underlies this whole effort of science so you've made
+00:08:56 significant contributions in both the science of intelligence and the engineering event
+00:09:05 in a hypothetical way let me ask how far do you think we can get in creating intelligent systems without
+00:09:12 understanding the biological the understanding how the human brain creates intelligence
+00:09:17 put another way do you think we can build a strong-ass system without really getting at the core the functionally
+00:09:23 understanding the functional nature of the brain well this is a real difficult question you know we did solve problems
+00:09:39 like flying without really using too much our knowledge about how birds fly it was important I guess to know that
+00:09:50 you could have things heavier than than air being able to fly like like birds but beyond that probably we did not
+00:10:01 learn very much you know some you know the brothers right did learn a lot of observation about birds and designing
+00:10:13 their their aircraft but you know you can argue we did not use much of biology in that particular case now in the case
+00:10:25 of intelligence I think that it's it's a bit of a bet right now if you are if you ask okay we we all
+00:10:36 agree we'll get at some point maybe soon maybe later to a machine that is indistinguishable from my secretary say
+00:10:44 in terms of what I can ask the machine to do I think we get there and now the question is and you can ask people do
+00:10:53 you think we'll get there without any knowledge about you know the human brain or that is the best way to get there is
+00:11:01 to understand better the human brain yeah okay this is I think an educated bet that different people with different
+00:11:10 background will decide in different ways the recent history of the progress in AI in the last out say five years or ten
+00:11:22 years is has been that the main breakthroughs the main recent breakthroughs I really mention reinforcement learning as one is
+00:11:39 one of the algorithms at the core of alphago which is the system that beat the kind of an official world champion
+00:11:49 of go lee sedol and two three years ago in seoul that's one and that started related with the work of Pavlov and I'll
+00:12:03 or hundred Marvin Minsky in the sixties many other neuroscientists later on and deep learning started which is the core
+00:12:15 again of alphago and systems like autonomous driving systems for cars like the systems that mobile I which is a
+00:12:25 company started by one of my exposed or Colonel Joshua did so that is a core of those things and deep learning really
+00:12:35 the initial ideas in terms of the architecture of this layered ARCIC on networks started with work of Torsten
+00:12:45 Wiesel and David Hubel at Harvard up the river in the 60s so recent history suggests the neuroscience played a big
+00:12:55 role in these breakthroughs my personal bet is that there is a good chance they continue to play a big role maybe not in
+00:13:02 all the future breakthroughs but in some of them at least in inspiration so at least in a new spirit absolutely yes so
+00:13:10 you see you studied both artificial and biological neural networks you said these mechanisms that underlie deep
+00:13:17 learning deeper and reinforcement learning but there is nevertheless significant differences between
+00:13:25 biological and artificial neural networks as they stand now so between the two what he finds the most
+00:13:33 interesting mysterious maybe even beautiful difference as it currently stands in our understanding I must
+00:13:42 confess that until recently I found that the artificial networks too simplistic relative to real neural
+00:13:51 networks but you know recently I've been started to think that yes there are a very big simplification of what you find
+00:14:00 in the brain but on the other hand there are much closer in terms of the architecture to the brain than other
+00:14:10 models that we had that computer science used as model of thinking which were mathematical logics you know Lisp Prolog
+00:14:19 and those kind of things yeah so in comparison to those they're much closer to the brain you have networks of
+00:14:27 neurons which is what the brain is about and the artificial neurons in the models are as I said caricature of the
+00:14:36 biological neurons but they're still neurons single units communicating with other units something that is absent in
+00:14:45 you know the traditional computer type models of mathematics reasoning and so on so what aspect is would you like to
+00:14:56 see in artificial neural networks added over time as we try to figure out ways to improve them so one of the main
+00:15:07 differences and you know problems in terms of deep learning today and it's not only deep learning and the brain is
+00:15:18 the need for deep learning techniques to have a lot of labeled examples you know for Easter for imagenet you have like a
+00:15:28 training site which is 1 million images each one labeled by some human in terms of which object is there and it's it's
+00:15:43 clear that in biology a baby may be able to see million of images in the first years of life but will not have million
+00:15:52 of labels given to him or her by parents or take take care takers so how do you solve
+00:16:01 that you know I think there is this interesting challenge that today deep learning and related techniques are all
+00:16:13 about big data big data meaning a lot of whereas in nature you have so that this big data is n going to infinity that's
+00:16:29 the best you know and meaning labeled data but I think the biological world is more n going to one Hey a child can
+00:16:38 learn the beautiful wrote a very small number of you know labeled examples like you tell a child this is a car you don't
+00:16:48 need to say like imagenet you know this is a car this is a car this is not a car this is not a cat 1 million times so and
+00:16:56 of course with alphago and or at least alpha 0 variants there's because of the because the world of go is so simplistic
+00:17:05 that you can actually learn by yourself through self play you could play against each other and the real world i meet the
+00:17:11 visual system that you've studied extensively is a lot more complicated than the game of go so under comment
+00:17:19 about children which are fascinatingly good at learning new stuff how much of it do you think is hardware how much of
+00:17:28 it is software you know that's a good deep question is in a sense is the old question of nurture and nature how much
+00:17:37 isn't in the gene and how much is in the experience of an individual obviously it's both that play a role and i believe
+00:17:50 that the way evolution gives put prior information so to speak hard while it's not really hard
+00:18:02 while but that's essentially an hypothesis I think what's going on is that evolution as you know almost
+00:18:12 necessarily if you believe in Darwin is very opportunistic and and think about our DNA and the DNA of Drosophila our
+00:18:26 DNA does not have many more genes than resolve around the fly the fly the fruit fly now we know that the fruit fly does
+00:18:37 not learn very much during its individual existence it looks like one of this machinery that it's really
+00:18:45 mostly not hundred percent but you know 95 percent hard coded by the genes but since we don't have many more genes
+00:18:57 than Drosophila as evolution could encoding as a kind of general learning machinery and then had to give very weak
+00:19:12 priors like for instance let me take give a specific example which is recent to work by a member of our Center for
+00:19:21 brains minds and machines we know because of work of other people in our group and other groups that there are
+00:19:28 cells in a part of our brain neurons that are tuned to phases they seems to be involved in face recognition now this
+00:19:39 face area exists seems to be present in young children and adults and one question is is there from the beginning
+00:19:53 is hardwired by evolution or you know somehow is learned very quickly so what's your by the way a lot of the
+00:19:59 questions I'm asking with the answer is we don't really know but as a person who has contributed some profound ideas in
+00:20:07 these fields you're a good person to guess at some of these so of course there's a caveat before a lot of the
+00:20:12 stuff we talk about but what is your hunch is the face the part of the brain that that seems to be concentrated on
+00:20:20 face recognition are you born with that or you just is designed to learn that quickly like the face of the mother and
+00:20:30 I my hand shimmer by bias was the second one learned very quickly and it turns out that Marge Livingstone at Harvard
+00:20:39 has done some amazing experiments in which she raised baby monkeys depriving them of faces during the first weeks of
+00:20:51 life so they see technicians but the technician have a mask yes and and so at the area in the brain of this monkeys
+00:21:07 that were usually find faces they found no face preference so my guess is that what evolution does in this case is
+00:21:19 there is a plastic Canaria which is plastic which is kind of predetermined to be imprinted very easily but the
+00:21:29 command from the gene is not detailed circuitry for a face template could be but this will require probably a lot of
+00:21:37 bits you had to specify a lot of connection of a lot of neurons instead that the command that commands from the
+00:21:45 gene is something like imprint memorized what you see most often in the first two weeks of life especially in connection
+00:21:53 with food and maybe nipples I don't write well source of food and so in then that area is very plastic at first and
+00:22:01 in the otherwise I'd be interesting if a variant of that experiment would show a different kind of pattern associated
+00:22:08 with food than a face pattern well whether that quite stick there are indications that during that experiment
+00:22:18 what the monkey saw quite often where the blue gloves of the technicians that were giving to the baby monkeys the milk
+00:22:28 and some of the cells see instead of being face sensitive in that area or a hand sensitive that's fascinating
+00:22:38 can you talk about what are the different parts of the brain and in your view sort of loosely and how do they
+00:22:46 contribute to intelligence do you see the brain as a bunch of different modules and they together come in the
+00:22:54 human brain to create intelligence or is it all one mush of the same kind of fundamental architecture yeah that's you
+00:23:09 know that's an important question and there was a phase in neuroscience by in the 1950 or so in which it was
+00:23:20 believed for a while that the brain was equipotential this was the term you could cut out a piece and nothing
+00:23:30 special happened apart a little bit less performance there was a a surgeon Lashley did a lot of experiments of this
+00:23:43 type with mice and rats and concluded that every part of the brain was it turns out that that's that's really
+00:23:57 not true it's there are very specific modules in the brain as you said and you know people may lose the ability to
+00:24:07 speak if you have a stroke in a certain region or may lose control of their legs in another region or so they're very
+00:24:16 specific the brain is also quite flexible and redundant so often it can correct things and you know the kind of
+00:24:28 takeover functions from one part of the brain to the other but but but really there are specific modules of the answer
+00:24:39 that we know from this old work which was basically on based on lesions either on animals or very often there were a
+00:24:51 mine of well it there was a mine a very interesting data coming from from the war from different types of injuries
+00:25:03 injuries that soldiers had in the brain and more recently functional MRI which allow you to to check which part of the
+00:25:16 brain are active when you are doing different tasks as you know can replace some of this you can see that certain
+00:25:27 parts of the brain are involved or active in this language yeah yeah that's right but sort of taking a step back to that
+00:25:37 part of the brain that discovers that specializes in the face and how that might be learned what's your intuition
+00:25:46 behind you you know is it possible that the sort of from a physicists perspective when you get lower and lower
+00:25:52 that it's all the same stuff and it just when you're born it's plastic and it quickly figures out this part is going
+00:25:58 to be about vision this is gonna be about language this is about common sense reasoning do you have an intuition
+00:26:05 that that kind of learning is going on really quickly or is it really kind of solidified in hardware that's a great
+00:26:13 question so there are parts of the brain like the cerebellum or they put campus that are quite different from each other
+00:26:23 they clearly have different Anatomy different connectivity that then there is the cortex which is the most
+00:26:35 developed part of the brain in humans and in the cortex you have different regions of the cortex that are
+00:26:44 responsible for vision for audition for motor control for language now one of the big puzzles of of this is that in
+00:26:54 the cortex is the cortex is the cortex it looks like it is the same in terms of hardware in terms of type of neurons and
+00:27:06 connectivity across these different modalities so for the cortex letting aside these other parts of the brain
+00:27:16 like spinal cord upon campus or bedroom and so on for the cortex I think your question about hardware and software and
+00:27:26 learning and so on it's it I think is rather open and you know it I find very interesting for easy to think about an
+00:27:36 architecture computer architecture that is good for vision and the symptom is good for language seems to be you know
+00:27:47 so different problem areas that you have to solve but the underlying mechanism might be the same that's really
+00:27:53 instructive for it maybe artificial neural networks so you've done a lot of great work in vision and human vision
+00:28:02 computer vision and you mentioned the problem of human vision is really as difficult as the problem of general
+00:28:08 intelligence and maybe that connects to the cortex discussion can you describe the human visual cortex
+00:28:18 and how the humans begin to understand the world through the raw sensory information the woods for folks enough
+00:28:29 familiar especially in on the computer vision side we don't often actually take a step back except saying what the
+00:28:35 sentence or two that one is inspired by the other well what is it that we know about the human visual cortex that's
+00:28:42 interest so we know quite a bit at the same time we don't know a lot but the the bit we know you know in a sense we
+00:28:52 know a lot of the details and Men we don't know and we know a lot of the top level the answer the top level question
+00:29:02 but we don't know some basic ones even in terms of general neuroscience forgetting vision you know why do we
+00:29:12 sleep it's such a basic question and we really don't have an answer to that do you think so taking a step back on that
+00:29:18 so sleep for examples fascinating do you think that's a neuroscience question or if we talk about abstractions what do
+00:29:27 you think is an interesting way to study intelligence or are most effective on the levels of abstractions the chemicals
+00:29:34 the biological is electro physical mathematical as you've done a lot of excellent work on that side which
+00:29:40 psychology is sort of like at which level of abstraction do you think well in terms of levels of abstraction I
+00:29:49 think we need all of them all hits when you know it's like if you ask me what does it mean to understand the computer
+00:29:58 right that's much simpler but in a computer I could say well I understand how to use PowerPoint that's my level of
+00:30:08 understanding a computer it's it has reasonable you know give me some power to produce lights and beautiful slides
+00:30:17 and now the class on body exercise well I I know how the transistor work that are inside the computer I can write the
+00:30:25 equation for you know transistor and diodes and circuits logical circuits and I can ask this guy do you know how
+00:30:34 to operate PowerPoint no idea so do you think if we discovered computers walking amongst us full of these transistors
+00:30:43 that are also operating under windows and have PowerPoint do you think it's digging in a little bit more how useful
+00:30:52 is it to understand the transistor in order to be able to understand PowerPoint and these higher-level very
+00:31:01 good intelligence I see so I think in the case of computers because they were made by engineers by us this different
+00:31:09 level of understanding are rather separate on purpose you know you there are separate modules so that the
+00:31:18 engineer that designed the circuit for the chips does not need to know what power is inside PowerPoint and somebody
+00:31:27 you can write the software translating from one to the end to the other and so in that case I don't think understanding
+00:31:37 the transistor help you understand PowerPoint or very little if you want to understand the computer this question
+00:31:45 you know I would say you have to understanding a different levels if you really want to build one right but but
+00:31:56 for the brain I think these levels of understanding so the algorithms which kind of computation you know the
+00:32:03 equivalent of PowerPoint and the circuits you know the transistors I think they are more much more
+00:32:10 intertwined with each other there is not you know in Italy level of the software separate from the hardware and so that's
+00:32:19 why I think in the case of the brain a problem is more difficult or more than four computers requires the interaction
+00:32:27 the collaboration between different types of expertise that's a big the brain is a big mess
+00:32:35 you can't just on disentangle a level I think you can but is is much more difficult and it's not you know it's not
+00:32:41 completely obvious and and I said I think he's one of the person everything is the greatest
+00:32:48 problem in science so yeah you know I think he's it's fair that it's difficult one that said you do talk about
+00:32:57 compositionality and why I might be useful and when you discuss what why these neural networks in artificial or
+00:33:05 biological sense learn anything you talk about compositionality see there's a sense that nature can be disentangled
+00:33:14 our purpura well all aspects of our cognition could be disentangled a little to some degree
+00:33:25 so why do you think what first of all how do you see compositionality and why do you think it exists at all in nature
+00:33:36 it spoke about I use the the term compositionality when we looked at deep neural networks multi-layers and trying to understand
+00:33:51 when and why they are more powerful than more classical one layer network like linear classifier kernel machines
+00:34:04 so-called and what we found is that in terms of approximating or learning or representing a function a mapping from
+00:34:13 an input to an output like from an image to the label in the image if this function as a particular structure then
+00:34:24 deep networks are much more powerful than shallow networks to approximate the underlying function and the particular
+00:34:32 structure is a structure of compositionality if the function is made up of functions of function so that you
+00:34:43 need to look on when you are interpreting an image classifying an image you don't need to look at all
+00:34:52 pixels at once but you can compute something from small groups of pixels and then you can compute something on
+00:35:02 the output of this local computation and so on that is similar to what you do when you read the sentence you don't
+00:35:09 need to read the first and the last letter but you can read syllables combine them in words combine the words
+00:35:20 in sentences so this is this kind of structure so that's as part of the discussion of why deep neural networks
+00:35:26 may be more effective than the shallow methods and is your sense for most things we can use neural networks for
+00:35:37 those problems are going to be compositional in nature like like language like vision how far can we get
+00:35:47 in this kind of right so here is almost philosophy well you know there yeah let's go there so a
+00:35:57 friend of mine max tegmark who is a physicist at MIT I've talked to him on this thing yeah and he disagrees with
+00:36:06 you right yeah but we you know we agree most but the conclusion is a bit differently he is conclusion is that for images for
+00:36:17 instance the compositional structure of this function that we have to learn or to solve these problems comes from
+00:36:28 physics comes from the fact that you have local interactions in physics between atoms and other atoms between
+00:36:38 particle of matter and other particles between planets and other planets between stars that it's all local and
+00:36:52 that's true but you could push this argument a bit further not this argument actually you could argue that you know
+00:37:04 maybe that's part of the true but maybe what happens is kind of the opposite is that our brain is wired up as a deep
+00:37:17 network so it can learn understand solve problems that I have this compositional structure and I cannot do they cannot
+00:37:27 solve problems that don't have this compositional stretch so the problem is we are accustomed to we think about we
+00:37:38 test our algorithms on our this compositional structure because our brain is made up in that's in a sense an
+00:37:46 evolutionary perspective as we've so the ones that didn't have the they weren't dealing with a compositional nature of
+00:37:56 reality died off yes it also could be may be the reason why we have this local connectivity in
+00:38:08 the brain like simple cells in cortex looking only the small part of the B image each one of them and another says
+00:38:14 looking at it small number of these simple cells and so on the reason for this may be purely that was difficult to
+00:38:25 grow longer range connectivity so suppose it's you know for biology it's possible to grow short range
+00:38:35 connectivity but not longer and also because there is a limited number of long range the Duke and so you have at this
+00:38:44 this limitation from the biology and this means you build a deep convolutional neck this would be
+00:38:52 something like deep convolutional network and this is great for solving certain class of problem these are the
+00:39:01 ones we are we find easy and important for our life and yes they were enough for us to survive and and you can start
+00:39:11 a successful business on solving those problems right mobile a driving is a compositional problem right so on the
+00:39:21 unlearning task i mean we don't know much about how the brain learns in terms of optimization but so the thing that's
+00:39:29 stochastic gradient descent is what artificial neural networks used for the most part to adjust the parameters in
+00:39:39 such a way that it's able to deal based on the label data it's able to solve the problem yeah so what's your intuition
+00:39:50 about why it works at all a heart of a problem it is to optimize in your own network artificial neural network is
+00:39:57 there other alternatives you're just in general your intuition is behind this very simplistic algorithm
+00:40:05 that seems to do pretty good surprising yes yes so I find near of science the the architecture of cortex
+00:40:15 it's a really similar to the architecture of deep networks so that there is a nice correspondence there
+00:40:23 between the biology and this kind of local connectivity hierarchical architecture the stochastic gradient
+00:40:33 descent as you said is is a very simple technique it seems pretty unlikely that biology could do that
+00:40:44 from from what we know right now about you know cortex and neurons and synapses so it's a big question open whether
+00:40:57 there are other optimization learning algorithms that can replace stochastic gradient descent and my my guess is yes
+00:41:11 but nobody has found yet a real answer I mean people are trying still trying and there are some interesting ideas the
+00:41:22 fact that stochastic gradient descent is so successful this has become clear is not so mysterious and the reason is that
+00:41:34 it's an interesting fact you know it's a change in a sense in how people think about statistics and and this is the
+00:41:45 following is that typically when you had data and you had say a model with parameters you are trying to fit the
+00:41:54 model to the data you know to fit the parameter typically the kind of kind of crowd wisdom type idea was you should
+00:42:09 have at least you know twice the number of data than the number of parameters you maybe 10 times is better now the way
+00:42:19 you train neural net or this disease that I have they have 10 or 100 times more parameters than did exactly the
+00:42:31 opposite and which you know it is it has been one of the puzzles about neural networks how can you get something that
+00:42:38 really works when you have so much freedom in its in from that Laura Derek in general right somehow right exactly
+00:42:45 do you think this the stochastic nature is essential to randomness so I think we have some initial understanding why this
+00:42:56 happens but one nice side effect of having this over parameterization more parameters than data is that when you
+00:43:04 look for the minima of a loss function like stochastic gradient descent is doing in find I I made some calculations
+00:43:13 based on some old basic theorem of algebra called bazoo theorem and that gives you an
+00:43:24 estimate of the number of solution of a system of polynomial equation anyway the bottom line is that there are probably
+00:43:35 more minima for a typical deep networks than atoms in the universe just to say there are lost because of the over parametrization
+00:43:47 a more global minimum zero meaning good meaning so it's not just local minima yeah a lot of them so you have a lot of
+00:43:56 solutions so it's not so surprising that you can find them relatively easily and this is why this is because of the
+00:44:04 overall parameterization the organization sprinkles an entire space for solutions pretty good and so not so
+00:44:12 surprising right is like you know if you have a system of linear equation and you have more unknowns than equations then
+00:44:19 you have we know you have an infinite number of solutions and the question is to pick one that's another story but you
+00:44:27 have an infinite number of solutions so there are a lot of value of your unknowns that satisfy the equations but
+00:44:35 it's possible that there's a lot of those solutions that aren't very good what's surprising so that's a good
+00:44:41 question why can you pick one the generalizes one yeah that's a separate question with separate answers one one
+00:44:50 theorem that people like to talk about that kind of inspires imagination of the power in your networks is the
+00:44:56 universality a universal approximation theorem you can approximate any computable function with just a finite
+00:45:03 number of neurons and a single hidden layer see you find this theorem one surprising you find it useful
+00:45:14 interesting inspiring now this one you know I never found it very surprising it's was known since the 80s
+00:45:23 since I entered the field because it's basically the same as biased as the which says that I can approximate any
+00:45:33 continuous function with a polynomial of sufficiently with a sufficient number of terms monomials so basically the same
+00:45:42 and the proves very similar so your intuition was there's never any doubt in your networks in theory could the right
+00:45:48 be very strong approximate nicely the the question the interesting question is that if this theorem
+00:45:58 it says you can approximate fine but when you ask how many neurons for instance or in the case of polynomial
+00:46:08 how many monomials I need to get a good approximation then it turns out that that depends on the dimensionality of
+00:46:19 your function how many variables you have but it depends on the dimensionality of your function in a bad
+00:46:27 way it's for instance suppose you want an error which is no worse than 10% in your approximation you come up with a
+00:46:37 net of the approximate your function within 10% then turns out that the number of units you need are in the
+00:46:48 order of 10 to the dimensionality D how many variables so if you have you know two variables is these 2 would you have
+00:46:57 hundred units and okay but if you have say 200 by 200 pixel images now this is you know 240 thousand whatever and we
+00:47:08 can go to the sizing universe pretty quickly there are exactly 10 to the 40,000 and so this is called the curse
+00:47:19 of dimensionality not you know quite appropriate and the hope is with the extra layers you can remove the curse
+00:47:31 what we proved is that if you have deep layers or a rocky core architecture that with the local connectivity of the type
+00:47:40 of convolutional deep learning and if you are dealing with a function that has this kind of hierarchical architecture
+00:47:49 then you avoid completely the curves you've spoken a lot about supervised deep learning yeah what are your
+00:47:57 thoughts hopes views on the challenges of unsupervised learning with the with Ganz with the generator valor
+00:48:06 surround networks do you see those is distinct that the power of Ganz does is distinct from supervised methods in your
+00:48:14 networks are they really all in the same representation ballpark gains is one way to get estimation of probability
+00:48:28 densities which is somewhat new way but people have not done before I I don't know whether this will really play an
+00:48:37 important role in you know in intelligence or it's it's interesting I'm I'm less enthusiastic about it too
+00:48:48 many people in the field I have the feeling that many people in the field are really impressed by the ability to
+00:48:59 of producing realistic looking images in this generative way which describes the popularity of the methods but you're
+00:49:05 saying that while that's exciting and cool to look at it may not be the tool that's useful for yeah for so you
+00:49:13 describe it kind of beautifully current supervised methods go and to infinity in terms of number of labelled points and
+00:49:19 we really have to figure out how to go to and to one yeah and you're thinking ganz might help but they might not be
+00:49:26 the right I don't think you for that problem which I really think is important I think they may help they
+00:49:33 certainly have applications for instance in computer graphics and you know we I did work long ago
+00:49:42 which was a little bit similar in terms of saying okay 11 network and I present images and I can so input its images and
+00:49:56 output is for instead the pose of the image you know a face how much is miling is rotated 45 degrees or not what about
+00:50:06 having a network that I trained with the same dataset but now I invert input and output now the input is the pose or the
+00:50:16 expression number certain numbers and the output is the image and I train it and we did pretty good interesting
+00:50:25 results in terms of producing very realistic looking images was you know less sophisticated mechanism but the
+00:50:35 output was pretty less than gains but the output was pretty much of the same quality so I think for computer graphics
+00:50:44 type application yeah definitely gains can be quite useful and not only for that--for but for you know helping for
+00:50:57 instance on this problem of unsupervised example of reducing the number of labeled examples I think people it's
+00:51:08 like they think they can get out more than they put in you know it there's no free lunches Yeah right
+00:51:15 that's what do you think what's your intuition how can we slow the growth of n to infinity in supervised and to
+00:51:25 infinity in supervised learning so for example mobile I has very successfully I mean essentially annotated large amounts
+00:51:34 of data to be able to drive a car now one thought is so we're trying to teach machines of AI and we're trying to so
+00:51:45 how can we become better teachers maybe that's one one way now I got your you know what I like that because one
+00:51:57 again one caricature of the history of computer sites you could say is with the gains with programmers expensive yeah
+00:52:10 continuously labelers cheap yeah and the future would be schools like we have for kids yeah currently the labeling methods were
+00:52:24 not selective about which examples we we teach networks with so I think the focus of making one-shot networks that learn
+00:52:32 much faster is often on the architecture side but how can we pick better examples with wish to learn do you have
+00:52:40 intuitions about that well that's part of the quarter program but the other one is you know if we look at biology
+00:52:56 reasonable assumption I think is in the same spirit II that I said evolution is opportunistic and has weak priors you
+00:53:07 know the way I think the intelligence of child the baby may develop is by bootstrapping weak priors from evolution
+00:53:24 for instance in you can assume that you are having most organisms including human babies built in some basic
+00:53:36 machinery to detect motion and relative motion and in fact there is you know we know all insects from fruit flies other
+00:53:51 even in the readiness of in the very peripheral part it's very conserved across species something that evolution
+00:53:59 discovered early it may be the reason why babies tend to look in the first few days to moving objects and not to not
+00:54:10 moving out now moving objects means okay they are attracted by motion but motion also means that motion gives automatic
+00:54:20 segmentation from the background so because of motion boundaries you know either the object is moving or the eye
+00:54:29 of the baby is tracking the moving object and the background is moving right yeah so just purely on the visual
+00:54:36 characteristics of the scene as seems to be the most useful right so it's like looking at an object without background
+00:54:45 it's ideal for learning the object otherwise it's really difficult because you have so much stuff so suppose you do
+00:54:55 this at the beginning first weeks then after that you can recognize the object now they're imprinted a number of even
+00:55:05 in the background even without motion so that's at the by the way I just want to ask an object recognition problem so
+00:55:13 there is this being responsive to movement and edge detection essentially what's the gap between being effectively
+00:55:22 effective at visually recognizing stuff detecting word that is and understanding the scene there is this a huge gap in
+00:55:33 many layers or is it as a close no I think that's a huge gap I think present algorithm with all the
+00:55:42 success that we have and the fact that are a lot of very useful it's I think we are we are in a golden age for
+00:55:52 applications of low level vision and low level speech recognition and so on you know Alexa and so
+00:55:58 there are many more things of similar level to be done including medical diagnosis and so on but we are far from
+00:56:06 what we call understanding of a scene of language of actions of people that is despite the claims that's I think very
+00:56:20 far or a little bit off so in popular culture and among many researchers some of which I've spoken with the sue
+00:56:29 Russell and you know a mask in and out of the AAI field there's a concern about the existential threat of AI yeah and
+00:56:38 how do you think about this concern in and is it valuable to think about large-scale long-term unintended
+00:56:50 consequences of intelligent systems we try to build I always think is better to worry first you know early rather than
+00:57:00 late so some worry is good yeah I'm not against worry at all personally I think that you know it will
+00:57:12 take a long time before there is real reason to be worried but as I said I think it is good to put in place and
+00:57:24 think about possible safety against what I find a bit misleading are things like that I've been said by people I know
+00:57:33 like Elon Musk and what is boström important notice first name a neck panic poster right you know and a couple of
+00:57:44 other people that for instance a eyes more dangerous the nuclear weapons right yeah I think that's really project that
+00:57:54 can be it's misleading because in terms of priority which should still be more worried about nuclear weapons and you
+00:58:02 know what people are doing about it and some then a and he's spoken about them as obvious
+00:58:12 and yourself saying that you think you'll be about a hundred years out before we have a general intelligence
+00:58:19 system that's on par with the human being you have any updates for those predictions what I think he said he's at
+00:58:26 28 he said it went all right this was a couple of years ago I have not asked him again so I should have your own
+00:58:36 prediction what's your prediction about when you'll be truly surprised and what's the confidence interval or
+00:58:43 not you know it's so difficult to predict the future and even the presence of it's nothing it's pretty hard to
+00:58:51 predict a bit I'll be but as I said this is completely it would be more like rod Brooks I think he's about 200 years when
+00:59:04 we have this kind of a GI system artificial general intelligence system you're sitting in a room with her him it
+00:59:15 do you think it will be the underlying design of such a system is something we'll be able to understand it will be
+00:59:22 simple do you think you'll be explainable understandable by us your intuition again we're in the realm of
+00:59:35 philosophy a little bit but probably no but it again it depends would you really mean for understanding
+00:59:51 you know we don't understand what how deep networks work I think we're beginning to have a theory now but in
+00:59:59 the case of deep networks or even in the case of the simple simpler kernel machines or linear classifier we really
+01:00:10 don't understand the individual units also we but we understand you know what the computation and the limitations and
+01:00:21 the properties of it are it's similar to many things you know we what does it mean to understand how a fusion bomb
+01:00:33 works how many of us you know many of us understand the basic principle and some of us may understand deeper details in
+01:00:42 that sense understanding is as a community as a civilization can we build another copy of it okay and in that
+01:00:50 sense you think there'll be there will need to be some evolutionary component where it runs away from our
+01:00:57 understanding or do you think it could be engineered from the ground up the same way you go from the transistor to
+01:01:02 our point all right so many years ago this was actually 40 41 years ago I wrote a paper
+01:01:15 with David Marr who was one of the founding father of computer vision of computational dish I wrote a paper about
+01:01:24 levels of understanding which is related to the question I discussed earlier about understanding power point
+01:01:32 understanding transistors and so on and you know in that kind of framework we had the level of the hardware and the
+01:01:42 top level of the algorithms we did not have learning recently I updated adding levels and one level I added to those
+01:01:55 free was learning so and you can imagine you could have a good understanding of how you construct learning machine
+01:02:07 like we do but being unable to describe in detail what the learning machines will discover right now that would be
+01:02:17 still a powerful understanding if I can build the learning machine even if I don't understand in detail every time
+01:02:26 made it learn something just like our children if they're if they start listening to a certain type of music I
+01:02:33 don't know Miley Cyrus or something you don't understand why they came after that particular preference but you
+01:02:39 understand the learning process that I'm very interesting yeah yeah so unlearning for systems to be part of our world it
+01:02:53 has a certain one of the challenging things that you've spoken about is learning ethics learning yeah morals and
+01:03:01 what how hard do you think is the problem of first of all humans understanding our ethics what is the
+01:03:09 origin and the neural a low level of ethics what is it at a higher level is it something that's learner before
+01:03:19 machines in your intuition I think yeah ethics is learnable very likely I I think understanding the neuroscience of
+01:03:37 ethics you know people discuss there is an ethics of neuroscience yes you know how a neuroscientist should or should
+01:03:47 not behave can you think of a neurosurgeon and the ethics are you Rory has to behavior he she has to be but I'm
+01:03:57 more interested on the neuroscience of you blow my mind right now the neuroscience of ethics is very matter
+01:04:03 yeah and you know I think that would be important to understand also for being able to to design machines that have
+01:04:12 that are ethical machines in our sense of ethics and you think there is something in your science there's
+01:04:21 patterns tools in your science that can help us shed some light on ethics or yeah mostly on the psychology sociology
+01:04:30 much higher level no there is a culture but there is also in the meantime there are there is evidence fMRI of specific
+01:04:42 areas of the brain that are involved in certain ethical judgment and not only this you can stimulate those area with
+01:04:51 magnetic fields and change the ethical decisions yeah Wow so that's work by a colleague of mine Rebecca Saxe and there
+01:05:04 is a other researchers doing similar work and I think you know this is the beginning but ideally at some point
+01:05:14 we'll have an understanding of how this works and white of all right the big y question yeah it must have some some
+01:05:24 purpose yeah obviously test you know some social purpose is is probably if neuroscience holds the key to at least
+01:05:34 eliminate some aspect of ethics that means it could be a learn about problem yeah exactly
+01:05:41 and as we're getting into harder and harder questions let's go to the hard problem of consciousness yeah is this an
+01:05:48 important problem for us to think about and solve on the engineering of intelligence side of your work of our
+01:05:59 dream you know it's unclear so you know again this is a deep problem part because it's very difficult to define
+01:06:14 and there is the debate among neuroscientist and about whether consciousness and philosophers of course
+01:06:25 whether consciousness is something that requires flesh and blood so to speak yes or could be you know that we could have
+01:06:41 silicon devices that are conscious or up to statement like everything has some degree of consciousness and some more
+01:06:51 than others this is like Giulio Tononi and she would just recently talk to Christophe Koch okay so he a crystal
+01:07:00 force my first graduate student yeah do you think it's important to illuminate aspects of consciousness in order to
+01:07:10 engineer intelligence systems do you think an intelligent system would ultimately have consciousness are they
+01:07:19 to the interlinked you know most of the people working in artificial intelligence I think who'd answer
+01:07:26 we don't strictly need the consciousness to have an intelligent system that's sort of the easier question because yeah
+01:07:34 because it's it's a very engineering answer to the question yes that's the Turing test will run in consciousness
+01:07:41 but if you were to go do you think it's possible that we need to have so that kind of self-awareness we may yes so for
+01:07:54 instance I I personally think that when test a machine or a person in a Turing test in an extended to interesting I
+01:08:08 think consciousness is part of what we require in that test you know in priestly to say that this is intelligent
+01:08:18 Christophe disagrees so as he does yeah it despite many other romantic notions he who
+01:08:25 he disagrees with that one yes that's right so you know we would see do you think as a quick question
+01:08:37 Ernest Becker fear of death do you think mortality and those kinds of things are important for well for
+01:08:49 consciousness and for intelligence the finiteness of life finiteness of existence or is that just the side
+01:08:57 effect of evolutionary side effect is useful to a for natural selection do you think this kind of thing that we're
+01:09:04 gonna this interview is gonna run out of time soon our life will run out of time soon do you think that's needed to make
+01:09:11 this conversation good and in life good you know I never thought about it is it a very interesting question I think
+01:09:21 Steve Jobs in his commencement speech at Stanford argued that you know having a finite life was important for for
+01:09:30 stimulating achievement so I was a different yeah I live every day like it's your last right yeah yeah so I
+01:09:40 rationally I don't think strictly you need mortality for consciousness but oh no they seem to go together in our
+01:09:52 biological system yeah you've mentioned before and students are associated with alpha go immobilize the big recent
+01:10:01 success stories in the eye and I think it's captivated the entire world of what I can do so what do you think will be
+01:10:11 the next breakthrough and what's your intuition about the next breakthrough of course I don't know where the next
+01:10:19 breakthroughs is I think that there is a good chance as I said before that the next breakthrough would also be inspired
+01:10:27 by you know neuroscience but which one I don't know and there's so MIT has this quest for
+01:10:36 intelligence you know and there's a few moon shots which in that spirit which ones are you excited about what which
+01:10:44 projects kind of well of course I'm excited about one of the moon shots with it which is our Center for brains minds
+01:10:53 and machines history the one which is filip fully funded by NSF and it's a it is about visual intelligence it's an
+01:11:05 area that one has a particularly about understanding visual intelligence or visual cortex and and visual
+01:11:15 intelligence in the sense of how we look around ourselves and understand the word around ourselves you know meaning what
+01:11:28 what is going on how we could go from here to there without hitting obstacles you know whether there are other agents
+01:11:37 people in the market these are all things that we perceive very quickly and and it's something actually quite close
+01:11:48 to being conscious not quite but now there is this interesting experiment that was run at Google X which is in a
+01:11:58 sense is just a virtual reality experiment but in which they had subject sitting in a chair with goggles like
+01:12:13 earphones and they were seeing through the eyes of a robot nearby two cameras microphones for a/c mossad their sensory
+01:12:26 system was there and the impression of all the subject very strong they could not shake it off was that they were
+01:12:35 where the robot was they could look at themselves from the robot and still feel they were they were where the robot is
+01:12:46 they were looking their body their self were had moved so some aspect of scene understanding has to have ability to
+01:12:55 place yourself have a self-awareness about your position in the world and what the world is right so yeah so we
+01:13:03 may have to solve the hard problem of consciousness on their way yes but it's quite quite quite a moonshot eyes so if
+01:13:10 you've been an adviser to some incredible minds including demis hassabis Christophe Co I'm not sure like
+01:13:19 you said all went on to become seminal figures in their respective fields from your own success as a researcher and
+01:13:27 from perspective as a mentor of these researchers having guided them Madhvi so what does it take to be successful in
+01:13:39 science and engineering careers whether you're talking to somebody in their teens 20s and 30s what does that path
+01:13:51 look like it's curiosity and having fun and I think is important also having fun with other curious minds it's the the
+01:14:05 people you surround with - so yeah fun and curiosity is there mentioned Steve Jobs is there also an underlying
+01:14:14 ambition that's unique that you saw or is it really does boil down to insatiable curiosity and fun well of
+01:14:21 course you know it's been cured definitely but I think sometime in in science there are friends of mine who
+01:14:39 are like this you know there are some of the scientists like to work by themselves and kind of communicate only
+01:14:51 when they complete their work or discover something I think I always found the the actual process of you know
+01:15:03 discovering something is more fun if it's together with other intelligent and curious and fun people so if you see the
+01:15:11 fun in that process of the side effect of that process will be the election of discovering something yes so as you've
+01:15:23 led many incredible efforts here what's the secret to being a good advisor mentor leader in a research setting is
+01:15:31 that similar spirit or yeah what what advice could you give to people young faculty and so on it's partly repeating
+01:15:40 what I said about an environment that should be friendly and fun and ambitious and you know I think I learned a lot
+01:15:52 from some of my advisers and friends and some of our physicists and there was reason this behavior that was encouraged
+01:16:05 of when somebody comes with a new idea in the group you're unless is really stupid but you are always enthusiastic
+01:16:13 and then and the other two just for a few minutes for a few hours then you start you know asking critically a few
+01:16:24 questions testing but you know this is a process that is I think it's very very good this you have to be enthusiasm time
+01:16:32 people are very critical from beginning that's that's that's not yes you have to give it a chance yes let's
+01:16:41 see to grow that said with some of your ideas which are quite revolutionary so there's a witness especially in the
+01:16:46 human vision side and neuroscience side there could be some pretty heated arguments do you enjoy these dessert a
+01:16:54 part of science and I could academic pursue see you enjoy yeah is it is that something that happens in your group as
+01:17:03 well yeah absolutely I also spent some time in Germany again that is this tradition in which people are more
+01:17:17 forthright less kind than here so you know in the u.s. you when you write a bad letter you still say this guy's nice
+01:17:27 yes so yet here in America its degrees of nice yes it's all just degrees of Nicaea right right so as long as this
+01:17:37 does not become personal and it's really like you know a football game with these rules that's great so if you somehow
+01:17:50 found yourself in a position to ask one question of an Oracle like a genie maybe a god whoa and you're guaranteed to get
+01:17:59 a clear answer what kind of question would you ask what what would be the question you would ask in the spirit of
+01:18:07 our discussion it could be how could be how could I become ten times more intelligent and so but see you only get
+01:18:16 a clear short answer so do you think there's a clear short answer to that no and that's the answer you'll get yeah
+01:18:25 okay so you've mentioned flowers of Algren odd oh yeah this is a story that inspires you in your childhood as this
+01:18:38 story of a mouse and human achieving genius-level intelligence and then understanding what was happening while
+01:18:44 slowly becoming not intelligent again in this tragedy of intelligence and losing intelligence do
+01:18:51 you think in that spirit and that story do you think intelligence is a gift or curse from the perspective of happiness
+01:19:01 and meaning of life you try to create intelligence system that understands the universe but at an individual level the
+01:19:06 meaning of life do you think intelligence is a gift it's a good question I don't know as one of this as one
+01:19:27 people consider the smartest people in the world in some in some dimension at the very least what do you think no no
+01:19:37 it may be invariant to intelligence likely of happiness would be nice if it were that's the hope
+01:19:48 yeah you could be smart and happy and clueless unhappy yeah as always on the discussion of the meaning of life it's

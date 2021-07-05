@@ -1,0 +1,1153 @@
+00:00:02 the following is a conversation with the leap george a researcher at the intersection of
+00:00:07 neuroscience and artificial intelligence co-founder of vicarius with scott phoenix and formerly co-founder of numenta with
+00:00:14 jeff hawkins who's been on this podcast and donna dubinsky from his early work on hierarchical
+00:00:22 temporal memory to recursive cortical networks to today the leaps always sought to engineer intelligence
+00:00:29 that is closely inspired by the human brain as a side note i think we understand very little about the fundamental principles
+00:00:37 underlying the function of the human brain but the little we do know gives hints that may be more useful for
+00:00:43 engineering intelligence than any idea in mathematics computer science physics and
+00:00:50 scientific fields outside of biology and so the brain is a kind of existence proof that says
+00:00:56 it's possible keep at it i should also say that brain-inspired ai is often over-hyped and used as fodder
+00:01:02 just as quantum computing for  marketing speak but i'm not afraid of exploring these
+00:01:10 sometimes over-hyped areas since where there's smoke there's sometimes fire quick summary of the ads three sponsors babel
+00:01:20 raycon earbuds and masterclass please consider supporting this podcast by clicking the special links
+00:01:25 in the description to get the discount it really is the best way to support this podcast
+00:01:30 if you enjoy this thing subscribe on youtube review 5 stars on apple podcast support on patreon i'll connect with me
+00:01:38 on twitter at lex friedman as usual i'll do a few minutes of ads now and never any ads in the middle that
+00:01:45 can break the flow of the conversation this show is sponsored by babel an app and website that gets you speaking in a
+00:01:51 new language within weeks go to babel.com and use codelex to get three months free
+00:01:57 they offer 14 languages including spanish french italian german and yes russian
+00:02:05 daily lessons are 10 to 15 minutes super easy effective designed by over 100 language experts
+00:02:12 let me read a few lines from the russian poem by alexander block that you'll start to now i say that you'll only start to
+00:02:38 understand this poem because russian starts with the language and ends with the vodka
+00:02:45 now the latter part is definitely not endorsed or provided by babble and will probably lose me the
+00:02:51 sponsorship but once you graduate from babel you can enroll my advanced course of late night russian conversation over vodka
+00:02:58 i have not yet developed an app for that it's in progress so get started by visiting babel.com and
+00:03:03 use code lex to get three months free this show is sponsored by raycon earbuds get them
+00:03:11 at byraycon.com flex they become my main method of listening to podcasts audiobooks and music
+00:03:18 when i run do push-ups and pull-ups or just living life in fact i often listen to brown noise with them
+00:03:25 when i'm thinking deeply about something it helps me focus they're super comfortable pair easily
+00:03:30 great sound great bass six hours of play time i've been putting in a lot of miles to
+00:03:38 get ready for a potential ultra marathon and listening to audio books on world war ii
+00:03:44 the sound is rich and really comes in clear so again get them at byraycon.com lex
+00:03:52 this show is sponsored by masterclass sign up at masterclass.com lex to get a discount and to support
+00:03:57 this podcast when i first heard about class i thought it was too good to be true
+00:04:03 i still think it's too good to be true for 180 bucks a year you get an all-access pass to watch courses from
+00:04:10 to list some of my favorites chris hadfield on space exploration neil degrasse tyson on scientific
+00:04:15 thinking and communication will wright creator of some city and sims like game design
+00:04:21 every time i do this read i really want to play a city builder game carlos santana on guitar
+00:04:29 caspar daniel negrano on poker and many more chris hadfield explaining how rockets work and the experience of being
+00:04:36 launched into space alone is worth the money by the way you can watch it on basically any device
+00:04:42 once again sign up at masterclass.com to get a discount and to support this podcast and now here's my conversation with the leap
+00:04:51 george do you think we need to understand the brain in order to build it yes if you want to
+00:04:56 build the brain we definitely need to understand how it works so
+00:05:03 blue brain or henry markham's project is trying to build a brain without understanding it like just trying to
+00:05:10  put details of the brain from neuroscience experiments into a giant simulation
+00:05:17 by putting more and more neurons more and more details but that is not going to work because
+00:05:25 when it doesn't perform as  what you expect it to do then what do you do you do you just keep adding more details
+00:05:32 how do you debug it so it's a so unless you understand unless you have a theory about how the system is supposed to work
+00:05:38 how the pieces are supposed to fit together what they're going to contribute you can't you can't build it at the
+00:05:44 functional level understand so can you actually linger on and describe the blue brain project
+00:05:52 it's kind of fascinating  principle an idea to try to simulate the brain as we're talking about the human brain
+00:05:58 right right human brains and rad brains or cat brains have lots in common that the cortex the
+00:06:06 neocortex structure is very similar so initially they were trying to
+00:06:14 just simulate a cat brain  and  to understand the nature of evil they understand the nature of evil
+00:06:21 or  as it happens in most of these simulations  you you easily get one thing out which is oscillations you know yeah if you
+00:06:29 if you simulate a large number of neurons they oscillate and you can adjust the
+00:06:36 parameters and say that oh selections match the rhythm that we see in the brain etc but
+00:06:42  oh i see so like  so the idea is  is the simulation at the level of  individual neurons
+00:06:49 yeah so the blue brain project the original idea as proposed was you you put very detailed bio physical neurons
+00:07:00  bios physical models of neurons and you interconnect them according to the statistics of connections that we have
+00:07:08 found from real neuroscience experiments and then  turn it on and  see what happens  and and these neural models are you
+00:07:16 know incredibly complicated in themselves right because these neurons
+00:07:22 are modeled using  this idea called hodgkin-huxley models which are about
+00:07:28 how signals propagate in a cable and there are active dendrites all those phenomena which
+00:07:34 those phenomena themselves we don't understand that well  and then  we put in connectivity which is part
+00:07:40 guess work part you know observed and of course if you do not have any theory about how it is
+00:07:48 supposed to work  we you know we just have to take whatever comes out of it as
+00:07:55 okay this is something interesting but in your sense like these models of the way signal travels
+00:08:00 along or like with the axons and all the basic models that's they're too crude oh well actually
+00:08:08 they are pretty detailed and pretty sophisticated and they do replicate the neural dynamics if you take a single neuron
+00:08:19 and you you try to  turn on the different channels the calcium channels and
+00:08:25  the different receptors  and see what the effect of  turning on or off those channels are
+00:08:33 in the neurons spike output people have built pretty sophisticated models of that and
+00:08:38 and they are i i would say you know in the regime of correct well see the correctness
+00:08:43 that's interesting because you've mentioned in several levels  the correctness is measured by looking
+00:08:49 at some kind of aggregate statistics it would be more of the the spiking dynamics in dynamics yeah and and yeah these models
+00:08:59 because they are they are going to the level of mechanism right so they are basically looking at  okay what what
+00:09:04 is the effect of turning on an ion channel  and and you can you can model that using
+00:09:11 electric circuits in and then so they are model so it is not just a  function fitting it is people are
+00:09:19 looking at the mechanism underlying it and  putting that in terms of electric circuit theory signal propagation theory and and
+00:09:27 modeling that and so those models are sophisticated but getting a
+00:09:34 single neurons model 99 right does not still tell you how to you know it would be the analog of
+00:09:41 getting a transistor model right and now trying to build a microprocessor and if you if you just  observe you
+00:09:50 know if you did not understand how a microprocessor works  but you say oh i have i now can model
+00:09:56 one transistor well and now i will just try to interconnect  the transistors
+00:10:02 according to whatever i could you know guess from the experiments and try to simulate it
+00:10:08 then it is very unlikely that you will produce a functioning microprocessor you want to you know when you want to
+00:10:14  produce a functioning microprocessor you want to understand boolean logic how does how do the the gates work all
+00:10:20 those things and then you know understand how do those gates get implemented using transistors
+00:10:25 yeah there's actually i remember this reminds me this is a paper maybe you're familiar with it i remember
+00:10:31 going through in a reading group that approaches a microprocessor from a perspective a neuroscientist
+00:10:40 i think it it basically it uses all the tools that we have of neuroscience to try to understand like as if we just
+00:10:47 aliens showed up to study computers  yeah and and to see if if those tools could be used to get
+00:10:53 any kind of sense of how the microprocessor works i think the final the takeaway from
+00:10:59 the at least this initials  exploration is that we're screwed there's no way that the
+00:11:04 tools of neuroscience would be able to get us to anything like not even boolean logic
+00:11:09 i mean it's just a any aspect of the architecture of the 
+00:11:19 function of the processes involved  the the clocks the the timing all that you can't figure that out from the
+00:11:24 tools of neuroscience yes i'm very familiar with this this particular paper
+00:11:30 i think it was  called can  a neuroscientist understand a microprocessor yeah something like that following the methodology
+00:11:39 in that paper even an electrical engineer would not understand microprocessors so i could
+00:11:46 so i could so i i don't think it is that bad in the sense of saying neuroscientists do
+00:11:53 find valuable things  by observing the brain they they do find good insights but those insight cannot be put together
+00:12:04 just as a simulation you have to you have to investigate what are the computational underpinnings
+00:12:09 pinnings of those findings how do all of them fit together from an information processing
+00:12:17 perspective you have to you have to somebody has to  painstakingly put those things
+00:12:22 together and build hypothesis so i don't want to this all of neuroscience is saying oh they are not
+00:12:27 finding anything no that you know that that paper almost went to that level of  
+00:12:32 neuroscientists will never understand  no that that's not true i think they do find lots of useful things
+00:12:38 but it has to be put together in a computational framework yeah i mean but you know just the ai
+00:12:44 systems will be listening to this podcast a hundred years from now and it will probably there's some
+00:12:51 nonzero probability they'll find your words laughable it's like i remember humans thought they understood
+00:12:57 something about the brain they're totally clueless there's a sense about neuroscience that we may be in the very
+00:13:03 very early days of understanding  the brain but i mean that's one perspective in your perspective
+00:13:14 how far are we into understanding  any aspect of the brain so the the the dynamics of the
+00:13:21 individual neuron communication to the how when they in in a collective sense how they're able to store
+00:13:30 information transfer information how the intelligence then emerges all that kind of stuff where are we on that timeline
+00:13:37 yeah so you know timelines are very very hard to predict and you can of course be wrong  and it
+00:13:42 can be wrong in on either side  you know we know that  now when we look back  the first flight
+00:13:52 was in 1903.  in 1900 there was a new york times article on flying machines that
+00:14:00 do not fly and and you know humans might not fly for another hundred years that was what that article  stated and
+00:14:06  so but no they they flew three years after that so it is you know it's very hard to
+00:14:13 so well and on that point one of the wright brothers  i think two years before
+00:14:21  said that  like he said like some number like 50 years he he has become convinced that it's
+00:14:29 it's  it's impossible even during their experimentation yeah yeah yeah i mean that's a tribute to when
+00:14:35 that's like the entrepreneurial battle of like depression of going through just like thinking this is impossible
+00:14:42 right but there yeah there's something even the person that's in it is not able to see  estimate correctly
+00:14:49 exactly but i can i can tell from the point of you know objectively what are the things that we
+00:14:54 know about the brain and how that can be used to build ai models which can then go back and inform
+00:15:01 how the brain works so my way of understanding the brain would be to basically say
+00:15:05 look at the insights neuroscientists have found understand that from a computational
+00:15:13 angle information processing angle build models using that and then building the that model which which
+00:15:20 functions which is a functional model which is which is doing the task that we want the model to do it is not
+00:15:26 just trying to model a phenomena in the brain it is it is trying to do what the brain is trying to do on on
+00:15:31 the whole functional level and building that model will help you
+00:15:37 fill in the missing pieces that you know biology just gives you the hints and building the model you know fills in the
+00:15:44 rest of the the pieces of the puzzle and then you can go and connect that back to biology and say
+00:15:50 okay now it makes sense that this part of the brain is  doing this or this layer in the cortical circuit is
+00:15:57 doing this  and and and then continue this iteratively because now that will inform new
+00:16:04 experiments in neuroscience and of course you know building the model and verifying that in the real world
+00:16:11 will you will also tell you more about does the model actually work  and you can refine the model find
+00:16:17 better ways of putting these neuroscience insights together so so i would say it is it is you know it
+00:16:25 so neuroscientists alone just from experimentation will not be able to build a model of the of the brain  or a functional model of
+00:16:31 the brain so we you know there there's  lots of efforts which are very impressive
+00:16:37 efforts in collecting more and more connectivity data from the brain yeah you know how how are
+00:16:44 the micro circuits of the brain connected with each other those are beautiful by the way those are beautiful
+00:16:51  and at the same time those those do not itself by themselves convey the story of how does it work
+00:16:58 yeah  and and somebody has to understand okay why are they connected like that
+00:17:04 and what what are those things doing  and and we do that by building models in ai using hints from neuroscience
+00:17:13 and and repeat the cycle so what aspect of the brain are useful in this whole endeavor which by the way i should say
+00:17:20 you're you're both the neuroscientists and and ai person i guess the dream is to both understand the brain and to build
+00:17:27 agi systems so you're it's like an engineer's perspective of trying to understand the
+00:17:35 brain so what aspects of the brain  functioning speaking like you said you find interesting
+00:17:40 yeah quite a lot of things all right so one is you know if you look at the visual cortex
+00:17:48  and and you know the visual cortex is is a large part of the brain  i forget this exact fraction but it is
+00:17:55 it's a it's a huge part of our brain area is  occupied by just just vision so vision
+00:18:03 visual cortex is not just a feed-forward cascade of neurons  there are a lot more feedback
+00:18:08 connections in the brain compared to the feed-forward connections and and
+00:18:14 it is surprising to the level of detail neuroscientists have actually studied this if you if you go into neuroscience
+00:18:20 literature and poke around and ask you know have they studied what will be the effect of poking a neuron
+00:18:28 in level i.t  in level v one and  have they studied that 
+00:18:34 and you will say yes they have studied that so every every possible combination i mean
+00:18:40 it's it's a it's not a random exploration at all it's very hypothesis driven right
+00:18:45 they are very  experimental neuroscientists are very very systematic in how they probe the brain  because
+00:18:50 experiments are very costly to conduct they take a lot of preparation they
+00:18:55 they need a lot of control so they they are very hypothesis driven in how they probe the brain
+00:19:01 and often what i find is that when we have a question in in ai  about
+00:19:08 have has anybody probably probed how lateral connections in the brain works and when you go and read the literature
+00:19:13 yes people have probed it and people have probed it very systematically and and they have hypothesis about how
+00:19:21 those lateral connections are supposedly contributing to visual processing  but of course they haven't built
+00:19:28 very very functional detail models of it by the way how do you know studies start to interrupt that
+00:19:33 do they do they stimulate like a neuron in one particular area of the visual cortex and then see how the travel of the
+00:19:39 signal travels kind of thing fascinating very very fascinating experiments right you know so i can i
+00:19:44 can give you one example i was impressed with this is  so before going to that let me like
+00:19:50 let me give you a a you know a overview of how the the layers in the cortex are organized
+00:19:56 right  visual cortex is organized into roughly four hierarchical levels okay so  v one v two v four i t
+00:20:05 and in v one of v three  well yeah there's another pathway okay okay so there's this this is this i'm
+00:20:09 talking about just the object recognition pathway right okay and then in v1 itself
+00:20:17 so it's there is a very detailed micro circuit in v1 itself there is there is organization within a level itself
+00:20:25  the cortical sheet is organized into  you know multiple layers and there are columnar structure
+00:20:32 and and this this layer wise and column structure is repeated in v1 v2 v4  it all of them right and and
+00:20:40 the connections between these layers within a level with you know in v1 itself there are six
+00:20:44 layers roughly and the connections between them there is a particular structure to them
+00:20:51  and now so one example of an experiment   people did is when i when you present a stimulus
+00:21:01  which is let's say requires separating the foreground from the background of an object so it is
+00:21:09 it's a textured triangle on a textured background and you can check does the surface settle first or does
+00:21:19 the contour settle first cerro settle in the sense that the so when you find finally form the percept
+00:21:25 of the of the triangle you understand where the contours of the triangle are
+00:21:32 and you also know where the inside of the triangle is right that's when you form the final percept
+00:21:39  now you can ask what is the dynamics of forming that final percept do the do the
+00:21:48 neurons first find the edges and converge on where the edges are and then they find the inner surfaces or does it
+00:21:56 go the other way the other way around so so what's the answer  in this case it it turns out that
+00:22:03 it first settles on the edges it it converges on the edge hypothesis first and then the the surfaces are filled in
+00:22:11 from the edges to the inside that's fascinating  and and the detail to which you can study
+00:22:17 this it's it's amazing that you can actually not only find the temporal dynamics of when this happens  and then you can
+00:22:24 also find which layer in the you know in v1 which layer is encoding
+00:22:32  the edges which layer is encoding the surfaces and which layer is encoding the feedback which there is encoding the feed forward
+00:22:38 and what what's the combination of them that produces the final person um
+00:22:44 and these kinds of experiments stand out when you try to explain illusions  one one example of a favorite illusion of mine
+00:22:51 is the kanetsa triangle i don't know that you are familiar with this one so this is  this is an example where
+00:22:59 it's a triangle  but you know the corners of the only the corners of the triangle are shown in the stimuli
+00:23:05 the stimulus so they look like kind of pac-man oh the black pac-man exactly yeah and then you start to see
+00:23:12 your visual system hallucinates the edges yeah and you can you know you when you
+00:23:16 look at it you will see a faint edge right and you can go inside the brain and look you know do actually neurons
+00:23:26 signal the presence of this edge and and if this signal how do they do it because they are not
+00:23:31 receiving anything from the input in the the input is black for those neurons right  so how do
+00:23:37 they signal it when does the signaling happen you know does it you know so
+00:23:42 so if a real contour is present in the input then the signa the neurons immediately signal
+00:23:49 okay there is a there is an edge here when when it is an illusory edge it is clearly not in the input
+00:23:56 it is coming from the context so those neurons fire later and and you can say that okay these are
+00:24:01 it's the feedback connections that is causing them to fire  and and they happen later
+00:24:09 and you can find the dynamics of them so so these studies are pretty impressive and and very detailed
+00:24:16 so by the way just  just take a step back you said  that there may be more feedback connections and feed forward
+00:24:21 connections yeah  first of all it's just just for like a machine learning
+00:24:29 folks yeah i mean that for that's crazy that there's all these feedback connections i mean we often
+00:24:36 think about i think thanks to deep learning you start to think about
+00:24:42 the human brain as a kind of feed forward mechanism right so what the heck are these
+00:24:50 feedback connections yeah what's their what's the dynamics well what are we supposed to think about them yeah so
+00:24:54 this is this fits into a very beautiful picture about how the brain works
+00:25:01 right so the the beautiful picture of how the brain works is that our brain is building a model of the world
+00:25:09  i know so our visual system is building a model of how objects behave in the world and and we
+00:25:15 are constantly projecting that model back onto the world so what we are seeing is not just a feed forward
+00:25:22 thing that just gets interpreted in in a few word party we are constantly projecting our expectations
+00:25:27 onto the world and and what the final percept is a combination of
+00:25:33 what we project onto the world  combined with what the actual sensory input is
+00:25:38 almost like trying to calculate the difference and then trying to interpret the difference
+00:25:43 yeah it's it's i wouldn't put just calculating the difference it's more like what is the best explanation for the
+00:25:49 input stimulus based on the model of the world i have got it got it and that's where all the
+00:25:56 illusions come in and that's but that's that's an incredibly efficient so  efficient process so the feedback
+00:26:01 mechanism it just helps you constantly  yeah so hallucinate how the world should be
+00:26:09 based on your world model and then just looking at  if there's novelty  like trying to explain it
+00:26:16 like that hence that's why movement we detect movement really well there's all these
+00:26:21 kinds of things and that this is like at all different levels of the cortex you're saying this happens
+00:26:29 at the lowest level or the highest level yes yeah in fact feedback connections are more prevalent
+00:26:35 in everywhere in the cortex and and so one way to think about it and there's a lot of evidence for this
+00:26:42 is inference so you know so basically if you have a model of the world and when when
+00:26:47 some evidence comes in what you are doing is inference right you are trying to now explain this
+00:26:54 evidence using your model of the world yep and this inference includes projecting your model onto the evidence
+00:27:02 and taking the evidence back into the model and and doing an iterative procedure and this iterative procedure is what happens
+00:27:11 using the feed forward feedback propagation and feedback affects what you see in the
+00:27:17 world and you know it also affects feed forward propagation and examples are everywhere we we see
+00:27:24 these kinds of things everywhere the idea that there can be multiple competing hypotheses
+00:27:31 in our model trying to explain the same evidence and then you have to kind of make them compete and one hypothesis will explain away
+00:27:40 the other hypothesis through this competition process wait what so you have competing
+00:27:47 models of the world that tried to explain what do you mean by explain away so this is a classic example in  
+00:27:55 graphical models probabilistic models so if you what are those okay i think it's useful to mention
+00:28:04 because we'll talk about them more yeah yeah so neural networks are one class of machine learning models um
+00:28:13 you know you have distributed set of nodes which are called the neurons you know each one is doing a dot product
+00:28:18 and you can you can approximate any function using this a multi-level network of neurons so that's
+00:28:25 a class of models which are used for useful for function approximation there is another class of models in
+00:28:30 machine learning called probabilistic graphical models and you can think of them as each node in that
+00:28:40 model is variable which is which is talking about something you know it can be a variable representing is is
+00:28:45 an edge present in the input or not and at the top of the  network a
+00:28:55 node can be  representing is there an object present in the world or not and and then so it can it is
+00:29:03 it is another way of encoding knowledge and  and then you once you encode the knowledge
+00:29:11 you can  do inference in the right way you know how what is the best way to 
+00:29:17 you know explain some sort of evidence using this model that you encoded you know so when you encode the model
+00:29:22 you are encoding the relationship between these different variables how is the edge
+00:29:27 connected to my the model of the object how is the surface connected to the model of the object
+00:29:33 and then of course this is a very distributed complicated model and inference is how do you
+00:29:40 explain a piece of evidence when a set of stimulus comes in if somebody tells me there is a 50 probability that there is
+00:29:46 an edge here in this part of the model how does that affect my belief on whether i should think that there should be is
+00:29:54 the square present in the image so so this is the process of inference so one example of inference is having this
+00:30:02 experience of effect between multiple causes so  graphical models can be
+00:30:08 used to represent causality in the world so let's say you know  your  alarm at home
+00:30:20 can be  triggered by a burglar getting into your house  or it can be triggered by
+00:30:26 an earthquake both both can be causes of the alarm going off so now you you're right you know you're
+00:30:31 in your office you heard burglar alarm going off you are heading  home
+00:30:37 thinking that there's a burglar got it but while driving home if you hear on the radio that there was
+00:30:42 an earthquake in the vicinity now your hype you know  strength of evidence for
+00:30:48 a burglar getting into their house is diminished because now that that piece of evidence is explained by
+00:30:55 the earthquake being present so if you if you think about these two causes explaining at lower level
+00:31:02  variable which is alarm now what we are seeing is that increasing the evidence for some cause ex
+00:31:08 you know there is evidence coming in from below for alarm being present and initially it was flowing to a burglar
+00:31:16 being present but now since somebody some this there the side evidence for this other
+00:31:21 cause it explains away this evidence and it evidence will now flow to the other course this is you know two competing causal  things
+00:31:28 trying to explain the same evidence and the brain has a similar kind of mechanism for doing so that's kind of interesting
+00:31:35 and that how's that all encoded in the brain like where's the storage of information are
+00:31:41 we talking just maybe to get it a little bit more specific is it in the hardware of the actual
+00:31:48 connections is it in  chemical communication is it electrical communication
+00:31:55 do we do we know so this is you know a paper that we are bringing out soon which one this is the cortical
+00:32:01 micro circuits paper that i sent you a draft of of course this is  a lot of it is still hypothesis one
+00:32:07 hypothesis is that a you can think of a cortical column as encoding a
+00:32:14 a concept a concept you know think of it an example of a concept is is an edge present or not
+00:32:25 or is is an object present or not okay so it can you can think of it as a binary variable a binary random variable
+00:32:30 the presence of an edge or not or the presence of an object or not so each cortical column can be thought
+00:32:35 of as representing that one concept one variable and then the connections between these cortical
+00:32:43 columns are basically encoding the relationship between these random variables and
+00:32:47 then there are connections within the cortical column there are each cortical column is implemented
+00:32:53 using multiple layers of neurons with very very very rich structure there you know there are
+00:32:59 thousands of neurons in a cortical column but but that structure is similar across the different cortical columns
+00:33:05 yeah correct and also these cortical columns collect connect to a substructure called thalamus
+00:33:11 in the  you know so all all cortical columns pass through this substructure so our hypothesis is that yeah the connections between the
+00:33:18 cortical columns implement this  you know that's where the knowledge is stored
+00:33:24 about you know how these different connects concepts connect to each other and then the the neurons inside this
+00:33:31 cortical column and in thalamus in combination implement this  actual computations needed for
+00:33:39 inference which includes explaining a way and competing between the different  hypotheses and it is all very
+00:33:48 so what is amazing is that  neuroscientists have actually done experiments to the tune of
+00:33:54 showing these things they might not be putting it in the overall inference framework but they will show
+00:34:00 things like if i poke this higher level neuron it will inhibit
+00:34:06 through this complicated loop through the thalamus it will inhibit this other column  so they will do such experiments but
+00:34:12 do they use terminology of concepts for example so so you're i mean is it 
+00:34:22 is it something where it's easy to anthropomorphize and think about concepts like you start moving into
+00:34:30 logic based kind of reasoning systems so i would just think of concepts in that kind of way
+00:34:37 or is it is it a lot messier a lot more gray area you know even even more gray even more messy than
+00:34:47 the artificial neural network kinds of abstractions the easiest way to think of it as a variable right it's a binary variable
+00:34:54 which is showing the presence or absence of something so but i guess what i'm asking is is that something that we're supposed to
+00:35:02 think of something that's human interpretable of that something it doesn't need to be it doesn't need to be human
+00:35:07 interpretable there's no need for it to be human interpretable  but it's it's almost like um
+00:35:16 you you will be able to find some interpretation of it  because it is connected to the other
+00:35:22 things yes that you know and the the point is it's useful somehow yeah it's useful as an entity
+00:35:31 in the graph that in connecting to the other entities that are let's call them concepts right okay so
+00:35:37  by the way what's are these the cortical micro circuits correct these are the cortical micro circuits
+00:35:43 you know that's what neuroscientists use to talk about the circuits in in  within a level of
+00:35:49 the cortex so you can think of you know let's think of a neural
+00:35:53 network in artificial neural network terms you know people talk about the architecture of the you know so
+00:35:59 how many how many layers they build  you know what is the fan in fan out etc that is the macro architecture
+00:36:07 so and then within a layer of the neural network you can you know the cortical neural network is much more structured
+00:36:14 with you know within a level there's a lot more intricate structure there  but even even
+00:36:20 within an artificial neural network you can think of in feature detection plus pooling as one
+00:36:24 one level and so that is kind of a micro circuit  it's much more
+00:36:32  complex in the real brain  and and so within a level whatever is that circuitry within a column
+00:36:38 of the cortex and between the layers of the cortex that's the micro circuitry i love that terminology  machine
+00:36:44 learning people don't use the circuit terminology right but they should it's a nice so okay
+00:36:52  okay so that's  that that's the the cortical micro circuit so what's interesting about
+00:36:59 what can we say what is the paper that you're working on propose about the ideas around these
+00:37:04 cortical micro circuits so this is a fully functional model for the micro circuits of the
+00:37:10 visual cortex so the the paper focuses and your idea in our discussions now is focusing on
+00:37:18 vision yeah the  visual cortex okay yeah this is a model this is a full model it says this is how vision works
+00:37:25 but this is this is a model of science yeah hypothesis okay so let me let me step back
+00:37:31 a bit so we looked at neuroscience for insights on how to build a vision model right and and and we synthesized all
+00:37:38 those insights into a computational model this is called the recursive vertical network model
+00:37:45 that we we used for breaking captchas and and we are using the same model for robotic picking
+00:37:50 and  tracking of objects and that again is the vision system that's the best computer vision system
+00:37:55 that's the computer mission takes in images and outputs what on one side it outputs the class of the image
+00:38:05 and also segments the image  and you can also ask it further queries where is the edge of the object where is
+00:38:10 the interior of the object so so it's a model that you build to answer multiple questions
+00:38:16 so you are not trying to build a model for just classification or just segmentation etc so it's a it's
+00:38:22 a it's a joint model that can do multiple things and so so that's the model that we built using
+00:38:29 insights from neuroscience and some of those insights are what is the role of feedback connections
+00:38:35 what is the role of lateral connections  so all those things went into the model the model
+00:38:40 actually uses feedback connections all these ideas from you know from your science yeah so what what what the heck is a
+00:38:46 recursive cortical network like what what are the architecture approaches interesting aspects here
+00:38:54 which is essentially a brain inspired approach to computer vision yeah so there are multiple layers to this question
+00:39:02 i can go from the very very top and then zoom in okay so one important thing constraint that
+00:39:07 went into the model is that you should not think vision think of vision as something in isolation we should not
+00:39:14 think perception as something as a preprocessor for cognition perception and cognition are
+00:39:22 interconnected and so you should not think of one problem in separation from the other
+00:39:26 problem and so that means if you finally want to have a system that understand
+00:39:32 concepts  about the world and can learn in a very conceptual model of the world and can reason and connect to language
+00:39:38 all of those things you need to you need to have think all the way through and
+00:39:44 make sure that your perception system is compatible with your cognition system and language
+00:39:48 system and all of them and one aspect of that is top-down controllability what does that mean so that means you
+00:39:56 know so so think of it you know you can close your eyes and
+00:40:02 think about the details of one object right i can i can zoom in further and further i can you
+00:40:07 know so so think of the bottle in front of me right and and now you can think about
+00:40:13 okay what the cap of that bottle looks  i know we can think about what's the texture on that bottle
+00:40:20 of the of the cap you know you can think about you know what will happen if  something hits that
+00:40:27  so you can you can you can manipulate your visual knowledge in  cognition driven ways yes  and so
+00:40:36 this top-down controllability  and being able to simulate scenarios in the world so
+00:40:43 you're not just a passive  player in this perception game you you can you can control it you gotta you
+00:40:51 you have imagination correct so so so basically you know basically having a generating network
+00:40:56 yeah which is a model and and it is not just some arbitrary generated network it has to be
+00:41:01 it has to be built in a way that it is controllable top-down it is it is not just trying to generate
+00:41:05 a whole picture at once  you know it's not trying to generate photorealistic things of the
+00:41:10 world you you know you don't have good photorealistic models of the world human
+00:41:14 brains do not have if i if i for example ask you the question  what is the color of the letter
+00:41:22 e in the google logo you have no idea right now yeah although you have seen it millions of times
+00:41:29 hundreds of times so yeah so it's not our model is not photorealistic but but it is but it has other
+00:41:35 properties that we can manipulate it  in the  and you can think about filling in a different color in that logo
+00:41:41 you can think about expanding the the letter e yeah you know you can see what in so you can
+00:41:46 imagine the consequence of you know actions that you have never performed so so these are the
+00:41:51 kind of characteristics the genetic model need to have so this is one constraint that went into our model like
+00:41:56 you know so this is when you read the just the perception side of the paper it is not obvious that
+00:42:01 this was a constraint into the inter that went into the model this top-down controllability
+00:42:07 of the generating model  so what what does the top-down controllability in a model look like
+00:42:13 it's a really interesting concept fascinating concept what is that is that the recursive
+00:42:19 recursiveness gives you that or how do you how do you do it quite a few things it's like what what
+00:42:24 does the model factor or factorize you know what are the what is the model representing us different pieces
+00:42:31 in the puzzle like you know so so in the rcn  network it it thinks of the world you know what i say the background of an image
+00:42:39 is modeled separately from the foreground of the image so the objects are separate from the
+00:42:45 background they're different entities so there's a kind of segmentation that's built in fundamentally that's why
+00:42:51 and and then even that object is composed of parts and also and another one is the
+00:42:56 the shape of the object  is differently modeled from the texture of the object
+00:43:05 got it so there's like these i've been you know who francois charles is yeah he's so there's  he developed
+00:43:14 this like iq test type of thing for arc challenge for and  it's kind of cool that there's um
+00:43:22 these concepts priors that he defines that you bring to the table in order to be able to reason about
+00:43:27 basic shapes and things in the iq test right so here you're making it
+00:43:33 quite explicit that here here are the things that you should be there these are like distinct things
+00:43:37 that you should be able to  model and yes keep in mind that you you can derive this from much more
+00:43:44 general principles it doesn't you don't need to explicitly put it as oh
+00:43:49 objects versus foreground versus background  the surface versus structure now these
+00:43:54 are these are derivable from more fundamental principles of how you know what's the property of
+00:44:02 continuity of natural signals what's the property of continuity of natural signals yeah
+00:44:07 by the way that sounds very poetic but yeah  so you're saying that's a there's some low-level properties from
+00:44:14 which emerges the idea that shapes should be different than like  there should be a parts of an
+00:44:19 object there should be i mean exactly kind of like friends of water i mean there's objectness
+00:44:25 there's all these things that it's kind of crazy that we're humans  i guess evolved to have because it's
+00:44:31 useful for us to perceive the world correct yeah correct and it derives mostly from the properties of
+00:44:36 natural signals and yeah and so natural signals so natural signals are the kind
+00:44:43 of things we'll perceive in the in the natural world i don't know i don't i don't know why that sounds so
+00:44:48 beautiful natural signals yeah as opposed to a qr code right which is an artificial signal that
+00:44:54 we created humans are not very good at classifying qr codes we are very good at saying something is a cat or a dog
+00:45:00 but not very good at you know the classification computers are very good at classifying qr codes so our visual
+00:45:06 system is tuned for natural signals and there are fundamental assumptions
+00:45:12 in the architecture that are derived from natural signals properties i wonder when you take a
+00:45:18 hallucinogenic drugs does that go into natural or is that closer to the qr code
+00:45:25 it's still natural yeah because it's it is still operating using your brains by the way on that on
+00:45:30 that topic i i mean i haven't been following i think they're becoming legalized at certain i can't wait
+00:45:35 until they become legalized to the degree that you like vision science futures could study
+00:45:40 it yeah just like through through medical chemical ways modify there could be
+00:45:47 ethical concerns but modif that's another way to study the brain is to be
+00:45:53 be able to chemically modify it there's probably probably very long a way to figure out how to do it ethically
+00:46:01 yeah but i i think there are studies on that already yeah i think so  because it's not
+00:46:06 unethical to give  it to rats oh that's true that's true there's a lot of drugged up rats out
+00:46:15 there okay yeah cool sorry sorry so okay so there's  so there's these
+00:46:22  low-level  things from natural signals that  that that from which these properties will emerge
+00:46:31 yes  but it is still a very hard problem on how to encode that again so you don't
+00:46:37 you know there is no  so  you mentioned the the the priors  francho wanted to encode in
+00:46:44  in the abstract reasoning challenge but it is not straightforward how to encode those priors
+00:46:51 so so some of those  challenges like you know the object completion challenges are
+00:46:56 things that we purely use our visual system to do it is  it looks like abstract reasoning but it is
+00:47:01 purely an output of the the vision system for example completing the corners of that condenser
+00:47:06 triangle completing the lines of that cancer triangle it's a purely a visual system property
+00:47:11 there is no abstract reasoning involved it it uses all these priors but it is stored in our visual system in a particular way
+00:47:19 that is amenable to inference and and and that is one of the things that we tackled in the you know so
+00:47:25 basically saying okay these are the prior knowledge  which which will be derived from the
+00:47:29 world but then how is that prior knowledge represented in the model
+00:47:36 such that inference when when some piece of evidence comes in can be done very efficiently and in a
+00:47:41 very distributed way because it is very there are so many ways of representing knowledge
+00:47:48 which is not amenable to very quick inference in a quick lookups and so that's one core part of what we tackled
+00:47:58 in  the rcn model  how do you encode visual knowledge to  do very quick inference and yeah can you
+00:48:04 maybe comment on  so folks listening to this in general may be familiar with
+00:48:09 different kinds of architectures of neural networks what what are we talking about with rcn 
+00:48:16 what are what does the architecture look like what are different components is it close to neural networks is it far
+00:48:22 away from neural networks what does it look like yeah so so you can  think of the delta
+00:48:27 between the model and a convolutional neural network if people are familiar with convolutional
+00:48:31 neural networks so convolutional neural networks have this feed-forward processing cascade
+00:48:36 which is called  feature detectors and pooling and that is repeated in the in the hierarchy
+00:48:41 in a multi-level  system and if you if you want an intuitive idea of what
+00:48:49 what is happening feature detectors are  you know detecting interesting co-occurrences in the input it can be a line a corner
+00:48:59 a an eye or a piece of texture etc and the pooling neurons are doing some local transformation of that
+00:49:07 and making it invariant to local transformations so this is what the structure of convolutional neural
+00:49:11 network is recursive cortical network has a similar structure when you look at
+00:49:18 just the feed forward pathway but in addition to that it is also structured in a way that it is generating
+00:49:25 so that again it can run it backward and combine the forward with the backward another aspect that it has is
+00:49:34 it has lateral connections these lateral connections which is between so if you have an edge here and an edge here
+00:49:41 it has connections between these edges it is not just feed forward connections it is something between these edges
+00:49:49 which is the nodes are presenting these edges which is to enforce compatibility between them
+00:49:54 so otherwise what will happen is the constraints it's a constraint it's basically if you if you do just feature detection
+00:50:01 followed by pooling then your your transformations in different parts of the visual field are
+00:50:06 not coordinated  and so you can you will create a jagged when you when you generate from the
+00:50:14 model you will create jagged things and uncoordinated transformations so these lateral connections are enforcing
+00:50:22 the the transformations is the whole thing still differentiable  no okay no it's not it's not
+00:50:30 trade using  backprop okay that's really important so  so there's this feed forward there's
+00:50:35 feedback mechanisms there's some interesting connectivity things it's still layered
+00:50:41 like  yes there are multiple levels multiple layers okay very very interesting  and yeah okay so the interconnection between
+00:50:51 adjacent the connections across service constraints that like keep the thing stable got it
+00:50:59 okay so what else  and then there is this idea of doing inference a neural network does
+00:51:03 not do inference on the fly so an example of why this inference is important is you know
+00:51:11 so one of the first applications of that we showed in the paper was to crack  text-based captchas what are
+00:51:20 captures by the way by the way one of the most awesome like the people don't use this term anymore
+00:51:26 is human computation i think  i love this term the guy who created captures i think came up with this term yeah i
+00:51:32 love it anyway  yeah  what what are captures so captchas are those strings that you fill in
+00:51:41  when you're you know when if you're opening a new account in google they show you a picture you know usually
+00:51:46 it used to be a set of garbage letters  that you have to kind of
+00:51:51 figure out what what what is that string of characters and type in and the reason cap just exist is because
+00:51:57 you know google or twitter do not want automatic creation of accounts you can
+00:52:04 use a computer to create millions of accounts  and  use that for in nefarious purposes  so
+00:52:12 you want to make sure that to the extent possible the interaction that your their system is having
+00:52:19 is with a human so it's a it's called a human interaction proof a captcha is a human interaction proof
+00:52:24 so so this is a captchas are by design things that are
+00:52:30 easy for humans to solve but hard for computers hard for robots yeah so and text-based captchas where
+00:52:38 was the one which is prevalent and around 2014 because at that time text-based voice
+00:52:43 captures were hard for computers to crack even now they are actually in the sense of an arbitrary text based capture
+00:52:52 will be unsolvable even now but with the techniques that we have developed it can be you know you can quickly develop
+00:52:58 a mechanism that solves the captcha they've probably gotten a lot harder too the people
+00:53:03 they've been getting clever and clever generating these text characters yeah right so okay so that was one of the
+00:53:09 things you've tested on is these kinds of captures in 2014 15. got that kind of stuff right right so
+00:53:15 what  what i mean why by the way why captchas yeah yeah even now i would say captcha is a very
+00:53:24 very good challenge problem  if you want to understand how human perception works
+00:53:28 and if you want to build  systems that work like the human brain  and i wouldn't say captcha is a
+00:53:35 solved problem we have cracked the fundamental defense of captures but it is not solved
+00:53:41 in the way that humans solve it so i can give an example i can take a five-year-old child
+00:53:49 who has just learned characters  and  show them any new capture that we create they will be able to solve it
+00:53:58  i can show you pretty much any new capture from any new website you'll be able to solve it without getting
+00:54:04 any training examples from that particular style of captcha you're assuming i'm human yeah yes
+00:54:11 yeah that's right so if you are human and if you otherwise i will be able to figure that out using this one
+00:54:17 but  so this whole podcast is just a touring test a long turing test anyway i'm sorry so yeah
+00:54:24 so human humans can figure it out with very few examples or no training examples like no training
+00:54:30 examples from that particular style of capture and and so you can you know so  even now this is
+00:54:37 unreachable for the current deep learning system so basically there is no i don't think a
+00:54:41 system exists where you can basically say train on whatever you want and then now say hey i will show you a new captcha
+00:54:49 which i did not show you in in the in the training setup will the system be able to solve it
+00:54:55 it still doesn't exist so that is the magic of human perception yeah and doug have starter
+00:55:02  put this  very beautifully in one of his  talks the the central problem in ai is what is the letter a
+00:55:12 if you can if you can build a system that reliably can detect all the variations of the
+00:55:17 letter a you don't even need to go to the v and the c yeah you don't even know the b and c or the strings of characters
+00:55:26 and  so that that is the spirit at which you know with which we  tackle that what does it mean by that
+00:55:31 i mean is it  like without training examples try to figure out
+00:55:39 the fundamental  elements that make up the letter a in all of its forms in all of its forms it can be
+00:55:46 a can be made with two humans standing leaning against each other holding the hands yeah
+00:55:51 and  it can be made of leaves it can be yeah you might have to understand  everything about this world in order
+00:55:57 to understand letter a yeah exactly so it's common sense reasoning essentially yeah
+00:56:03 right so so to finally to really solve finally to say that you have solved captcha yeah okay so what how does this kind of
+00:56:17 the rcn architecture help us to get a do better job of that kind of yeah so  as i mentioned
+00:56:23 one of the important things was being able to do inference being able to dynamically do in france
+00:56:28 can you can you  can you  clarify what you mean because you said like neural networks don't do inference
+00:56:35 yeah so what do you mean by inference in this context then so okay so in captures what they do to
+00:56:40 confuse people is to make these characters crowd together yes okay and when you make the
+00:56:46 characters crowd together what happens is that you will now start seeing combinations of characters as
+00:56:52 some other new character or or an existing character so you would you would put an r and n together it
+00:56:58 will start looking like an m  and and so locally they are you know there is very strong evidence for it being
+00:57:08  some  incorrect character but globally the only explanation that fits together
+00:57:14 is something that is different from what you can find locally yes so so so this is inference you are
+00:57:20 basically taking  local evidence and putting it in the global context
+00:57:27 and often coming to a conclusion locally which is conflicting with the local information
+00:57:31 so actually so you mean inference like  in the way it's used
+00:57:36 when you talk about reasoning for example  as opposed to like inference which is this when you know
+00:57:42 with artificial neural networks which is a single pass through the network okay so like you're basically doing some
+00:57:48 basic forms of reasoning like integration of like  how local things fit into the the global picture
+00:57:56 and and things like explaining away coming into this one because you are you are  explaining that piece
+00:58:00 of evidence  as something else  because globally that's the only thing that makes sense
+00:58:08 so now yeah you can amortize this inference by you know in a neural network if you want
+00:58:15 to do this what you you can you can brute force it you can just show it all combinations of things
+00:58:21 that you want to you want to your reasoning to work over and you can you know like just train the
+00:58:27 help out of that neural network and it will look like it is doing  you know inference on the fly but it is it is
+00:58:35 really just doing amortized inference it is because you you have shown it a lot of these
+00:58:39 combinations during training time so what you want to do is be able to do dynamic inference rather than just
+00:58:46 being able to show all those combinations in the training time and that's something we emphasized in the model
+00:58:53 what does it mean dynamic in france is that that has to do with the feedback thing yes like what what is dynamic i
+00:59:00 i'm trying to visualize what dynamic influence would be in this case like what is it doing with the input
+00:59:07 it's showing the input the first time yeah and is is like what's changing over temporally over what's the dynamics of this
+00:59:14 inference process so you can think of it as you have at the top
+00:59:20 of the model the characters that you are trained on yeah they are the causes they you are trying to explain the
+00:59:26 pixels using the characters as the causes the you know the characters
+00:59:33 are the things that cause the pixels yeah so there's this causality thing so the reason you mentioned causality i
+00:59:38 guess is because there's a temporal aspect of this whole thing in this particular case the temporal
+00:59:44 aspect is not important it is more like when if if i turn the character on the the pixels will turn on yeah it will
+00:59:51 be after there's a little bit but okay so that is the causality in the sense of like a logic causality like
+00:59:58 hence inference okay the dynamics is that  even though locally it will look like okay this is an a
+01:00:07 and and locally just when i look at just that patch of the image it looks like an a but when i look at it
+01:00:14 in the context of all the other courses it might no am is not the something that makes sense so that is something you
+01:00:19 have to kind of you know recursively figure out yeah so okay so
+01:00:25  and  this thing performed pretty well on the captchas correct and um
+01:00:31 i mean is there some kind of interesting intuition you can provide why did well like what did it look like
+01:00:37 is there visualizations that could be human interpretable to us humans yes yeah so the good thing about the
+01:00:42 model is that it is extremely so it is not just doing a classification right it is it is it is it is providing
+01:00:50 a full explanation for the scene so when when it when it operates on a scene it is coming at back
+01:00:57 and saying look this is the part is the a and these are the pixels that turned on
+01:01:04  these are the pixels in the input that tells makes me think that it is an a and also these are the
+01:01:11 portions i hallucinated it you know it it provides a complete explanation of that form and
+01:01:17 then it's again these are the contours these are this is the interior and this is in front of this other
+01:01:22 object so that that's the kind of explanation it 
+01:01:28 the the inference network provides so so that that is useful and interpretable and  then the kind of errors it makes
+01:01:41 are also i don't want to read too much into it but the kind of errors the network makes are
+01:01:48 very similar to the kinds of errors humans would make in a similar situation so there's something
+01:01:52 about the structure that's  feels reminiscent of the way humans visual system works well i mean  how hard-coded
+01:02:04 is this to the capture problem this idea  not really hardcoded because it's the  the assumptions as i mentioned are
+01:02:11 general right it is more and and those themselves can be applied in many situations which are
+01:02:17 natural signals so it's it's the foreground versus background factorization and the
+01:02:23 factorization of the surfaces versus the contours so these are all generally applicable
+01:02:30 assumptions in our vision so why why capture why attack the capture problem which is quite unique in the computer
+01:02:37 vision context versus like the traditional benchmarks of imagenet and all those kinds of
+01:02:43 image classification or even segmentation tests all that kind of stuff do you feel like that's  i mean what
+01:02:49 what's your thinking about those kinds of benchmarks in in this in this context i mean
+01:02:55 those benchmarks are useful for deep learning kind of algorithms where you
+01:03:00 you know so the settings  that deep learning works in are here is my huge training set and
+01:03:06 here is my test set so the the training set is almost  you know 100 x 1000 x bigger than
+01:03:14  the test set in many many cases  what we wanted to do was invert that the training set is way smaller than the
+01:03:24 the test set yes  and   and you know  captcha is a problem that is by definition hard for computers and
+01:03:34 it has these good properties of strong generalization strong out of training distribution
+01:03:39 generalization if you are interested in studying that and putting having your model have that property
+01:03:46 then it's it's a good data set to tackle so is there have you attempted to which i think
+01:03:52 i believe there's quite a growing body of work on looking at mnist and imagenet
+01:03:59 without training so it's like taking like the basic challenge is how what tiny fraction of the training
+01:04:07 set can we take in order to do a reasonable job of the classification task have you explored that angle in these
+01:04:14 classic benchmarks yes so so we did do mnist so you know so it's not just capture we
+01:04:22  so there was  also   versions of multiple versions of mnist including the
+01:04:27 the standard version which where we inverted the problem which is basically saying rather than train on 60 000  training data
+01:04:36  you know how  quickly can you get  to high level accuracy with very little training data was
+01:04:41 is there some performance do you remember like how well how well did it do how many examples did
+01:04:47 he need yeah i i you know i remember that it was you know  on the order of 
+01:04:57 tens or hundreds of examples to get into  95 accuracy and it was it was definitely
+01:05:02 better than the systems other systems out there at that time at that time yeah yeah
+01:05:06 they're really pushing i think that's a really interesting space actually  i think there's an actual name for mnist
+01:05:16 that  like there's different names the different sizes of training sets i mean people are like attacking this problem i think it's super
+01:05:24 interesting yeah it's funny how like that mnist will probably be with us all the way to agi yes
+01:05:32 it's the data set that just sticks by it is it's a clean simple  data set to 
+01:05:38 to study the fundamentals of learning with just like captures it's interesting not enough people i don't know maybe you
+01:05:44 can correct me but i feel like captures don't show up as often in papers as they probably
+01:05:50 should that's correct yeah because you know usually these things have a momentum  you know once
+01:05:57 once  something gets established as a standard benchmark yeah there is a there is a  there is a dynamics of
+01:06:05 how graduate students operate and how the academ academy system works that  pushes people to track that 
+01:06:12 benchmark so yeah yeah so nobody wants to think outside the box okay
+01:06:20 okay so good performance on the captures what else is there interesting on the rcn side before we talk about the
+01:06:26 cortical microscope yeah so the same model so the the the important part of the model was that it trains
+01:06:33 very quickly with very little training data and it's you know quite robust to out of distribution  perturbations and and we are using that
+01:06:45  very  fruitfully in  advocates in many of the robotic stocks we are solving so you know well let me ask you this
+01:06:52 kind of touchy question i have to i i've spoken with  your friend colleague jeff hawkins too i mean he's  i have
+01:07:00 to kind of ask there is a bit of whenever you have brain inspired stuff
+01:07:07 yeah and you make big claims yeah  big sexy claims yeah there's a you know  there's
+01:07:13 critics i mean machine learning subreddit don't get me started on those people  their heart i mean criticism is good but
+01:07:20 they're a bit they're a bit over the top there is quite a bit of
+01:07:26 sort of skepticism and criticism you know is this work really as good as it promises to be
+01:07:32 yeah what do you have thoughts on that kind of skepticism do you have comments on the kind of
+01:07:37 criticism you might have received  about you know is this approach legit is this is this a promising approach yeah
+01:07:46 or at least as promising as it seems to be you know advertised as yeah i can comment on it um
+01:07:54 so you know our arson paper is published in science which i would argue is is a very high quality journal very
+01:08:00 hard to  publish in and use you know usually it is indicative of the
+01:08:06 of the quality of the work and i can i can i am very very certain that the ideas that we brought together in
+01:08:14 that paper  in terms of the importance of feedback connections  recursive inference
+01:08:20 lateral connections  coming to best explanation of the scene as the problem to solve
+01:08:25 trying to solve recognition segmentation  all jointly in a way that is compatible with higher level cognition
+01:08:33 top-down attention all those ideas that we brought together into something you know coherent and workable in the in
+01:08:38 the world and solving a challenge tackling a challenging problem i think that will that will stay and that that
+01:08:43 contribution i stand by right now  i can i can tell you a story which is funny in the
+01:08:50 in the context of this right so if you read the abstract of the paper and you know the argument we are putting in
+01:08:55 you know we are putting in look current deep learning systems take a lot of training data
+01:09:01  they don't use these insights and here is our new model which is not a deep neural network it's
+01:09:05 a graphical model it does inference this is what how the paper is right now once the paper was accepted and
+01:09:10 everything it went to the press department in in science you know to play as
+01:09:16 science office we we didn't do any press release when it was published it was he went to the press department
+01:09:20 what did the what was the press release that they wrote up a new deep learning model solves captchas and  so
+01:09:30 so you can see where was you know what was being hyped  in that  thing right so so it's like there is the
+01:09:37 there is a dynamic in the  in the community of you know so  that's especially happens when
+01:09:42 there are lots of new people coming into the field and they get attracted to one thing
+01:09:48 and some people are trying to think different  compared to that so there's there is some
+01:09:53  i think skepticism is science is important and it is you know very much  required
+01:10:01 but it's also it's not  skepticism usually it's mostly bandwagon effect that is happening
+01:10:06 rather than well but that's not even that i mean i'll tell you what they react to which
+01:10:10 is like i'm sensitive to as well if you if you look at just companies open ai deep mind
+01:10:18 yeah vicarious i mean it just there's  there's a little bit of a race to the top and hype right right it's
+01:10:27 it's like it doesn't pay off to be humble so like  and and the press is just
+01:10:37  irresponsible often they they just i mean don't get me started on the state of journalism today like it
+01:10:43 seems like the people who write articles about these things they literally have not even
+01:10:49 spent an hour on the wikipedia article about what is neural networks like yeah they haven't
+01:10:53 like invested just even the language to laziness it's like  robots
+01:11:04 beat humans like they they write this kind of stuff that just  and then and then of course
+01:11:08 the researchers are quite sensitive to that because it gets a lot of attention
+01:11:13 they're like why did this work get so much attention  you know that's that's over the top
+01:11:19 and people get really sensitive you know the same kind of criticism with  opening i did work with the rubik's cube
+01:11:26 with the robot that people criticized  same with gpt two and three they criticize  same thing with the deep minds with
+01:11:34 alpha zero i mean yeah i i'm sensitive to it but and of course with your work you
+01:11:41 mentioned deep learning but there's something super sexy to the public about brain inspired i mean that
+01:11:48 immediately grabs people's imagination not even like neural networks but like really brain
+01:11:54 inspired like like brain like neural networks that seems really compelling to people and to me
+01:12:01 as well to to the world as a narrative and so  people hook up hook on to that and 
+01:12:11 sometimes you  the skepticism engine turns on in the research community and they're skeptical but i think putting aside
+01:12:20 the ideas of the actual performance on captures or performance in any data set i mean to me all these data sets are
+01:12:28 useless anyway it's nice to have them but in the grand scheme of things they're silly toy examples
+01:12:35 the point is is their intuition about the the ideas just like you mentioned bringing the ideas
+01:12:41 together in a unique way is there something there is there some value there and this is going to stand the test of
+01:12:47 time yes and that's the hope that's the hope i'm my confidence there is very high
+01:12:53 i you know i don't treat brain inspect as a marketing term  you know i am looking into the details
+01:13:02 of biology and i'm puzzling over  those things and i am i am grappling with those things and
+01:13:08 so this it is not a marketing term at all it you know you can use it as a marketing term and
+01:13:13 and people often use it and you can get combined with them and when when people don't understand how we are
+01:13:18 approaching the problem it is it is easy to be  misunderstood and you know think of it as you know purely
+01:13:25  marketing but that's not the way  we are so you really i mean as a scientist you believe that if we kind of just
+01:13:33 stick to really understanding the brain that's going to
+01:13:38 that's the right like you should constantly meditate on the how does the brain do this because
+01:13:44 that's going to be really helpful for engineering intelligent systems yes you need to so i think it is it's
+01:13:51 one input and it is it is helpful but you you should know when to deviate from it
+01:13:58 too so an example is convolutional neural networks right  convolution is not an operation brain
+01:14:05 in implements  the visual cortex is not convolutional visual cortex has local receptive fields
+01:14:11 local connectivity but the you know the there is there is no
+01:14:18 translation in in variance in the  the network weights in in the visual cortex that is a
+01:14:26 a computational trick which is a very good engineering trick that we use for sharing the training between the
+01:14:31 different  nodes so and and that trick will be with us for some time it will go away when
+01:14:43 robots with eyes and heads that move  and so then that trick will go away it will not be  useful at that time
+01:14:50 so so the brain doesn't so the brain doesn't have translational invariance it has the focal point like it has a
+01:14:56 thing it focuses on correct it does it has a phobia and and because of the phobia the
+01:15:02 receptive fields are not like the copying of the weights like the the weights in the center are very
+01:15:07 different from the weights in the periphery yes at the periphery i mean i did this  actually wrote a paper and just gotten
+01:15:15 the chance to really study peripheral peripheral vision which is a fascinating thing very under understood thing
+01:15:25 of what the br you know at the every level the brain does with the periphery it does some funky
+01:15:30 stuff yeah so it's  it's another kind of trick than  convolutional like it does it
+01:15:39 it  it's a you know convolutional convolution in neural networks is a trick to for efficiency
+01:15:46 is efficiency trick and the brain does a whole another kind of thing yeah yes got it so so you need to understand the principles
+01:15:53 or processing so that you can still apply engineering tricks yeah when where you want to do you don't want to be
+01:15:58 slavishly making all the things of the brain and and so yeah so it should be one input and i
+01:16:03 think it is extremely helpful  but you it should be the point of
+01:16:08 really understanding so that you know when to deviate from it so okay that's really cool that that's
+01:16:14 work from a few years ago so you'd  you did work in jumento with jeff hawkins
+01:16:22 yeah  with  hierarchical temporal memory how is your just if you could give a brief history
+01:16:30 how is your view of the way the models of the brain changed over the past few years leading up to to now is there
+01:16:38 some interesting aspects where there is an adjustment to your understanding of the brain or is it all
+01:16:43 just building on top of each other in terms of the higher level ideas especially the ones jeff wrote about in
+01:16:50 the book if you if you blur out right you know yeah on intelligence right on intelligence if you if you blur
+01:16:55 out the details and and if you just zoom out and at the higher level idea
+01:17:00  things are i would say consistent with what he wrote about but but many things will be consistent with
+01:17:05 that because it is it's a blur you know when you when you you know deep learning systems are also
+01:17:10 you know multi-level hierarchical all of those things right so so at the but in terms of the detail a lot of
+01:17:18 things are different  and and and those details matter a lot so so one point of difference i had
+01:17:25 with jeff   was  how to approach you know how much of biological
+01:17:33 possibility and realism do you want in the learning algorithms so  when i was there  this was you know
+01:17:43 almost 10 years ago now so yeah you're having fun i don't know i don't know what just
+01:17:47 thinks now but 10 years ago  the difference was that i did not want to
+01:17:54 be so constrained on saying  my learning algorithms won't need to be biologically possible
+01:18:01 based on some filter of biological possibility available at that time to me that is a dangerous cut to make because
+01:18:08 we are you know discovering more and more things about the brain all the time new biophysical mechanisms new channels 
+01:18:15 are being discovered all the time so i don't want to upfront kill off an  a learning algorithm just because
+01:18:21 we don't really understand the full  the full  biophysics or whatever of how the brain
+01:18:29 learns exactly exactly well let me ask a sergeant like what's our what's your sense what's our best
+01:18:35 understanding of how the brain learns so things like back propagation credit assignment so so
+01:18:43 many of these algorithms have learning algorithms have things in common right it is a back propagation is one
+01:18:49 way of credit assignment there is another algorithm called expectation maximization
+01:18:55 which is you know another weight adjustment algorithm but is it your sense the brain does something like this
+01:19:01 has to there is no way around it in the sense of saying that you do have to adjust the the connections
+01:19:07 so yeah and you're saying credit assignment you have to reward the connections that were useful and making
+01:19:12 a correct prediction and not yeah i guess what up but yeah it doesn't have to be
+01:19:17 differentiable i mean yeah it doesn't have to be differentiable yeah yeah but you have to have a you know you have
+01:19:24 model that you start with you where you have data comes in and you have to have a way of adjusting
+01:19:31 the model such that it better fits the data yeah so that that is all of learning right
+01:19:37 and some of them can be using backprop to do that some of it can be using  you know very local
+01:19:44  graph changes to do that that can you know many of these learning algorithms
+01:19:53 have similar update properties locally in terms of what the neurons need to do locally i wonder if small differences in
+01:20:00 learning algorithms can have huge differences in the actual effect so the dynamics of i mean 
+01:20:08 sort of the reverse like spiking like the  if if credit assignment is like a a
+01:20:13 lightning versus like a rainstorm or something like whether whether there's a like a looping
+01:20:23 local type of situation with the credit assignment yeah whether there is  like regularization like how
+01:20:33 how it injects robustness into the whole thing like whether it's chemical or electrical
+01:20:42 or mechanical yeah  all those kinds of things like that i feel like it that yeah
+01:20:48 i feel like those differences could be essential right it could be it's just that you don't know enough to
+01:20:57 on the learning side you don't know enough to say that is definitely not the way the brain does it
+01:21:02 got it so you don't want to be stuck to it right so that yeah so you you've been open-minded on that
+01:21:07 side of that correct on the infrastructure on the recognition side i am much more  i'm able to be constrained because
+01:21:14 it's much easier to do experiments because you know it's like okay here's the stimulus
+01:21:18 you know how many steps did it get to take the answer i can trace it back i can i can understand the speed of that computation
+01:21:27 etc much more readily on the infant side got it and then you can't do good experiments on the
+01:21:32 learning side correct so that let's let's go right into the cortical micro circuits right back
+01:21:40 so what  what are these ideas beyond recursive cortical network that  you're looking at now so we have made a
+01:21:48 you know pass through or you know multiple of the steps that we you know i say as i mentioned earlier
+01:21:54 you know we were looking at perception from the angle of cognition right it was not just perception for perception's sake
+01:22:00 how do you how do you connect it to cognition  how do you learn concepts and how do you learn abstract
+01:22:05 reasoning  similar to some of the things francois   talked about right um
+01:22:13 so so we have  taken one pass through it basically saying
+01:22:19 what is the basic cognitive architecture that you need to have which has a perceptual system
+01:22:25 which has a system that learns dynamics of the world and then has something like a routine
+01:22:31 program learning system on top of it to learn concepts so we have we've built one the you know
+01:22:36 the version  science robotics paper  it is it's the
+01:22:43 title of that paper was you know something like cognitive programs how do you build cognitive programs
+01:22:51 and and the application there was on manipulation robotics it was so think of it like this suppose you 
+01:22:58 wanted to tell a new person  that you met you don't know the language or that
+01:23:05 person uses you want to communicate to that person  to achieve some task right so i want
+01:23:10 to say hey you need to pick up all the the red cups from the kitchen counter and
+01:23:16 put it here right how do you communicate that right you can show
+01:23:22 pictures you can basically say look this is the starting state the the things are here this is the
+01:23:27 ending state and and what does the person need to understand from that
+01:23:31 the person need to understand what conceptually happened in those pictures from the
+01:23:37 input to the output right so so we are looking at pre-verbal conceptual understanding without language
+01:23:44 how do you how do you have a set of concepts that you can manipulate in your head  and from
+01:23:51 this in a set of images of input and output can you infer what is happening in those images got it with concepts that are
+01:24:00 pre-language okay so what does it mean for a concept to be pre-language like yeah why why so why
+01:24:10 why is language  so important here so i i want to make a distinction between concepts that are just learned from text
+01:24:20 by just just feeding brute force text  you can you can start extracting things like okay
+01:24:28  cow is likely to be on grass so those kinds of things you can extract purely from text um
+01:24:34  but that's kind of a simple association  thing rather than a concept as an abstraction of something
+01:24:41 that happens in the real world you know in a grounded way that i can i can simulate
+01:24:46 it in my mind and connect it back to the real world and you think kind of the visual
+01:24:52  the visual world concepts in the visual world are somehow lower level than just the
+01:25:00 language the lower level kind of makes it feel like okay that's like unimportant like it's more like
+01:25:07  i would say  the concepts in the visual and the motor system and you know the  the concept learning
+01:25:16 system which if you cut off the language part just  just what we learned by interacting with
+01:25:21 the world and abstractions from that that is a prerequisite for any real language understanding
+01:25:28 so you're  so you disagree with chomsky because he says language is at the bottom of everything
+01:25:34 no i i yeah i disagree with chomsky completely from from universal grammar to yeah so that was a paper in science beyond
+01:25:43 the recursive cortical network  what what other interesting problems are there
+01:25:50 the open problems and brain inspired  approaches that you're thinking about i mean everything is over right like you
+01:25:54 know no no no problem is  solved solved all right 
+01:26:01 first  i think of perception as kind of the the pro the first thing that you have to build
+01:26:07 but the last thing that you will be actually solved so because if you do not build
+01:26:14 perception system in the right way you cannot build concept system in the right way
+01:26:19 so so you have to build a perception system however wrong that might be you have to still build that and learn
+01:26:24 concepts from there and then you know keep it rating and and finally perception will get
+01:26:31 solved fully when perception cognition language all those things work together finally so what  i'm not
+01:26:37 so great we've talked a lot about perception but then maybe on the concept side and like
+01:26:43 common sense or just general reasoning side is there some some intuition you can draw from the brain about
+01:26:52 how we can do that so i have i have this  classic example i give so suppose i give you a few sentences
+01:27:00 and then ask you a question following that sentence this is a natural language processing problem
+01:27:05 right so so here it goes i'm telling you  sally pounded a nail on the ceiling okay
+01:27:14 oh that's a sentence now i am asking you a question was the nail horizontal or vertical vertical okay how did you answer that
+01:27:24  well i imagined sally it was kind of hard to imagine what the hell she was doing but
+01:27:30  but i imagined i had a visual of the whole situation exactly exactly so so here you know i i post a
+01:27:38 question in natural language the answer to that question was you you got the answer from actually simulating
+01:27:46 the scene now i can go more and more detail about okay was sally stan standing on
+01:27:50 something while doing this you know could could she have been  standing on a light bulb to do this you know i could
+01:27:57 i could ask more and more questions about this and i can ask make you simulate the synonym scene in
+01:28:02 more and more detail right where is all that knowledge that you are accessing stored it is not in your language system
+01:28:09 it is not it was not just by reading text you got that knowledge
+01:28:14 it is stored from the everyday experiences that you have had from and and by the by the age of five
+01:28:21 you you have pretty much all of this right and it is stored in your visual system motor system
+01:28:27 in a way such that it can be accessed through language i got it i mean right so your the
+01:28:33 language is just almost services the query into the whole visual cortex and it does the whole
+01:28:37 feedback thing but i mean it is all reasoning kind of connected to the perception system
+01:28:46 in some way you can do a lot of it you know you can still do a lot of it by quick associations
+01:28:51 without having to go into the depth and and most of the time you will be right
+01:28:57 right you can just do quick associations but i can easily create tricky situations for you where that quick
+01:29:02 association is wrong and you have to actually run the simulation so the figuring out the
+01:29:09 how these concepts connect you have a good idea of how to do that that's exactly what
+01:29:15 that does one of the problems that we are working on and and and and the  the way we are
+01:29:19 approaching that is basically saying okay you need to so the the  the takeaway is that language is
+01:29:27 simulation control and your perceptual plus  motor system is building a simulation of the world
+01:29:37 and so so that's basically the way we are approaching it and the first thing that we built was a
+01:29:42 controllable perceptual system and we built a schema networks which was a controllable dynamic system
+01:29:48 then we built a concept learning system that puts all these things together into programs
+01:29:53 are subtractions that you can run and simulate and now we are taking the step of connecting into language and
+01:30:01  and  it will be very simple examples initially it will not be the gpt three like examples but it will
+01:30:08 be grounded simulation based language and for like the the querying would be like question answering
+01:30:15 kind of thing correct correct and it will be in some simple world initially on you know  i but it will be about
+01:30:21 okay can the system connect the language and  ground it in the right way and run the right simulations
+01:30:28 to come up with the answer and the goal is to try to do things that for example gpg3 couldn't do
+01:30:34 got it speaking of which if we could  talk about gpt3 a little bit i think it's an interesting
+01:30:45 thought-provoking set of ideas that open ai is pushing forward i think it's good for us to talk about
+01:30:50 the limits and the possibilities in neural networks so in general what are your thoughts about
+01:30:55 this recently released very large 175 billion parameter language model
+01:31:02 so i have i haven't  directly evaluated it yet from what i have seen on twitter and
+01:31:06 you know other people evaluating it it looks very intriguing you know i am i am very intrigued by some of the
+01:31:11 properties it is displaying and and of course the text generation  part of
+01:31:19 that was already evident in gpt2 you know that it can generate cochrane text over 
+01:31:25  long distances that was  but of course the weaknesses are also pretty visible in saying that okay it is not really
+01:31:32 carrying a world state around and you know sometimes you get sentences like
+01:31:38 i went up the hill to reach the valley or the thing now there are some you know completely
+01:31:43 incompatible statements or when you're traveling from one place to the other it doesn't take into
+01:31:47 account the time of travel things like that so those things i think will happen less than gpt
+01:31:54 3 because it is trained on even more data and so and it has it can do even more longer distance
+01:32:03   coherence but it will still have the fundamental limitations that it doesn't have a world model
+01:32:09  and it can't run simulations in its head to find whether something is true in the
+01:32:13 world or not do you think within so it's taking a huge amount of text from the internet
+01:32:20 and forming a compressed representation do you think in that could could emerge something
+01:32:25 that's an approximation of a world model which essentially could be used for reasoning
+01:32:33 and it's a it's a it's a i'm not talking about gpt three i'm talking about gpt four five and gpt 10. yeah i mean they
+01:32:38 will look more impressive than gpg3 so you can if you take that to the extreme then
+01:32:47  a markov chain of just first order and if you if you go to i'm taking the other extreme if you read
+01:32:54 shannon's book right  he has a model of english text which is based on faster mark of chains
+01:33:02 second order markov chains third markov chain sentencing that okay the markov chains look better than 
+01:33:08 faster markov chains right so does that mean a faster markov chain has a model of the world yes it does  so yes in that level
+01:33:19  when you go higher order models or more  sophisticated structure in the model like the transformer networks have
+01:33:27 yes they have a model of the text world but that is not a model of  the world it's it's a model of the
+01:33:34 text world and it will have in interesting  properties and it will be useful but just scaling it up is not going to
+01:33:46 give us a gi or natural language understanding or meaning well the the question is
+01:33:54  whether being forced to compress a very large amount of text yeah forces you to construct things that are
+01:34:03 very much like because the ideas of concepts and meaning is a spectrum yeah 
+01:34:11 so in order to form that kind of compression maybe it will  be forced to figure out abstractions which look awfully a lot
+01:34:24 like the kind of things that we think about as  as concepts as world models as common sense
+01:34:32 is that possible no i don't think it is possible because the information is not there well the information is  is there
+01:34:38 behind the text right now unless somebody has written down all the details
+01:34:44 about how everything works in the world to the the absurd amounts like okay it is
+01:34:48 easier to walk forward than backward  that you have to open the door to go out of the thing
+01:34:55  doctors wear underwear you know unless all these things somebody has written down somewhere or you know somehow the
+01:35:00 program found it to be useful for compression from some other text  the information is not there
+01:35:07 so that's an argument that like text is a lot lower fidelity than the you know the experience of our
+01:35:13 physical world like right so you can use a thousand words like that
+01:35:18 kind of thing well in this case pictures aren't really so the the richest aspect of the
+01:35:24 physical world isn't even just pictures it's the  it's the interactivity of the world
+01:35:32 yeah it's being able to it's almost like if you could interact so i
+01:35:42 i i disagree well maybe i agree with you that picture's worth a thousand words but a thousand it's still yeah you could say
+01:35:49 you could capture it with the gpt x so i wonder if there's some interactive element where
+01:35:54 a system could live in text world where it could  be part of the chat be part of you know talking to people
+01:36:01 it's it's interesting i mean fundamentally so you're making a statement about the
+01:36:07 limitation of text okay let's so let's say we have a text corpus that includes basically
+01:36:18 every experience we could possibly have i mean just a very large corpus of text and also interactive components i guess
+01:36:25 the question is whether the neural network architecture these very simple transformers but if they had like
+01:36:33 hundreds of trillions or whatever comes after a trillion parameters whether that could store
+01:36:43 the information needed that's architecturally do you have like do you have thoughts about the
+01:36:47 limitation on that side of things with neural networks i mean so transformer is you know still a feed
+01:36:53 forward neural network this   it's it has a very  interesting architecture which is good for
+01:36:59  text modeling and probably some aspects of  video modeling but it is still a feed forward architecture and
+01:37:06 you believe in the feedback mechanism the recursion oh and and also because you know causality
+01:37:11 you know being able to do counterfactual reasoning being able to do you know intervention so which is  
+01:37:19 actions in the world  so all those things  require different kinds of models to be built
+01:37:27  i i don't think  transformers  captures that  family it is very good at statistical modeling of
+01:37:34 text  yeah and and it will become better and better with more data  bigger models but that is only going
+01:37:40 to get so far you know finally when you in so i had this joke on 
+01:37:46 twitter saying that hey this is a model that has read all of quantum mechanics and theory of
+01:37:53 relativity and we are asking it to do text completion or you know we are actually asking you to
+01:37:57 solve simple puzzles that you know when when you have agi if you if you you know that's not what you ask a system to
+01:38:02 do if you just you know we ask we'll ask the system to do experiments you know what should
+01:38:09  and and come up with hypothesis and  you know revise the hypothesis based on evidence from experiments all those
+01:38:13 things right those are the things that we want the system to do when we have a gi
+01:38:19 not solved with simple puzzles so like impressive demo somebody generating a red button in html
+01:38:27 right  which are all useful like you know there's no not dissing the the usefulness of it
+01:38:31 yeah so i get by the way i'm i mean playing a little bit of a devil's advocate  so calm down internet  so i just
+01:38:41 i'm curious almost in which ways will a dumb but large neural network will surprise us
+01:38:51 yeah so like i'm it's kind of your i completely agree with your intuition it's just that i don't want to
+01:38:59 dogmatically like 100 percent put all the chips there right it's we've been surprised
+01:39:06 so much even the current gpt 2 and 3 are so surprising yeah  the self-play mechanisms of alpha zero
+01:39:16 are really surprising and i the reinforcement the fact that reinforcement learning works at all to
+01:39:21 me is really surprising the fact that neural networks work at all is quite surprising
+01:39:27 given how non-linear the space is the fact it's able to find local minima that are at all reasonable
+01:39:33 it's very surprising so it  i i wonder sometimes whether us humans just want
+01:39:45 it to not the for agi not to be such a dumb thing so i just because exactly what you're
+01:39:52 saying is like the ideas of concepts and be able to reason with those concepts and
+01:39:58 and connect those concepts in  like hierarchical ways and then to be able to have  world
+01:40:03 models i mean just everything we're describing in human language in this poetic way
+01:40:10 seems to make sense that that is what intelligence and reasoning are like i i wonder if at the core of it it could
+01:40:15 be much dumber  well finally it is still connections and messages passing over them
+01:40:23 right right so that way it's done so i guess the recursion the the feedback mechanism
+01:40:29 that does seem to be a fundamental kind of thing yeah yeah the idea of concepts also memory
+01:40:38 correct like having an episodic memory yeah yeah that seems to be an important thing so
+01:40:43 how do we get memory so yeah we have another piece of work that which came out recently on
+01:40:50 how do you form episodic memories and and form abstractions from them  and we haven't figured out a you know
+01:40:55 all the connections of that to the overall cognitive architecture but well yeah what are your ideas about
+01:41:03 how you could have episodic memory so at least it's very clear that there you need to have two kinds of
+01:41:08 memory right that that's very very clear right because there are things that happen 
+01:41:16 as statistical patterns in the world  but then there is the the one timeline of things that happen
+01:41:21 only once in your life right   and this day is not going to happen ever again and and so
+01:41:28 and that needs to be stored as a as a you know just a stream of  string right this is
+01:41:34 this is my experience and then then the question is about how do you take that experience
+01:41:39 and connect it to the statistical part of it how do you now say that okay i experienced this
+01:41:45 thing now i want to be careful about similar situations  and so
+01:41:51 so you need to be able to index that similarity using your other giant status you know the the model of the world that
+01:42:00 you have learned although the situation came from the episode you need to be able to index the other one so
+01:42:07  the episodic memory being implemented as an indexing over the other  model that you're building
+01:42:20 so the memories remain and they  they they're an index into this like the statistical thing that you formed yeah statistical
+01:42:27 causal structural model that you built over over time so so it's basically the idea is that 
+01:42:32 the hippocampus is  just storing or sequencing 
+01:42:41 in a set of pointers that happens over time and then whenever you want to reconstitute that memory and evaluate
+01:42:49 the different  aspects of it whether it was good bad do i need to encounter the situation again
+01:42:56 you need the cortex to reinstantiate to replay that memory so how do you find that memory like
+01:43:02 which direction is the important direction both directions are units again bi-directional so i guess how do you retrieve the
+01:43:11 memory so this is again hypothesis right yeah we're making this work so when you  when you come to a new
+01:43:16 situation right  your your cortex is doing inference  over in the new situation and then of course
+01:43:24 hippocampus is connected to different parts of the cortex and and you have this deja vu
+01:43:29 situation right okay i have seen this thing before and  and then in the hippocampus you can
+01:43:37 have an index of okay this is when it happened as a timeline  and and and then then you can use the hippocampus to
+01:43:47 drive the the similar timelines to say now i am i am rather than being driven by my current
+01:43:52 input stimuli i am going back in time and rewinding my experience for applying it
+01:43:59 but putting back into the cortex and then putting it back into the cortex of course affects what you're going to see next in
+01:44:05 your current situation got it yeah so that's that's the whole thing having a world model and then
+01:44:11 yeah  connecting to the perception yeah it does seem to be that that's what's happening it'd be
+01:44:18 on the neural network side it's it's interesting to think of how we actually do that
+01:44:24 yeah yeah to have a knowledge base yes it is possible that you can put many of these structures
+01:44:32 into  neural networks and we will find ways of combining properties of neural networks and graphical models so
+01:44:40  i mean it's already started happening yes  graph neural networks are kind of emerge between them
+01:44:47 and there will be more of that thing so but to me it is the direction is pretty cl i mean
+01:44:53 looking at biology and the histo history of   evolutionary history of intelligence
+01:44:59 it is pretty clear that okay what does need is more structure in the models
+01:45:06 and modeling of the world and supporting dynamic inference well let me ask you  there's a guy named elon musk there's a
+01:45:14 company called neurolink and there's a general field called brain computing interfaces yeah
+01:45:21 it's kind of  interface between your two loves yes the brain and the intelligence
+01:45:27  so there's like very direct applications of brain computer interfaces for people with different conditions
+01:45:33 more in the short term yeah but there's also these sci-fi futuristic kinds of ideas of
+01:45:41 ai systems being able to communicate in a high bandwidth way with the brain
+01:45:47 bi-directional yeah  what are your thoughts about  neural link and bci in general as a possibility
+01:45:55 so i think bca is a cool research area and in fact when i got interested in brains
+01:46:02 initially when you know so i was enrolled at stanford and when i got interested in brains it was it was
+01:46:07 through a brain  computer interface talk that krishna gave that's when i
+01:46:12 even started thinking about the problem so  so it is definitely a fascinating research area and it is
+01:46:19 the applications are enormous right so you know there is a science fiction scenario of you know brains directly
+01:46:25 communicating let's you know let's keep that aside for the time being  even just the the
+01:46:30 intermediate milestones that pursuing which are very reasonable as far as i can see 
+01:46:35 being able to control an external limb using   in a direct connection from the brain
+01:46:42 and being able to write things into the brain  so so those are all  good steps to take and they have
+01:46:51 enormous applications you know people losing limbs being able to control prosthetics quadriplegics being able to control
+01:46:58 something so and therapeutics and you know i also know about another company working in
+01:47:02 the space called paradromix they're doing you know it's based on a different
+01:47:09  electrode array but trying to attack some of the same problems so i think it's a very also surgery correct
+01:47:15 surgically implanted electrons yeah so yeah i think of it as a very very promising field especially
+01:47:23 when it is helping people overcome  some limitations now at some point of course it will advance the level of
+01:47:30 being able to communicate  how hard is that problem do you think like so
+01:47:37 so okay let's say we magically solve what i think is a really hard problem of doing all of this safely yeah so so like
+01:47:46 being able to  connect electrodes and not just thousands but like millions to the right
+01:47:52 i i think it's very very hard because you also do not know what the what will happen to
+01:47:56 the brain with that right in the sense of how does the brain adapt to something like that
+01:48:02 and it's you know as we're learning it's the brain is quite  in terms of neuroplasticity
+01:48:07 it's pretty malleable so it's going to adjust so the machine learning side the computer side is going
+01:48:14 to adjust and then the brain is going to adjust exactly and then what what soup does this landers
+01:48:20 the kind of hallucinations you might get from this that might be pretty intense yeah yeah
+01:48:26 just connecting to all of wikipedia it's interesting whether we need to be able to figure out
+01:48:33 the basic protocol of the brain's communication schemes in order to get them to the machine and
+01:48:38 the brain to talk because another possibility is the brain actually just adjusts to whatever the
+01:48:44 heck the computer is doing exactly that's the way i think that i find that to be a more
+01:48:47 promising way it's basically saying you know okay attach electrodes to some part of the cortex
+01:48:55 okay and make sure maybe if it is done from birth the brain will adapt it says that you
+01:49:00 know that part is not damaged it was not used for anything these electrodes are attached there
+01:49:04 right and now you you train that part of the brain to do this high bandwidth communication between
+01:49:11 something else right and and  if you do it like that either then it is brain adapting to and
+01:49:16 of course your external system is the sciences that it is adaptable you know just like we
+01:49:21 you know design computers or mouse keyboard all of them to be  interacting with humans so
+01:49:28 of course that feedback system is designed to be  human compatible but um
+01:49:36 now it is not trying to record from the all of the brain and  you know now you know two systems
+01:49:41 trying to adapt to each other it's the brain adapting into one way it's passing
+01:49:47 the brain is connected to like the internet it's connected yeah just imagine just connecting it to
+01:49:53 twitter and just just just taking that stream of information yeah but again if we take a step back i don't
+01:50:02 know what your intuition is i feel like that is not as hard of a problem as the
+01:50:12 doing it safely there's there's a huge barrier to surgery right because because the biological system
+01:50:18 it's it's a mush of like weird stuff correct so that the surgery part of it biology part
+01:50:26 of it the the long term repercussions part of it again i don't know what else will
+01:50:32  you know we we often find  after a long time  in biology that okay that idea was
+01:50:38 wrong right you know so people used to cut off this the gland called the thymus or something and
+01:50:46 then they found that oh no that actually and then there's a subtle like millions of variables involved
+01:50:57 but this whole process the nice thing and just like again with elon just like colonizing mars
+01:51:03 seems like a ridiculously difficult idea but in the process of doing it we might learn a lot about the biology of the
+01:51:10 neurobiology of the brain the neuroscience side of things it's like if you want to learn something
+01:51:17 do the most difficult version of it yeah and see what you learn the intermediate steps that they are
+01:51:22 taking sounded all very reasonable to me yeah yeah it's great well but like everything with elon is the timeline seems
+01:51:30 insanely fast so that's that's the only awful question  well one we've been talking about cognition
+01:51:38 a little bit so like reasoning we haven't mentioned the other c word which is consciousness
+01:51:43  do you ever think about that one do is that useful at all  in this whole context of
+01:51:50 what it takes to create an intelligent reasoning being or is that completely outside of  your 
+01:51:58 like the engineering perspective  it is not outside the realm but it doesn't on a day-to-day way  you know basis
+01:52:07 inform what we do but it's more so in in many ways the company name is connected to this 
+01:52:12 idea of consciousness what's what's the company name vicarious you know so vacation is the company name
+01:52:19 and  and so what does victorious mean right it's  at the first level it is about
+01:52:25 modeling the world and  and it is internalizing the external actions
+01:52:31 so so you interact with the world and learn a lot about the world and now after having learned a lot about
+01:52:36 the world you can run those things in your mind without actually having to
+01:52:44  act in the world so you can run  things vicariously just in your in your in your brain and similarly you
+01:52:49 can experience another person's thoughts by you know having a model of how that person works
+01:52:57 and  and running their you know putting yourself in some other person's shoes so that is being vicarious now
+01:53:04 it's the same modeling apparatus that you're using to model the external world or some other person's thoughts you can
+01:53:12 turn it to yourself you can up you know if that same modeling thing is applied to your own modeling apparatus
+01:53:19 then that is what gives rise to consciousness i think well that's more like self-awareness
+01:53:24 there's the heart problem of consciousness which is like when the model becomes when
+01:53:32 when the model feels like something when this whole process is like it act it's like you really are
+01:53:40 in it you feel like an entity in this world not just you know that you're an entity but it feels like something to be that entity
+01:53:50 it it you know and thereby we attribute this you know then it starts to be wherein something
+01:53:58 that has consciousness can suffer you start to have these kinds of things that we can reason about that
+01:54:07 much heavier it seems like there's much greater cost of your your decisions and like mortality
+01:54:15 is tied up into that like the fact that these things end right first of all i
+01:54:21 end at some point and then other things end and you know that that somehow seems to be at least for us humans a deep motivator
+01:54:33 yes and that you know that that idea of motivation in general we talk about goals and ai but right
+01:54:40 the goals aren't quite the same thing as like the our mortality it feels like it feels like first of all humans don't
+01:54:47 have a goal and they just kind of create goals at different levels they like
+01:54:54 make up goals because we're terrified by the mystery of the thing that that gets us all so we we
+01:55:03 make these goals up so we're like a go generation machine as opposed to a machine which optimizes the trajectory towards a
+01:55:10 singular goal so it feels like that's an important part of
+01:55:17  cognition that whole mortality thing well it is it is a part of human  cognition
+01:55:24  but there is no  reason for  that mortality to come to the equation for a 
+01:55:34 artificial system because we can  copy the artificial system the the the problem with humans is that we cut i
+01:55:38 can't clone you i can't like you know i can i can close even if i clone usb
+01:55:45  you know the hardware your experience  that was stored in your brain  your  episodic memory all those
+01:55:51 will not be captured in the in the new clone so but that's not the same with an ai system
+01:55:59 right so but it's also possible that the the thing that you mentioned with that with us humans
+01:56:05 is actually fundament of fundamental importance for intelligence so like the fact that you can copy an ass system yeah
+01:56:12 means that that ai system is not yet an agi so like there it could so if you look at existence proof
+01:56:20 yeah if we reason yeah based on existence proof would you could say that it doesn't feel like
+01:56:25 death is a fundamental property of an intelligence system but we don't yet
+01:56:32 give me an example of an immortal intelligent being we don't have those it could it's very possible that
+01:56:41 you know that's that is a fundamental property of intelligence is a thing that has a deadline for itself so you can
+01:56:50 think of it like this so suppose you invent a way to freeze people  for a long time
+01:56:57 it's not dying right yeah  so so you can be frozen and woken up  thousands of years from now  so
+01:57:03 it's no fear of death so well no the you're still it's it's not it's not about time it's
+01:57:10 about the knowledge that it's temporary and the that aspect of it the finiteness of it
+01:57:21 i think creates a kind of urgency correct for us for humans yeah for humans yes
+01:57:27  and that that is part of our drives  but and that's why i'm not too worried about
+01:57:35 ai  you know  having motivations to kill all humans and  those kinds of things why just wait
+01:57:44 you know so so why do you need to do that yeah i've never heard that before that's a good
+01:57:50 it's a good point because yeah just murder seems like a lot of work we'll just wait
+01:57:56 wait it out they'll probably hurt themselves let me ask you people often kind of wonder world-class researchers such as yourself
+01:58:05 what kind of books technical fiction philosophical were had an impact on you in your life and
+01:58:17 maybe ones you could prob possibly recommend that others read maybe if you have three books that pop in the mind
+01:58:25 yeah so i definitely liked  judy apple's book  probabilistic reasoning and intelligence systems
+01:58:32 it's it's a very deep technical book but what i liked is that so there are many  places where you
+01:58:37 can learn about probabilistic graphical models from but throughout this book judea pulls
+01:58:44 kind of sprinkles his philosophical observations and and he thinks about us to how the brain
+01:58:50 thinks and attentions and resources all those things so so that whole thing makes it
+01:58:55 more interesting to read  he emphasizes the importance of causality so that was in his later book so this
+01:59:01 was the first book probabilistic reasoning in interlinked systems he mentions causality but he hadn't really
+01:59:07 sunk his teeth into like you know how do you actually formalize that yeah and
+01:59:13  the second book causality so two thousand  the one in two thousand that one is
+01:59:17 really hard so i wouldn't recommend that   yes so that looks at the like the mathematical like
+01:59:23 his model of  calculus do calculus yeah it was pretty dense mathematically right yeah right  the book of why is
+01:59:29 definitely more enjoyable oh for sure yeah so yeah so i would i would recommend probabilistic reasoning in intelligent systems
+01:59:37 another book i liked  was  one from doug huff starter  this is a long time ago though here's a book he had a book i
+01:59:42 think called it was called the mind's eye it was  probably half starter and daniel dennett together
+01:59:52  yeah so and i actually was  i i bought that book so much i haven't read it yet but i
+01:59:58  i couldn't get an electronic version of it which is annoying because i'm you read everything on kindle okay 
+02:00:04 you had to actually purchase the physical it's like one of the only physical books i have because yeah
+02:00:09 anyway there's a lot of people recommended it highly so yeah and the third one  i would
+02:00:15 definitely recommend reading is  this is not a technical book it is history it's called it's the name of the
+02:00:23 book i think is bishop's voice it's about wright brothers and  and their their their path and how
+02:00:33 it was  it's there are multiple books on this topic and all of them are great it's um
+02:00:40  fascinating how a flight was  you know treated as an unsolvable problem
+02:00:47 and and and also you know what aspects did people emphasize  you know people thought oh
+02:00:52 it is all about the just powerful engines you know just need to have powerful lightweight engines
+02:01:00  and so you know some people thought of it as how far can we just throw the thing you know
+02:01:07 just throw it yeah catapult yeah so so it is it's a very fascinating and even after they
+02:01:13  made the invention of people not believing it and   the social aspect of it this is
+02:01:17 the social aspect it's a different you know very important do you  draw any parallels
+02:01:25 between you know birds fly so there's the natural approach to  to flight and then there's the engineered approach
+02:01:32 do you do you see the same kind of thing with the brain and are trying to engineer intelligence
+02:01:40 yeah it's it's a good analogy to have  of course all analogies have their you know  yeah
+02:01:46 so for sure so people in  you know ai often  use airplanes as an example of hey we didn't
+02:01:54 learn anything from birds look right there yeah but the the funny thing is that  and
+02:01:59 and the saying is  airplanes don't flap wings yeah right this is what
+02:02:04 they say the funny thing and the ironic thing is that that you don't need to flap to fly
+02:02:10 is something right brothers found by yeah so they have in their notebook you know in some of these
+02:02:20 books they show their notebook drawings right they they make detailed notes about buzzards  just
+02:02:27 soaring over the thermals and they basically say look flapping is not the important
+02:02:32 propulsion is not the important problem to solve here we want to solve control  and  once
+02:02:38 you solve control propagation will fall into place all of these are people you know they re
+02:02:44 realize this by observing birds beautiful part put that's actually brilliant  because people do
+02:02:49 use that knowledge a lot i'm gonna have to remember that one do you have a advice for people interested in
+02:02:55 artificial intelligence like young folks today i talk to undergraduate students all the time
+02:03:00  interested in neuroscience interesting in understanding how the brain works is
+02:03:05 there advice you would give them about their career maybe about their life in general sure i think every you know every
+02:03:13 piece of advice should be taken with a pinch of salt of course because you know each person is
+02:03:17 different their motivations are different but i can i can definitely say if your goal is to understand the brain from the
+02:03:25 angle of wanting to build one you know then  being an experimental neuroscientist
+02:03:33 might not be the way to go about it  it might a better way to pursue it
+02:03:41 might be through computer science electrical engineering machine learning and ai
+02:03:45 and of course you have to study up the neuroscience but that you can do on your own if you are more
+02:03:53  attracted by finding something intriguing about discovering something intriguing about the brain
+02:03:58 then of course it is  better to be an experimentalist so find that motivation what are you intrigued by and of course find your
+02:04:05 strengths too some people are very good experimentalists  and and they
+02:04:11 enjoy doing that and essentially to see which department if you're if you're picking in terms of like your education path
+02:04:19 whether to  to go with like in mit it's branding computer 
+02:04:26 no  bcs yeah brandon cognitive sciences yeah  or or the cs side of things right and
+02:04:33 actually  the brain folks the neuroscience folks are more and more
+02:04:40 now embracing of  you know learning tensorflow by torch right there they they see the power of  trying to engineer
+02:04:51 ideas  that  that they get from the brain into and then explore how those could be used to 
+02:04:57 to create intelligent systems so that might be the right department actually to  so this was a question in  
+02:05:03 you know one of the redwood neuroscience institute workshops or that jeff hawkins organized
+02:05:10 almost 10 years ago this question was put to a panel right what what should be the undergrad major
+02:05:14 you should take if you want to understand the brain and  and the majority opinion that one was
+02:05:22 electrical engineering interesting  because i mean i'm a doubly undergrad so i got lucky in that way
+02:05:30 but it i i think it does have some of the right ingredients because you learn about circuits you you learn about
+02:05:37 how you can construct circuits to  you know approach you know do functions  you learn about microprocessors um
+02:05:43 you learn information theory you learn signal processing  you learn continuous math
+02:05:49 so so in that way it's it's a good step to if you want to go to computer science or neuroscience you can it's a good step
+02:05:56 the downside you're more likely to be forced to use matlab one of the interesting things about i
+02:06:09 mean this is changing the world is changing but  like certain departments lagged on
+02:06:15 the programming side of things on developing good  good habits as a software engineering but i think that's
+02:06:20 more and more changing and and students can take that into their own hands
+02:06:26 like learn to program i feel like everybody should learn to program because it  like everyone in the sciences
+02:06:36 because it empowers it puts the data at your fingertips so you can organize it you can find all
+02:06:41 kinds of things in the data and then you can also for the appropriate sciences build
+02:06:46 systems that like based on that so like then engineer intelligence systems
+02:06:53  we already talked about mortality so we hit no a ridiculous
+02:07:00 point but let me ask you the one of the things about intelligence is it's goal driven and you study the brain
+02:07:14 so the question is like what's the goal that the brain is operating under what's what's the meaning of it all for us humans
+02:07:22 in your view what's the meaning of life the meaning of life is whatever you construct out of it it's completely open
+02:07:29 it's open yeah so there's no there's nothing   like you mentioned you like constraints
+02:07:37 what's  it's it's wide open is there is there some useful aspect that you think about
+02:07:45 in terms of like the openness of it and just the basic mechanisms of generating goals
+02:07:52  and studying cognition in the brain that you think about or is it just about because everything we've talked about
+02:07:58 kind of the perception system is to understand the environment that's like to be able to like not die exactly
+02:08:06 like not fall over and like be able to  you don't think we need to think about anything bigger than that
+02:08:14 yeah i think so because it's it's basically being able to understand the machinery of the world
+02:08:21  such that you can push you whatever goals you want right so the machinery of the world is
+02:08:26 is really ultimately what we should be  striving to understand the rest is just the rest is just whatever the heck you
+02:08:33 want to do or whatever whatever is culturally popular i think that's i that's beautifully put
+02:08:44 i don't think there's a better way to end it delete i'm so honored that you you show up here and waste your time with me
+02:08:51 it's been an awesome conversation thanks so much for talking today oh thank you so much this was this was so
+02:08:57 much more fun than i expected thank you thanks for listening to this conversation with the league george
+02:09:04 and thank you to our sponsors babel raycon earbuds and masterclass please consider
+02:09:10 supporting this podcast by going to babel.com and use codelex going to buy raycon.com
+02:09:18 lex and signing up at masterclass.com lex click the links get the discount it really is the best way to support this podcast
+02:09:26 if you enjoy this thing subscribe on youtube review five star snap a podcast support it on
+02:09:31 patreon i'll connect with me on twitter alex friedman spelled yes without the e just f-r-i-d-m-a-n
+02:09:42 and now let me leave you with some words from marcus aurelius you have power over your mind

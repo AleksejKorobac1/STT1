@@ -1,0 +1,286 @@
+00:00:03 what is an interface how to use it and what are they good for those are the questions I get a lot they also happen
+00:00:09 to be my questions when I first learned about interfaces at first I really didn't understand why we needed
+00:00:16 interfaces now after working with them for years I understand just how indispensable they are in this video I'm
+00:00:23 gonna answer all those questions about interfaces by showing off how they can be used in actual code in case you don't
+00:00:31 know who I am my name is Tim quarry and I learn be a software developer the hard way through trial and error that way
+00:00:36 leaves gaps I built this channel because learning c-sharp should be easier if you want to
+00:00:43 learn c-sharp the easy way there are two things I recommend first subscribe to this channel don't forget to hit that
+00:00:50 little bell so you get alerts when I publish new videos every Monday 2nd in the description below you'll see a link
+00:00:58 to join my mailing list follow that link and sign up you'll get emails about upcoming courses special discounts and
+00:01:04 insider access to all the training resources I provide ok let's start in on learning about interfaces we're going to start by
+00:01:13 looking at a project that I have built now note that the link in the description to go to the blog post for
+00:01:20 this video also will have on it the source code at the start of this project and at the end so you can go to that
+00:01:27 blog post and download the start to kind of follow along if you want now what I have here is a console application that
+00:01:34 acts as a point of sale system now please note that I've really simplified the application in order to keep the
+00:01:40 focus on interfaces instead of the application actually performing tasks so instead of emailing somebody it's just
+00:01:50 going to say I simulated sending email ok so let's look at what it does we have here a shopping cart and that is just a
+00:02:01 list of physical products that's the person has put in their cart now again we're starting the middle of process
+00:02:06 we're not adding to the cart we're not removing from the cart we're just saying that's what it already is and we're
+00:02:12 going from here and so to populate this I have this add sample data method which just puts three
+00:02:22 items in the cart on their football and I am Tim quarry t-shirt and a hard drive so those are my three things that I've
+00:02:31 put my shopping cart that I want by now the next thing we have is a customer and so as a customer model we'll look at
+00:02:36 that in a minute just like the physical product model look at a minute but to populate this customer object I have the
+00:02:45 get customer method which just creates a new customer model with Tim Cory is the the person's name and city email address
+00:02:54 and phone number filled in so that's it we have our shopping cart we have our customer and then what we do is we loop
+00:03:02 through using a for each we loop through every item in the cart and say prod which is the product each individual
+00:03:15 product prod ship item any pass in the customer object so let's go look at the physical product model to see that prod
+00:03:26 item so here we go in our class library called demo library we have a physical product model which each physical
+00:03:35 product has a title it has a boolean that says has order been completed and then it has a method called ship item
+00:03:43 which takes in a customer model so what happens is if the order has not been completed so equals false if it's not
+00:03:52 been completed then we sent we have that console.writeline that says simulating shipping this item to this person in
+00:04:02 this city and then we mark the order complete that's it so the customer model is even simpler it's just let's see like
+00:04:12 six properties first name last name street address city email address and phone number so that's really that's all
+00:04:20 the application does it just loops to the cart and it ships the items if we run this
+00:04:28 I'm pull over here it says simulating shipping the nerf football to Tim it's in Scranton
+00:04:33 simulating shipping the I am Tim Cory t-shirt to Tim in Scranton and simulating shipping the hard drive to
+00:04:40 Tim in Scranton okay really simple application but because this gives us a foundation for looking
+00:04:51 at how interfaces can help us so here's the question right now we have a list of physical product model and that physical
+00:04:59 product is something that actually has to be shipped to the user but what if we had another product in fact let's add a
+00:05:12 new class where I called this the digital product model make it public and we're gonna have a same type of thing we
+00:05:25 have a title let's just art the title for now okay so it's got a title but here's a deal we don't mail a digital
+00:05:40 product say it's a download of some kind we wouldn't send that in the mail so what would we do well we'd probably
+00:05:49 actually email that to the user so we have something like ship item let's actually grab his whole signature here
+00:05:57 I'll copy it we'd probably have a ship item method but instead of doing this and doing a console.writeline saying hey
+00:06:11 we've we're simulating mailing it let's actually grab this and we'll say you know what we're going to do rest you
+00:06:21 know the same thing but instead of saying that whereas a to customer dodge email address and then not of course in
+00:06:35 so we're just gonna say hey we're shipping this item we're gonna let's instead of saying shipping let's say
+00:06:43 emailing we're emailing this item to this email address but here's the problem how do I put the digital product
+00:06:54 model into this cart and the answer is I can't now one way I solve this problem would be to create an abstract base class that
+00:07:05 has title maybe has already been completed and a ship item method and then we can inherit from that and then
+00:07:14 have the base class be what we had a list of and that might work except for if we have things that aren't even or
+00:07:24 are even less equal for example well if we had a service product model where you're buying a service
+00:07:32 maybe consulting hours well there is no shipping for that and so that's definitely not the same thing the
+00:07:40 physical product and if you try and hair from the same base class ear isn't work so I don't think that inheritance is the
+00:07:50 right way to go here but instead we can do is create an interface so an interface let's talk about that is and
+00:07:59 then we'll actually see in action an interface is a contract that's all it is and so the contract says is here's the
+00:08:09 things that whatever class that implements the contract here's the things that it will have okay
+00:08:19 so let's create an interface by hand first and I'll show you a shortcut for creating it from a class so right click
+00:08:30 on the demo library and say add new item interface now a naming convention pride the naming convention for interfaces is
+00:08:43 to start them with a capital I and then have all your your words after words starting with a capital letter so for
+00:08:52 example where I call this the I product model so both P and M are capitalized all right so this is Pascal case with a
+00:09:05 capital I the front and that is quite important because it signifies this is an interface and not inheritance and
+00:09:13 I'll show you why it's important just a minute first thing you do make our interface public and now this again it's
+00:09:24 a contract portion we're saying these are the things that any class that implements this will have so let's look
+00:09:32 at a physical product model we have a title has order been complete and ship item I'm actually going to copy all
+00:09:42 three of these just the the top not the actual code and then paste them in here it's a lot faster do it that way another
+00:09:54 way of doing it would be to if we did something like this like for property it's a prop and then type it out notice
+00:10:05 it yells at me that's okay the reason why it's Yaya me is because with an interface you can't have public because
+00:10:13 everything in the interface is public and the reason why is this is a contract and so therefore you have to have only
+00:10:23 public things in a contract otherwise there's no plan putting it in the contract if no one can see it so you
+00:10:32 have to delete out the public first and that's why I do the prop and create it and then come back and delete the public
+00:10:41 okay now instead I use copy and paste it from my class and so therefore I can just delete the public off of all of
+00:10:51 these but notice a couple things first of all this ship item method has to have : at the end and second the private set
+00:11:07 doesn't work therefore we have to be a just a getter so there's our our interface called
+00:11:15 I product model and that's not too hard again it's just the contract and so that's why we don't have any code in
+00:11:24 here there's no code in here it's just here's the things that we will have and these are what's called the signature
+00:11:34 lines so this is a method signature this is a properties signature and so a signature is is just the important bits
+00:11:45 so what it returns its name and what takes in and actually the name of the property doesn't matter that much now
+00:11:54 typically I name the same thing or name them correctly so that it matches up but that's not a big deal because it's
+00:12:06 really only the type that really matters so for properties it's the get in a set versus just to get okay and again the
+00:12:17 return type and the name those the important bits so this contract right now says whoever implements me will have
+00:12:29 a title property with getting a set that's a type string it will have it has order been completed property with just
+00:12:39 a get and a boolean return value and it will have a method called ship item that takes in a customer model and returns
+00:12:50 nothing so that's the contract for I product model so let's go apply this to our physical product model class after
+00:13:02 physical product model we say : I product model and that's it and the reason why is is it
+00:13:11 is because we already have the title property has been ordered been completed property and ship item method and
+00:13:20 there's signatures all match if we go a digital product model knows you don't have he has order been completed so if I
+00:13:28 were to implement that interface I product model it still yells at me and says hey you're missing something now
+00:13:37 there's two ways of solving this one you could go over to the I project model and look at what you don't have in this case
+00:13:44 it's this one right here and then you can come back over here and either paste it in and put public in front or you can
+00:13:51 type the whole thing out all over again but it's an easier way if you hit control dot when you have the prod
+00:14:02 selected or just have a cursor on it you can implement the interface and notice it says in this window over here on the
+00:14:11 right it has highlighted in green it's gonna add one thing the public pool has order been completed so it ignore the
+00:14:20 fact that we have title and ship item because those are part of the contract and so it says I don't need to add those
+00:14:27 again but you are missing me has order been completed now the one thing is whenever you add something like that
+00:14:38 during the control dot and say implement interface for every property and every method it's going to add this throw new
+00:14:49 not implemented exception if it adds it and this is a safety feature Microsoft has built in what a saying is we don't
+00:14:58 want you to accidentally put sample code or blank code into production but we don't want to break your code in
+00:15:06 debugging so if you're just building this application we don't want to break your code if you're not actually using
+00:15:14 the has or have been completed yet but if you try and use this before you've addressed this throw new not implement exception
+00:15:23 if you try and access this it's gonna throw a new exception of type not implemented yet
+00:15:32 so what you do is just delete those out and don't forget I want to add a private set if I needed it but I will so so
+00:15:45 there you go so now I have added something extra and you may think well you has change a signature and yeah kind
+00:15:55 of I did but the public version of it was just the get and that's still the case it still read-only from the public side
+00:16:05 this is just private internal so that's the other thing that interfaces with an interface that doesn't lock you into
+00:16:16 only having what's in the contract for example I'm going to actually add another property here and this is going
+00:16:27 to be the property for total downloads left rest start off a value of five and the idea here let me get private said
+00:16:41 again the idea with this is that when it comes to digital products maybe we're going to limit them to a certain number
+00:16:50 of maximum downloads a pretty common number is five so that's why I've defaulted the total downloads left to B
+00:16:59 and what happens is every time we email the item or do a ship item surround this with so right click snip it surround
+00:17:11 with an if statement if has order been completed equals false so I just saying let's make sure that the order is not
+00:17:23 yet been completed then I'm going to do is seem like the email and then say total downloads left-
+00:17:35 equals one to subtract one from a total if total downloads left equals let's say less than one that way if we ever had a
+00:17:46 problem where we we skipped one or something like that it's still gonna correctly handle that
+00:17:52 so if total downloads laugh is less than 1 so 0 negative 1 they have to ever then has or been complete equals true and
+00:18:04 let's just make sure we set that to zero that way again if we somehow skipped 0 went to the native one rest set back to
+00:18:18 digital products work is we check to make sure that the order has not been complete meaning we haven't finished off
+00:18:28 all 5 downloads and as long as we haven't we email the like the information and then we subtract one
+00:18:38 from atto downloads left if that goes below one then we mark this has been as having been completed and then if we
+00:18:49 can't download it any more times so that's a little different from the physical product where once we we check
+00:18:58 that has been completed as false once we ship it we say it's true because obviously if you order a t-shirt you
+00:19:08 shouldn't get get 5 of those you can't get one of those once you pay for all 5 so the lodging is different here and
+00:19:17 over here and the digital product model there's even an extra property that is public and yet that's no problem for the
+00:19:28 interface because the interface does not care what properties and methods you have in the mop in the class all's it
+00:19:37 cares is that you at least have everything the contract says you will have that's all it cares about and so
+00:19:44 this contract is for idle has order been completed and ship item that's it okay so with that in mind
+00:19:58 that kind of drives how we do interfaces so we just need to have just the things we need to identify as a certain type
+00:20:07 like a product model so we're saying here that products have titles they have an order completion status and they have
+00:20:20 a ship item method so even if there's more complexity beyond that doesn't matter a product has those three things
+00:20:31 okay so now we can come back to program CS and instead of saying physical product model we can say I product model
+00:20:47 so instead of the actual class we can give it the implementation or the I'm sorry the interface and so that
+00:20:57 interface allows us to put more than one type into this list now this adds sampled data is kind of throw a fit here
+00:21:10 and that's because we're actually returning a list of physical product model which is instead going to be a
+00:21:19 product model and we'll do the same thing for our actual output there we go now notice I didn't actually change
+00:21:32 adding physical products that's still fine it's just an a list of AI product model instead so now we can actually
+00:21:42 come down here to our ad sample data and add a digital product output dye add new Digital product model and the title is I
+00:22:13 don't know lesson source code alright so there's a lesson source code that's all I have to do and now we've added digital
+00:22:23 product to our cart as well as three physical products with nothing else changed and let's actually change where
+00:22:31 I changed the this right here to an eye product model with just that change going over to interface instead of the
+00:22:43 actual physical product model class if we run this notice where we simulate shipping those three items but now we're
+00:22:52 simulating emailing lesson source code to Tina Anton Corey so that's the first reason why interfaces are so powerful is
+00:23:08 that we can depend on those contracts and then work with them accordingly even if the actual implementation is a bit
+00:23:18 different for each so let's look at how that works for our list we're saying I product model which is an
+00:23:27 interface it's just a contract so we're saying is we don't know what's going to this cart all we know is everything that
+00:23:37 goes in this cart will follow after this contract it will have all the things that contract says it will have now we
+00:23:50 loop through each item again we look at that as a contract so we can say well I know that and let's just come down here
+00:24:03 and say prod dot now the equals get hashcode get type and to string come with the base object type so we can ignore
+00:24:13 those those are actually inherited but these three things here title ship item and has or been completed
+00:24:23 all come from the contract so we can we can deal with we know about those three things even though we don't know the
+00:24:31 type of the item what that does mean though is that digital product model has that total downloads left well you don't
+00:24:42 see total downloads left in this list and the reason why is because it's not in the contract therefore it's not
+00:24:51 common across all the items and known to exist therefore we can't see it it is there it's just not know okay and we get
+00:25:04 into how to actually find that but for now let's start with just the interface so the interface is a contract
+00:25:14 whoever implements that contract will have whatever the contract says they will have at least other items can use
+00:25:25 that contract as the variable type and then that variable will be able to directly access anything the contract
+00:25:36 specifies but nothing outside that okay so that's the basics of an interface there is no implementation there is no
+00:25:47 source code you can put in here it's not like you're gonna be able to write code in one spot and then brain to multiple
+00:25:53 multiple locations that's not how it works but that's actually prior good thing in a lot of cases in fact most
+00:26:01 cases because for example with our ship item the way we ship a physical product is totally different than how we ship a
+00:26:10 digital product and that's even a really simplistic example of just doing console right lines now an interface has no
+00:26:20 modifiers here there's no public private or internal data stuff it's all public that's how a contract
+00:26:31 works okay so you can't put bug here and also you can't again put the curly braces for a method but instead you put
+00:26:40 your semicolon at the end of a method you don't put on at the end of a property because it's already extended :
+00:26:48 at the end of the get one more thing a note and that is how this fits into the inheritance model so if we were going to
+00:26:59 inherit from physical product model or let's say physical product model inherits from a base class let's just
+00:27:06 create really quickly a sample base class let's call it the physical product base class probably base okay this has
+00:27:25 nothing in it it's just to show the inheritance verses interfaces so if we're going to inherit from fazool
+00:27:37 product base we cannot do this that's a problem because the very first thing in line after the semicolon must be what
+00:27:49 you inherit from you cannot have it second in line so therefore it must be first and that'll work with interfaces
+00:28:04 you can have them at any point after what you inherit from so you can mix and match you have multiple after this but
+00:28:14 with c-sharp you can only inherit from one parent okay so you can't have multiple inheritances but you can have
+00:28:25 as many interfaces as you want because all the interfaces is a contract now note if I don't inherit from something
+00:28:34 an interface is first in the line and that's okay just know that if you come later and say well I'll actually want to
+00:28:42 hear it from something you put it first that also let's just point this out too it's very quick and easy to understand
+00:28:51 which one is a class you're inheriting from versus which one is an interface because interfaces all start with a
+00:29:03 capital I okay so that's that's kind of cleaned up there now you know how to put interface
+00:29:10 onto a class you know how to implement it let's just show off just so you can see it and I'll actually delete it
+00:29:20 afterwards but if you have a class you know what I'm not gonna delete it I'm actually gonna create on the customer
+00:29:27 model just so that we have it there we're not gonna use it I just want to show you how to create a
+00:29:35 interface off of an existing class so you have a class ago you know what I actually want to create an interface no
+00:29:40 problem put your cursor on the class name control dot extract interface you get this little dialog here this just
+00:29:52 says which things do you want to be included in your interface they don't all have to be but in this case I want
+00:30:00 them all and what do you wanna name your interface I customer models fine done public interface i customer model
+00:30:10 there's all of our types and actually come back to the customer model hit now and hair or implements the i customer
+00:30:19 model so that's just a quick shortcut for creating interfaces now notice I almost said implements and actually or
+00:30:28 inherits from I actually mean implements and those those two different words are actually important you do not inherit
+00:30:39 from an interface inheritance implies that you're bringing code down with you that inheritance can only be one parent
+00:30:48 you cannot have multiple things you inherit from but a interface is a contract and so therefore we said that
+00:30:59 you implement an interface and the reason why you implement it is because you actually write all the code so you
+00:31:07 write the code for a title that has been completed and the ship item method so your is implementing that contract
+00:31:16 you're saying I'm going to do what this contract says I will do now let's create one more interface off of just this
+00:31:29 property here the total downloads left because I want to I want to show that off in certain places
+00:31:35 so let's actually right-click on demo library say add new item interface and we'll call this the I digital digital
+00:31:50 product let's just call ID is a product model make it public and we'll paste in that code that I grabbed and it gave me
+00:32:03 to the private set off because we can't have private items so there's our interface I digital product model I'm
+00:32:14 actually going to apply this to my digital product now I can do this where I say comma and another interface no
+00:32:25 problem because these are two separate contracts that I'm saying I will have all this stuff in here in this class I do
+00:32:34 and this one's saying I will have all the stuff in here in this class and I do with all this one has is just this they
+00:32:45 may be tempted to do that in order to have the the items in here and in here but here's the deal if you do it this
+00:32:58 way if you ever access it as an ID digital product model you will only have access to told
+00:33:06 downloads left that's it but what if you wanted to add the ability to see this to our our list here of I project model
+00:33:19 well in that case what you can do is say I digital product model it is a I product model so what's happening here
+00:33:31 is is we're actually adding all this stuff from this contract into this contract as well as the new stuff as
+00:33:40 well that means that this digital product model can be just I'd is a product model they may think well now
+00:33:52 it's not a product model but if I run this it runs no problem so how is it let's go back to our program SCS how is
+00:34:04 it that this digital product model is going into an eye product model list when it doesn't directly implement eye
+00:34:15 product model and the reason why is because I digital product model implements the eye product model so it
+00:34:27 brings along the eye product model contract as well and it says okay here's the initial contract I'm gonna add more
+00:34:33 stuff to it I'm not gonna move anything I'm just gonna add more stuff to it so let's
+00:34:41 demonstrate how we'd use that and why it's useful so back over here in the program CS we loop through each product
+00:34:56 and say ship item what if we wanted to say for our digital products how many downloads we have left for that item now
+00:35:05 we could go to our digital product model and put that console.writeline in here but let's just say we don't have access
+00:35:13 to that or we don't want to modify that we want just for the user-interface purpose well in our for each we can say
+00:35:41 digital okay unless what that's its gun with us doing it's saying if this item right here which is an eye product model
+00:35:51 but remember that's just the contracted implements that doesn't mean that's the only thing it does so if this item is
+00:36:03 actually also implementing the I digital product model if it is put that into the digital property value local variable so
+00:36:13 I've actually created a local variable on the fly right here called digital and so if it's an eye digital product model
+00:36:21 where I put that value in here and now I can use that inside these clear braces it goes away after the closed curly
+00:36:30 brace so I could say console.writeline dollar sign let's start with for the digital dot title you have digital dot
+00:37:00 total downloads left downloads left okay so what can I do here well I'm saying I have access to the title but I also have
+00:37:11 access to the total downloads left which is not part of the eye project model contract but because I've now asked are
+00:37:19 you also an eye digital product model I've put that into the digital which means digital has access to everything I
+00:37:27 digital product model has which includes the total downloads left so now I can access that extra property
+00:37:38 the only digital products have we run this note that only for the last one we get this for the lesson source code you
+00:37:51 have for downloads left so it only did that for just the one that was actually a digital product for anything else it
+00:38:02 ignored it because this if was false so it says if this product is an I digital product model and it's not so skip it
+00:38:11 don't assign it to a local variable this new way of using is is actually part of the C sharp 7.0 so if you're not on I
+00:38:20 believe it's Visual Studio 2015 or higher with the latest update but if you're not on that or higher that won't
+00:38:27 work this way you have to actually do it in two steps so there's the is and then check and see if it's null if it's not
+00:38:35 null then doing it this way is much more efficient and it's a one step process and as your so it's a whole lot easier
+00:38:45 to use so my recommendation to you is if you don't have visual Sophia 2017 the communication is free you can go watch
+00:38:54 my ten free tools video to see how to get Visual Studio for free I understand if you're in a corporate environment
+00:39:01 can't but if if you all possible get the latest version of Visual Studio at all times it's just you get all the cool fun
+00:39:11 stuff so that is right there is really handy because it allows us to kind of cast this into a new type now I don't
+00:39:21 have to do it to an interface I could just say digital product model that would still work nothing really
+00:39:28 changes but I'm just doing it to a different interface now I do want to point out remember I said that for the
+00:39:39 the digital product model if we didn't do this and instead we have both e I'll just put
+00:39:50 at the end I approach model like so here's the problem notice yelling me for title because
+00:40:02 digital now has only access to one property and that's the total downloads left that's it
+00:40:09 doesn't have to access anything else because that's all this contract has access to even though the digital
+00:40:20 product model implements both contracts that's why if possible and if it makes sense you have as additive method here
+00:40:34 where you're saying take everything from I product model and also add this one extra thing is these five extra things
+00:40:43 whatever the contract says doing that you can still use the interface and yet you have access to all the stuff you've
+00:40:52 already expected to have so that's just some of the power of interfaces the other thing I had already touched on we
+00:40:57 haven't talked about here but you can see is the fact that my code now doesn't have to change even though I add a new
+00:41:10 product model so if I add a like I said a service prot model or a you know some other kind of maybe a hybrid product
+00:41:18 model or a coarse product model no problem my code doesn't have to change at all except for I'm actually adding
+00:41:26 those sample items to the cart so if I added let's right-click on the demo library and say add new class and I
+00:41:41 called this the course product model I'm gonna get public and I'm going to implement the product model like control
+00:41:51 dot and say implement the interface and I get I'll take the not implemented exceptions out for my getters and setters
+00:42:12 and so here what I'm gonna do is I'm gonna say console.writeline oops let me check the head and complete it first so
+00:42:25 if has already been completed equals false now some of you may be saying well you can do the the bang where you put
+00:42:32 the exclamation point in front and then you don't need to do a check like this and yes you can do that and this bang
+00:42:41 indicates not so if not has orbit completed also known as false so if this was true not true as false
+00:42:50 so therefore false is true it's a little confusing ok the other thing is this blends in together so if you're not
+00:42:57 careful you don't realize that's an exclamation point and not a character as part of the variable name that's why I
+00:43:09 try to be as explicit as possible so you know oh it's false this really helps new developers because it makes it a lot
+00:43:20 more scannable for a new developer so quick rabbit trail that's also in my top 10 best practices but yes so I just make
+00:43:31 sure that I explicitly say equals false it does not change anything as far as the actual compiled code it's the same
+00:43:40 exact thing so you're not gonna actually gonna have any kind of performance gains or losses by doing this so if not it has
+00:43:49 not yet been completed then we're going added the let's put the title course to customer first name paucity s account
+00:44:19 and then we'll close our quotes and then we'll set the has order been completely equals true okay it's a really simple
+00:44:28 very very similar to our physical product except instead of mailing something we're actually supplying it to
+00:44:37 their account but it's a one done action so with that all being said without changing any other part of my you know
+00:44:46 quote unquote real code which this is simulating a real code was doing the actual work now changing anything there
+00:44:59 I can say output dot add new course product model the title is dotnet course start to finish and that's it so without
+00:45:18 changing any code I can hit start and now we are shipping physical products we are emailing digital products and we're
+00:45:29 adding course products to their account so that's another benefit of interfaces is you're not tied specifically to a
+00:45:39 certain type that's really big that's a really important thing because if we were tied to that physical product model
+00:45:48 which we started with then we have to change a lot of our code if we want to have other product types and that causes
+00:45:59 a messy situation especially if your application is it all large and that's why working against interfaces is almost
+00:46:08 a a must when it comes to medium to large application especially because if you want make any kind of change it
+00:46:18 takes so much work otherwise or you're making modifications to the physical product model or maybe it's called
+00:46:25 physical product model but really is physical or digital you know kind of trashed shoehorn
+00:46:31 in and that's we come across companies where you walk in and say these names don't make sense
+00:46:37 well it did originally it's just that the purpose behind it has changed as the code had evolved so those kind of things
+00:46:47 are kind of ugly so if at all possible code against an interface not the implementation so don't say you know
+00:46:58 customer model say I customer model it just leaves you open to more flexibility down the road I recently did a series on
+00:47:07 design patterns and I'm not done yet but I started with the first five videos being on a solid framework of solid
+00:47:17 principles if you want to see the real power of interfaces kind of the next level watch those five videos because
+00:47:26 those five videos go over basically everyone that uses interfaces in order to improve and disconnect and make your
+00:47:36 code just so much better so that's what interfaces are in nutshell that's going to make sure you go up my blog post and
+00:47:43 get both the starter source code and also the end and kind of play around it and see how they work my encouragement
+00:47:51 to you is practice this stuff because the more you practice with interfaces and the more you try things out the more
+00:47:59 comfortable you are with them the the more you must understand why you need them sometimes at first it feels like
+00:48:07 it's just an extra layer of stuff but trust me it's not it's an essential layer of protection and loose coupling
+00:48:17 for your application it really helps you disconnect from those tightly bound monolithic applications so that's it for

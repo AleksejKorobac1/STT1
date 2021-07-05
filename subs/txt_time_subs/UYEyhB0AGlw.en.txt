@@ -1,0 +1,244 @@
+00:00:00  Hey, it's me, Destin. Welcome back to Smarter Every Day. We're right in the
+00:00:02 middle of a deep dive here on Smarter Every Day into nuclear submarines. We're investigating all
+00:00:07 these different things about how nuclear submarines work, and we're trying to learn
+00:00:11 very detailed information about each individual thing. Today we're going to talk about torpedoes,
+00:00:17 which is fascinating to me because I've actually been down range from a torpedo when it's engaged a target.
+00:00:23 This is me in a helicopter back in 2018 as the part of my job, which was a developmental weapons tester.
+00:00:30 I'm filming the USS Racine waiting on a Mark 48 torpedo to impact.
+00:00:35 And when it did, it was devastating. That was a part of RIMPAC, the Rim of the Pacific exercise.
+00:00:40 That activity took place at what's called the Barking Sands Missile Range Facility. And what's so interesting about that is they
+00:00:47 test missiles there, but they also test torpedoes. If you looked off the coast of Kauai at any given day,
+00:00:52 you could see a helicopter towing a torpedo that it had picked up out in the ocean after being fired
+00:00:57 and they did some kind of weapons development. But here's the deal.
+00:01:00 Even though torpedoes are super fascinating and they're modern and they're constantly being changed,
+00:01:06 they are very old technology. In fact, they were used to great effect during World War I. So this technology needed to
+00:01:11 fire a torpedo from a submarine is very old, but generally speaking most people don't know how it works.
+00:01:19 Today we're literally going to crawl inside the torpedo tube of a US nuclear submarine in the Arctic
+00:01:25 Ocean under the ice, and we're going to be able to look around inside this tube
+00:01:28 and try to understand how all these things work. All right. Let's do it.
+00:01:33 Let's go get Smarter Every Day. [THEME MUSIC]  That's running down towards the torpedo room.
+00:01:44 DESTIN: Torpedo room. That's what I'm talking about.  Oh, yeah.
+00:01:47 MAN: It's a thing. DESTIN: This is the party.  And so one of the places you could have flooding,
+00:01:51 this is one of the very few, right. But that's the most important spaces.
+00:01:54 DESTIN: Oh, well, I'll be danged. There we go.
+00:01:56  And there it is. DESTIN: And there it is. OK.
+00:01:59  All right. So what we got here is--  Going to touch it.
+00:02:01  So my name's Alan Howell. I'm the Torpedo Division Chief Petty Officer here on the USS Toledo.
+00:02:06 DESTIN: Oh, awesome. Rock and roll. So you're over the torpedoes, did I understand correctly?
+00:02:10  Yes, sir. That is correct. DESTIN: OK.
+00:02:12 So right now where are the torpedo tubes?  So torpedo are forward the ship on the port and starboard
+00:02:17 side. So we currently have four torpedo tubes on the 688 class submarine.
+00:02:21 Two over here on the starboard side, two over on the port.  So that's what I'm seeing right there?
+00:02:25  Yes, sir. DESTIN: OK, and then--  What you're seeing is the breach doors.
+00:02:27 DESTIN: And there's one way over there. ALAN HOWELL: And there's two more over on that side.
+00:02:29 DESTIN: Two on that side.  Yes, sir. DESTIN: OK.
+00:02:30 Got it.  So what you're seeing is the breach doors. And when we're done
+00:02:32 with this evolution we can open them up for you, and if you want to crawl down in there
+00:02:35 you're more than welcome to. DESTIN: In the torpedo tube?  Absolutely.
+00:02:37 DESTIN: Crap yeah, I do.  Yeah. Good.
+00:02:39 DESTIN: Let's do that.  We send our torpedo men down there once a month for maintenance, so
+00:02:41 we dive the tubes every month. So we're in there all the time. DESTIN: I like you already.
+00:02:45  So you're in. DESTIN: Rock and roll. I'm going to set this camera up over here.
+00:02:48 So, well, now I guess it's going to open that way, isn't it? Can I prop it on this?
+00:02:52 ALAN HOWELL: Sure. We got a green if you want to put that on. It's probably going
+00:02:55 to be wet down there.  So this is--  TM2 Knight.
+00:02:59 DESTIN: TM2 Knight. What does TM2 mean?  That means torpedoman's mate.
+00:03:03 DESTIN: Torpedoman's mate.  Yes, sir. DESTIN: OK cool.
+00:03:06 And my understanding is this is a torpedo tube.  Yes, sir. DESTIN: And there's a thing that you're going to let me do.
+00:03:11  Yes, sir. So we're going to open up the breach door and let you crawl down inside
+00:03:15 and sign your name at the-- or at least try to sign your name on the muzzle door. DESTIN: This is the standard
+00:03:21 door for a torpedo tube, I guess. TM2 KNIGHT: Yes, sir.
+00:03:24 DESTIN: And it's hydraulically operated, you said? TM2 KNIGHT: Yes, sir. DESTIN: OK.
+00:03:27 And this is a torpedo, right? TM2 KNIGHT: Yes, sir. Mark 48 ADCAP.
+00:03:31 DESTIN: What's ADCAP mean? TM2 KNIGHT: Means advanced capability. DESTIN: And so this yellow
+00:03:33 stripe right here means that is a live torpedo? TM2 KNIGHT: Yes, sir.
+00:03:39 DESTIN: That's amazing. If you think about what's going on here, you've got this long torpedo
+00:03:41 down in the bottom floor of this submarine. How did it get there?
+00:03:46 Because we barely have enough room to move around. OK, so this is Jacob, the assistant weapons officer.
+00:03:51  I'm also the diving officer, so I'm responsible for-- biggest responsibility is probably
+00:03:55 rig for dive, which we'll talk about here. But this is the command passageway.
+00:04:01 Naval tradition kind of thing. It's a area where you're supposed to minimize passage. Only certain people are allowed
+00:04:05 regular passage through here. Right here is the weapon shipping hatch. And it happens to be
+00:04:12 the most convenient way to get into the ship, but it's also the primary means by which we load torpedoes, actually.
+00:04:19 DESTIN: Really? JACOB: Right now it's rigged for dive, so I can't just open this
+00:04:22 without cabin suppression. But if you were to open this, it swings down that way. You can see that hand wheel
+00:04:26 or that lever right there. DESTIN: Right. JACOB: Turn it and it will swing down that way.
+00:04:33 You'll see that it's actually got a cant, and that's so that torpedoes actually come in like this,
+00:04:40 and you wonder where they're going to go. Well, these plates right here, these deck plates,
+00:04:44 you take them out and there's a tray underneath that actually swings downward.
+00:04:49 Its hinges are on this side. DESTIN: Coming through, captain?  No, I'm good.
+00:04:52  And likewise on the next deck down, take the deck plates out, shipping tray hinges downward,
+00:04:57 goes all the way down to the torpedo room. And when we load torpedoes that way.
+00:05:00  What I think is fascinating about this is the geometry of taking this huge torpedo
+00:05:04 and getting it to the bottom floor. All this was figured out way back in the day.
+00:05:08 Like the first Los Angeles class submarines were laid down in the '70s, which
+00:05:12 means all the decisions those engineers made back then affect what types of weapons can be fired now.
+00:05:18 Now, I couldn't find any footage of loading torpedoes into a Los Angeles class submarine.
+00:05:23 However, I did find footage of a harpoon missile being loaded. Now, that has the same geometric form
+00:05:29 factor as a Mark 48 torpedo. But what's interesting is if you watch how they do this, it's like a choreographed
+00:05:34 dance to get this torpedo down to the bottom floor. So it doesn't matter what technological advancements you
+00:05:41 make in the weaponry itself, for the seeker heads or the guidance or the fire control.
+00:05:45 It doesn't matter. You are still constrained by the physical size of the torpedo tube and how you
+00:05:48 can physically lower it down to the bottom deck of the boat. When it comes to actually inserting the torpedo
+00:05:55 into the tube, there's either one of two ways that it's done. Number one, you could use hydraulics
+00:05:59 which basically pushes the round all the way into the tube. Or number two, they can actually override that and do it
+00:06:05 with snatch blocks and muscle power, because snatch blocks are awesome.
+00:06:09 What do you call this contraption here? This is the door of the torpedo?
+00:06:11 TM2 KNIGHT: That's the breach ring or breach door for the torpedo tube. DESTIN: OK.
+00:06:16 And so if I understand correctly, you're going to open that. And what you would normally do is you would go inside
+00:06:22 and you would clean it? Is that right?  Yes, sir.
+00:06:25 DESTIN: OK. And you're going to let me try?  Yes, sir.
+00:06:27  So how do you open this?  All right. So first we're going to verify that everybody's clear of it
+00:06:32 and there's nothing interfering with it because it's hydraulics.
+00:06:36 We're going to go on one. Clear. All right.
+00:06:43 We're good. Just pull this plug. DESTIN: Wow.
+00:06:50  Make sure it's latched. And there's the torpedo tube. DESTIN: Oh, it's awesome.
+00:06:57 OK, I'm going to level with you. This was the moment in my life where I realized I was
+00:07:00 being offered a chance to crawl inside a torpedo tube in a nuclear submarine. So side note, how the
+00:07:04 heck did that happen? But when it comes right down to the reality of what's about to go down,
+00:07:09 how does a torpedo fire? I did not know how a torpedo leaves the tube of a submarine. No clue.
+00:07:17 Before we crawl down in the tube, I want to try to explain how this thing works
+00:07:20 so you'll have a better idea of what we're looking at. This is a model of a Mark 48 torpedo.
+00:07:24 Just 3D printed this, painted it, the whole bit. I'm really proud of it. Anyway, there's something really cool about this
+00:07:29 I want you to see. If you look really close here, on the top of this thing you can see there's this little
+00:07:32 tab kind of thing, right? So those little tabs right there have a very specific purpose. If we open the back
+00:07:39 of the torpedo tube, you can see that on top there's this little Y, and that Y guides that
+00:07:44 little tab into the tube so the torpedo will always align to the correct orientation. Up will always be up.
+00:07:53 But there's other things you can do, right? Not only does it give you radial alignment,
+00:07:56 but it can give you axial alignment along the longitude of the tube. I don't know if I'm saying that right, but I think you get it.
+00:08:01 So as it goes in, if you have something that's pushing down inside that little Y slot, as the torpedo goes forward, boop,
+00:08:08 it'll bump right there and it'll stop the torpedo from going any farther.
+00:08:12 If you have something on the back of it, that'll keep it from going backwards.
+00:08:15 So at that point, you have constrained the torpedo in six degrees of freedom. Roll pitch, yaw, X, Y, Z. Just with that little slot and two
+00:08:24 little lugs on each side. Before we go down the tube, I want you to understand exactly
+00:08:27 how the torpedo launching system works. So the first thing we do is make sure
+00:08:32 the locking lugs are in the correct configuration, and that's that little tab thing I was explaining
+00:08:36 would keep the torpedo from sliding forward and backwards. So the forward locking lug is going
+00:08:41 to be in the load position, which means it's going to be down, but the back one is going to be up.
+00:08:45 Next, we open the breach door and we can slide the torpedo in.
+00:08:49 Again, we can do that with hydraulics or, my favorite way, snatch blocks. Once the torpedo is in and the locking bolt on the torpedo
+00:08:56 has moved up against the locking lug in the tube, the aft locking lug comes down and secures
+00:09:01 the torpedo in the tube. In case the submarine pitches up for some reason you don't want it to slide
+00:09:05 against the breach door. At this point the breach door is shut and locked, and now the torpedo is stable
+00:09:09 inside the torpedo tube and ready for use. In the event they actually want to fire the torpedo,
+00:09:16 the following sequence takes place. First of all, you have to flood the tube.
+00:09:20 There's a tank full of water called the WRT, or Water Round Torpedo tank.
+00:09:25 A valve is open to allow water to flood the tank, but because there's air in there that you have to let escape
+00:09:30 you also have to open a valve up top that will vent the air out as you fill it up with water. So this venting of the air back into the submarine
+00:09:38 is critical because air is a precious resource. You're a submarine.
+00:09:41 You're a set volume. Now, it's cool to move air around in different compartments
+00:09:45 in the submarine, but you never let it go because you only have the air that you
+00:09:49 brought with you, especially when you're under the ice. And you don't want to have to come back to the top,
+00:09:54 or in this case you can't go back to the top, and get more. So it's important to preserve your air.
+00:09:59 OK, so the water from the WRT tank is filling up the torpedo tube itself.
+00:10:04 And at some point it completely fills the tube and starts to go up into the vent line.
+00:10:09 Up there there's an electrode that senses the seawater, and at that point the valve
+00:10:13 on top and the valve on the bottom close at the same time and we have a torpedo tube completely filled with water.
+00:10:19 When you go to fill up the torpedo tube with water you can't take water from off the boat,
+00:10:24 because if you have hundreds of gallons of water that you need to fill that tank suddenly
+00:10:29 that's like putting thousands of pounds on the front right corner of your boat which would cause you to tip like this.
+00:10:35 So in order to do this they had this carefully choreographed buoyancy ballet where they take water that's already
+00:10:41 on the ship-- in fact, it's very near the tube-- and they fill the tube with that.
+00:10:45 So there's no mass exchange between off the boat and inside.
+00:10:50 That way they can carefully trim everything out and it will stay trimmed throughout the entire firing sequence.
+00:10:56 So at this point we have a torpedo tube that's filled with water, but the problem
+00:10:59 is it is at a lower pressure than outside the boat. Because as you know, the deeper a submarine
+00:11:04 goes the higher and higher the pressures can get. So what we have to do is equalize
+00:11:08 the system, and that's the purpose of this valve right here, the equalizing valve. Once we turn this thing, the pressure in the tube
+00:11:14 will now be the same as the pressure out in the ocean. Now that we have the same pressure
+00:11:19 on the inside of the tube as we do on the outside of the submarine, we
+00:11:22 can open the muzzle door because the forces are equalized. But it's also time to move what's called the slide valve.
+00:11:28 The slide valve is a movable part of the tube that's about midway down the torpedo
+00:11:33 that concentrically covers all these different rectangular ports through which water can travel.
+00:11:39 So the slide valve moves, exposing those rectangular ports, and now you can dump water
+00:11:44 into the torpedo tube. At this point we are completely ready to fire. And when the fire command
+00:11:48 comes from fire control back in the control room, both the locking lugs retract, which frees up the
+00:11:53 torpedo to move axially, and pressurized water from an impulse tank provides a tremendous
+00:11:58 amount of pressure in-flow which is then introduced into the torpedo tube from all those rectangular holes
+00:12:03 which were covered by the slide valve, and this additional water in the tube pushes the torpedo out the
+00:12:08 front of the submarine. OK. What I'm about to tell you, I do not know for a fact.
+00:12:13 But think about it. We had a huge torpedo in the tube, and we fired it, and it is no longer
+00:12:17 on the submarine. The weight of that torpedo is gone, which tells me that in order to
+00:12:22 maintain balance in the system an ideal torpedo is probably neutrally buoyant. Anyway, so at this point we
+00:12:29 have to return the system to its original state without gaining or losing mass. How do we do that?
+00:12:38 OK, so the first thing we're going to do is we're going to close the muzzle door
+00:12:41 and close the slide valve and then close the equalizing valve. At this point the tube is now shut off from the ocean.
+00:12:48 And this is the other magic trick. How do we get all this water out of the tube
+00:12:51 without changing the weight of the boat? We open this three-way valve down here at the bottom,
+00:12:56 and we divert the water from the tube to the auxiliary tank. But because it's going to take forever for that to drain
+00:13:02 and you have to back-fill that water with air, we might as well use pressurized air.
+00:13:06 So we open this blow valve up top, and we have a pressurized source of air
+00:13:09 to force all that water out down into that aux tank. At this point, when the tube is dry
+00:13:15 we close both of those valves and we are left with a pressurized torpedo tube.
+00:13:19 That's unacceptable because we don't want to waste air. So what we do at this point is we open the three-way valve
+00:13:24 on top and we vent that pressurized air back into the people part of the submarine.
+00:13:29 And there you have it. All you have to do is unlock and open the breach and lower the front locking
+00:13:33 lug, and you're ready to load another torpedo in the tube.  That plate right
+00:13:38 there that you can see? That's the slide valve there. That's where once the tube is flooded down,
+00:13:44 if we would open that slide valve and there was flow slots inside.
+00:13:48 So that tank is basically just a free flooded area, so on the other side of that valve is water.
+00:13:54  Where is the valve? TM2 KNIGHT: It's this giant plate right here. That would slide forward
+00:13:57 and uncover the flow slots. DESTIN: Got it. Got it.
+00:14:01 So this thing moves forward, and there's holes around the outside that pushes the torpedo out.
+00:14:05 TM2 KNIGHT: Yes, sir. The torpedo gets loaded in all the way down. We flood down the tube.
+00:14:12 We equalize it with the sea pressure. And then that slide valve, once we open the muzzle door,
+00:14:17 will open, and that pressure pushes the weapon out of the tube. DESTIN: Got it.
+00:14:22 OK. Cool. So just crawl down there and sign my name at the end, right?
+00:14:27 TM2 KNIGHT: Yes, sir.  Am I still rolling?  You're still rolling.
+00:14:30 DESTIN: So what can I not step on here? TM2 KNIGHT: You don't want to step on--
+00:14:33 DESTIN: Can I step on the nose of the torpedo?  I would step right here-- DESTIN: [LAUGHS] OK, thank you.
+00:14:37  There's sensitive stuff in there.  OK. Here we go.
+00:14:42  Put your foot on here.  Thank you. [GROANS]
+00:15:02 Yeah, you couldn't be claustrophobic and do this, could you?  No, sir.
+00:15:09 DESTIN: So these valves here, are these little screens?  Those are just strainers to make sure
+00:15:14 that whenever we drain the torpedo tube nothing solid gets into the system. DESTIN: Gotcha.
+00:15:28 So there's seawater on the other side of this?  Yes, sir. DESTIN: That's crazy.
+00:15:33 So sign my name right here? TM2 KNIGHT: Yes, sir. Anywhere you like.
+00:15:36 DESTIN: Oh, a lot of people have done this. It's really, really cold. I guess because we're in the arctic, huh?
+00:15:48  Might have something to do with it. DESTIN: There's no way this marker is going to work.
+00:15:57 It's literally ice. Well, there was an attempt.  Sometimes that's all you can ask for.
+00:16:09 DESTIN: That's all you can ask for. Let's see if I can see you.
+00:16:13 That's awesome. You're a really long ways away.  About 20 feet.
+00:16:18 DESTIN: 20 feet?  Yes, sir. DESTIN: That's pretty cool.
+00:16:22 Sweet. Coming back. TM2 KNIGHT: All right.
+00:16:37  Apparently there's ice on the door. MAN: Ice?  Yeah.
+00:16:39 [LAUGHS] MAN: [INAUDIBLE]. DESTIN: So is that a detailed slot?
+00:16:53  Say again? Oh, yeah. So what you're looking at right now is the stop bolt.
+00:17:03 DESTIN: Yeah. TM2 KNIGHT: So when we load the torpedo in, it's got a little
+00:17:06 notch on the top of it. So we load that in, and that forward one, it is down. So that stops it.
+00:17:15 DESTIN: Yeah. TM2 KNIGHT: And we roll it so that the rear one comes down as well, and that locks
+00:17:20 the torpedo in place so that it's not going to come out of the tube with the breach door open.
+00:17:26 DESTIN: Oh, I see. So it's a can that rolls.  Yes, sir.
+00:17:29 DESTIN: Did you grease it? TM2 KNIGHT: We have greased it. DESTIN: That's awesome.
+00:17:36 It looks like it's riding on some type of Teflon or Delrin or something.  Yes, sir.
+00:17:42 That's the sliding surfaces so that the torpedo has something to slide on without scratching or damaging
+00:17:47 it.  That was awesome. That was really cool.
+00:18:08 It was ice.  Yeah. DESTIN: Is that normal?
+00:18:10 That's just the arctic, I guess.  Yeah, no. Just being in the arctic with how cold it is.
+00:18:14 DESTIN: That's amazing. Well, that's something I never thought I would do. There was an attempt.
+00:18:21  There was an attempt.  All right. So that sliding down a torpedo tube on the USS Toledo.
+00:18:29 Thank you.  No problem, sir. DESTIN: Appreciate it.
+00:18:31 It was freaking cold is what it was. like ice. MAN: Like real cold, I know.
+00:18:36  Ice at the end, yeah. I didn't expect that. This video is a part of the Smarter Every Day deep dive
+00:18:42 series into nuclear submarines. We're going to study a whole bunch of different stuff, and I would love it if you would
+00:18:47 consider subscribing to learn about this stuff with us. It's fascinating.
+00:18:51 There's way more to come. This episode is sponsored by Raycon. If you've never used
+00:18:55 Raycons, highly recommend it. These are called the Everyday E25s. And I want to show
+00:19:00 these things to you. Check these out. So this black pair here was given to me
+00:19:05 when Raycon was like, hey, are you interested in letting us be a sponsor of Smarter Every Day?
+00:19:10 Checked them out. I absolutely love them. These things are like half the price of other premium earbud
+00:19:17 audio brands, but they sound just as good. They're very comfortable.
+00:19:21 When you buy these things, they have all different kinds of the little rubber things that go in your ear.
+00:19:26 You can get the exact size that fits you the best. They're fantastic. You get 6 hours of play time per charge.
+00:19:33 And you're going to dig them. I highly recommend these. I use them when I bush hog this field.
+00:19:37 As a matter of fact, about time to do that again. If you want to try these, go to buyraycon.com/smarter.
+00:19:44 You get 15% off your order. I recommend the Everyday E25s. You're going to dig them.
+00:19:48 You can pick whatever color you want. I like the blue ones myself. But you know, whatever you like.
+00:19:53 Big thanks to Raycon. I like your products. In the last episode I showed a little orange flower
+00:19:57 and said Dad and I don't cut it because the butterflies like it.
+00:20:00 Turns out it's called butterfly milkweed. People told me that in the comments.
+00:20:04 There it is. Told you the butterflies like this stuff. Isn't that pretty?
+00:20:07 Thanks for making me Smarter Every Day in the comments. I'm Destin. I hope you stay tuned for the rest of the Smarter Every Day
+00:20:13 deep dive into submarines. We're going to learn a lot of stuff. How do you make
+00:20:16 pizza on a submarine? What are the bathrooms like on a submarine? All kinds of stuff like that.
+00:20:21 Please consider subscribing. There's a lot more to learn. I'm Destin getting Smarter Every Day.

@@ -1,0 +1,1324 @@
+00:00:01 the following is a conversation with sheldon solomon a social psychologist a philosopher
+00:00:08 co-developer of terror management theory and co-author of the warm at the core on the role of death and life he further
+00:00:16 carried the ideas of ernest becker that can crudely summarize as the idea that our fear of death
+00:00:22 is at the core of the human condition and the driver of most of the creations of human civilization
+00:00:30 quick summary of the sponsors blinkist expressvpn and cash app click the links in the description to get a discount
+00:00:36 it really is the best way to support this podcast let me say as a side note that ernest
+00:00:42 becker's book denial of death had a big impact on my thinking about human cognition
+00:00:48 consciousness and the deep ocean currents of our mind that are behind the surface behaviors we observe
+00:00:55 many people have told me that they think about death or don't think about death fear death or don't fear death but i
+00:01:02 think not many people think about this topic deeply rigorously in the way that nietzsche suggested
+00:01:11 this topic like many that lead to deep personal self-reflection frankly is dangerous for the mind
+00:01:17 as all first principles thinking about the human condition is if you gaze long into the abyss like
+00:01:23 nietzsche said the abyss will gaze back into you i've been recently reading a lot about
+00:01:28 world war ii stalin and hitler it feels to me that there's some fundamental truth there to
+00:01:34 be discovered in the moments of history that changed everything the suffering
+00:01:41 the triumphs if i bring up donald trump or vladimir putin in these conversations it is never through a political lens i'm
+00:01:46 not left nor right i think for myself deeply and often question everything changing
+00:01:55 my mind as often as is needed i ask for your patience empathy and rigorous thinking
+00:02:00 if you arrive to this podcast from a place of partisanship if you hate trump or love trump or any
+00:02:07 other political leader no matter what he or they do and see everyone who disagrees with you as delusional
+00:02:14 i ask that you unsubscribe and don't listen to these conversations because my hope is to go beyond that
+00:02:20 kind of divisive thinking i think we can only make progress toward truth through deep
+00:02:26 and pathetic thinking and conversation and as always love if you enjoy this thing subscribe
+00:02:31 on youtube review with five stars and apple podcast follow on spotify support on patreon
+00:02:38 or connect with me on twitter at lex friedman as usual i'll do a few minutes of ads now and no ads in the middle
+00:02:45 i try to make these interesting but i give you timestamps so you can skip but please do check out the sponsors by
+00:02:51 clicking the links in the description it's the best way to support this podcast this episode
+00:02:58 is supported by blinkist my favorite app for learning new things get it at blinkist.com lex for a seven
+00:03:03 day free trial and 25 off after blinkist takes the key ideas from thousands of
+00:03:10 non-fiction books and condenses them down into just 15 minutes that you can read or listen to i'm a big
+00:03:17 believer in reading at least an hour a day as part of that i use blinkist every day and in general it's a great way to
+00:03:24 broaden your view of the ideal landscape out there and find books that you may want to read
+00:03:28 more deeply with blinkist you get unlimited access to read or listen to a massive library
+00:03:34 of condensed non-fiction books right now for a limited time blinkist has a special offer just for our audience
+00:03:42 go to blinkist.com lex to try it free for seven days and save 25 percent off your new subscription
+00:03:49 that's blinkist.com lex blinkist spelled b-l-i-m-k-i-s-t this show is sponsored by expressvpn get
+00:03:59 it at expressvpn.com lexpod to get a discount and to support this podcast
+00:04:04 have you ever watched the office if you have you probably know it's based on a uk series also called
+00:04:09 the office not to stir up trouble but i think the british version is actually more
+00:04:14 brilliant than the american one but both are pretty amazing anyway there are actually nine other countries with
+00:04:21 their own version of the office you can get access to them with no jail restrictions when you use expressvpn
+00:04:28 it lets you control where you want sites to think you're located you can choose from nearly 100 countries
+00:04:34 giving you access to content that isn't available in your region so again get it on any device at expressvpn.comlogspod
+00:04:42 to get extra three months free and to support this podcast this show is presented by the great the
+00:04:48 powerful cash app the number one finance app in the app store when you get it
+00:04:54 use codelex podcast cash app lets you send money to friends buy bitcoin and invest in the stock market with as
+00:04:59 little as one dollar since cash app allows you to send and receive money digitally
+00:05:04 let me mention a surprising fact about physical money it costs 2.4 cents to produce a single penny
+00:05:11 in fact i think it costs 85 million dollars annually to produce them so again if you get cash out from the
+00:05:16 app store google play and use the code lex podcast you get ten dollars and cash app will also donate ten
+00:05:24 dollars to first an organization that is helping to advance robotics and stem education for young people around
+00:05:29 the world and now here's my conversation with sheldon solomon what is the role of death and
+00:05:38 fear of death and life well from our perspective the uniquely human awareness of death and
+00:05:50 our unwillingness to accept that fact we would argue is the primary motivational impetus for almost
+00:05:58 everything that people do whether they're aware of it or not so that's kind of been your life work
+00:06:05 your view of the human condition is that death you've written the book warm with the core that death is at the core of our
+00:06:11 consciousness of everything of how we see the world of what drives us maybe can you can you
+00:06:20 elaborate like what how you see death fitting in what does it mean to be at the core
+00:06:26 of our being so i think that's a great question and you know to be pedantic i usually start you know my psychology classes
+00:06:36 and i say to the students okay you know let's define our terms and the ology part they get right away you know it's the
+00:06:42 study of and then we get to the psyche part and understandably you know the students
+00:06:50 are like oh that means mind and i'm like well no that's a modern interpretation but in a in ancient greek
+00:07:01 it means soul but not in the cartesian dualistic sense that most of us in the west think when that word comes
+00:07:08 to mind and so you hear the word soul and you're like well all right that's the
+00:07:15 non-physical part of me that's potentially detachable from my corporal container when i'm no longer here
+00:07:24 but aristotle's who coined the word psyche i think he was  not a dualist he was a monist
+00:07:33 he thought that the soul was inextricably connected to the body and he defined soul as the essence of a
+00:07:41 natural body that is alive and then he goes on and he says all right
+00:07:48 but let me give you an example if if an axe was alive the soul of an axe would
+00:07:57 be to chop and if you can pluck your eyeball out of your head
+00:08:04 and it was still functioning then the soul of the eyeball would be to see you know and then he's like all right
+00:08:11 the soul of a grasshopper is to hop the soul of a woodpecker is to peck which raises the question of course what
+00:08:19 is the essence of what it means to be human and here of course there is no one
+00:08:29 universally accepted conception of the essence of our humanity all right aristotle  you know gives us
+00:08:36 the idea of humans as rational animals you know we're homo sapiens but
+00:08:42 not the only game in town got joseph hoisinger an anthropologist in the 20th century he called us homo ludens
+00:08:49 that were basically fundamentally playful creatures and i think it was hannah arendt  homo
+00:08:57 faber we're tool making creatures  another woman ellen dizzinayake wrote a book called homo aestheticus
+00:09:05 and following aristotle and his poetics she's like well we're not only rational animals we're also aesthetic creatures
+00:09:11 that appreciate beauty there's another take on humans i think they call us homo naratans
+00:09:21 we're all we're storytelling creatures and i i think all of those  designations of what it
+00:09:26 means to be human are quite useful heuristically and certainly worthy of our collective cogitation
+00:09:35 but what what garnered my attention when i was a young punk was just a single line
+00:09:41 in an essay by a scottish guy it was alexander smith in in a book called dreamthwarp i think
+00:09:50 it's written in the 1860s he just says right in the middle of an essay it is our knowledge
+00:09:57 that we have to die that makes us human and i remember reading that and i in my gut i was like oh man i don't like that
+00:10:06 but i think you're on to something and then william james the the great harvard philosopher and arguably
+00:10:11 the first academic psychologist he referred to death as the worm at the core of the
+00:10:21 human condition so that's where the worm at the core idea comes in and that's just an illusion to the story
+00:10:27 of genesis back in the proverbial old days in the garden of eden 
+00:10:36 everything was going tremendously well until the serpent tempts eve to take a chop out of the apple of the tree
+00:10:42 of knowledge and adam partakes also and this is according to the bible what brings
+00:10:52 death into the world and from our vantage point the story of genesis is a remarkable allegorical
+00:11:01  recount of the origin of consciousness where we get to the point where by virtue
+00:11:09 of our vast intelligence we come to realize the inevitability of death and so  you know the apple is beautiful and
+00:11:16 it's tasty but when you get right into the middle of it there's that ugly reality which is
+00:11:24 our finitude and then fast forward a bit and  i was a young professor at skidmore college in 1980 my phd is in
+00:11:34 experimental social psychology and i i mainly did studies with clinical psychologists evaluating
+00:11:41 the efficacy of non-pharmacological interventions to reduce stress and that was good work and i
+00:11:47 found it interesting but in my first week as a professor at skidmore i i'm just walking up and down
+00:11:55 the shelves of the library saw some books by a guy i had never heard of ernest becker
+00:12:02 a cultural anthropologist recently deceased he died in 1974 after weeks before
+00:12:13 actually he was posthumously  awarded the pulitzer prize and non-fiction for his book the denial of death
+00:12:19 and and that was his last book it's actually his next to last book i don't know how you pulled this
+00:12:25 off but he had one more after he died called escape from evil and evidently it was supposed to
+00:12:31 originally the denial of death was supposed to be this giant thousand page book that was both
+00:12:39 and they split it up and the what became escape from evil  his wife marie becker finished
+00:12:47 well be that as it may in it is in the denial of death where becker just says it in the first
+00:12:56 paragraph i i i believe  that the terror of death and the way that human beings respond to
+00:13:06 it or decline to respond to it is primarily responsible for almost everything we do whether we're
+00:13:13 aware of it or not and mostly we're not and so i read that first paragraph lex and i was like wow okay
+00:13:21 this dude you're on to something you're on to something it's the same thing it's the same thing
+00:13:29 and then it reminded me i think not to play psychologists but you know let's face it
+00:13:35 i believe there's a reason why we end up drifting where we ultimately come to so i'm in my mid-20s i got ernest becker's book in my hand
+00:13:46 and the next thing i know i'm remembering  when i'm eight years old the day that my grandmother died
+00:13:55 and you know the day before my mom said oh say goodbye to grandma she's not well and okay so i was like okay grandma
+00:14:05 and i knew she wasn't well but i didn't really appreciate the magnitude of her illness well she dies the next day
+00:14:13 and it's in the evening and i'm just sitting there looking at my stamp collection and i'm
+00:14:18 like wow i'm gonna miss my grandmother and then i'm like no wait a minute
+00:14:24 that means my mother's gonna die and after she gets old and that's even worse after all who's
+00:14:30 gonna make me dinner and that bothered me for a while but then i'm looking at the stamps all the
+00:14:36 dead american presidents and i'm like there's george washington he's dead there's thomas jefferson
+00:14:42 he's dead my mom's gonna be dead oh i'm gonna get old and be dead someday and at eight years
+00:14:49 old that was my first explicit existential crisis i remember it being
+00:14:57 you know one of these blood curdling realizations that i tried my best to ignore
+00:15:03 for the most of the time i was subsequently growing up but fast forward back to skidmore college
+00:15:11 mid-20s you know reading becker's book in the 1980s thinking to myself
+00:15:19 wow one of the reasons why i'm finding this so compelling is that it squares with my own personal experience
+00:15:26 and then to make a short story long and i'll i'll shut up lex but what what grabbed me about becker and
+00:15:32 this is in part  because i read a lot of his other books um
+00:15:37 there's another book the birth and death of meaning  which is framed in from an evolutionary perspective
+00:15:46 and and then the denial of death is really more framed from an existential psychodynamic
+00:15:54 vantage point and as a a young academic  i was really taken by what i found to be
+00:16:04 a very potent juxtaposition that you really don't see that often yet usually evolutionary types
+00:16:13 are eager to dismiss the psychodynamic types and vice versa and maybe only john bolby you know there's there's other folks but
+00:16:22 the attachment theorist john bolby was really one of the first serious academics
+00:16:29 to say these these ways of thinking about things are quite compatible and can you comment on what's
+00:16:38 what a psychodynamics view of the world is versus an evolutionary view of the world just in case people are not oh
+00:16:43 yeah absolutely that's that's a fine question well for the evolutionary types in general are interested
+00:16:54 in how it is and why it is that we have adapted to our surroundings in the
+00:17:03 service of persisting over time and being represented in the gene pool thereafter you used to be a fish
+00:17:11 yes we used to be a fish and also yeah and i ended up  talking on a podcast yeah how we came
+00:17:17 to be that way how we came to be that way and so whereas the existential psychodynamic types
+00:17:23 i would say are more interested in development across a single lifespan and
+00:17:31 but but the evolutionary types dismiss the psychodynamic types as overly speculative and devoid of empirical support for
+00:17:39 their views well they you know they'll just say these guys are talking if you'll
+00:17:45 pardon the expression and of course  you can turn right around and
+00:17:51 say the same about the evolutionary types that they are often and rightfully criticized evolutionary psychologists
+00:18:00 for what are called the just so stories where it's like oh this is probably why fill in the blank is potentially
+00:18:11 adaptive and my thought again early on was i didn't see any intrinsic antithesis
+00:18:21 between these viewpoints i just found them dialectically compatible and  very powerful when combined
+00:18:31 so one question i would ask here is about a science being speculative you know we understand so a little about the
+00:18:36 human mind you said you picked up becker's book and you know it felt like it was onto
+00:18:42 something that's the same thing i felt when i picked up becker's book  probably also
+00:18:48 in my early 20s  you know i read a lot of philosophy but it felt like the question of the meaning of life kind of
+00:18:57 you know this seemed to be the most  the closest to the truth somehow it was on to something so i i guess the
+00:19:07 how speculative is psychology how like all of your lives work how do you feel how confident do you
+00:19:16 feel about the whole thing about understanding our mind i feel confidently unconfident to have it
+00:19:26 both ways like what do we make of psychology you want to make starting with freud's
+00:19:32 you know starting just just our or even just philosophy  even  the aspects of  the sciences
+00:19:41 like  you know my field of artificial intelligence but also physics you know it often feels like man we
+00:19:48 don't really understand most of what's going on here and certainly that's true
+00:19:54 with  the human mind yeah well to me that's the proper epistemological stance i don't know anything well  it's the socratic
+00:20:04  i know that i don't know which is the first step on the path to wisdom i i would argue
+00:20:15 forcefully that we know a lot more than we used to i would argue equally forcefully  not that i have a
+00:20:24 phd in the philosophy of science but i i believe that the thomas coons of the world are right
+00:20:32 when they point out that change is not necessarily progress and so on the one hand i i do think we know
+00:20:40 a lot more than we did back in the day when if you wanted to fly you put on some wax wings and
+00:20:47 jumped off a mountain yeah on the other hand i think it's quite arrogant when scientists i'll just speak about
+00:20:59 psychological scientists when they have the audacity to mistake statistical precision for
+00:21:09 knowledge and insight and when they make the mistake in my estimation that einstein bemoaned and that's this idea
+00:21:21 that the mere accumulation of data  will necessarily result in conceptual breakthroughs and so i i like
+00:21:30 the well we're all i hope appreciative of the people who trained us but i remember my first day in
+00:21:35 graduate school at the university of kansas  they brought us into a room and on one side of the board was a quote by
+00:21:44 kurt lewin or levine famous german  social psychologist and there was nothing and the quote is there's nothing
+00:21:51 more useful than a good theory and then on the other side was another quote by german physicist his name
+00:21:55 eludes me and it was all theories are wrong and i'm like
+00:22:04  which is it and of course the point is that it's both our theories are i believe powerful ways to direct
+00:22:13 our attention to aspects of human affairs that might render us
+00:22:22 better able to understand ourselves in the world around us now i also as
+00:22:31 an experimental psychologist i adhere to the view that theories are essentially hypothesis
+00:22:39 generating devices and that at its best science is a dialectical interplay where you have theoretical assertions
+00:22:47 that yield testable hypotheses and that either results in the corroboration of the theory
+00:22:56 the rejection of it or the modification thereafter if we look at the existentialists or even like  modern philosopher
+00:23:06 psychology types like jordan peterson i'm not sure if you're familiar with it i know jordan pretty well
+00:23:13 we go way back actually if he were here with us today we would he would be jumping in and i believe
+00:23:21 very interesting and important ways but yeah we go back 30 years ago he was  basically saying our work
+00:23:30 is nonsense let's get into this i'm sure i'll talk to jordan  eventually on this thing yeah going
+00:23:34 through some rough times right now oh absolutely and i and i wish him well jordan was working on his maps of meaning
+00:23:45 and we were publishing our work and i i think jordan at the time was concerned about
+00:23:55 our vague claims to the effect that all meaning is arbitrary he takes a more jungian
+00:24:04 as well as evolutionary view that i don't think is wrong by the way which is that there are certain
+00:24:13 kinds of meanings that are more important let's say religious types and that we didn't pay
+00:24:24 sufficient attention to that in our early days so  can you try to  lose a day like what his world view
+00:24:32 is because he's also a religious man  so what  what was this what was  some of the interesting aspects of the disagreements
+00:24:39 that then yeah well back in the day i just said you know jordan was a young punk  we were young
+00:24:45 punks he was just kind of flailing in an animated way at some conferences saying that we you're still both kind of punks
+00:24:52 yeah we are kind of punks so i saw him three or four years ago we spoke on a
+00:24:57 it was an awesome day we were in canada at  the ontario shakespeare festival where we were asked to be on a canadian broadcast
+00:25:06 system program i think we were talking about macbeth from a psychodynamic
+00:25:13 perspective and i hadn't seen him in a ton of years and we spent two days together had a great time you know we had just
+00:25:19 written our book  the worm at the core and he's like you know you you
+00:25:25 you're missing a big opportunity every time you say something you have to have your phone yeah and you
+00:25:30 have to film yourself and then you have to put it on youtube yeah  he was onto something that 
+00:25:35 you know that just as a small tangent yeah  it's it's almost sad to look at jordan
+00:25:43 peterson somebody like yourself after having done this podcast i've realized that there is
+00:25:49 really brilliant people in this world and oftentimes especially like when they're um
+00:25:56 i mean it would love are a little bit like punks that's right they they kind of do their own thing and
+00:26:01 like the world doesn't know they exist as much as they should and it's so interesting because most people
+00:26:09 are kind of boring and then the interesting ones kind of go on their own and there's not a smartphone
+00:26:16 that's that's so interesting he was on to something that i mean it's interesting that he i don't
+00:26:21 think he was thinking from a money perspective but he was probably thinking of like connecting with people or sharing his knowledge
+00:26:29 but  people don't often think that way that's right so maybe we can try to get back to you're
+00:26:34 both brilliant people and i'd love to get some interesting disagreements
+00:26:41 earlier and later about in your psychological work in your world views well our disagreements
+00:26:54 along two dimensions  one is he is and again i wish he was here to correct me yes when i say that he is
+00:27:04 more committed to the virtues of the judeo-christian tradition particularly christianity and in a sense
+00:27:13 is a contemporary kierkegaard of sorts when he's saying there's only one
+00:27:21 way to leap into faith and i would take ardent issue with that claim on the grounds that that is
+00:27:29 one but by no means not the only way  to find meaning and value in life and so
+00:27:40 and i see his what's his warm at the core what is like  so we're talking about a little bit of a higher level of
+00:27:47 discovering meaning yeah what's his  what does he make of death oh i don't know and this is
+00:27:54 where it would be nice to  have him here he has you know from a distance criticized our work as misguided having
+00:28:05 said that though when we were together he said something along the lines that there is no
+00:28:12 theoretical body of work in academic psychology right now for which there is more empirical evidence
+00:28:20 and so i i appreciated that he's a great  researcher he's a good clinician the other thing that we will agree
+00:28:30 to disagree about  rather vociferously is ultimately political slash economic so i remember being at
+00:28:39 dinner with him telling him that the next book that i wanted to write
+00:28:44 was going to be called why left and right or both beside the point and my argument was going to be and it
+00:28:51 is going to be that both liberal and political liberal and conservative political philosophy
+00:28:59 are each intellectually and morally bankrupt because they're both framed in terms of assumptions
+00:29:06 about human nature that are demonstrably false and jordan didn't mind me  knocking liberal political philosophy on those
+00:29:15 grounds that would basically be like stephen pinker's blank slate but he took issue
+00:29:24 when i pointed out that actually it's conservative political philosophy which starts with john locke's
+00:29:31 assumption that in a state of nature there are no societies just autonomous individuals who
+00:29:40 are striving for survival that's one of the most obviously patently wrong assertions in the history
+00:29:49 of intellectual thought and locke uses that to justify his claims about the individual right to acquire
+00:29:59 unlimited amounts of property which is ultimately  the justification for neo-liberal economics and can you look around a
+00:30:08 little bit  what's the  can you describe his philosophy again
+00:30:15 as view of the world sure and what   neoliberal economics is yeah let me translate it in english so basically all
+00:30:25 all these days anybody who says i'm a i i'm a conservative free-market type you're following john locke and adam smith
+00:30:35 whether you're aware of it or not so here's john locke who by the way all of these guys are
+00:30:40 great so for me to appear to criticize any of these folks it is with the highest regard
+00:30:47 and also we need to understand in my estimation how important their ideas are lock is working in a time
+00:30:56 where all rule was top down by divine right and he's trying desperately to come up
+00:31:04 with a philosophical justification to shift power and autonomy to individuals and
+00:31:12 he starts in his second treatise on government 1690 or so he he just he says okay let's start with
+00:31:20 a state of nature and he's like in a state of nature there's no societies
+00:31:27 there's just individuals and in a perfect universe there wouldn't be any societies
+00:31:35 there would just be individuals who by the law of nature have a right to survive and  in the service of survival
+00:31:47 they have the right to acquire and preserve the fruits of their own labor  but his point is and it's actually a
+00:31:56 good one you know he's following hobbs here he's like well the problem with that is that people are
+00:32:03 and if they would let each other alone then we would still be living in a state of nature everybody
+00:32:10 just doing what they did to get by each day but it's a whole lot easier you know if i see like an
+00:32:18 apple tree a mile away well i can go over and pick an apple but if you're 10 meters away with
+00:32:24 an apple in your hand it's a lot easier if i pick up a rock and crack your head and
+00:32:29 take the apple and his point was that the problem is that people can't be
+00:32:36 counted on to behave they will they will take each other's property moreover he argued
+00:32:47 if someone takes your property you have the right to you have the right to retribution
+00:32:54 in proportion to the degree of the magnitude of the transgression english translation if i take your apple
+00:33:02 you have the right to take an apple back you don't have the right to kill my firstborn but people being people they're apt to
+00:33:12 escalate retaliatory behavior thus creating what law called a state of war so he said in order to avoid a state of war people
+00:33:20 reluctantly give up their freedom in exchange for security they agree to obey the law and that the
+00:33:29 sole function of government is to keep domestic tranquility and to ward off foreign evasion
+00:33:37 in order to protect our right to property all right so now here's the okay property thing
+00:33:44 all right so  lock says if you look in the bible and in nature there is no
+00:33:51 private property but lock says well surely you if there's anything that you own
+00:33:59 it's your body and surely you have a right by nature to stay alive and then by extension
+00:34:10 anything that you do where you exert effort or labor that becomes your private property
+00:34:17 so back to the apple tree if i walk over to an apple tree that's everybody's apples until i pick one
+00:34:27 and the minute i do that is my apple right and then he says you can have as many apples as you want
+00:34:34 as long as you don't waste them and as long as you don't impinge on somebody else's right
+00:34:44 to get apples right so far so good yep and then he says well okay
+00:34:56 in the early days you you could only eat so many apples and or you could only trade so many apples with somebody else
+00:35:05 so he was like well if you put a fence around a bunch of apple trees those become your apples that's your
+00:35:13 property if somebody else wants to put a fence around nebraska that's their property
+00:35:21 and everybody can have as much property as they want because the world is so big
+00:35:29 that there is no limit to what you can have if you pursue it by virtue of your own effort but then he says money came into the picture
+00:35:41 and this is important because it's a he noticed long before anybody before the freud's of the world
+00:35:48 that money is funky because it has no intrinsic value he's like ooh look at that shiny piece
+00:35:53 of metal that actually has if you're hungry and you have a choice between a carrot
+00:36:00 and a lump of gold in the desert most people are going to go for the carrot but his point is is that  the allure
+00:36:07 of money is that it's basically a concentrated symbol of wealth but because it doesn't spoil
+00:36:18 locke said you're entitled to have as much money as you're able to garner right
+00:36:27 then he says well the reality is is that some people are more the word that he used was industrious
+00:36:35 he said some people more industrious than others all right today we would say smarter
+00:36:40 less lazy more ambitious he just said that's natural it's also true
+00:36:49 therefore he argued  over time some people are gonna have a whole lot of property
+00:36:56 and other people not much at all inequality for luck is natural and beneficial
+00:37:06 for everyone his argument was that you know the rising tide lifts all boats and that the truly creative and innovative
+00:37:16 are entitled to relatively unlimited worth because we're all better off as a result so the point very
+00:37:25 simply is that well that's basically and then you have adam smith the you know in the next century with the invisible
+00:37:32 hand where adam smith says everyone pursuing their own selfish that's not
+00:37:38 necessarily pejorative if everyone pursues their own selfish interests we will all be better
+00:37:45 off as a result and what do you think is the flawed in that way well there's two flaws one is is that um
+00:37:53 well one flaw is first of all that that it is based on an erroneous assumption to begin with which
+00:38:01 is that there never was a time in human history when we were in a social species in a sense you don't feel like
+00:38:07 that where there's  this emphasis of  individual autonomy is a flawed premise like where there's a
+00:38:14 there's something fundamentally deeply  interconnected between us i do
+00:38:22 i think that plato and socrates  you know in the crito were closer to the truth  when they started with the assumption
+00:38:29 that we were interdependent and they derived individual autonomy as a manifestation of a functional
+00:38:38 social system that's fascinating so when margaret thatcher you're too young  you know in the
+00:38:44 1980s she said societies there's no such thing as societies there's just
+00:38:51 individuals pursuing their self-interest so  so that's one point where i would take issue respectfully with john locke
+00:38:58 point number two is when locke says in 1690 well england's filled up um
+00:39:07 so if you want some land just go to america it's empty or maybe there's a few savages there
+00:39:13 just kill them so and and melville does the same thing in moby dick where he
+00:39:20 he thinks about will there ever come a time where we run out of whales and he says no but we have run out of whales
+00:39:30 and so locke was right maybe in 1690 that the world was large and had infinite resources he's certainly
+00:39:42 wronged today in in my opinion also wrong is the claim  that the unlimited pursuit of personal
+00:39:51 wealth does not harm those around us there is no doubt  that radical inequality is tragic
+00:40:00 psychologically and physically it's poverty is not that terrible it's easy for me to say because i have a place to
+00:40:07 stay and something to eat but as long as you're not starving and have a place to be poverty's not as
+00:40:16 challenging as being having the impoverished and close proximity to those who are obscenely wealthy
+00:40:24 so it's not the any absolute measure of your well-being it's the inequality of that well-being
+00:40:30 is quite frantically painful so maybe just to  link on the jordan peterson thing in terms of your  disagreement on his
+00:40:38 worldview so he went through quite a bit it you know there's been quite a bit of fire right in
+00:40:47 in his defense or maybe his opposition of the idea of equality of outcomes so looking at the inequality that's in
+00:40:53 our world looking at you know certain groups measurably having an outcome that's
+00:41:01 different than other groups and then drawing conclusions about fundamental  unfairness injustice inequality in
+00:41:10 the system so like systematic racism systematic sexism systematic anything else that creates inequality
+00:41:19 and he's been kind of  saying pretty simple things  to say that  you know the system
+00:41:25 for the most part is not broken or flawed yeah that the inequalities part the the
+00:41:33 inequality of outcomes as part of our world what we should strive for is the  you know equality of opportunity yeah and i
+00:41:44 do not dispute that as an abstraction but again to back up for a second i i do take issue with jordan's
+00:41:52  fervent devotion to the free market and his cavalier dismissal of marxist ideas which he has 
+00:42:03 in my estimation  mischaracterized in his public depictions let's get into it so he he just seems to
+00:42:12 really not like  socialism marxism communism yeah  historically speaking sort of  i mean how would i characterize it
+00:42:19 i'm not exactly sure i don't want to again he's yeah he'll eventually be here to defend himself
+00:42:24 john locke unfortunately not here to defend exactly but what's what's your sense  about
+00:42:33 marxism and and  the  the way jordan talks about the way you think about it
+00:42:38 from the economics from the philosophical perspective yeah well like if we were all here together i'd say we
+00:42:44 need to start with marx's economic and philosophical manuscripts of 1844
+00:42:52 before marx became more of a polemicist and i would argue that marx's political philosophy he's a crappy
+00:42:59 economist i don't dispute that but his arguments about human nature
+00:43:08 his arguments about the inevitably catastrophic psychological and environmental and economic effects of capitalism i
+00:43:15 would argue every one of those has proven quite right marx maybe did not have the answer
+00:43:26 but he saw in the 18 whenever he was writing that inevitably capitalism
+00:43:38 would lead to massive inequity that it was ultimately based on  the need to denigrate
+00:43:47 and dehumanize labor to render them in his language a fleshy cog in a giant machine and that
+00:43:57 it would create a tension and conflict between those who own things and those who made things
+00:44:05 that over time would always you know the thomas pickerty guy who writes about capital and just makes the point that return on
+00:44:15 investment will always be greater than wages that means the people with money are going to have a lot more
+00:44:23 that means there's going to come a point where the economic house of cards falls apart now the joseph shumpters of
+00:44:30 the world they're like that's creative destruction bring it that's great so i think it's niles ferguson
+00:44:36 he was he's a historian he may be at stanford now he was at harvard you know he writes about the history of
+00:44:41 money and he's like yeah there's been 20 or whatever depressions and big recessions
+00:44:50  in the last several hundred years and when that happens half of the population or whatever is catastrophically inconvenienced
+00:45:01 but that's the price that we pay for progress other people would argue and i
+00:45:09 would agree with them that i will happily sacrifice the rate of progress in order to flatten
+00:45:17 the curve of economic destruction to put that in plainer english i
+00:45:28 would direct our attention to the social democracies that forgetting for the moment of whether
+00:45:34 it's possible to do this on a scale in a country as big as ours on all of the things that
+00:45:44 really matter you know gross domestic gdp or whatever that's just an abstraction but when you look at
+00:45:51 whatever the united nations says how we measure quality of life  you know life expectancy education you know rates of alcoholism suicide
+00:46:03 and so on the countries that do better are the mixed economies they're market economies that have high tax rates in exchange
+00:46:15 for the provision of services that come as a right for citizens yeah so i mean i guess the question is
+00:46:22 you've kind of mentioned that  you know like as marx described a capitalism with a slippery slope eventually things
+00:46:31 go awry in some kind of way so that's the question is when you have when you implement a system yeah how does it go
+00:46:36 wrong eventually you know the you know eventually we'll all be dead that's exactly right
+00:46:43 no no no that's right so and then the criticism i mean i think these days  unfortunately marxism as like
+00:46:51 is a dirty word i i say unfortunately because even if you disagree with the philosophy it should
+00:46:57 you should  like calling somebody a marxist yeah should not be a thing that  shuts down
+00:47:04 all conversation no that's right and and the fact is i'm sympathetic with  jordan's dismissal of the folks and
+00:47:14 popular the talking heads these days who spew marxist words to me it's like fashionable nonsense do
+00:47:23 you know that book that the physicist wrote mocking  you're too young so in the  20 or so years we're all pretty young
+00:47:30 really yeah that's right but they're i think they're with these nyu physicists they wrote a paper just mocking the 
+00:47:39 kind of literary  post-modern types you know yes oh those kinds of yeah yeah it was just nonsense and of course it
+00:47:45 was made the lead article and and you know my poor is marx wouldn't be a marxist
+00:47:53 true i've read and listened to some of the work of  richard wolff he speaks pretty
+00:47:58 eloquently about marxism i like him  he's  one of the only  you know one of the only people speaking
+00:48:06 about a lot about marxism and the way we are now in in a serious way in it in a sort of
+00:48:12 saying you know  what are the flaws of capitalism not saying like yeah basically sounding very different and people should check
+00:48:18 out his work no i it's all this kind of work this kind of
+00:48:25 outrage mob culture of  sort of demanding equality equality of outcome
+00:48:33 that's not marxism it is not marxism he he didn't say that you know he literally said each
+00:48:38 what was it like each according to their needs and each according to their abilities or something like that
+00:48:44 so the question is the implementation like absolutely humans are messy so how does it go wrong
+00:48:50 like it just met there you go brilliant it's messy and this gets back to my rant about the book that i want to try if i don't
+00:48:58 stroke out why left and right are both beside the point you know the the people conservatives are
+00:49:09 right when they condemn liberals for being simple-minded by assuming that a modification of external conditions
+00:49:18 will yield changes in human nature you know you know again that's where marx and
+00:49:25 skinner are odd bedfellows you know here they are just saying oh
+00:49:31 let's change the surroundings and things will inevitably get better on the other hand
+00:49:38 when conservatives say that people are innately selfish and they use that as the
+00:49:48 justification for glorifying the unbridled pursuit of wealth well they're only half right
+00:49:55 because it turns out that we can be innately selfish but we are also innately generous
+00:50:03 and reciprocating creatures there's remarkable studies i think they've been done at yale
+00:50:11 of you know babies 14 month old babies if someone hands them a toy and then wants something in return
+00:50:21 babies before they can walk and talk will reciprocate all right fine if
+00:50:28 someone if they want a toy let's say or a bottle of water baby wants a bottle of water and
+00:50:36 i look like i'm trying to give it to the baby but i dropped the bottle so the baby doesn't get what she or he wanted
+00:50:47 when given a chance to reciprocate little babies will reciprocate because they're aware of and are
+00:50:54 responding to intention similarly if they see somebody behaving unfairly to to someone
+00:51:05 they will not help that person in return so so my point is is yeah we are selfish creatures at times
+00:51:15 but we are also simultaneously uber social creatures who are eager to reciprocate and in fact we're
+00:51:23 congenitally prepared to be reciprocators to the point where  we will reciprocate on the basis of intentions
+00:51:31 above and beyond what actually happened how so i mean your work is on the fundamental
+00:51:40 role of the fear of mortality yeah in ourselves how fundamental is this reciprocation this human connection to other
+00:51:49 humans well i think it's really innate yeah i think it's because yeah bats reciprocate  not by
+00:51:54 intention but  you know this i'm going here from richard dawkins
+00:52:00  the selfish gene you know to i love the early dawkins i'm less enamored like the early beat yeah no no again i
+00:52:08 say this with great respect but  you know dawkins just points out that  you know
+00:52:16 reciprocation is just fundamental cooperation is fundamental you know it is the it's a
+00:52:24 one-sided view of evolutionary takes on thanks when we see it solely in terms of individual competition
+00:52:34 it's it's almost from a game theoretic perspective too it's just easier to see the world that way
+00:52:40 it's it's easier to i don't know i i mean you see this in physics  there's a whole field of folks like
+00:52:46 complexity yeah that kind of embrace the fact that it's all an intricately connected mess
+00:52:52 and it's just very difficult to do anything  with that kind of science but it seems to be much closer to
+00:52:58 actually representing what the world is like so like you put it earlier lex it's messy so yeah left and right you mentioned
+00:53:06 you're thinking of maybe actually putting it down on paper or something yeah i would like to because what i would
+00:53:13 what i would like to point out again in admiration of all the people that i will then try and have the gall to criticize this
+00:53:20 look these are all geniuses lock genius adam smith genius when he uses the notion that
+00:53:28 we're bartering creatures so he uses that reciprocation idea as the basis of his way of thinking
+00:53:36 about things but that's not at the core the murdering is not at the core of human nature it's not a well
+00:53:41 he says it is he says we're fundamentally bartering creatures well that doesn't even make sense then
+00:53:46 because then what how how can we then be autonomous individuals well because we're going to barter with
+00:53:54 an eye on on on for self for ourselves self yeah but all right so but back to adam smith for a second lex
+00:54:02 is like adam smith here's he's got the invisible hand and my conservative friends i'm like you
+00:54:07 need to read his books because he is a big fan of the free market and this is my other
+00:54:17  gripe with folks who support just unbridled markets adam smith understood that there was a role for
+00:54:26 government for two reasons one is is that just like locke people are not going to behave with integrity
+00:54:34 and he understood that one role of government is to maintain a proverbial you know even playing field and
+00:54:43 then the other thing smith said was that there's some things that can't be done well for a profit
+00:54:49 and i believe he talked about education and public health and infrastructure as things that are
+00:54:59 best done by governments  because you can't you can make a profit but that doesn't mean that the
+00:55:05 institutions themselves will be maximally beneficial yeah so i i would  i'm just eager
+00:55:15 to engage people by saying let's start with our most contemporary understanding of human nature which is
+00:55:26 that we are both selfish and tend to cooperate and we also can be heroically
+00:55:37 helpful to folks in our own tribe and of course how you define one's tribe
+00:55:48 becomes critically important but what some people say is look we let what would then be
+00:55:55 what kind of political institutions and what kind of economic organization can we think about to kind of hit that
+00:56:03 sweet spot and that that would be in my opinion  how do we maximize individual autonomy
+00:56:13 in a way that fosters  creativity and innovation and the self-regard that comes from
+00:56:22 creative expression while engaging our more cooperative and reciprocal tendencies
+00:56:32 in order to come up with a system that is potentially stable over time because the other thing about
+00:56:39 all capital-based systems is the stability is it fundamentally and unstable yeah because it's based on infinite growth
+00:56:45 and you know it's a positive feedback loop  to be silly infinite growth is only good for
+00:56:51 malignant cancer cells and compound interest otherwise  you know we want to seek a steady state
+00:57:00 and that would be you know so when stephen pinker writes for example again great scholar but i'm gonna disagree
+00:57:07 when he says the world has never been better and all we need to do is keep making stuff and buying stuff
+00:57:17 so your sense is the world sort of in disagreement with stephen pinker that the world is
+00:57:26 like facing a potential catastrophic collapse in multiple directions yes and the fact that there are certain
+00:57:31 like the the rate of violence and aggregate is decreasing the
+00:57:38 death you know the quality of life all those kinds of measures that you can plot across centuries that it's
+00:57:44 improving that doesn't capture the fact that our world might be this we might destroy ourselves in very
+00:57:49 painful ways  in the in the in the next century so i'm with jared diamond
+00:57:55 you know in the book collapse where he points out studying the collapse of major
+00:58:01 civilizations that it often happens right after things appear to never have been better
+00:58:10 and in that regard i mean there are more  known voices that have taken issue  with  dr pinker i'm thinking of
+00:58:21 john gray who's a british philosopher and here in the states i don't know where he is these days but robert j
+00:58:27 lifton the psycho historian yeah they're both of my view and which i hope is by the way wrong  me too yeah no
+00:58:39 but you know between you know ongoing ethnic tensions environmental degradation economic instability
+00:58:49 and the fact that you know the world has become a petri dish of psychopathology like what what really worries me is the
+00:58:57 the quiet economic pain that people are going through the businesses that are closed your dreams
+00:59:02 that are broken because you can no longer do the thing that you've wanted to do and how
+00:59:07 i mentioned to you off camera that i've been reading  the the rise and fall of the third reich and
+00:59:15 i mean the amount of anger and hatred and on the flip side of that sort of
+00:59:24 nationalist pride that can arise from deep economic pain like what happens with economic pain is you become bitter yeah
+00:59:31 you start to find the other whether it's other european nations that mistreated you
+00:59:37 whether it's other groups that mistreated you it always ends up being the jews
+00:59:44  somehow somehow our fault here yep that's what worries me is where this quiet anger and pain goes
+00:59:55 in 2021 2022 2030. if you look no sorry i'm sorry to see the parallels no no no
+01:00:01 rise and fall the third reich but you know what happens 10 15 years from now from what's because of
+01:00:05 the coved pandemic yeah that's happening now and lex you make a
+01:00:11 i think a really profoundly important point you know back to our work for a bitter ernest becker rather you know
+01:00:17 his point is is that the way that we manage existential terror
+01:00:24 is to embrace culturally constructed belief systems that give us a sense that life has meaning that we have value
+01:00:35 and in the form of self-esteem which we get from perceiving that we meet or exceed the expectations associated with
+01:00:41 the role that we play in society well here we are right now in a world where first of all if you
+01:00:50 have nothing you are nothing and secondly as you were saying before we got started today
+01:00:59 a lot of jobs are gone and they're not coming back and that's the where the self-esteem
+01:01:03 that's where the self-esteem and identity come in where people it's not only that you
+01:01:08 don't have anything to eat you don't even have a self anymore to speak of
+01:01:13 because the we typically define ourselves you know as marx put it you are what you do
+01:01:21 and now who are you when your way of life as well as your way of earning a living is no longer available
+01:01:29 yeah and it feels like that  yearning for self-esteem that we could talk a little bit more because sure
+01:01:35 you about defining self-esteem is quite interesting the more i've read so warm with the core and just
+01:01:42 in general you're thinking it made me realize i haven't thought enough about the idea of self-esteem but
+01:01:49 the thing i want to say is  it feels like when you lose your job then it's easy to find it's
+01:01:58 it's tempting to find that self-esteem in a tribe that's not somehow often positive
+01:02:06 that's exactly it's like a tribe that defines itself on the hatred of somebody else so that's brilliant and
+01:02:12 and this is what john gray the philosopher in the 1990s he predicted what's happening today
+01:02:20 he wrote a book about globalism and actually hannah arendt in the 1950s said the same thing in her
+01:02:27 book about totalitarianism when she said that you know that economics has reached the point where
+01:02:37 most money is made not by actually making stuff you know you use money to make money
+01:02:45 and that  therefore what happens is money chases money across national boundaries
+01:02:54 ultimately governments become subordinate to the corporate entities whose sole function is to generate money
+01:03:05 and what john gray said is that that will inevitably produce economic upheaval in
+01:03:13 local areas which will not be attributed to the economic order it will be misattributed
+01:03:24 to who whoever the scapegoat du jour is and the anger what and the distress associated with that
+01:03:35 uncertainty  will be picked up on by ideological demagogues who will transform that
+01:03:42 into rage so both hannah aren't as well as john gray they they just said  watch out
+01:03:51 we're gonna have right-wingish populist movements  where demagogues who are the alchemists of hate what
+01:03:59 makes them brilliant is they don't they don't the hate's already there
+01:04:08 but they take the fears and they expertly redirect them to who it is that i need to hate and kill in order to feel
+01:04:17 good about myself so back to your point lex that's right so the self-regard that used to come
+01:04:26 from having a job and doing it well and as a result of that having adequate resources to provide a decent life for
+01:04:33 your family well those opportunities are gone and yeah what's left so max weber
+01:04:43 german sociologist at the beginning of the 20th century he said in times of historical upheaval
+01:04:51 we are apt to embrace he was the one who coined the term charismatic leader right seemingly larger than life individuals
+01:05:01 who often believe or their followers believe are divinely ordained to rid the world of evil
+01:05:08 yeah all right now ernest becker he used weber's ideas in order to account for the rise of hitler hitler was elected
+01:05:18 and he was elected when germans were an extraordinary state of existential distress and he said i'm going to make germany
+01:05:29 great again all right now what becker adds to the equation is his claim that what underlies our affection for
+01:05:39 charismatic populist leaders good and bad is death anxiety all right now here's where we come in
+01:05:48 where egghead experimental researchers you know becker wrote this book the denial of death and he couldn't
+01:05:54 get a job people just dismissed these ideas as fanciful speculation
+01:06:02 for which there's no evidence and and you've done some good experiments yeah and here's where
+01:06:07 here's where i can be more cavalier and where what i would urge people i like what you said lex is ignore
+01:06:16 my histrionic and polemic language if possible and step back if you can myself included and let's
+01:06:23 just consider the the research findings because  in september 11 2001
+01:06:33 people that are old enough to remember that horrible day two days before george w bush had the lowest approval
+01:06:43 rating in the history of presidential polling right three weeks later after he said we will rid the world of the evildoers
+01:06:52 and then a week or two after that he said in a cover story on time magazine that he believed that god had chosen him
+01:06:59 to lead the world during this to lead the country rather during this perilous time
+01:07:05 he had the highest approval rating and so we're like well what happened you know is what happened
+01:07:13 to americans that their approval of president bush got so high so fast well our view
+01:07:21 following becker is that 2001 was like a giant death reminder yeah the people dying plus the symbols of american greatness
+01:07:29 world trade center and and the the pentagon so we did a bunch of experiments and most of our
+01:07:36 experiments are disarmingly simple we have one group of people and we just remind them that they're
+01:07:42 going to die we say hey write your thoughts and feelings about dying or in other cases we stop
+01:07:47 them outside either in front of a funeral home or a hundred meters to either side our
+01:07:53 thought being that if we stop you in front of a funeral home then death is on your mind
+01:07:58 even if you don't know it and then there's other studies that are even more subtle where we bring people
+01:08:03 into the lab and they read stuff on a computer and while they're doing that we flash
+01:08:10 the word death for 28 milliseconds it's so fast you don't see anything
+01:08:16 and then we just measure people's reactions or behavior thereafter so what we found in 2003
+01:08:26 leading up to the election of 2004 was that americans did not care for president bush or his policies in iraq
+01:08:36 in controlled conditions but if we reminded them of their mortality first they like bush a lot more
+01:08:44 so in every study that we did americans like john kerry who was running against bush in a control condition yeah and but if
+01:08:57 if they were reminded of death first then they like bush a lot more so by the way just a small pause you
+01:09:05 said they're disseminally simple experiments i think that's and people should read  warm at the core for some other
+01:09:12 descriptions you have a lot of different experiences of this nature i think it's a brilliant
+01:09:19 experiment connected to the stoics perhaps of  how your world view on anything and how delicious that water tastes
+01:09:28 yes after you're reminded of your own mortality it's such a fascinating experiment that you could probably keep doing like
+01:09:33 millions of them to  draw insight about the way we see the world no that's right
+01:09:41 lex and i appreciate the compliment not because we did anything but because what these studies many of
+01:09:49 which are now done by other people around the world in labs that we're not connected with what i'm
+01:09:56 most proud about our work i am proud of the experiments that we've done but it's not science until
+01:10:02 somebody else can replicate your findings and independent researchers are interested in in pursuing them i
+01:10:10 it's such a fascinating idea i don't have to think about a lot about the experiments you've done
+01:10:17 and that you've inspired about the fact that death changes the way you see a bunch of different things  the i
+01:10:23 think the stoics talked about the  i mean in general just memento mori like
+01:10:30 just thinking about death and meditating on death is a really positive not a positive
+01:10:37 it's an enlightening way to  live life so what do you think about that
+01:10:45 at the  and the individual level like what is the role about being bringing that terror of death fear
+01:10:51 of death to the surface and being cognizant of it for us that's the that's the ball game so
+01:11:01 what we write in our book and here we're just paying homage to the philosophers and theologians that come before us is to
+01:11:13 point out that literally since antiquity there has been a consensus that
+01:11:24 to lead a full life requires albert camus said come to terms with death thereafter anything is possible
+01:11:35 and so you've got the the stoics and you got the epicureans and then you got the tibetan
+01:11:39 book of the dead and then you got like the medieval monks that
+01:11:46 you know worked with like a skull  on their desk and the whole idea i should back up a
+01:11:55 bit because and just remind folks that our studies you know when we remind people that they're going to die
+01:12:02 and we find that yeah they drink more water if a famous person is is you know advertising it
+01:12:12  they eat more cookies they want more fancy clothes they sit closer to people that look like them
+01:12:19 it changes who they vote for but all of those things those are very subtle death reminders
+01:12:24 you don't even know that death is on your mind and so our point is is that and this is
+01:12:31 kind of counterintuitive and that is that the most problematic and unsavory human reactions to death anxiety
+01:12:42 are malignant manifestations of repressed death anxiety you know we try and bury it under the psychological bushes and
+01:12:50 then it comes back to bear bitter fruit but what the theologians and the philosophers of the world
+01:13:00 are saying is it behooves each of us to spend considerable time you don't have to be a goth
+01:13:08 death rocker you know wallowing in death imagery to spend enough time entertaining the reality of the human
+01:13:17 condition which is that you too will pass to get to the point well where there is
+01:13:30 to lapse into a cliche the capacity for personal transformation and growth let's go personal for a second
+01:13:40  are you yourself afraid of death yeah i mean and how much do you meditate on
+01:13:47 that thought like  maybe your own study of it is a kind of escape from your own
+01:13:54 mortality absolutely lex so you got it and like if you figure out death somehow you won't die
+01:14:02 so no no  so my my colleagues and good friends jeff greenberg and tom pozinski you know we met in graduate
+01:14:08 school in the 1970s we've been doing this work for 40 years and we cheerfully admit
+01:14:16 even though it doesn't reflect well on us as humans that i should just speak for myself but
+01:14:24 i i feel like there's a real sense in which doing these studies and writing books and and
+01:14:32 lecturing has been my way of avoiding directly confronting my anxieties by
+01:14:40 turning it into an intellectual exercise and and every once in a while therefore when i think that i'm making
+01:14:47 some progress as a human i have to remind myself that  that is probably not the case
+01:14:58 and that i have at times like all humans been more preoccupied with the implications of these ideas for my self-esteem
+01:15:05  it's like oh we're going to write a book and maybe we'll get to go on tv or something
+01:15:14 well no that's not the same as to actually think about it in a way that you feel it rather than
+01:15:24 just think it yeah no you did when you were eight that's exactly right so when i first
+01:15:29 read the denial of death i i was so literally flabbergasted by it that i took a leave of absence for a year
+01:15:40 and just like did what would be considered menial jobs i i did construction work
+01:15:46 i worked in a restaurant and i i was just like wait a minute if if i if i understand what this guy is saying
+01:15:57 then i'm just a culturally constructed meat puppet doing things for reasons that i know not yeah in order to assuage death anxiety
+01:16:10 and that's like that that that's not acceptable maybe another interesting person to talk about is ernest becker himself
+01:16:19 sure so how did he face his death is there something interesting personal i think so
+01:16:29 so interesting to me is becker also from a jewish family did not identify ultimately as jewish i
+01:16:45 believe he converted to christianity but was himself a religious person and he said he became religious
+01:16:55 when his first child was born now religious what does that mean does he have a faith and well let's talk more most
+01:17:04 importantly is the afterlife he was his view on the afterlife he was  agnostic
+01:17:12 on that but he did now the denial of death is there's a chapter devoted to kierkegaard and
+01:17:24 he talks about for kierkegaard if you want to become a mature individual you know if you want to learn
+01:17:30 something you go to the university if you want to become a more mature individual according to
+01:17:37 kierkegaard you got to go to the unit you got to go to the school of anxiety and what kierkegaard said is that we
+01:17:44 have to let this vague dis ease put a hyphen between dis and ease about death kierkegaard's point is
+01:17:56 you have to really think about that you have to think about it and feel it you got to
+01:18:03 let it seek in or seep into your mind at which point according to kierkegaard basically
+01:18:14 you realize that your present identity is fundamentally a cultural construction you didn't choose the time and place of
+01:18:22 your birth you didn't choose your name  you know you didn't choose necessarily even the social role that you occupy you
+01:18:29 might have chosen from what's available in your culture but not from the full palette
+01:18:36 of human opportunities and so what kierkegaard said is that we need to realize that
+01:18:46 we've been living a lie of sorts becker calls it a necessary lie and and we have to momentarily
+01:18:56 dispose of that and so now kierkegaard says well here i am i i have shrugged off
+01:19:03 all of the cultural accoutrements that i have used  to define myself
+01:19:11 and now what am i or who am i this is like the ancient greek tragedy where the worst thing was to be
+01:19:18 no one or no thing all right at this point kierkegaard said you're really dangling on the precipice
+01:19:27 of oblivion and some people tumble into that abyss and never come out on the other hand
+01:19:35 kierkegaard said that what you can now do metaphorically and literally is to rebuild yourself from the ground up
+01:19:42 and there's a in the new testament there's something you have to die in order to be reborn
+01:19:48 and kierkegaard's view though is that there's only one way to do that this is his proverbial
+01:19:55 leap into faith and in kierkegaard's case it was faith and christianity that you can't have unbridled faith and
+01:20:04 cultural constructions the only thing that you can have unequivocal faith in is some kind of transcendent
+01:20:14 power all right but of course this raises the question of well is that just another death-denying belief system
+01:20:24 right and at the end of the denial of death becker admits that there's no way to tell while still advocating for what is
+01:20:35 ultimately a religious stance now one of the things that i don't understand and i
+01:20:41 becker has been the the most singularly potent influence in my academic and personal life but a
+01:20:47 year or two ago i i started reading  martin heidegger i'm reading being in time and
+01:20:58 what i now wonder is why why becker who refers to heidegger from time to time in his work
+01:21:06 why he didn't take heidegger more seriously because heidegger has this is like a secular kierkegaard
+01:21:14 he's he has the same thing which is death anxiety oh and i should have pointed out that
+01:21:19 what kierkegaard says is that death anxiety most people don't go to the school of anxiety
+01:21:27 they flee from death anxiety by embracing their cultural beliefs kierkegaard says they then tranquilize
+01:21:36 themselves with the trivial and i love that phrase it's a beautiful phrase because at the end of the denial
+01:21:43 of death backers like look the average american is either drinking or shopping or watching television and
+01:21:49 they're all the same thing right heidegger says the same thing he says look and he acknowledges kierkegaard
+01:21:58 he says what makes us feel unsettled and evidently that's an english translation of angst
+01:22:06 that that it's we don't feel at home in the world heidegger says that's death anxiety and one direction
+01:22:15 is the the kierkegaard one he heidegger calls it a flight from death you just unself reflexively cling to
+01:22:23 your cultural constructions and heidegger borrows the term tranquilized but he points out that
+01:22:32 he doesn't care for that term because tranquilized sounds like you're subdued when in fact what most
+01:22:40 culturally constructed meat puppets do is to be frenetically engaged with their
+01:22:45 surroundings to ensure that they never sit still long enough to actually think about anything consequential
+01:22:52 heidegger says there's another way though he's like yo what you can do is to come to terms with
+01:23:00 that death anxiety in the following way thing number one is to realize that not only
+01:23:11 are you going to die but your death can happen at any given moment so for heidegger if you say i know i'm going to die in some
+01:23:20 vaguely unspecified future moment that's still death denial because you're saying yeah
+01:23:28 not me not now yeah heidegger's point is you need to get to the point where you need to realize that  you know i
+01:23:35 need to realize that i can walk outside and get smote by a comet or i can stop for
+01:23:44 gas on the way home and catch the virus and be dead in two days there were any number
+01:23:50 of potentially unanticipated and uncontrollable fatal outcomes but by the way sorry   to bring into the now
+01:24:00 yeah it is brilliant i agree lex and this is why i'm i'm i'm wondering why didn't becker notice
+01:24:05 this because that's the being and time thing is it's got to be now right and then he says so okay so now
+01:24:12 i've dealt somewhat  with the the death part and now he says
+01:24:21 now you've got to deal with what he calls existential guilt and he says well all right what you have to
+01:24:30 you have to realize that like it or not you have to make choices you know this is jean-paul sartre we are
+01:24:38 condemned by virtue of consciousness to choosing but heidegger is a little bit more precise he's like
+01:24:47 look as i was saying earlier you're in reality you're an insignificant speck of respiring
+01:24:56 carbon-based dust borne into a time and place not of your choosing when you're here for a
+01:25:01 microscopic amount of time after which you are not and for heidegger
+01:25:13 you have to realize that like i said i didn't choose to be born a male or jewish or in america
+01:25:23 the offspring of working class people and heidegger what he says is yeah but you still have to make choices and accept
+01:25:35 responsibility for those choices even though you didn't choose any of the parameters that ultimately
+01:25:43 limit what's available to you and moreover you're going to not always make good choices so now you're you're guilty
+01:25:55 for your choices and then he uses the the poet  rilka he has a phrase becker uses it in the
+01:26:03 denial of death the guilt of unlived life i just love that you have to accept
+01:26:15 that you have already diminished and in many ways amputated your own possibilities by virtue of choices that you've made or
+01:26:27 just as often have declined to make  because you are reluctant to accept responsibility for  for the opportunities that
+01:26:40 you are now able to create by virtue of seeing the possibilities that lay before you
+01:26:47 so anyway heidegger then says look okay so  you know i'm a professor and i live in america in the 21st century
+01:26:57 well if i was in the third century living in a year in mongolia i'm not going to have an opportunity
+01:27:06 to be a professor but what he submits is that there is some aspects of whatever i am
+01:27:16 that are independent of my cultural and historical circumstances in other words there is a me of sorts
+01:27:22 heidegger would take vigorous issues so would heidegger scholars because i'm not claiming to understand him this is
+01:27:29 my classic comic book rendering but heidegger's point is that you get to the point where you're able to
+01:27:40 i am a contingent historical and cultural artifact but so what you know if i was
+01:27:48 you know now if i was transported a thousand years in the past in asia i'd be in the same situation i
+01:27:55 would still be conditioned by time and place i would still have choices that i could make
+01:28:03 within the confines of what opportunities are afforded to me and then heidegger says if i can get that far in
+01:28:14 this is his language he says that there is a transformation and he literally he calls it a turning
+01:28:20 you're turning away from a flight from death and you are allowed you therefore you see a horizon
+01:28:31 as his word of opportunity that makes you in a state of anticipatory resoluteness
+01:28:43 with solicitous regard for others that makes your life seem like an adventure perfused with unshakable joy
+01:28:52 all right let me unpack those things it is beautiful it is i love lex that you're resonating to the time
+01:28:57 thing so he's like okay we already talked about now anticipatory is is already hopeful
+01:29:05 because it's looking forward yeah right to be resolute it it means to be steadfast
+01:29:14 and and to just have confidence in what you're doing moving forward all right solicitous i had to look up all these
+01:29:21 words by the way is it just means that you are concerned about your fellow human beings
+01:29:30 and but i love the idea  even if it seems allegorical i don't mind that at all
+01:29:38 this idea you said love earlier and i think that when heidegger is talking about being solicitous
+01:29:45 that's as close as he can get  there's an italian yes  sergeant job well so what was that line again with the solicitors
+01:29:50 of that okay all the words you said are just beautiful i love those words yeah
+01:30:00 anticipatory resoluteness that is accompanied with solicitous regard to our fellow humans which
+01:30:08 makes life appear to us to be an ongoing adventure that is permeated by unshakeable joy
+01:30:18 now again heidegger is not mary poppins this guy's got a tattoo  no this is great i i just love that exact quote no
+01:30:28 i'm piecing together these are his exact words that and i spent the last two years reading almost everything
+01:30:36 that i can find because i want to i'm sick of death you said it so i want to second what you
+01:30:41 say lex so it's not about death it's the sherwood anderson guy he's a novelist that i like
+01:30:48 about  he wrote a book called winesburg ohio and  now i'm going to forget what he
+01:30:56 said on his tombstone but you know it was something to the effect oh he said
+01:31:03 life not death is the great adventure the the point being is that you know to consider that we must die
+01:31:14 and the existential implications of that really the goal the way i see it is getting from hate to to love
+01:31:25 yeah and i feel like heidegger has a way of thinking about things that moves us more
+01:31:33 in that direction and so that's kind of my current preoccupation is to take what i just said to you and
+01:31:44 to talk about it with my colleagues and other academic psychologists because the way we started with ernest becker
+01:31:53 remember i said earlier i wasn't trained in any of these things i'm an egghead researcher that was doing experiments
+01:32:00 about biofeedback and you know then we read these becker books and
+01:32:07 i thought they were so interesting that for the first few years we didn't have any studies
+01:32:12 i just would travel around and i'd be like here's what this becker guy says i think this is cool
+01:32:18 well my my present view is i'm like here's what this heidegger guy says i i think these ideas
+01:32:28 are consistent with what becker is saying because they are anchored in death anxiety
+01:32:35 but i like that direction as an alternative to the kierkegaardian insistence that the
+01:32:45 only psychologically tenable way to extricate ourselves  from  maladaptive reactions to death
+01:32:53 anxiety is through faith in the traditional sense yeah i i always kind of  saw kierkegaard
+01:33:01 unfairly like you said in a comic book sense  of the word faith as a non-traditional sense i kind
+01:33:07 of like the idea of leap of faith oh i love that idea and so what i've been babbling about
+01:33:12 with you know kierkegaard or heidegger you know i'm like yeah kierkegaard is a leap of faith
+01:33:21 in god heidegger is a leap of faith in life and i i just yeah i like it i found the leap of faith really
+01:33:28 interesting and so in the technological space so of i've i've talked to on this thing with
+01:33:36 elon musk but i think he's also just in general for our culture a really important figure oh absolutely that
+01:33:41 takes  i mean he's sometimes a little bit insane on on
+01:33:48 social media and just in life when i met him was kind of interesting that  of course there's a i mean he's
+01:33:56 a legit engineer so he's fun to talk to about the technical things yeah but he also just just the way
+01:34:04 the humor and the way he sees life it just like refuses to be conventional yeah so it's a constant 
+01:34:13 leap into the unknown and one of the things that he does and this doesn't even this isn't even like
+01:34:20 fake a lot of people say because he's a ceo there's a business owner so he's trying to make money no i think
+01:34:25 this is this is as i looked him in in his eyes i mean this is real is a lot of the things he believes that
+01:34:34 are going to be accomplished that a lot of others are saying are impossible like autonomous vehicles
+01:34:39 he truly believes it to me that is the leap of faith of on what was going like
+01:34:44 we're like the the entirety of our experience is shrouded in mystery yeah we don't know what the hell's gonna happen
+01:34:50 what you don't know what we're actually capable of as human beings and he just takes the leap
+01:34:56 he fully believes that we can you know we can go to we can colonize mars i mean how could
+01:35:04 how crazy is it to just believe and dream and actually be taking steps towards it yeah to colonizing mars
+01:35:11 when most people are like that's the stupidest idea ever yeah well i'm i'm in agreement with you
+01:35:15 on that you know two things you know one is it reminds me of ben franklin
+01:35:22 who in his autobiography you know has a similarly childish in the best sense of the word unbridled imagination
+01:35:33 for what might become you know ben franklin's like yeah i i got electricity that's cool but we'll
+01:35:39 be levitating soon and i we can't even begin to imagine  what we are capable of and of course
+01:35:46 people are like dude that's crazy and there's a guy let's it's fcs schiller some humanistic guy at the
+01:35:55 beginning of the 20th century he's like you know lots of things that
+01:36:07 people think about may appear to be absurd to the point of obscene but the reality is historically
+01:36:18 every fantastic innovation has generally been initiated by someone who was condemned
+01:36:25 for being a lunatic and it's not that anything is possible but surely things that we don't try will never
+01:36:32 manifest as possibilities yeah and that's that's  that there's something beautiful to that
+01:36:40 that's the  embracing the abyss and again it's like the
+01:36:46  it's the  embracing the fear of death the the the reality of death and then turning
+01:36:54 and to look at all the opportunities that's right let me ask you whenever i bring up ernest becker's work
+01:37:00 which i do and yours quite a bit i find it surprising how that it's not a lot more popular
+01:37:12 in the sense that  no not i don't mean just your book yeah  that's well written people should read
+01:37:17 it should buy it whatever  i think it has the same kind of qualities that are useful to think about as like
+01:37:24 jordan peterson's work and stuff like that but i i just mean like why people 
+01:37:34 are not don't think of that as a compelling description of  the core of the human condition like i think what
+01:37:44 you mentioned about heidegger is quite connects with me quite well so i ask on this podcast i often ask people if
+01:37:51 they're afraid of death that's like almost every single part i almost always get criticized for asking
+01:37:59 world-class people scientists and technologists and about fear of death and the meaning of life
+01:38:09 and on the fear of death they often like don't say anything interesting what i mean by that
+01:38:16 is they haven't thought deeply about it like what yeah you kind of brought this up a few times
+01:38:20 of really letting it sink in yeah they kind of say this thing about what exactly you said which is like
+01:38:28  it's something that happens not today like i'm aware that it's something that happens yeah and i'm not
+01:38:33 the the thing they usually say is i'm not afraid of death i just want to live a good life kind of thing
+01:38:42 yeah and what i'm trying to express is like when i look in their eyes and the kind of the
+01:38:45 the core of the conversation it looks like they haven't really become like they haven't really meditated on
+01:38:54 death i guess the question is what do i say to people that there's something to really think about
+01:39:01 here like there's some demons some realities that need to be faced yeah by
+01:39:08 more people well that's a tough one you know i could tell you what not to do you know so when we are young and
+01:39:14 annoying yeah a lot of famous people mostly psychologists because that's
+01:39:23 who we intersected with that you know we would lay out these ideas and they would be well i don't think
+01:39:32 about death like that so these ideas must be wrong and we would say
+01:39:39 well you don't think about death because you're lucky enough to be comfortably ensconced in a
+01:39:44 cultural world view from which you derive self-esteem and that has it's spared you the
+01:39:51 existential excruciations that would otherwise arise but that's like freud you know you're
+01:39:57 repressing so you either agree with me in which case i'm right or you disagree with me in which case
+01:40:03 you're repressing and i'm right well so that that's the the the nietzsche thing
+01:40:10 i what i felt when i've there'd been a moment in my life moments in my life when i really thought
+01:40:14 about death i mean there's not too many like really really thought about it
+01:40:18 and feel the thing when you felt that eight maybe i'm traumatizing or romanticizing it but 
+01:40:27 i feel like it's   the conservatives call it popular like or the movie matrix call it the
+01:40:34 red pill yeah moment  i feel like it's a dangerous thought because i feel like i'm taking a step
+01:40:41 out of a society like there's a nice narrative that we've all constructed you are and i'm
+01:40:48 taking a step out and  it feels there's this feeling like you're basically
+01:40:55 droughting i mean it's not a good feeling it is not but this gets back to the heidegger kierkegaard school of anxiety
+01:41:00 you are stepping out yeah and you are momentarily shrugging off the the again the
+01:41:09 culturally constructed psychological accoutrements that allow you to stand up in the morning and
+01:41:17 so i mean if that in that sense it i mean  what do you  how do you have that conversation because i guess
+01:41:29 i i i'm dancing around a set of questions which is like i guess i'm disappointed that people don't
+01:41:39 are not  as willing to step outside like  even just  even any kind of thought experiment
+01:41:45 yeah let's just forget  denial death like there's there's not a community of
+01:41:52 people let's to take an easy one that i think is scientifically ridiculous which is there's a community people that
+01:41:57 believe that  the earth is flat yeah or actually even even better
+01:42:06 the space is fake yeah  like what i find surprising is that a lot of people i talk to
+01:42:14 are not willing to  be like imagine if it is like imagine the earth is flat like think about it
+01:42:20 right a lot of people just like no the earth is round they they're like  like scientists
+01:42:25 yeah too they're like yes well actually wait have you actually like thought about it like imagine like
+01:42:33 a thought experiment that like basically step outside the little narrative that we
+01:42:39 are comfortable with now that one in particular is has a really strong  evidence  and scientific validation
+01:42:50 so on it's pretty simple thing to show that it at least is not flat  but just the willingness to take a step
+01:42:59 outside of the stories that bring us comfort it's  been disappointing that people are not willing to do that
+01:43:06 yeah and i think  the philosophy that you've constructed and that ernest beck is constructed and
+01:43:11 you've tested i think it's really compelling and the fact that people aren't often willing to take that step yeah disappointing
+01:43:20 well yes but perhaps understandable i mean one of this is an anecdote of course but when
+01:43:23 we were trying to get a publisher for our book i had him we had a meeting with um
+01:43:38 published some malcolm gladwell books yeah and she said i'm very interested in your book but can you write it without mentioning death
+01:43:48 because people don't like death and we're like now it's really kind of central um
+01:43:56 and i think that's part of it i think again if these ideas have merit
+01:44:03 and i actually like the way that you put it lex it's that to step away is to momentarily
+01:44:17 the anxiety yeah that our identity and our beliefs typically enable us to manage i think
+01:44:24 it's as simple as that yeah i i had this experience in college with my best friend 
+01:44:35 who got really high  and he forgot it was  in the winter it was really freezing
+01:44:41 it was memorable to me i think it's an analogy very useful  so he went to get some pizza
+01:44:49 and of course and  he so i and he left me outside and said i'll be back in five
+01:44:57 minutes and he forgot that he left me outside and i remember it was i was in like shorts yeah it was
+01:45:02 freezing winter wow and i remember standing outside it's a dorm
+01:45:08 and i'm looking from the outside in it's a light and it's warm and i'm just standing there frozen i
+01:45:14 think for an hour or more and i that's how i think about it like i just i don't give a damn about the stupid
+01:45:22 winter or any i just want to i'd like it's like a i'm drawn to be back to the warm yeah and that's how i feel about
+01:45:29 thinking about like death it's like yeah at a certain point it's like it's too much it's like that cold i like
+01:45:36 i want to be back into the warmth back you know getting back to heidegger for a moment i
+01:45:40 i like the yeah he uses a lot the idea of feeling at home
+01:45:50  not as like in your house but just feeling like you're comfortably situated maybe you could talk about like i had a
+01:45:57 conversation about this with my dad a little bit how does  religion
+01:46:05 relate to this i see it as the the disease and the cure in in a sense um
+01:46:16 a few things i think a case could be made that humans are innately religious 
+01:46:28 so now we're going to get into territory where there's going to be a lot of disputes and
+01:46:35 by what do you mean by religious the religion is an evolutionary adaptation and religion is like a belief
+01:46:43 in something outside of yourself kind of thing not necessarily so here we got to be a little bit more
+01:46:50 careful and again i'm not a scholar how about i'm a well-intentioned dilettante in this in
+01:46:58 this regard yeah because what what i have read is that religion um
+01:47:08 evolved very early on long before our ancestors were conscious and the issue of death arose um
+01:47:19 and that the word religion evidently is from a latin word regatta we can look it up but and it means to bind
+01:47:30 and emil durkheim the dead french sociologist he said you know originally religion is
+01:47:39 a darce lassen who's a dead novelist she calls it the substance of we feeling that it's literally that it arose
+01:47:46 because we're uber social creatures who from time to time took comfort
+01:47:57 in just being in physical proximity with our fellow humans and that there is this kind of sense
+01:48:09 of transcendent exuberance just back to the unshakable joy that heidegger alludes to
+01:48:18 and that the original function of religion was to foster social cohesion
+01:48:26 and coordination and that it was only subsequently some claim that a burgeoning level of consciousness
+01:48:33 made it such that religious belief systems that included the hope of some kind of immortality
+01:48:47 were just naturally selected thereafter so there are some people so it's david sloane wilson
+01:48:56 wrote a book called darwin's cathedral and he said religion has nothing to do with death it's a it evolved
+01:49:04 to make groups viable he's actually a group selection guy what's group selection the idea that it's the group that is
+01:49:11 selected for rather than individual yeah so people have vigorous disagreements about that
+01:49:18 but i guess our point would be we see religion as being inextricable inextricably connected ultimately to assuaging concerns
+01:49:31 about death well i guess another question to ask around this  like what what does the world look like without religion
+01:49:41 will we if it's  an extrapolate inextricably connected  to our fears of death
+01:49:46 do you think it always returns in some kind of shape maybe it's not called religion but
+01:49:52 whatever it just keeps returning yeah who knows so that's a that's a great question alex so this
+01:49:58 woman named karen armstrong she was a non-turned historian and she's i can't remember the name of
+01:50:07 the book but no matter she we could look that up but if you want i can look it up but i can
+01:50:14 also i'll just yeah add it to me okay yeah her point it has god in the title of course but
+01:50:22 you know she's like look all religions are generally fairly right-minded in that they advocate the golden rule
+01:50:33 and all religions at their best do seem to foster pro-social behavior towards the in-group and that confers
+01:50:44 both psychological as well as physical benefits that's the good news and the bad news is historically all religions are
+01:50:56 subject to being hijacked by a lunatic french who declares that you know they're the ones in sole possession
+01:51:08 of the liturgical practices or whatever they call them and they're the ones that turn
+01:51:17 you know religion at its best into your crusades and holocausts my view not that it should matter for much
+01:51:29 but i i'm i grew up just skeptical of religion because i'm like as a kid
+01:51:38 i'm like well if we didn't have these beliefs we wouldn't be killing each other right because of them and i'd be like to
+01:51:46 my parents well you're telling me that all people should be judged on the merits of their character
+01:51:54 but don't come home if you don't marry a jewish woman right which is implying that if you're
+01:52:00 not jewish you're an inferior form of life yeah that's what tribes always do yeah and there's the tribal thing
+01:52:06 and so there's a guy named amin malouf a lebanese guy who writes in french who in the 1990s i think
+01:52:15 wrote a book called in the name of identity violence and the need to belong and unless we can overcome this tribal
+01:52:32 mentality this will not end well but but you said earlier something lex that i think is profound and profoundly important
+01:52:41 and that is you did not recoil in horror when i mentioned kierkegaard's use of the term
+01:52:51 faith and so i'm a big fan of faith and i'm not sure what that implies i i have and by the way this is just a
+01:53:02 peripheral comment but i find less resistance to becker's ideas and our work when i'm in like jesuit schools
+01:53:11 you know it's the americans that you know the secular humanists who are most disinclined
+01:53:19 to accept these ideas it's an important side comment because  i think it's mostly because they
+01:53:24 don't think philosophically that's i mean i speak with a lot of scientists and i think that's my main
+01:53:32  criticism is is you don't i mean that's the problem with science exactly is it's so
+01:53:38 comforting to focus in on the details that you can escape thinking about the mystery of it all the
+01:53:44 big picture things the philosophical like the fact that you don't actually know at all like that
+01:53:51 that  that that yeah so that in terms of jesuit like that's yeah that's the beauty of
+01:53:57  the experience of faith and so on is like  how wherever that journey takes you is you you actually explore the biggest
+01:54:04 questions of our world yeah yeah so i don't see religion going away because
+01:54:13 i don't see humans as capable of surviving without faith and hope and
+01:54:24 everyone from the pope to elon musk will acknowledge that it is a world that is unfathomably mysterious
+01:54:35 and like it or not in the absence of beliefs here i'm charles purse the pragmatic philosopher
+01:54:42 he just said beliefs are the basis of action if you don't have any beliefs you're paralyzed with indecision
+01:54:48 whether we're aware of it or not whether we like it or not in order to stand up in the morning you
+01:54:54 have to subscribe to beliefs that can never be unequivocally proven right or wrong well then why do you
+01:55:05 maintain them well ultimately it's because of some form of faith but also also faith shouldn't be a
+01:55:15 dogmatic thing that  you should always be leaping yeah i guess 
+01:55:19 the problem with science or with religion is  you could sort of  all of a sudden
+01:55:27 take a step into a place where you're super confident that you know the absolute truth of
+01:55:32 things there you go and again back to socrates plato back in the cave  you know at skidmore where i work
+01:55:40 that's what i have the students read in their first week you know and plato's like oh look at all
+01:55:45 those poor bastards you know they're in the cave but they don't know it you know and then they are
+01:55:53 freed from their chains and they have to be dragged out of the cave by the way which is another interesting point they
+01:55:58 don't run out  but that gets back to why people don't like to be divested of their
+01:56:04 comfortable illusions but anyway they get dragged out of the cave into the sunlight which he claims
+01:56:11 is a representation of truth and beauty and i say to the students well what's wrong with
+01:56:17 that and they're like nothing that's like awesome and then i'm like yo dudes you out of the cave but how do you know
+01:56:26 that you're not in another cave the illumination may be better right but the minute you think
+01:56:38 you're at the end of the proverbial intellectual slash epistemological trail then you have already succumbed
+01:56:51 to either laziness or dogmatism or both that's really well put that's both terrifying and exciting that
+01:56:56 we're always it's  there's always a bigger cave a little bit of an outdoor question but
+01:57:02 i think some of the interesting qualities of the human mind is the ideas of intelligence and consciousness
+01:57:13 so what do you make of consciousness so do you think death creates
+01:57:19 consciousness like the fear of death the terror of death creates consciousness and consciousness
+01:57:28 in turn magnifies the terror of death i do i i think what is consciousness
+01:57:36 to you oh don't ask me that so now if i could answer that you know i'd be chugging rum out of a coconut with my
+01:57:41 nobel prize that you know it's literally you know stephen pinker i do agree with
+01:57:47 his claim and i think how the mind works that it is the
+01:57:55 key question for the psychological sciences broadly defined in the
+01:58:02 21st century what is conscious yeah what is consciousness and i don't think it's an
+01:58:09 epi phenomenological afterthought so a lot of people i think dan wagner at harvard  a lot
+01:58:15 of folks consider it just the ass end of a process that by the time we are
+01:58:28 aware of what it is it's just basically an integrated rendering of something that's already
+01:58:35 happened you know evidently the there's a half-second delay between when something happens you know those studies and
+01:58:43 our awareness of it um yeah and that's where like ideas of free will will step in yeah you can explain away a
+01:58:47 lot of stuff and i think those are all important and interesting questions  i'm of the persuasion
+01:58:58 i mean even not even but the dawkins in the selfish gene is very thoughtful actually in a lot of
+01:59:08 it's actually more in notes than in the text of the book but he's just like
+01:59:14 it's hard for me to imagine that consciousness doesn't have some sort of important and highly adaptive function
+01:59:27 and what dawkins says is he thought about it in terms of just the that we can do mental simulations
+01:59:36 that  one possibly extraordinary product of consciousness is to rather than find out
+01:59:47 often by adverse consequences through trying something would be to run mental simulations and
+01:59:53 so one possibility is that consciousness is highly adaptive another possibility is  nicholas
+02:00:00 humphrey a british dude who wrote a book about i think it's called regaining consciousness
+02:00:09 and he hypothesized i think this 1980s maybe even earlier the consciousness arose
+02:00:18 as a way to better predict the behavior of others in social settings that by knowing how i feel makes me better able
+02:00:28 to know how you may be feeling this like the rudiments of a theory of mind and that it really may not have had
+02:00:35 anything to do with intelligence so much as social intelligence right so so in that sense consciousness
+02:00:43 is a social construct like yes it's just a useful thing for us
+02:00:49 interacting with other humans yeah i don't know so but there seems to be something um
+02:00:57 about realizing your own mortality that's somehow intricately connected to the idea of consciousness
+02:01:03 well i think so also so this is where and and nietzsche he said a solitary creature
+02:01:11 would not need consciousness oh what do you think well i don't know what i think about that
+02:01:17 but what i do and then he goes on to say that consciousness is the most calamitous stupidity by which we shall
+02:01:22 someday perish and wow i was like dude relax but so what if you say you were on an
+02:01:33 island alone and you saw a reflection of yourself in in the water  like if you were alone
+02:01:40 your whole life yeah great question his view nietzsche's view would be that your
+02:01:48 thoughts of yourself would never come to mind i don't know how i feel about that though in a sense
+02:01:57 this sounds weird but in a sense i feel like my mental conversation has always been with
+02:02:03 death it's almost like another you know another notion like you know there's these visualizations of
+02:02:12 yeah of a death in the cloak like i always felt like i am a living thing and then there's an other thing that is
+02:02:22 the end of me and i'm having like a conversation with that so in the sense that's
+02:02:29  that's the way i construct my the fact that i am a thing is because there's somebody else that tells me well you
+02:02:38 won't be a thing  eventually wow so it feels like a conversation  perhaps but that's  that might be
+02:02:45 kind of this mental stimulation kind of idea that you're you're kind of
+02:02:50 it's not really it's a conversation with yourself essentially sure yeah but yeah i don't know how i feel about
+02:03:00 that but i i tend to be in agreement with you when we're talking about economics more so that 
+02:03:09 that we're deeply social beings like everything the way it just feels like we're humans i'm i'm with 
+02:03:17 a harare with the sapiens that we're kind of we seem to construct ideas on top of each other and that's a
+02:03:23 fundamentally a social process absolutely i think that's a fine book it overlaps considerably
+02:03:31 with our take on these matters and the fact that we get to these points drawing on
+02:03:37 different sources i think makes me more confident that it's so it's so fascinating just like
+02:03:42 reading your book i'm sorry on a small tangent  that sapiens is like one of the most popular books in
+02:03:51 the world like yeah and it's reading your book it's like
+02:03:59 well this sounds yeah i mean like i don't know i don't know what makes a popular book yeah
+02:04:04 well if you want me to be petty and stupid i will tell you that from time to time we also wonder um
+02:04:14 why our book you know like all books people can take issue with it but we thought it would be a bigger hit
+02:04:22 that would be more widely read it's funny because i i've i don't know if i have good
+02:04:31 examples because i forgot already but i'm often saddened by like franz kafka i think he wasn't known in his life
+02:04:40 yeah but i always wonder like these great yep like some of the greatest books ever written are completely unknown during the other
+02:04:49 lifetime and it's like man for some reason that it's again this that identity thing
+02:04:56 i think oh man that sucks well i'm comforted by that so van gogh sold one painting in his life and
+02:05:05 evidently  thoreau sold like 75 copies of walden  nietzsche's books did not
+02:05:14 sell well and how did ernest beck herself he he is the  his books are published by the free press
+02:05:23 and have sold more than any other books that they have published so so what does that mean it's a lot i i
+02:05:30 don't know if it's like jordan peterson millions but it's hundreds of thousands was he respected
+02:05:38 i just don't see him i okay yeah  i don't see him brought up as a like in the top 10 philosophers of no not at all
+02:05:48 so how far away is he is he in the top 100 for people i don't think so like he doesn't he's not brought up that often
+02:05:53 because again like your work is brought up more often yeah like
+02:06:00 term like because i think it gotten yeah yeah i mean i think he's one of the great philosophers of the 20th century so
+02:06:06 what what we say lex is that our goal certainly when we first started and now
+02:06:13 just as much actually but what i say at all my talks is look if these ideas have interest you enough
+02:06:20 to go read ernest becker then this has been good i consider him to be one of the most important voices
+02:06:27 of the 20th century who does not get the attention that he deserves all right similarly
+02:06:37 our work i believe to be important because point by point we provide empirical corroboration
+02:06:46 for all of the claims if you know when that so that's literally the students that
+02:06:53 read the denial of death and then escape from evil they're like yeah wow every chapter of the book you have studies
+02:07:02 and i'm like yeah because for 40 years if a skimmer student said oh that's got to be
+02:07:09 i'm like well let's do a study let's do a study and my own dreams are in creating
+02:07:16  robots and artificial intelligence systems that a human can love and i think there's something
+02:07:24 about  mortality and fear mortality that is essential for implementing in our ai systems
+02:07:31 yeah and so maybe can you comment on that like well  on 
+02:07:37 so this is this is a different perspective on on your work sure which is like
+02:07:43 how do we engineer a human yeah so no this is awesome lex i'm delighted that you said that first of all
+02:07:48 and i may mention this to you and i don't i can't remember because i'm seen out when you first contacted me yeah
+02:07:57 i had just been told i have to learn more about your work because i'm working with some very
+02:08:05 talented people in new york and they're they're writing a screenplay  for a movie about
+02:08:16 an artificial intelligence it's a female a.i set in like 30 years in the future and basically the little twist this is
+02:08:27 how i had to read heidegger so these people call me
+02:08:33 and they're like we're making a movie it's based on becker and your work and heidegger
+02:08:42 and this other philosopher levinos and then another philosopher sylvia benso who's an italian philosopher
+02:08:50 and the long short story is the movie is about supposedly the most advanced artificial intelligence entity
+02:09:02 an embodied one and who human form human form who finds out who is having
+02:09:14  having essentially existential anxieties and the i think the project is called a dinner with her or something and it
+02:09:22 doesn't really matter but the punch line is that she finds out that her creator
+02:09:31 has made her mortal and so the question is what happens phenomenologically
+02:09:42 and behaviorally to an artificial intelligence who now knows that it's
+02:09:52 mortal and it's actually the same question that you're posing yeah and that is is that necessary in order
+02:10:05 for an ai to approximate humanity yeah i think yeah so the intuition again it's  it's unknown but
+02:10:12 i think it's absolutely i think it's absolutely necessary a lot of people
+02:10:20 this the same kind of shallow thinking that people have about our own end of life our own death is the same
+02:10:25 way people think of i think about artificial intelligence it's like well okay so yeah
+02:10:32 so within the system there's a there's a terminal position where like there's there's a there's a point which
+02:10:37 it ends you just the program ends  there's a goal state there's a you reach the end point
+02:10:47 but the thing is  making that end a thing that's also within the program like like the
+02:10:56 making the thing like and then it's also the mystery of it so the thing is we don't know what the
+02:11:02 hell this death thing is i mean it's not like it's not like we i mean the program doesn't give us
+02:11:11 information about the meaning of it all exactly and the that's where the terror is i
+02:11:17 and and i it feels like i mean  in the language that you you would think about is
+02:11:23 is the terror of this death or like anticipation of it or thinking about it is the creative force that builds everything
+02:11:31 right and that feels like  you know that feels really important to implement again very difficult to know how to do technically
+02:11:40 currently but it's important to think about what i find is you mentioned like screenplays and so on
+02:11:46 is sci-fi folks and  philosophers are the the only ones thinking about it currently
+02:11:52 and that's what these folks have convinced me yeah and engineers aren't which is 
+02:12:01 i get yeah most of the most most of the things i talk about i get kind of people roll their eyes from the
+02:12:08 engineering person not these folks that they're like because like again i saw your name and they're like wait a
+02:12:13 minute i've just seen that they're like here's someone you should check out
+02:12:20 yeah so this was a delightful confluence yeah i was a huge fan of your work and ernest becker and um
+02:12:30 it's funny that not enough people are  talking about it yeah i don't know what to do with that i think
+02:12:36 that there's a possibility to create real deep meaningful connections between ai systems and humans absolutely and um
+02:12:44 i think some of these things the fear mortality are essential that are essential for the element of
+02:12:49 human experience i don't i don't think it might be essential to create general intelligence like
+02:12:57 very intelligent machines but to create a machine that connects to a human in some deep way what's your view
+02:13:05 not to make me the interviewer but what's your view about machine ethics
+02:13:13 can you imagine an ethical ai without some semblance of yeah that's a finitude let's say well i
+02:13:21 i think ethics  it's a you know there's a there's a trolley
+02:13:28 problem that's often used in the work that i've done my team yeah with  with autonomous vehicles in particular
+02:13:37 oh yeah yeah  that people i think they offload they ask like how would a machine deal with an ethical situation
+02:13:46 that they themselves humans don't know how to deal exactly and so i don't know
+02:13:54 if a machine is able to  do a better job on difficult ethical questions but i
+02:13:59 certainly think to behave properly and effectively in this world it needs to be
+02:14:05  have a fear of mortality and like be able to even dance because i don't think you can solve ethical problems but
+02:14:12 you have to  i think like ethics is like a dance floor you have to just
+02:14:17 you have to  dance properly with the rest of the humans like if people are dancing tango you have to dance in the
+02:14:22 same kind of way and for that you have to have a fear of mortality like i think
+02:14:28 of  more practically speaking like i said autonomous vehicles like the way you interact with pedestrians
+02:14:36 fundamentally has to have a sense of mortality so  when pedestrians crossed the road well certainly 100 plus hours of
+02:14:50 pedestrian videos there's a kind of social  contract where you walk in front of a car and
+02:14:59 you're putting your life in the hands of another human being that's right and like death is is  is in the car
+02:15:07 in the game that's being played death is right there  it's part of the calculus it's not
+02:15:11 but it's not like a simple calculator it's not a simple equation it's 
+02:15:18 it's an s it's a i mean i don't know what it is but it's it's in the it's in there and  it has to be part of the
+02:15:24 optimization problem like it's not as simple as so from the computer vision from the
+02:15:29 artificial intelligence perspective it's detecting there's a human estimating right estimating the trajectory
+02:15:37 like treating everything like it's a billiard balls as opposed to like being able to
+02:15:43 construct an effective model the world model of the what the person's thinking what they're
+02:15:50 going to do what are the different possibilities of how the scene might evolve i think requires having some sense
+02:15:59 of yeah fear of fear of mortality of mortality i don't see the thing is i think it's really important to think about
+02:16:07 i i can be honest enough to say that it's i haven't been able to figure out how to engineer any of these things
+02:16:15 right  but i do think it's really really important like i have  so i have a bunch of roombas here
+02:16:21 i can show it to you after  that i have roombas as a robot that has vacuums the floor and i've had them um
+02:16:31 make different sounds like i had them scream in pain it you immediately anthropomorphized
+02:16:44 absolutely and it creates  i don't know knowing that they can feel pain but
+02:16:50 see i'm i'm speaking like knowing  that i immediately imagine that they can feel pain and it means
+02:16:56 it immediately draws me closer to them yes at the human experience and that there's there's something in that
+02:17:02 that should be engineered in our in our systems it feels like i i believe personally i don't know what
+02:17:09 you think but  i believe it's possible for a robot and a human to fall in love for example in
+02:17:14 the in the future oh i think it's yeah it's already there no there's a certain kind of deep
+02:17:22 connection with technology yeah in a real like you would choose to marry i mean again it sounds 
+02:17:31 i'll find a book title and i'll send it to you and it's a serious consideration of people
+02:17:42 who started out with these sex dolls but it turned into a relationship of enduring significance that the woman who wrote
+02:17:49 the book is not willing to dismiss as a perversion yeah that's what 
+02:17:55 you know people kind of joke about sex robots which is funny  like it's a it's a funny i mean
+02:18:01 there's a lot of stuff about robots it's just kind of fun to talk about that is it's not necessarily connected to reality
+02:18:08  people joke about sex robots but if you actually look how sex robots which are pretty rare
+02:18:14 these days are used they're not used by people who want sex especially they're actually  they're
+02:18:21 companions they're compared they become companions yeah baby it's  yeah it's fascinating and
+02:18:27 they're just we're not even talking about any kind of intelligence we're talking about just
+02:18:33 i mean human beings see companionships we're deeply lonely i mean that's the other sense i have
+02:18:37 that i don't know if i can articulate clearly you can probably do a better job but
+02:18:42 i have a sense that there's a deep loneliness within all of us absolutely in the face of death it feels
+02:18:47 like we're alone so you know the what drew me to the existential take on things
+02:19:03 who is it rallo may and irwin yalum right about existentialism and they're like look
+02:19:11 it what there's different flavors of existentialism but they all have in common what is it four universal concerns the overriding one is
+02:19:21 about death and that next is choice and responsibility
+02:19:32 the next one is existential isolation and they're like that's one of the things about consciousness that and the
+02:19:40 last one is meaninglessness but the existential isolation point is you know we
+02:19:50 are by virtue of consciousness able to apprehend that unless you're a siamese twin you are
+02:19:59 fundamentally alone and because it is claimed it's eric fromm  in a book called escape from freedom
+02:20:10 he's like look you you're smart enough to know that the most direct way that we typically
+02:20:15 communicate with our fellow human beings is through language but you also know that language is a pale shadow of
+02:20:27 the totality of our interior phenomenological existence therefore there's always going to be times in our
+02:20:35 lives where even under the best of circumstances you could be trying desperately to convey your thoughts and feelings and somebody
+02:20:45 listening could be like yeah i get it i get it i get it and you're like you have no idea
+02:20:49 what i'm talking about yeah so you can be desperately lonely in a house where you live with 10 people
+02:20:59 in the middle of tokyo where there's millions yeah yeah it's the great gatsby yeah you could be alone precisely
+02:21:09 exactly maybe this is a small tangent but let me ask you on the topic of academia you're kind of 
+02:21:18 we talked about jordan peterson there's a lot of sort of renegade type of thinkers  certainly
+02:21:24 in psychology but it applies in all disciplines of what are your thoughts about academia being
+02:21:34 a place to  harbor people like yourself that you know people who think deeply about things
+02:21:44 who are not constrained by sort of the who i don't think you're quite controversial no not really but you are
+02:21:53 a person who thinks deeply about things and it feels like academia can sometimes stifle that i
+02:21:59 think so so my concern right now lex for young scholars is that um
+02:22:12 the restrictions and expectations are such that it's highly unlikely that anybody will do anything
+02:22:24 of great value or innovation except for and this is not a bad thing but stepwise improvement
+02:22:32 of existing paradigms so the you know in simple english you know i went to princeton for a job interview
+02:22:38 40 years ago and they're like what are you gonna do if we give you a job and i'm like i
+02:22:44 don't know i want to think about it and read and and i i saw that that interview was over
+02:22:53 the window of opportunity shut in my face and they actually called my mentors and they're like what are you doing tell
+02:23:01 this guy to buy some pants i had hair down to my waist also it's like this guy looks like charles manson
+02:23:12 the expectation is that you come to a post you know you start publishing so that you can get grants that's certainly true
+02:23:22 but there's also kind of a behavioral thing you said like long hair there's  there's a certain style of
+02:23:28 the way you're supposed to behave for example like i'm wearing a suit it sounds con it sounds weird but i feel comfortable
+02:23:37 in this you know i wore it like when i was teaching at mit i wore it sure  warranty meetings and
+02:23:41 so on the different  sometimes a blue and red tie but like that was an outsider thing to do at mit
+02:23:51 so like there was a strong pressure to not wear a suit no that's right it's and there's a
+02:23:56 pressure to behave to have a hair thing no that's right the way you wear your hair the way you 
+02:24:02 this isn't like a liberal or a level anything he's just the pr in tribes that's right and academia to
+02:24:07 me or a place any place that dreams of having like renegade free thinkers like
+02:24:14 really deep thinkers should in fact like glorify the outsider right yeah should welcome just
+02:24:24 should welcome  you know  people that don't fit in yeah no that sounds weird but i don't
+02:24:29 know i could just imagine an interview with at princeton you know like i imagine why aren't people why aren't you at
+02:24:39  harvard for example or mit yeah well so that look i would love to  you know i
+02:24:47 i haven't lectured at mit but i've lectured at harvard i i i've gotten to lecture at almost every
+02:24:53 place that wouldn't consider me for a job yeah and well a few things i'm lucky because i
+02:25:04 you know i go to princeton and i'm like i don't know what i want to do and then two days later i go to skidmore
+02:25:08 and i'm like i don't know what i want to do and they offered me a job later that day which i declined for months
+02:25:17 because of the extraordinary pressure of my mentors who right-mindedly felt that i wouldn't get much done there
+02:25:25 and but what they told me at skidmore was take your time you know show up for your classes and don't molest barnyard animals
+02:25:34 and you'll probably get tenure and i'm like i'll show up for my classes we'll talk it was that was the negotiation yeah i
+02:25:41 negotiated i drove a hard bargain but but honestly lex that's i feel i'm very committed to skidmore because
+02:25:53 i i was given tenure when our first terror management paper wasn't published it took eight years to publish it was
+02:26:01 rejected at every journal and i submitted it as like a purple ditto sheet
+02:26:06 thing i'm like here's what i've been doing here's the reviews here's why i think this is still a
+02:26:12 pretty good idea and i don't know that this would happen even at skidmore anymore
+02:26:18 but i i was very lucky to be given the latitude and to be encouraged i i took classes at skidmore
+02:26:25 that's how i learned all this stuff i i graduated i got a phd unscathed by knowledge we were great statisticians and methodologists
+02:26:38 but we didn't have any substance you know i and i don't mean this cynically but we were trained in a
+02:26:45 method in search of a question so i appreciate having five years at skidmore basically
+02:26:53 to read books and i also appreciate that i look like this 40 years ago and my view
+02:27:03 is that this is how i comported myself other people might the guy i learned the
+02:27:11 most from at skidmore is now dead a history professor ted kuroda he wore a bow tie
+02:27:19 and there's another guy darnell rucker who taught me about philosophy and he was very proper and he had like his
+02:27:30 jacket with like the leather patches but these guys weren't pompous at all they were this is the way
+02:27:40 i am and i always felt that that's important that somebody who looks at you and says oh what a stiff he's probably
+02:27:48 an mba yeah well they're wrong yeah and someone who looks at me
+02:27:55 when i first got to skidmore other professors would ask when i'd be coming to their office to
+02:28:00 empty the garbage they just assumed you know i was in my 20s they assumed i was housekeeping i always felt that
+02:28:07 was important that the students learned not to judge an idea by the appearance of the person who
+02:28:13 pervades it and yeah i mean that's  i i guess this is such a high concern now because
+02:28:23 i personally still have faith that academia is where the great geniuses will come from i do too
+02:28:28 and great ideas i love hearing you say that i i still and it's one of the reasons why um
+02:28:37 really apprehensive about the future of education right now in the context of the pandemic i um
+02:28:46 oh yeah is that a lot of folks i need a lot of these are google type people who i don't you know they're
+02:28:51 geniuses also but i don't like this idea that all learning can be virtual and that much could happen
+02:29:01 i'm big on embodied environments with actual humans yeah they're interacting i mean there's
+02:29:05 there's so much to the university education but i think the key part
+02:29:14 that i is the the mentorship that occurs somehow and at the human level like i've gotten a lot of flack like this
+02:29:19 conversation we're in in person now and i've  even with edward snow snowden
+02:29:30 who done all interviews remote i'm a stickler to in person it has to be in person like and a lot of people just don't get it
+02:29:38 they're like well why can't this is so much easier like why go through the pain like i've traveled
+02:29:46 i'm traveling in the next month to paris for a single stupid conversation nobody cares about
+02:29:52 just to be in person well it's important to me i i honestly i was like
+02:30:00 this and thank you for coming down today well it's my pleasure but again very self-serving i've enjoyed
+02:30:05 this i knew i was going to but it's not about our enjoyment per se again at the risk of sounding
+02:30:16 cavalier there are a host of factors beyond verbal yeah that i don't believe
+02:30:26 can be adequately captured i don't care how much the acuity is decent on a zoom conversation i i feel
+02:30:36 again i i felt within five minutes that this was gonna be for me easy in the sense that i could
+02:30:46 speak freely i just don't see that happening so easily from a distance
+02:30:53 yeah i i tend to well i'm hopeful  i agree with you on the current technology but i am hopeful unlike
+02:30:59 some others on the technology eventually being able to create that kind of experience oh i think
+02:31:04 we're quite far away from that but yeah it might be able my hope is i'm you know i'm i'm hopeful i was at microsoft
+02:31:14 in seattle and i can't remember why and no i i can't i i that's how i'm in my early mr magoo
+02:31:25 phase and and somebody there was showing us like a virtual wall where the entire wall you know when you're talking to somebody
+02:31:35 so it's life-size and they were beginning the get the appearance of motion and stuff
+02:31:43 it looked pretty yeah with virtual reality too i don't know if you've ever been inside a
+02:31:47 virtual world yeah it's to me it's  i can just i can see the future it's  it's it's
+02:31:56 quite real yeah in terms of like a terror of death  i'm afraid of heights me too
+02:32:02 and there's i don't know if you've ever tried  you should if you haven't there's a virtual reality
+02:32:06 experience where you can walk a plank yeah you can look down and oh man i was on the ground
+02:32:14 like i was like i was afraid i was deeply afraid i was is it was it was as real as
+02:32:21  yep as anything else could be in i mean these are very early days of that technology relatively speaking so um
+02:32:30 yeah i mean i don't know what to do with that same with like crossing the street we did these experiments
+02:32:37 across the street in front of a car and  you know it's being run over by a car  it's terrifying
+02:32:45 yeah it's just that  yeah so there is a rich experience to be created there we're not there yet
+02:32:53 but   i yeah and i've seen a lot of people try like you said the google folks   silicon valley folks try to create
+02:32:59 a virtual online education i don't know i think they've raised
+02:33:04 really important questions absolutely what makes  the education experience
+02:33:13 fulfilling what makes it effective yeah these are important questions and i think what they highlight is we have no clue
+02:33:26 thomas soul  wrote a book about  recent book on charter schools yeah i would like to
+02:33:34 talk to him yeah he's an interesting guy we will disagree about a lot but respectfully yeah
+02:33:40 such a powerful mind yeah  but he i i need to read i've only heard him talk about the book
+02:33:48  but he argues quite seemingly effectively that that that the public education system
+02:33:55 is broken that we blame he basically says that we kind of blame
+02:34:02  like the conditions or the the environment but  the upbringing of people like parenting blah
+02:34:09 blah blah like the  the set of opportunities but okay putting that aside
+02:34:17 it seems like charter schools no matter who it is that attends them does much better than in in public schools and he puts a bunch
+02:34:25 of data behind it and in his usual way as you know just is very eloquent in arguing his
+02:34:31 points yep so that to me just highlights man we don't education is like one of the most
+02:34:38 important the it's probably the most important thing in our civilization and we're doing a
+02:34:45 shitty job of it yeah in academia in   in university education and
+02:34:52 you know younger education the whole thing the whole thing and yet we value just about anyone or anything more than
+02:35:06 educators you know part of it is just the relatively low regard that americans have for teachers for teachers so also similarly
+02:35:19 like just people people of service i think great teachers  are the greatest thing in our society
+02:35:29 and i would say now on a controversial note like black lives matter  you know great police officers is the greatest
+02:35:36 thing in our society also like all people that do service we undervalue cops severe like this
+02:35:43 whole defund the police is missing the point and it's a stupid word
+02:35:50  i'm i'm with you on that one our neighbors to one side of our house or three generations of police
+02:35:57 our neighbors across the street our police they know my  you know political predilections
+02:36:11 and we've gotten along fine for 30 years and i go out and tell them every day you know when
+02:36:16 you go in today you tell the people on the force that i appreciate
+02:36:27 what they're doing i i think it's really important to not tribalize those concerns i mean we mentioned
+02:36:38 so many brilliant books and philosophers but it'd be nice sort of in a focused way try to see
+02:36:46 if we can get some recommendations from you so what three books technical or fiction or philosophical
+02:36:53 had a oh man that's the worst question what had a big impact in your life and
+02:36:59 you were recommending i spent four hours driving here perseverating about that i didn't i
+02:37:05 everything else you sent me that's fine and i actually i skimmed it and i'm like i don't want to look at it because
+02:37:13 i want i want us to talk yeah the ones in blue i'm like all right and you know i've already said that i've found
+02:37:23 becker's work and i've put the denial of death out there is that his best sorry i don't have a
+02:37:28 small tangent is there other books of his yeah see if i could have this count as one
+02:37:36 that the the birth and death of meaning the denial of death and escape from evil are three books of
+02:37:44 ernest becker's that i believe to all the profound in a in a little sort of brief dance around topics 
+02:37:54 i've only read denial death like how do those books connect in your yeah nice so the the birth and death of meaning
+02:38:02 is where becker situates his thinking in more of an evolutionary foundation so i like that for that reason
+02:38:12 escape from evil is where he applies the ideas in the denial of death
+02:38:21 more directly to economic matters and to inequality and also to our inability to peacefully co-exist
+02:38:30 with other folks who don't share our beliefs so i would put ernest becker out there as one i also like
+02:38:40 novels a lot and here i was like god damn it no matter what i say i'm gonna be like yes
+02:38:47 but but the existentialist do you like all those folks camus you like that literary existence i i i do
+02:38:55 but i i mean you know i i've read all those books i i will tell you the last line of the plague we learn in
+02:39:03 times of pestilence that there's more to admire in men than to despise and i love that yeah plagues such a i don't know i i
+02:39:11 find the plague is a brilliant me too before before  the plague has come to us in 2020 it was just yeah yeah
+02:39:22 so a book about love about but i'll toss one that may be less known to folks i i'm enamored with a novel by a woman
+02:39:29 named carson mccullers written in 1953 called clock without hands and i find it a brilliant literary depiction
+02:39:40 of many of the ideas that we have spoken about fiction fiction yeah what's  what kind of ideas are we talking about
+02:39:49 all of the existential ideas that we have encountered today but in the context of a story
+02:39:57 of someone who finds out that he is terminally ill it's set in the south in the um
+02:40:05 heyday of like segregation so there's a lot of social issues a lot of existential issues
+02:40:11 but it's basically a nov a fictional account of someone who finds out that they're terminally ill
+02:40:20 and who reacts originally as you might expect anyone  becomes more um
+02:40:29 hostile to people who are different like petty and stupid denies that anything's happening but
+02:40:37 as the book goes on and he comes more to terms with his own mortality it ends lovingly and
+02:40:49 back to your idea about you know love being incredibly potent that's the the nice thing as you
+02:40:57 mentioned  before with with heidegger i really like that idea and i've seen that in people who are
+02:41:05 terminally ill is they bring you know the idea of death becomes  current
+02:41:14 yes it becomes like a thing you know i could die i really like that idea i i can die not
+02:41:19 just tomorrow but like now now now yeah that's a really useful i don't even know
+02:41:28 i think i've been too afraid to even think about that like i have like like sit here and think like
+02:41:37 in five minutes it's over yeah this is it it's five minutes it's over yeah so that would be my most
+02:41:47 recent addition as i i really am struck by heidegger or would you recommend that well okay well if you have a few
+02:41:54 years i remember i tuned out being in time i was like i tried to read it i was like that's it look it took me
+02:42:02 40 years to read ulysses i could not get past the first five pages and it took me 40 years to read being in time
+02:42:12 it's a slog yeah and i took a james joyce course in college so i've  i i i even  i i guess
+02:42:20 read parts of finnegan's wake no way but like re there's a difference between reading and like
+02:42:27 i don't think i understood anything i i like his  short stories the dead yeah yeah and i like faulkner
+02:42:37 absalom absalom is is a fine book but would you  is there something heidegger connected in a book you would recommend
+02:42:45 or no no so maybe i got to abandon him i mean i mean being in time is awesome but here's an interesting
+02:42:54 thing and not to get all academic-y but you know it's there's two parts to it and most of the most philosophers are
+02:43:02 preoccupied with the first part it's in the second part where he gets into all the
+02:43:09 flight from death stuff and this idea of  you know a turning and philosophers don't like that and i'm
+02:43:15 like this is where he's starting to really shine to really shine before me
+02:43:21 so yeah yeah all right that's a beautiful set of books so what advice
+02:43:29 would you give to a young person today about their career about life about 
+02:43:36 how to survive in this world full of suffering yeah great yeah my advice is to get confident advice
+02:43:46 when i tell my students it's like don't listen to me don't listen to me well you know i think um
+02:44:00 is you know again it's that the risk is sounding like a simpleton but it's to emphasize a few things one is
+02:44:13 you know so one of your questions i think was you know what's the meaning of life and of
+02:44:19 course the existentialists say life has no meaning but it doesn't follow from that that it's intrinsic
+02:44:26 that it's meaningless you know what the existential point is not that life is meaningless
+02:44:35 so much as it doesn't have one inevitable and intrinsic meaning you know which then
+02:44:42 it opens up you know i think it was kierkegaard who said consciousness gives us the possibility of possibilities
+02:44:51 and but there's another lunatic oswald spangler who wrote a book called decline of the west and he says that the
+02:44:58 philosopher the german philosopher guerta he says the purpose of life is to live and i let that's
+02:45:08 so that's one of my pieces of advice so the the possibility of possibilities it's interesting so what do you do with this
+02:45:14 kind of sea of possibilities like well this is one of the one when young folks talk to me especially these days
+02:45:24  is there swimming in a sea of possibilities yeah well so this is it's great and so that's
+02:45:30 another existential point which is that we yearn for freedom we react vigorously when we perceive that
+02:45:40 our choices have been curtailed and then we're paralyzed by indecision in the wake of seemingly unlimited
+02:45:47 possibilities because we're not choking on choice and and i'm not sure if this is helpful
+02:45:56 advice or not but what i say to folks is that the fact of the matter is is that you know for most people
+02:46:12 sometimes the best option is to do something as silly as it sounds and then if that
+02:46:19 doesn't work do something else which just sounds like my mom torturing me when i was young but you know part of
+02:46:26 the thing that i i find myself singularly ill-equipped is that we're at the i may be at the
+02:46:35 tail end of the last generation of americans where you like picked something and
+02:46:42 that's what you did like i've been at a job for 40 years where you can expect to do better than
+02:46:50 your parents because those days are gone and where you can make a comfortable inference that the
+02:46:58 world in a decade or two will have any remote similarity to the one that we now inhabit and so but still
+02:47:09 you recommend just do yeah and to do so i'm again i'm this is i'm so back to the heidegger guy because
+02:47:20 all right i mean you know i consider myself a professor but what happens if most of the schools go out of business
+02:47:29 somebody else may consider themselves a restaurant tour but what happens if there's no more restaurants
+02:47:37 so what i this is negative advice but i tell folks don't define yourself as a social caricature yeah
+02:47:48 don't don't limit how you feel about yourself with a host of variables
+02:48:04 that may be uncertain maybe temporary and temporary what  let's say no but of course that gets back to your
+02:48:10 point earlier lex where you're like yeah but when you step out of that it's extraordinarily
+02:48:19 discombobulating so what  i think you talked about an axe of chopping wood yeah 
+02:48:27 and seoul  from socrates yeah what is your soul what is the  the essence of sheldon
+02:48:39 wow that was like awesome like when god  when you show up at the end of this thing
+02:48:45 he kind of looks at you he's like oh yeah yeah i remember you yeah well you know i
+02:49:05 when people are i told you i have to we have two kids  late 20s early 30s
+02:49:14 and over the years when people when we meet people that know our kids and they're like oh
+02:49:23 your kids are kind and decent and i'd be like that's what i would like to be because i think intelligence is
+02:49:32 vastly overrated you know the unabomber was the smart guy yeah and i do admire intelligence and i
+02:49:37 do venerate education and i i find that to be tremendously important but if i had to
+02:49:50 pay the ultimate homage to myself it would be to be known as somebody who takes himself too seriously
+02:49:59 to take myself too seriously again as corny as it sounds i'd like to leave the world a tad better
+02:50:07 than i found it or at least do no harm and i think you i think you did all
+02:50:14 right and that  yeah in that regard i love that question alex that's a good one
+02:50:21 i think everyone should be asked that what is your soul do you have maybe just a few
+02:50:27 lingering questions  so you i mean on the on the point of the soul you've talked about the the meaning of
+02:50:46 on a personal level do you have  an answer to the meaning of your life of some some sense of 
+02:51:13 no i i mean yes yes and no i mean i  a bit you know i'm 66 so i'm in the kind of
+02:51:22 not ready to wrap it up literally or metaphorically but you look i look back and
+02:51:30 just really with a sense of  awe and wonder gratitude and is there memories that stand out to
+02:51:39 you from childhood from earlier that like it's like you know stand out as something you're really proud of
+02:51:47 or just happy to have been on this earth mainly that stuff happened yeah that
+02:51:55 i mean you know my family also a chunk  we're my folks so my grandparents are from
+02:52:03 eastern europe you know russia austria as far as we know some of them never made it out
+02:52:11  i consider myself very fortunate to have been a so-called product
+02:52:22 of the american dream you know my grandparents are were basically peasants my parents my dad worked two full-time jobs
+02:52:33 when i was growing up and i would see him on the weekends i'd be like why are you working all the time
+02:52:41 he'd be like so you won't have to and he said look the world does not owe you a living
+02:52:48 and so your first responsibility is to take care of yourself and then your next responsibility is
+02:52:58 to take care of other people and i think you did a pretty good job of that well i don't know but i
+02:53:05 i i so those are the things that i'm proud of was it's funny you've been if you've
+02:53:12 talked about just yourself as a human being but  you've also contributed some really
+02:53:20 important ideas for your ideas and also kind of integrating and maybe even
+02:53:29 popularizing the work of ernest becker of connecting it  of making it legitimate scientifically i mean
+02:53:38 you know as a human of course you want to be  you you want your ripple to be one that
+02:53:44 makes the world a better place but also i think in the span of time
+02:53:51 i think it's of great value you've contributed in terms of how we think about the human condition
+02:53:56 how we think about ourselves assuming as finite beings in this world
+02:54:03 and i hope also in our technology of engineering intelligence i think at least at least for me and i'm
+02:54:10 sure there's a lot of other people  like me that your work has been a gift
+02:54:16 for so oh well thank you oh no i like that and we have described ourselves as giant interneurons
+02:54:25 unlike we have had no original ideas and and maybe that's the only thing that's original about our work is we don't
+02:54:31 claim to be original what we claim to have done is to integrate to connect
+02:54:42 these disparate and superficially unconnected discourses you know so existentialists they'd be
+02:54:48 like evidence what's that and yeah there's now a branches psychology experimental existential
+02:54:55 psychology that i think we could take credit for having encouraged the formation of and
+02:55:07 that in turn has gotten these ideas in circulation and academic communities where they may not
+02:55:14 have otherwise gotten so i think that's good well sheldon is a huge honor i can't believe you came down here i've been a fan of
+02:55:21 your work  i hope we get to talk again huge honor to talk to you thank you so much
+02:55:27 for talking today thanks lex we'll do it again soon i hope thanks for listening to this
+02:55:32 conversation with sheldon solomon and thank you to our sponsors blinkist expressvpn and cash app
+02:55:38 click the links in the description to get a discount it's the best way to support this podcast
+02:55:44 if you enjoy this thing subscribe on youtube review it with five star snapple podcast follow on spotify support on patreon or
+02:55:51 connect with me on twitter at lex friedman and now let me leave you with some words from vladimir nabokov
+02:55:58 that sheldon uses in his book warm at the core the cradle rocks above and abyss and
+02:56:05 common sense tells us that our existence is but a brief crack of light between two eternities of darkness

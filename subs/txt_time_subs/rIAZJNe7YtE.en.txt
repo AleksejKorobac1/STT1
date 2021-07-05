@@ -1,0 +1,1247 @@
+00:00:01 the following is a conversation with Eric Weinstein the second time we've spoken on this podcast he's a
+00:00:08 mathematician with the bold and piercing intelligence unafraid to explore the biggest questions in the universe and
+00:00:15 shine a light on the darkest corners of our society he is the host of the portal podcast a part of which he recently
+00:00:25 released his 2013 oxford lecture on his theory of geometric unity that is at the centre of his lifelong efforts to arrive
+00:00:34 at a theory of everything that unifies the fundamental laws of physics this conversation was recorded recently in
+00:00:40 the time of the coroner virus pandemic for everyone feeling the medical psychological and financial burden of
+00:00:45 this crisis I'm sending love your way stay strong we're in this together we'll beat this
+00:00:51 thing this is the artificial intelligence podcast if you enjoy subscribe on youtube review it with five
+00:00:58 stars and Apple podcasts supported on patreon or simply connect with me on Twitter Alex Friedman spelled Fri D ma n
+00:01:07 this show is presented by cash app the number-one finance app in the App Store when you get it
+00:01:13 use code Lex podcast cash up lets see so many friends buy Bitcoin invest in the stock market with as little as $1 since
+00:01:20 cash app does fractional share trading let me mention that the order execution algorithm that works behind the scenes
+00:01:27 to create the abstraction of the fractional orders is an algorithmic marvel so big props to the cash app
+00:01:33 engineers for solving a hard problem then in the end provides an easy interface that takes a step up to the
+00:01:40 next layer of abstraction over the stock market making trading more accessible to new investors and diversification much
+00:01:48 easier so again if you get cash up from the App Store Google Play and use code Lex podcasts you get $10 and
+00:01:56 cash-strapped will also donate $10 the first an organization that is helping to advanced robotics and STEM education for
+00:02:03 young people around the world and now here's my car session with Eric Weinstein
+00:02:11 action between World War two and the crisis we're living through right now sure the need for collective action
+00:02:20 reminding ourselves of the fact that all of these abstractions like everyone should just do exactly what he or she
+00:02:27 wants to do for himself and leave everyone else alone none of these abstractions work in a global crisis and
+00:02:34 this is just a reminder that we didn't somehow put all that behind us when I hear stories about my grandfather who
+00:02:42 was in the army and so the Soviet Union where most people die when you're in the army there's a brotherhood that happens
+00:02:48 there's a love that happens do you think that's something we're going to see here sense or none there I mean what the
+00:02:55 Soviet Union went through I mean the enormity of the war on the Russian doorstep this is different what we're going
+00:03:05 through now is not we can't talk about Stalingrad and kovat in the same breath yet we're not ready and the the sort of
+00:03:14 you know that just the sense of like the Great Patriotic War and the way in which I was very moved by the Soviet custom of
+00:03:21 newlyweds going and visiting war memorials on their wedding day it's like the happiest day of your life you have
+00:03:26 to say thank you to the people who made it possible we're not there where we're just restarting history we you know I've
+00:03:35 called this on the Rogen program I called it the great nap yeah 75 years with very little by historical standards
+00:03:45 and in in terms of really profound disruption and so when you called the great nap meaning lack of deep global
+00:03:54 tragedy well lack of realized global tragedy so I think the development for example of the hydrogen bomb you know
+00:04:01 was something that happened during the great nap and that doesn't mean that people who lived during that time didn't
+00:04:11 feel feared and no anxiety but it was to say that most of the violent potential of human species was not realized it was
+00:04:18 in the form of potential energy and this is the thing that I've sort of taken issue with with the
+00:04:24 of Steven Pinker's optimism is that if you look at they realized kinetic variables things have been getting much
+00:04:29 better for a long time which is the great nap but it's not as if our fragility has not grown our dependence
+00:04:37 on electronic systems our vulnerability to disruption and so all sorts of things have gotten much better what other
+00:04:44 things have gotten much worse in the destructive potential of skyrocketed its tragedy the only way we wake up from the
+00:04:54 big nap well no you could also have you know jubilation about positive things but it's harder to get people's
+00:05:00 attention can you give an example of a big global positive thing well I could happen I think that when for example
+00:05:09 just historically speaking HIV went from being a death sentence to something that people could live with for a very long
+00:05:15 period of time it would be great if that had happened on a Wednesday right like all at once like you knew that things
+00:05:22 had changed and so the bleed in somewhat kills the sort of the Wednesday effect where it all happens on a particular day
+00:05:30 at a particular moment I think if you look at the stock market here you know there's a very clear moment where you
+00:05:36 can see that the market absorbs the idea of the coronavirus I think that with respect to positives the moon landing
+00:05:45 was the best example of a positive that happened at a particular time or recapitulating the Soviet American
+00:05:57 link-up in terms of Skylab and Soyuz right like that was a huge moment when you actually had these two nations
+00:06:06 connecting in orbit and so yeah there are great moments where something beautiful and wonderful and amazing
+00:06:12 happens you know but it's just they're fewer that's why that's why as much as I can't imagine proposing to somebody at a
+00:06:20 sporting event when you have like 30,000 people waiting and you know like she says yes that's pretty exciting
+00:06:26 so I think that we shouldn't we shouldn't discount that so how bad do you think it's going to get in terms
+00:06:35 of the global suffering that we're going to experience with this with this crisis I can't figure this one out
+00:06:41 I'm just not smart enough something is goin weirdly wrong and they're almost like two separate storylines we in one
+00:06:50 storyline we aren't taking things nearly seriously enough we see people using food packaging lids as masks who are
+00:07:02 doctors or nurses we hear horrible stories about people dying needlessly due to triage and that's a very
+00:07:11 terrifying story on the other hand there's this other story which says there are tons of ventilators someplace
+00:07:18 we've got lots of masks but they haven't been released we've got hospital ships where none of
+00:07:24 the beds are being used and it's very confusing to me that somehow these two stories give me the feeling that they
+00:07:32 both must be true simultaneously and they can't both be true in any kind of standard way well I don't know whether
+00:07:39 it's just that I'm dumb but I can't get one or the other story to quiet down so I think weirdly this is much more
+00:07:45 serious than we had understood it and it's not nearly as serious as some people are making it out to be at the
+00:07:52 same time and that we're not being given the tools to actually understand well here's how to interpret the data or
+00:07:59 here's the issue with the personal protective equipment is actually a jurisdictional battle or a question of
+00:08:05 who pays for it rather than a question of whether it's present or apps I don't understand the details of it but
+00:08:11 something is wildly off in our ability to understand where we are so that's that's policy that's institutions what
+00:08:17 about do you think about the quiet suffering of millions of people they've lost their job is this a temporary thing
+00:08:28 I mean what I'm my ears not to the suffering of those people who have lost their job or the 50% possibly of small
+00:08:35 businesses that are gonna go bankrupt do you think about that sure it's suffering well and how that might arise itself
+00:08:44 could be not quiet - I mean right that's the could be a depression this could go from recession
+00:08:49 depression and depression could go to armed conflict and then to war so it's not a very abstract causal chain that
+00:08:59 gets us to the point where we can begin with quiet suffering and an anxiety and all of these sorts of things and people
+00:09:05 losing their jobs and people dying from stress and all sorts of things but look anything powerful enough to put us all
+00:09:17 in doors in a I mean think about this as an incredible experiment imagine that you proposed hey I want to do a bunch of
+00:09:25 research let's figure out what what changes in our emissions emissions profiles for our carbon footprints when
+00:09:32 we're all indoors or what happens to traffic patterns or what happens to the vulnerability of retail sales as Amazon
+00:09:42 gets stronger you know etc etc I believe that in many of those situations we're running an incredible experiment and am
+00:09:51 I worried for us all yes there are some bright spots one of which is that when you're ordered to stay indoors people
+00:09:58 are gonna feel entitled and the usual thing that people are going to hit when they hear that they've lost your job you
+00:10:07 know some there's this kind of tough tough love attitude that you see particularly in the United States like
+00:10:15 oh you lost your job poor baby well go retrain get another one I think there's gonna be a lot less appetite for
+00:10:23 that because we've been asked to sacrifice to risk to act collectively and that's the interesting thing
+00:10:30 what does that really can in us maybe the idea that we actually are Nations and then you know your fellow countrymen
+00:10:38 may start to mean something to more people certainly mean something to people in the military but I wonder how
+00:10:44 many people who aren't in the military start to think about this it's like oh yeah we are kind of running separate
+00:10:51 experiments and we are not China  so you think this is kind of a period that might be studied for years to come from
+00:10:58 my perspective we are a part of the experi but I don't feel like we have access to the full data the full data of the
+00:11:05 experiment we're just like little mice yeah in a large does this one make sense to you Lex I'm romanticizing it and I
+00:11:15 keep connecting it to World War two so I keep connecting to historical events and making sense of them through that way
+00:11:23 or reading the plague by Camus like almost kind of telling narratives and stories but my I'm not hearing the
+00:11:33 suffering that people are going through because I think that's quiet everybody's numb currently they're not
+00:11:41 realising what it means to have lost your job and to have lost your business there's kind of a I am
+00:11:52 I'm afraid how that fear well material as itself once the numbness wears out and especially if this lasts for many
+00:12:01 months then if it's connected to the incompetence of the CDC in the w-h-o and our government and perhaps the election
+00:12:11 process you know might be biggest fear is that the you know elections get delayed or something like that so the
+00:12:19 the basic mechanisms of our democracy get slowed or damaged in some way that then mixes with the fear that people
+00:12:28 have that turns to panic that turns to anger that anger can I just play with that for a butcher what if in fact all
+00:12:38 of that structure that you grew up thinking about and again you grew up in two places right so when you were inside
+00:12:48 the US we tend to look at all of these things as museum pieces like how often do we amend the Constitution anymore and
+00:12:56 in some sense if you think about the Jewish tradition of Simchat Torah you've got this beautiful scroll that has been
+00:13:06 lovingly hand drawn in calligraphy that's very valuable and it's very important that you not treat it
+00:13:16 as a relic to be revered and so we one day a year we dance with the Torah and we hold this incredibly vulnerable
+00:13:24 document up and we treat it as if you know it was Ginger Rogers being led by Fred Astaire well that is how you become
+00:13:35 part of your country in fact maybe the maybe the election will be delayed maybe extraordinary powers will be used maybe
+00:13:41 any one of a number of things will indicate that you're actually living through history this isn't a museum
+00:13:46 piece that you handed by your great-great grandparents but you're kind of suggesting that there might be a like
+00:13:54 a community thing that pops up lucky like as opposed to an angry revolution it might have a positive effect oh well
+00:14:05 for example are you telling me that if the right person stood up and called for us to sacrifice PPE for our nurses and
+00:14:17 our MDS who are on the front lines that like people wouldn't reach down deep in their own supply that they've been like
+00:14:24 stalking and carefully storing they just said here take it like right now an actual leader would
+00:14:35 use this time to bring out the heroic character and I'm going to just go wildly patriotic cuz I freaking love
+00:14:42 this country we've got this dormant population in the u.s. that loves leadership and country and pride in our
+00:14:51 freedom and not being told what to do and we still have this thing that binds us together and all of them the
+00:15:00 merchants of division just be gone I totally agree with you there's a I think there is a deep hunger for that
+00:15:07 leadership why isn't that why hasn't one of yours we don't have the right Surgeon General we have as guys saying you know
+00:15:14 come on guys don't buy masks they don't really work for you save them for our healthcare professionals no you can't do
+00:15:22 that you have to say you know what these masks will actually do work and they more work to protect other people
+00:15:28 from you but they would work for you they'll keep you somewhat safer if you wear them here's the deal you've got
+00:15:34 somebody who's taking huge amounts of viral load all the time because the patients are shedding do you want to
+00:15:39 protect that person who's volunteered to be on the frontline who's up sleepless nights he you just changed the message
+00:15:46 you stop lying to people you just yeah you level with them it's like it's bad absolutely but that's  that's a little
+00:15:53 bit specific so you you have to be just honest about the facts of the situation yes but I think you were referring to
+00:15:59 something bigger than just that yes inspiring like you know rewriting the Constitution sort of rethinking how we
+00:16:08 work as a nation yeah I think you should probably you know amend the Constitution once or twice in a lifetime so that you
+00:16:16 don't get this distance from the foundational documents and you know part of the problem is that we've got two
+00:16:23 generations on top that feel very connected to the US they feel bought in and we've got three generations below
+00:16:30 it's a little bit like watching your parents riding the tricycle that they were supposed to pass on to you and it's
+00:16:37 like you're now too old to ride a tricycle and they're still whooping it up ringing the bell with the streamers
+00:16:42 coming off the handlebars and you're just thinking do you guys never get bored do you never pass a torch do you
+00:16:49 really want it we had five septuagenarians all born in the 40s running for president the United States
+00:16:55 when cloture dropped out the youngest was Warren we had Warren Biden Sanders Bloomberg and Trump for like 1949 to
+00:17:05 1941 all who have been the the oldest president and inauguration and nobody nobody says grandma grandpa you're
+00:17:15 embarrassing us except Joe Rogan let me put it on you you have a big platform you're somewhat of an intelligent
+00:17:22 eloquent guy what what role do you somewhat what role do you play why aren't you that leader well you're I
+00:17:30 mean I would argue that you're in in ways becoming that leader so I haven't taken enough risk is that your idea what
+00:17:38 should I do or say at the moment no you're a little bit you have taken quite a big risks and
+00:17:44 we'll talk about it all right but you're also on the outside shooting in meaning you're dismantling the institution from
+00:17:59 the outside as opposed to becoming what the institution did you remember that thing you brought
+00:18:05 up when you were on the view if you I'm sorry when you were on Oprah I didn't make I didn't get the end I'm sorry when
+00:18:13 you were on Bill Maher's program what was that thing you were saying they don't know we're here they may watch us
+00:18:25 yeah they may quietly to us you know slip us a direct message but they pretend that this internet thing is some
+00:18:32 dangerous place where only lunatics play well who has the bigger platform the portal or Bill Maher's program or the
+00:18:41 view Bill Maher in the view in terms of viewership or in terms of what's the metric of size well first of all the key
+00:18:50 thing is take take a newspaper and they even imagine that it's completely fake okay and then there's very little in the
+00:18:58 way of circulation yet imagine that it's a hundred-year-old paper and that it's still part of this game
+00:19:05 this internal game of media the key point is is that those sources that have that kind of mark of respectability to
+00:19:16 the institutional structures matter in a way that even if I say something at a very large platform that makes a lot of
+00:19:23 sense if it's outside of what I've called the gated institutional narrative or gin it sort of doesn't make matter to
+00:19:30 the institutions so the game is if it happens outside of the club we can pretend that it never happened how can
+00:19:38 you get the credibility and authority from outside the gated institutional narrative I'm well first of all you you
+00:19:49 and I both share institutional credibility coming from our associations we were both at MIT yes were you at
+00:19:58 Harvard at any point nope okay well and lived in Harvard Square so did I but you know at some level it the
+00:20:07 issue isn't whether you have credentials in that sense the key question is can you be trusted to file a flight plan and
+00:20:15 not deviate from that flight plan when you are in an interview situation will you stick to the talking points I will
+00:20:23 not and that's why you're not going to be allowed in the general conversation which amplifies these sentiments but I'm
+00:20:31 still trying to see your point it would be is that we're let's say both so you've done how many Joe Rogan before
+00:20:38 I've done for two right so both of us are somewhat frequent guests the show is huge you know the power as well as I do
+00:20:44 and people are gonna watch this conversation huge number watched our last one by the way that I want to thank
+00:20:50 you for that one that was a terrific terrific conversation really did change my life lecture my life you're brilliant
+00:20:57 interviewer so thank you take care that was that you changed my life to that you gave me a chance
+00:21:04 so no no I'm so glad I did that one what I would say is is that we keep mistaking how big the audience is for whether or
+00:21:11 not you have the kiss and the kiss is a different thing yes yeah that's it doesn't it's not an acronym yet okay um
+00:21:18 it's thank you for asking it's a question of are you part of the inter interoperable institution friendly
+00:21:26 discussion and that's the discussion which we ultimately have to break into but that's what I'm trying to get at is
+00:21:33 how do we how do you how does Eric Weinstein become the president of the United States me I shouldn't become the
+00:21:38 president of the United States not interested thank you very much for us okay get into a leadership position
+00:21:44 where I guess I don't know what that means but where you can inspire millions of people to the inspire the sense of
+00:21:55 community inspire the the kind of action is required to overcome hardship the kind of hardship that we may be
+00:22:02 experiencing to inspire people to work hard and face the difficult hard facts of the realities we're living
+00:22:08 through all those kinds of things that you're talking about that leader you know cannot leader emerge from the
+00:22:19 current institutions or alternatively can it also emerge from the outside I guess that's what I was asking so my
+00:22:24 belief is is that this is the last hurrah for the elderly centrist kleptocrats can you define each of those terms okay
+00:22:37 elderly I mean people who were born at least a year before I was that's a joke you can laugh no because I'm born at the
+00:22:51 centrist they're pretending you know that there are two parties Democrat and Republican Party in the United States I
+00:22:56 think it's easier to think of the mainstream of both of them as part of a an aggregate party that I sometimes call
+00:23:02 the looting party which gets us to kleptocracy which is ruled by thieves and the great temptation has been to
+00:23:10 treat the us like a trough and you just have to get yours because it's not like we're doing anything productive so
+00:23:15 everybody's sort of looting the family mansion and somebody stole the silver and somebody's cutting the pictures out
+00:23:21 of the frames you know roughly speaking we're watching our elders live it up in a way that doesn't make sense to the
+00:23:30 rest of us okay so if it's let the last hoorah this is the time for leaders to step up like we're not ready yet we're
+00:23:40 not ready I call I call out you know the head of the CDC should resign should resign that the Surgeon General should
+00:23:48 resign Trump should resign Pelosi should resign de Blasio should we're not going to resign I understand that so that's
+00:23:56 why so we'll wait no but that s not how revolutions work you don't wait for people to design you step up and inspire
+00:24:04 the alternative do you remember the Russian Revolution of 1907 it's before my time but there wasn't a Russian
+00:24:13 Revolution of 1907 years think he were in 1907 that I'm saying where to work you too early but we got this
+00:24:21 you know Spanish flu came in 1718 so I would argue that there's a lot of parallels there or the one I think it's
+00:24:26 not time yet like John Prine the the songwriter just died of kovat that was a pretty big
+00:24:37 really yeah by the way you yes of course I every time we do this we discover our mutual appreciation of obscure brilliant
+00:24:48 witty yeah song right he's really he's really quite good right he's he's really good yeah he died my understanding is
+00:24:54 that he passed recently due to complications of Corona so we haven't had large enough enough large ink large
+00:25:05 enough shocking deaths yet picturesque deaths deaths of a family that couldn't get treatment there are stories that
+00:25:13 will come and break our hearts and we have not had enough of those the visuals haven't come in but I think they're
+00:25:19 coming well we'll find out but that you got a you have to be there he have to be there when they come I'm yet but we
+00:25:24 didn't get the visual for example a falling man from 9/11 right so the outside world did but Americans were not
+00:25:33 I was thought that we would be too delicate so just the way you remember pule a surprise wedding photographs from
+00:25:38 the Vietnam era you don't easily remember the photographs from all sorts of things
+00:25:44 that have happened since because something changed in our media we are incensed that we cannot feel or
+00:25:52 experience our own lives and the tragedy that would animate us to action yeah but I think there again I think there's
+00:25:59 going to be that suffering that's going to build and build and build in terms of businesses mom-and-pop shops that close
+00:26:09 and like I think for myself I think off tonight that I'm being weak and and like I feel like I should be doing something
+00:26:20 I should be becoming a leader on a small scale you can't this is not World War two and this is not Soviet Russia why
+00:26:30 not why not because our internal programming the malware that sits between our ears is
+00:26:38 much different than the propaganda is malware of the Soviet era I mean people were both very indoctrinated and also
+00:26:51 knew that it was BS they had a double mind I don't know him there must be a great word in Russian for being able to think
+00:26:58 both of those things simultaneously you don't think people are actually sick of the partisanship sick of incompetence
+00:27:08 yeah but I call for revolt the other day on Joe Rogan people found it quixotic well because I think you're not
+00:27:16 I think revolt is different I think asks like okay I'm really angry yes I'm furious I cannot stand that this
+00:27:24 is my country at the moment I am embarrassed so let's build a better one yeah that's the I mean okay so well okay
+00:27:33 so let's take over a few universities let's start running a different experiment at some of our better than
+00:27:39 universities like when I did this experiment I said what at this if this were 40 years ago the median age I
+00:27:47 believe of a university president was 51 that would have the person in Gen X and we'd have a bunch of millennial
+00:27:55 presidents a bunch of you know more than half Gen X it's almost 100% baby boom at this moment and how did that happen we
+00:28:04 can get into how they changed retirement but this generation above us does not feel for even even the older generous I
+00:28:15 love jittery I had roger penrose on my program excellent coffee and I thank you really appreciate that and I asked no
+00:28:21 question it was very important to me and I said look you're in your late 80s is there anyone you could point to as a
+00:28:28 successor that we should be watching we can get excited you know I said here's an opportunity to pass the baton and he
+00:28:35 said well let me let me hold off on that is it ever the right moment to point to somebody younger than you to keep your
+00:28:42 flame alive after you're gone and also like I don't know whether I'm just gonna admit to this people treat me like I'm
+00:28:48 crazy for caring about the world after him dead or wanting to be remembered after you're gone like well
+00:28:54 what does it matter to you you're gone it's this deeply sort of secular somatic perspective on everything we're we we
+00:29:03 don't you know that phrase in as time goes by it says it's still the same old story a fight for love and glory a case
+00:29:15 of do it I don't think people imagined then that there wouldn't be a story about fighting for love and glory and
+00:29:23 like we are so out of practice about fighting you know rivals for love and and and in fighting for glory and
+00:29:34 something bigger than yourself but the hunger is there well that was the point then right the whole idea is that Rick
+00:29:41 was you know it was like Han Solo of his time he's just like I stick my neck out for nobody you know it's like oh come on
+00:29:47 Rick you're just pretending you actually have a big soul right and so at some level that's the question do we have a
+00:29:53 big Soler's it's just all see I think I think there's huge Manhattan Project style projects whether
+00:30:01 you talk about physical infrastructure or going to Mars you know the SpaceX NASA efforts or huge
+00:30:10 huge scientific efforts well let me get back into the institutions and we need to remove the weak leadership that we
+00:30:15 have weak leaders and the weak leaders need to be removed and they need to seat people more dangerous than the people
+00:30:21 who are currently sitting in a lot of those chairs or build new institutions good luck
+00:30:30 well I one of the nice things of from the internet is for example somebody like you can have a bigger voice than
+00:30:38 almost anybody at the particular institutions we're talking about that's true but the thing is I might say
+00:30:45 something you can count on the fact that the you know Provost at Princeton isn't going to say anything what do you mean
+00:30:51 too afraid well if that person were to give an interview how are things going in in in
+00:30:57 research at Princeton well I'm hesitant to say it but they're perhaps as good as they've
+00:31:03 ever been and I think they're gonna get better oh is that right all fields yep oh yeah I don't see a weak one that's
+00:31:09 just like okay great who are you and what it even say we're just used to total nonsense 24/7 yeah
+00:31:20 what do you think might be a beautiful thing that comes out of this like what is there a hope it like a little inkling
+00:31:29 a little fire of hope you have about our time right now yeah I think one thing is coming to understand that the freaks
+00:31:40 weirdos mutants and other narrow duels sometimes referred to as grifters I like that one
+00:31:48 grifters and gadflies were very often the earliest people on the crown of iris that's a really interesting question why
+00:31:57 was that and it seems to be that they had already paid such a social price that they weren't going to be beaten up
+00:32:07 by being told that oh my god you're xenophobic you just hate China you know or wow you sound like a conspiracy
+00:32:15 theorist so if you've already paid those prices you were free to think about this and everyone in an institutional
+00:32:21 framework was terrified that they didn't want to be seen as the alarmist the Chicken Little and so that's why you
+00:32:31 have this confidence where you know de Blasio says you know get on with your lives get back in there and celebrate
+00:32:37 Chinese New Year in Chinatown despite coronavirus it's like okay really so you just always thought
+00:32:44 everything would automatically be okay if you if you adapted sorry if you adopted that posture so you think this
+00:32:52 time reveals the weakness of our institutions and reveals the strength of our gadflies and the weirdos and no not
+00:33:00 necessary the strength but the the the value of freedom like a different way of saying it would be Wow even your
+00:33:07 gadflies and your grifters were able to beat your institutional folks because your institutional folks we're playing
+00:33:14 with a giant mental handicap so just imagine like you're in the story of Harrison Bergeron
+00:33:20 by Vonnegut and our smartest people were all subjected to distracting noises every seven seconds well they would be
+00:33:30 functionally much dumber because they couldn't continue a thought through all the disturbance so in some sense that's
+00:33:36 a little bit like what belonging to an institution is is that if you have to make a public statement of course the
+00:33:40 search in general is going to be the worst because they're just playing with too much of a handicap they're too many
+00:33:46 institutional players really don't screw us up and so the person has to say something wrong we're gonna back
+00:33:54 propagate a falsehood and this is very interesting some of my socially oriented friends say Eric I don't understand what
+00:34:00 you're on about of course masks work but you know what they're trying to do they're trying to get us not to buy up
+00:34:05 the masks for the doctors and I think okay so you imagine that we can just create scientific fiction at will so
+00:34:12 that you can run whatever social program you want this is what I mean my point is get out of my lab get out of the lab you
+00:34:18 don't belong in the lab you're not meant for the lab you're constitutionally incapable of being around the lab you
+00:34:24 need to leave the lab you think the CDC and whu-oh knew that masks work and we're trying to sort of imagine that
+00:34:33 people are kind of stupid and they would buy masks and in in excess if they were told that masks work
+00:34:43 is that like because this does seem to be a particularly clear example of mistakes made you're asking me this
+00:34:52 question yeah no you're not what do you think Lex well I actually probably disagree with you a little bit great
+00:34:58 let's do it I think it's not so easy to be honest with the populace when the danger of
+00:35:08 panic is always around the corner so I I think the kind of honesty you exhibit appeals to a certain class of
+00:35:22 brave intellectual minds that it appeals to me but I don't know the perspective wh Oh I don't know if
+00:35:32 it's so obvious that they should be honest 100% of the time with people I'm not saying you should be perfectly
+00:35:41 transparent and 100% honest I'm saying that the quality of your lies has to be very high and asked my public spirited
+00:35:48 is there a big difference between so I'm not not a child about this yeah I'm not saying that when you're at war
+00:35:54 for example you turn over all of your plans to the enemy because it's important that you're transparent with
+00:36:01 360 degree visibility far from it what I'm saying is something has been forgotten and I forgot who it was who
+00:36:08 told it to me it was a fellow graduate student in the harvard math department and he said you know i learned one thing
+00:36:15 being out in the workforce because he was one of the few people who had a work life in the department as a grad student
+00:36:23 and he said you can be friends with your boss but if you're going to be friends with your boss you have to be doing a
+00:36:31 good job at work and there's an analog here which is if you're going to be reasonably honest with the population
+00:36:38 you have to be doing a good job at work as the Surgeon General or as the head of the CDC so if you're doing a terrible
+00:36:47 job you're supposed to resign and then the next person is supposed to say look I'm not gonna lie to you I inherited the
+00:36:54 situation it was in a bit of disarray but I had several requirements before I agreed to step in and take the job
+00:37:00 because I needed to know I could turn it around I needed to know that I had clear lines of authority I needed to know that
+00:37:05 I had the resources available in order to rectify the problem and I needed to know that I had the ability in the
+00:37:09 freedom to level with the American people directly as I saw fit all of my wishes were granted and that's why I'm
+00:37:16 happy here on Monday morning I've got my sleeves rolled up boy do we got a lot to do so please come back in two weeks and
+00:37:21 then ask me how I'm doing then and I hope to have something to show you that's how you do it so why is that
+00:37:30 excellence and basic competence missing the big nap you see you come from multiple traditions where it was very
+00:37:37 important to remember things the Soviet tradition made sure that you remembered the sacrifices that came in
+00:37:46 that war in the Jewish tradition we're doing this on Passover right okay well every year we tell one simple story well
+00:37:54 why can't it be different every year maybe we can have a rotating series of sevens do it because it's the one story
+00:38:01 that you need it's like you know you work with the men in black group right and it's the last suit that you'll ever
+00:38:06 need this is the last story that you ever need don't think I fell for your neuralyzer last time in any event we
+00:38:15 tell one story because it's to get out of Dodge story there's a time when you need to not wait for the the bread to
+00:38:22 rise and that's the thing which is even if you live through a great nap you deserve to know what it feels like to
+00:38:29 have to leave everything that has become comfortable and and unworkable it's said that you need you need that
+00:38:40 tragedy I imagine to have the tradition of remembering it's it's sad to to think that because things have been nice and
+00:38:50 comfortable means that we can't have great competent leaders which is kind of the implied statement like can we have
+00:39:02 great leaders who take big risks or who inspire hard work who deal with difficult truth even though things have
+00:39:10 been comfortable well we know what those people sound like I mean you know if for example Jocko willing suddenly threw his
+00:39:19 hat into the ring everyone would say okay right party's over it's time to get up at 4:30 and really work hard and
+00:39:28 we've got to get back into fighting and yeah but Jocko is a very special I think that whole group of people by
+00:39:41 profession put themselves in the way of and into hardship on a daily basis and he's not well I don't know but he's
+00:39:50 probably not going to be okay Jocko be president okay but it doesn't have to be Jocko right like in
+00:39:56 other words if it was Kyle ne or if it was Alex Honnold from rock-climbing right but they're just serious people
+00:40:08 they're serious people who can't afford your BS yeah but why do we have serious people that do rock climbing and don't
+00:40:19 have serious people who lead the nation that that seems because that was a those skills needed in rock climbing are not
+00:40:29 good during the big nap and at the tail end of the big nap they would get you fired but I don't don't you think there's a
+00:40:35 fundamental part of human nature that desires to excel to be exceptionally good at your job yeah but what is your
+00:40:44 job I mean in other words my my point to you is if you if you're a general in a peacetime army and your major activity
+00:40:52 is playing war games what if the skills needed to win war games are very different than the skills needed to win
+00:40:57 wars because you know how the war games are scored and you've you've done Moneyball for example with wargames you
+00:41:05 figured out how to win games on paper so then the the advancement skill becomes divergent from the ultimate skill that
+00:41:14 it was proxying for yeah but you create this we're good as human beings to I mean I thought at least me I can't do a
+00:41:23 big nap so at any one moment when I finish something a new dream pops up so right going to Mars go to what do you
+00:41:29 like to do you like to do Brazilian Jujitsu well first of all I like to do every you like to play guitar guitar you
+00:41:36 do this podcast you do theory you're always you're constantly taking risks and exposing yourself all right why
+00:41:44 because you got one of those crazy I'm sorry to say it you got an Eastern European Jewish personality which I'm
+00:41:49 still tied to and I'm a couple generations more distant than you are and I've held on to that thing because
+00:41:57 it's valuable to me you don't think there's a huge percent of the populace even in the United States that's that's
+00:42:03 that oh maybe a little bit doormen but do you know Anna Hutchins from the Red Scare podcast did you interview her
+00:42:10 yeah yeah yeah yeah yeah she was great she was great right yeah it's just fun she's she's terrific
+00:42:15 but she also has the same thing going on and I made a joke in the liner notes for that episode which is somewhere on the
+00:42:23 road from Stalingrad to forever 21 something was lost like how can Stalingrad and forever 21 be in the same
+00:42:31 sentence and you know in part it's that weird thing it's like trying to remember even words like I mean Russian and
+00:42:37 Hebrew things like it's like what poem yet and this core you know these words have much more potency about memory and
+00:42:48 I don't know I do I think I think there's still a dormant populace that craves leaders on a small scan large
+00:42:57 scale and I hope to be that leader and on a small scale and I think you sir have a role to be a leader you kids go
+00:43:07 ahead without me I'm just gonna I'm gonna do a little bit of weird podcasting see see now you're you're
+00:43:14 putting on your Joe Rogan hat he says I'm just a comedian oh no I'm gonna say I'm just it's not that if I say I want
+00:43:21 to lead too much because of the big nap there's like a group a chorus of automated idiots and they're there first
+00:43:27 I was like oh I knew it it's a power grab all along why should you leave you know it's just like and so
+00:43:33 the idea is you're just trying to skirt around not stepping on all of the idiot landmines it's like okay so now I'm
+00:43:40 gonna hear that in my inbox for the next three days okay so lead by example just live no I
+00:43:46 mean large platform look we should take over the institutions there are institutions we've got bad leadership we
+00:43:54 should mutiny and we should inject a 15% 20% disagreeable dissident very aggressive loner individual mutant
+00:44:02 freaks all the people that you go to see Avengers movies about or the x-men or whatever it is and stop pretending that
+00:44:08 everything good comes out of some great giant inclusive communal 12-hour meeting it's like stop it
+00:44:21 that's not how happens you recently published the video of a lecture he gave at Oxford presenting some aspects of a
+00:44:29 theory theory of everything called geometric unity so this was a work of 30 30 plus years this is his life's work
+00:44:40 let me ask her of the silly old question how do you feel as a human excited scared the experience of posting it you
+00:44:49 know it's funny one of the one of the things that you you learn to feel as an academic is the great sins you can
+00:44:59 commit in academics is to show yourself to be a non-serious person to show yourself to have delusions to avoid the
+00:45:09 standard practices which everyone has signed up for and you know it's weird because like you know that those people
+00:45:21 are gonna be angry he did what you know why would he do that and and what we're referring to for example as traditions
+00:45:29 of sort of publishing incrementally certainly not trying to have a theory of everything perhaps working within the
+00:45:37 academic departments yeah all those things so that's true and so you're going outside of all of that well I mean
+00:45:46 I was going inside of all of that and we did not come to terms when I was inside and what they did was so outside to me
+00:45:55 was so weird so freakish like the most senior respectable people at the most senior respectable places were
+00:46:01 functionally insane as far as I could tell and again it's like being functionally stupid if you're the head
+00:46:08 of the CDC or something where you know you're giving recommendations out there aren't based on what you actually
+00:46:13 believe they're based on what you think you have to be doing well in some sense I think that that's a lot of how I saw
+00:46:21 the math and physics world as the physics world was really crazy and the math world was considerably less crazy
+00:46:27 just very strict and kind of dogmatic will psychoanalyze those folks but I really want to maybe linger on it
+00:46:36 a little bit longer of how you feel because yeah so it's such a such a special moment in your life I really
+00:46:41 appreciate it's a great question so that if we can pair off some of that others those other issues its new being able to
+00:46:54 say what the observer's is which is my attempt to replace space-time with something that is both closely related
+00:47:02 to space time and not space-time so I used to carry the number 14 as a closely guarded secret in my life and where 14
+00:47:11 is really four dimensions of space and time plus ten extra dimensions of rulers and protractors or four the cool kids
+00:47:21 out there symmetric to tensors she had a geometric complicated beautiful geometric view of the world that you
+00:47:28 carry with you for a long time yeah did you did you have friends that you colleagues essentially no talk no in
+00:47:37 fact part of these part of that some of these stories are me coming out to my friends and I used the phrase coming out
+00:47:45 because I think that gays have monopolized the concept of the closet many of us are in closets haven't having
+00:47:50 nothing to do with their sexual orientation yeah I didn't really feel comfortable talking to almost anyone so
+00:48:00 this was a closely guarded secret and I think that I let on in some ways that I was up to something and probably but it
+00:48:07 was a very weird life so I did write I have a series of things that I pretended to care about so that I could use that
+00:48:13 as the stalking horse for what I really cared about and to your point I never understood this whole thing about
+00:48:19 theories of everything like if you were gonna go into something like theoretical physics isn't that what you would
+00:48:26 normally pursue like wouldn't it be crazy to do something that difficult and that poorly paid if you we're gonna try
+00:48:32 to do something other than figure out what this is all about now I have to reveal my cards my weaknesses and lack
+00:48:41 an understanding of the music of physics and math departments but there's an analogy here to artificial intelligence
+00:48:50 and often folks come in and say okay so there's a giant department working on quote-unquote artificial intelligence
+00:48:58 but why is nobody actually working on intelligence like it you're all just building little toys right you're not
+00:49:06 actually trying to understand and that breaks a lot of people and that they it confuses them it's like okay so I'm at
+00:49:15 MIT I'm at Stanford I'm at Harvard I'm here I dreamed of being what kind of artificial intelligence why is everybody
+00:49:23 not actually working on intelligence and I have the same kind of sense that that's what working on the theory of
+00:49:30 everything is that's strangely you somehow become an outcast for even but we know why this is right why well it's
+00:49:38 because let's take the artificial it's play with a GI for example yeah I think that the idea starts off with nobody
+00:49:46 really knows how to work on that and so if we don't know how to work on it we choose instead to work on a program that
+00:49:53 is tangentially related to it so we do a component of a program that is related to that big question because it's felt
+00:50:00 like at least I can make progress there and that wasn't where I was where I was in it's funny there was this book of
+00:50:09 called Friedan lan beck and it had this weird mysterious line in the beginning of it and I tried to get
+00:50:16 clarification of this weird mysterious line and everyone said wrong things and then I said okay well so I can tell that
+00:50:23 nobody's thinking properly because I just asked the entire department and nobody has a correct interpretation of
+00:50:30 this and so you know it's a little bit like you see a crime-scene photo and you have a different idea like there's a
+00:50:38 smoking gun and you figure that's actually a cigarette lighter I don't really believe that and then there's
+00:50:43 like a pack of cards and you think huh that looks like the blunt instrument that the person was beaten with you know
+00:50:49 so you have a very different idea about how things go and very quickly you realize that there's no one thinking
+00:50:54 about them there's a few human-sized to this and technical size both of which I'd love to
+00:51:02 try to get down to so the human side I can tell from my perspective I think it was before April 1st and April Fool's
+00:51:10 maybe the day before I forget but I was laying in bed in the middle of the night and somehow it popped up you know i am i
+00:51:21 feed somewhere that your beautiful face is speaking live and i clicked and you know it's kind of weird how the universe
+00:51:29 just brings things together in this kind of way and all sudden i realized that there's something big happening in this
+00:51:36 particular moment is strange like any day on a day like any day and all of a sudden you were thinking of you had this
+00:51:46 somber tone like you were serious like you were going through some difficult decision and it seems strange I almost
+00:51:56 thought you were maybe joking but there's a serious decision being made and it was a wonderful experience to go
+00:52:01 through with you I really appreciate it it was April 1st yeah it was it's kind of fascinating him he's just the whole
+00:52:10 experience and and and so that I want to ask I mean thank you for letting me be part of that kind of journey of
+00:52:17 decision-making that took 30 years but why now why did you think why did you struggle so long not to
+00:52:27 release it and decide to release it now Anna while the whole world is on lockdown an April Fool's is it just
+00:52:36 because you like the comedy of absurd ways that the universe comes together I don't think so I think that the Cova
+00:52:45 Depa demmick is the end of the big nap and I think that I actually tried this seven years earlier in Oxford so I and
+00:52:57 it was too early which part was too is it the the platform because your plight different now actually the Internet I
+00:53:05 remember you I read several your brilliant answers that people should read for the edge
+00:53:09 one of them was related to the Internet and it was the first one was it the first one yeah that's a called go
+00:53:16 virtual young man yeah yeah that seemed that's like forever ago now well that was ten years ago and that's
+00:53:22 exactly what I did is I decamped to the Internet which is where the portal lives the portal the portal yeah the theme
+00:53:31 that's ramen esteem music he just listened to forever I actually started recording tiny guitar licks for the
+00:53:40 audio portion not for the video portion you kind of inspired me with bringing your guitar into the story but keep
+00:53:47 going you see you thought so the Oxford was like step one you kind of yet you put your foot into the in the water to
+00:53:54 sample it but it was too cold at the time so you didn't want to step in just really disappointed what was
+00:53:59 disappointing about that experience very is it's a hard thing to talk about it has to do with the fact that and I can
+00:54:08 see this in this you know as mirrors a disappointment within myself there are two separate issues one is the issue of
+00:54:15 making sure that the idea is actually heard and explored and the other is the is the question about will I become
+00:54:24 disconnected from my work because it will be ridiculed it will it will be immediately improved it will be found to
+00:54:30 be derivative of something that occurred in some paper in 1957 when the community does not want you to gain a voice it's a
+00:54:39 little bit like a policeman deciding to weirdly and enforce all of these little-known regulations against you and
+00:54:49 you know sometimes nobody else and I think that's kind of you know this weird thing where I just don't believe that we
+00:55:00 can reach the final theory necessarily within the political economy of academics so if you think about how
+00:55:07 academics are tortured by each other and have their paid and where they have freedom and where they don't
+00:55:13 I actually weirdly think that that system of selective pressures is going to eliminate anybody who's going to make
+00:55:19 real progress so that's interesting so if you look at the story of Andrew Wiles for example
+00:55:26 with from last Last Theorem he as far as I understand he pretty much isolated himself from the world of academics in
+00:55:33 terms of the big with the bulk of the work he did and it from my perspective is dramatic and fun to read about but it
+00:55:41 seemed exceptionally stressful the first step he took the first steps he took when actually making the work public
+00:55:48 that's him to me would be hell now but it's like so artificially dramatic you know he leads up to it at a series of
+00:55:57 lectures he doesn't want to say it and then he finally says it at the end because obviously this comes out of a
+00:56:03 body of work where I mean the funny part about for Moz le'ts theorem is that wasn't originally thought to be a deep
+00:56:09 and meaningful problem it was just an easy to state one that had gone unsolved but if you think about it it became
+00:56:16 attached to the body of regular theory so he built up this body of regular theory gets all the way up to the end
+00:56:24 announces and then like there's this whole drama about okay somebody's checking the proof I don't understand
+00:56:30 what's going on on line 37 you know and like oh is this serious seems a little bit more serious than we knew I mean do
+00:56:35 you see parallels you share the concern that the year your experience might be something similar well in his case I
+00:56:41 think that if I recall correctly his original proof was unsalvageable he actually came up with a second proof
+00:56:51 with a colleague Richard Taylor and it was that second proof which carried the day so it was a little bit that he got
+00:56:57 put under incredible pressure and then had to succeed in a new way having failed the first time which is like even
+00:57:03 a weirder and stranger store has an incredible story in some sense but I mean a you I'm trying to get a sense of
+00:57:10 the kind of stress I think this is okay but I'm rejecting what I don't think people understand with me is the scale
+00:57:20 of the critique it's like I don't you people say well you must implicitly agree with this and implicitly agree
+00:57:27 it's like now try me ask before you you decide that I am mostly an agreement with the community about how these
+00:57:32 things should be handled or what these things mean keo keo and also just why this criticism matter
+00:57:45 so much here so you seem to dislike the burden of criticism that it will choke away all a lot of different kinds of
+00:57:52 criticism there's constructive criticism and there's destructive criticism and what I don't like is I don't like a
+00:58:02 community that can't first of all like if you take the physics community just the way we screwed up on masks in PPE
+00:58:09 just the way we screw it up in the financial crisis and mortgage-backed securities we screw it up on string
+00:58:14 theory can we just forget the string theory happened or sure but let if somebody should say that right somebody
+00:58:21 should say you know it didn't work out yeah but okay but you're asking this like why do you guys get to keep the
+00:58:30 prestige after failing for 35 years that's an interesting point you guys because to me where the profession look
+00:58:37 these things if there is a theory of everything to be had right it's going to be a relatively small group of people
+00:58:43 where this will be sorted out absolutely it's it's it's not tens of thousands it's probably hundreds at the
+00:58:52 top but within that within that community there's the mm-hmm there's the I mean you have you always
+00:59:03 in this world have people who are kind open my mind is it's a question about okay let's imagine for example that you
+00:59:13 have a story where you believe that ulcers are definitely caused by stress and you've never questioned it or maybe
+00:59:20 you felt like the Japanese came out of the blue and attacked us at Pearl Harbor right and now somebody introduces a new
+00:59:27 idea to you which is like what if it isn't stress at all or what if we actually tried to make
+00:59:33 resource start of Japan attack us somewhere in the Pacific so we could have cast a spell I to enter the Asian
+00:59:39 theater in persons original ideas like what what do you even say you know it's like two crazy
+00:59:48 well when Dirac in 1963 talked about the importance of beauty as a guiding principle in physics and he
+00:59:55 wasn't talking about the scientific method that was crazy talk but he was actually making a great point and he was
+01:00:02 using Schrodinger and I think it was Schrodinger was standing in for him and he said that if your equations don't
+01:00:09 agree with experiment that's kind of a minor detail if they have true beauty in them you should explore them because
+01:00:16 very often the agreement with experiment is that it's an issue of fine tuning of your model of the instantiation
+01:00:23 and so it doesn't really tell you that your model is wrong and of course Heisenberg told Dirac that his model was
+01:00:31 wrong because that the proton and the electron should be the same mass if they are each other's antiparticles and that
+01:00:38 was a an irrelevant kind of silliness rather than a real threat to the Dirac theory but okay so I'm amidst all this
+01:00:47 silliness I'm hoping that we could talk about the journey that geometric unity has taken and will take as an idea
+01:00:56 and an idea that will see the light yeah that so first of all let's I'm thinking of writing a book called geometric unity
+01:01:04 for idiots okay and I need you as a consultant so can we first of all I hope I have the trademark on geometric units you do good
+01:01:14 can you give a basic introduction of the goals of geometric unity the basic tools of mathematics use the viewpoints in
+01:01:25 general for idiots Sharik me okay great fun so what's the goal of geometric unity the goal of geometric unity is to
+01:01:34 start with something so completely bland that you can simply say well that's a something that begins the game is as
+01:01:41 close to a mathematical nothing as possible in other words I can't answer the question why is there something
+01:01:46 rather than nothing but if there has to be a something that we begin from let it begin from something that's like a blank
+01:01:56 canvas that's even more basic so what is something what are we trying to describe okay right now we have
+01:02:04 a model of our world and it's got two sectors one of the sector's is called general relativity and the other is
+01:02:10 called the standard model so we'll call it gr for general relativity and SM for standard model what's the difference you
+01:02:19 need to what did the two describe so general relativity gives pride of place to gravity and everything else is acting
+01:02:31 is a sort of a backup singer gravity is the star of the show gravity is the star of general relativity and in the
+01:02:39 standard model the other three non-gravitational forces so if there are four forces that we know about three of
+01:02:46 the four non-gravitational that's where they get to shine great so tiny little particles and how they interact with
+01:02:54 each other so photons gluons and so-called intermediate vector bosons those are the things that the standard
+01:03:02 model showcases and general relativity showcases gravity and then you have matter which is accommodated in both
+01:03:09 theories but much more beautifully inside of the standard model so what what is a theory of everything do so
+01:03:17 about that so first of all I think that that's that that's the first place where we haven't talked enough we assume that
+01:03:23 we know what it means but we don't actually have any idea what it means and what I claim it is is that it's a theory
+01:03:32 where the questions beyond that theory are no longer of a mathematical nature in other words if I say let us take X to
+01:03:46 be a four dimensional manifold to a mathematician or physicist I've said very little I've simply said there's
+01:03:52 some place for calculus and linear algebra to to dance together and to play and that's what manifolds are they're
+01:04:01 the most natural place where that where our two greatest math theories can really intertwine which are that you own
+01:04:12 the tacos the linear algebra okay now the question is beyond that so it's sort of like saying I'm an artist
+01:04:20 and I want to order a canvas now the question is does the canvas paint itself does the can't does the canvas come up
+01:04:33 with an artist and an in paint in ink which then paint the canvas like that's the that's the hard part about theories
+01:04:40 of everything which I don't think people talk enough about okay can we just you bring up a sure and then to hand the
+01:04:46 draws itself is a the fire that lights itself or drawing hands the drawing hands yeah and every time I start to
+01:04:55 think about that my mind like shuts down no don't do that it there's a spark and this is the most beautiful part we know
+01:05:05 it's beautiful but this robots brain sparks fly so can we try to say the same thing over and over in different ways
+01:05:15 about what what would he mean by that having to be a thing we have to contend with sure like why why do you think that
+01:05:22 understand creating a theory of everything as you call the source code our understanding our source code
+01:05:30 require a view like the hand that draws itself okay well here's what goes on in the regular physics picture we've got
+01:05:36 these two main theories general relativity and the standard model right think of general relativity as more or
+01:05:49 less the theory of the canvas okay maybe you you have the canvas in a particularly rigid shape maybe you've
+01:05:54 measured it so it's got length and it's got an angle but more or less it's just canvas and length and angle and that's
+01:06:00 all that there's really general relativity is but it allows the canvas to warp a bit then we have the second
+01:06:12 thing which is this import of foreign libraries where it which aren't tied to space and time so we've got this crazy
+01:06:22 set of symmetries called su 3 cross su 2 cross u 1 we've got this collection of 16
+01:06:27 particles in a generation which are these sort of twisted spinners and we've got three copies of them then we've got
+01:06:35 this weird Higgs field that comes in and like deus ex machina solves all the problems that have been created in the
+01:06:41 play that can't be resolved otherwise that's the standard model of quantum field theory just plopped on top yes
+01:06:48 it's a problem of the the double origin story one origin story is about space and time the other origin story is about
+01:06:54 what we would call internal quantum numbers and internal symmetries and then there was an attempt to get one to
+01:07:02 follow from the other called Kaluza klein theory which didn't work out and this is sort of in that vein
+01:07:14 so you said origins story so in the hand that draws itself what is it so it's it's as if you had the canvas and then
+01:07:23 you ordered up also give me paint brushes paints pigments pencils and artists but you're saying that's
+01:07:28 like if you want to create a universe from scratch the canvas should be generating the paintbrushes and the
+01:07:34 paintbrush and they are turning the canvas yeah yeah right like usually who's the artist in this analogy well
+01:07:40 this is sorry then we're gonna get to do a religious thing I don't wanna do that okay well you know my shtick which is
+01:07:48 that we are the AI we have two great stories about the simulation and artificial general intelligence in one
+01:07:57 story man fears that some program we've given birth to will become self-aware smarter than us and will take over in
+01:08:05 another story there are genius simulators and we live in their simulation and we haven't realized that
+01:08:12 those two stories are the same story in one case we are the simulator and another case we are the simulated and if
+01:08:23 you buy those and you put them together we are the AGI and whether or not we have simulators we may be trying to wake
+01:08:30 up by learning our own source code so this could be our Skynet moment which is one of the reasons I have some issues
+01:08:34 around it I think we'll talk about that because I well that's the issue of the emergent
+01:08:40 artists within the story yeah just to get back to the point okay so so now the key point is the standard way we tell
+01:08:47 the story is is that Einstein sets the canvas and then we order all the stuff that we want and then that paints the
+01:08:55 picture that is our universe so you order the the paint you order the artist you order the brushes and that then when
+01:09:06 you collide the two gives you two separate origin stories the canvas came from one place and everything else came
+01:09:14 from somewhere else so what are the mathematical tools required to to construct consistent geometric theory
+01:09:27 you know make this concrete well somehow you need to get three copies for example of generations with 16 particles each
+01:09:38 right and so the question would be like well there's a lot there's a lot of special personality in those symmetries
+01:09:47 where would they come from so for example you've got what would be called grand unified theories that sound like
+01:09:56 su5 the Georgia a theory there's something that should be called spin ten but physicists insist on calling it s o
+01:10:03 ten there's something called the petit Salam theory that tends to be called su 4 across su 2 cross su 2 which should be
+01:10:10 called spin six crust spin four I can get into all of these but what are they all accomplishing they're all taking the
+01:10:17 known forces that we see and packaging them up to say we can't get rid of the second origin story but we can at least
+01:10:26 make that origin story more unified so they're trying-- grand unification is the attempt that's a mistake in your in
+01:10:33 you've got a mistake that the problem is it was born lifeless when when Georgia and glasha first came out with the su5
+01:10:42 theory it was very exciting because it could be tested in a South Dakota mind filled up with like
+01:10:49 cleaning fluid or something like that and they look for proton decay and didn't see it and then they gave up
+01:10:54 because in in that day when your experiment didn't work you gave up on the theory it didn't come to us born of
+01:11:02 a fusion between Einstein and and and Bohr you know and that was kind of the problem is it had this weird parenting
+01:11:10 where it was just on the Bohr side there was no Einstein Ian's contribution Lex how can I help you most
+01:11:20 I'm right here what questions you want to ask so that the most satisfying answers there's there's a there's a
+01:11:27 bunch there's a bunch of questions I want to ask I mean one and I'm trying to sneak up on you somehow to reveal in an
+01:11:38 accessible way then the nature of our universe so I can just give you a guess right like I we have to be very careful that
+01:11:46 we're not claiming that this has been accepted this is a speculation but I will I will make the speculation that
+01:11:53 what I think what you would want to ask me is how can the canvas generate all the stuff that usually has to be ordered
+01:11:58 separately all right should we do that let's go there okay so the first thing is is that you have a concept in
+01:12:08 computers called technical debt you're coding and you cut corners and you know you're gonna have to do it right before
+01:12:15 the thing is safe for the world but you're piling up some series of i/o used to yourself and your project as you're
+01:12:25 going along so the first thing is we can't figure out if you have only four degrees of freedom and that's what your
+01:12:32 canvas is how do you get at least in Stan's world Einstein says look it's not just four degrees of freedom but there
+01:12:39 need to be rulers and protractors to measure length and angle in the world you can't just have a flabby four
+01:12:47 degrees of freedom so the first thing you do is you create ten extra variables which is like if we can't choose any
+01:12:53 particular set of rulers and protractors to measure length and angle let's take the the set of all possible rulers and
+01:13:01 protractors and that would be called symmetric non-degenerate two tensors on the tangent space of the four manifold X
+01:13:10 for now because there are four degrees of freedom you start off with four dimensions then you need four rulers for
+01:13:17 each of those different directions so that's four that gets us up to eight variables and then between four original
+01:13:24 variables there are six possible angles so four plus four plus six is equal to 14 so now you've replaced x4 with another
+01:13:33 space which in the lecture I think I called you 14 but are now calling Y 14 is one of the big problems of working on
+01:13:39 something in private is every time you pull it out you sort of can't remember it you name something something new okay
+01:13:45 so you've got a fourteen dimensional world which is the original four dimensional world plus a lot of extra
+01:13:53 gadgetry for measurement and because you're not in the four dimensional world you don't have the technical debt is no
+01:13:58 now you've got a lot of technical debt because now you have to explain away a fourteen dimensional world which is a
+01:14:03 big you're taking a huge advance on your pay day check alright but aren't more dimensions allow you more freedom says I
+01:14:11 mean maybe but you have to get rid of them somehow because we don't perceive them so eventually have to collapse it
+01:14:16 down to the thing that we perceive or you have to sample a four dimensional filament within that fourteen
+01:14:23 dimensional world known as the section of a bundle ok so how do we get from the fourteen dimensional world where I
+01:14:33 imagine a lot of folate yeah you're cheating the first question was how do we get something from almost nothing
+01:14:41 like how do we get the if I've said that the who and the what in the newspaper story that is a theory of everything are
+01:14:50 bosons and fermions so let's make the who the fermions and the what the bosons think of as the players and the
+01:14:57 equipment for a game are we supposed to be thinking of actual physical things with mass or energy okay so they think
+01:15:05 about everything you see in this room so from chemistry you know it's all protons neutrons and electrons but from a little
+01:15:12 bit of not late 1960s physics we know that the protons and neutrons are all of up quarks and down quarks so
+01:15:19 everything in this room is basically up quarks down quarks and electrons stuck together with with the the what the
+01:15:28 equipment okay now the way we see it currently is we see that there are space-time indices which we would call
+01:15:37 spinners that correspond to the whoo that is the fermions the matter the stuff the up quarks the down quarks the
+01:15:47 electrons and there are also 16 degrees of freedom that come from this in the space of internal quantum numbers so in
+01:15:58 my theory in fourteen dimensions there's no internal quantum number space that figures in it's all just spin oreal so
+01:16:09 spinners in fourteen dimensions without any festooning with extra linear algebraic information there's a concept
+01:16:22 of a of spinners which is natural if you have a manifold with length and angle and y 14 is almost a manifold with
+01:16:33 length and angle it's it's so close it's in other words because you're looking at the space of all rulers and protractors
+01:16:41 maybe it's not that surprising that a space of rulers and protractors might come very close to having rulers and
+01:16:47 protractors on it itself like can you measure the space of measurements and you almost can and in a space that has
+01:16:55 length and angle if it doesn't have a topological obstruction comes with these objects called spinners now the spinners
+01:17:05 are the stuff of of our world we are made of spinners they're the most important really deep object that I can
+01:17:11 tell you about they were very surprising what is this spinner so famously there are these weird things that require 720
+01:17:23 degrees of rotation in order to come back to normal and that doesn't make sense and be the reason for this is that
+01:17:30 there's a knotted miss in our three-dimensional world that people don't observe and then you know you can
+01:17:38 famously see it by this Dirac string trick so if you take a glass of water imagine that this was a tumbler and I
+01:17:43 didn't want to spill any of it and the question is if I rotate the cup without losing my grip on the base 360 degrees
+01:17:55 and I can't go backwards is there any way I can take a sip and the answer is this weird motion which is go over first
+01:18:06 and under second and that that's 720 degrees of rotation to come back to normal so that I can take a set
+01:18:11 well that weird principle which sometimes is known as the Philippine wineglass dance because waitresses in
+01:18:17 the Philippines apparently learned how to do this that that move defines if you will this hidden space that nobody knew
+01:18:29 was there of spinors which Dirac figured out when he took the square root of something called the klein-gordon
+01:18:39 equation which I think had earlier work incorporated from carton and killing in company in mathematics so the spinners
+01:18:45 are one of the most profound aspects of human existence and you forgive me for the perhaps dumb questions but what a
+01:18:52 spinner be the mathematical objects that's the basic unit of our universe when you when you start with a manifold
+01:19:03 which is just like something like a doughnut or a sphere circle or a Mobius band a spinner is usually the first
+01:19:12 wildly surprising thing that you found was hidden in your original purchase so you you order a manifold and you didn't
+01:19:21 even realize it's like buying a house and finding a panic room inside that you hadn't counted on it's very surprising
+01:19:28 when you understand that spinners are running around on your spaces again perhaps a dumb question but we're
+01:19:35 talking about 14 dimensions and four dimensions what is the manifold or operating under in my case it's proto space
+01:19:45 it's before it's before Einstein can slap rulers and protractors on space time and what you mean by that sorry to
+01:19:52 interrupt is space time is the 4d manifold space-time is a four dimensional manifold with extra
+01:20:00 structure most the extra structure it's called a semi Romanian or pseudo Romani and metric in in essence there is
+01:20:10 something akin to a four by four symmetric matrix from which is equivalent to length and angle so when I
+01:20:17 talk about rulers and protractors or I talk about length and angle or I talk about romani and or pseudo Romani and or
+01:20:24 semi Romani and met manifolds I'm usually talking about the same thing can you measure how long something is and
+01:20:31 what the angle is between two different rays or vectors so that's what Einstein gave us as his arena his place to play
+01:20:44 his his canvas so there's a bunch of questions I can ask here but like I said I'm working on this book geometric unity
+01:20:54 for he it's and I think what would be really nice as your editor to have like beautiful maybe even visualizations that
+01:21:07 people could try to play with try to try to reveal small little beauties about the way you're thinking about the
+01:21:12 squirrel I'll usually use the Joe Rogan program for that sometimes I have him doing the Philippine wine glass dance
+01:21:19 I had the hopf fibration the part of the problem is is that most people don't know this language about spinners
+01:21:29 bundles metrics gauge fields and they're very curious about the theory of everything but they have no
+01:21:33 understanding of even what we know about our own world is it hole is it a hopeless pursuit so like even gauge
+01:21:41 theory right just this I mean it seems to be very inaccessible is there some aspect of it that could be made
+01:21:47 accessible I'm actually go to the board right there and give you a five minute lecture on engaged theory that would be
+01:21:54 better than the official lecture engaged there you would know what gauge there was so it is it's possible to make it
+01:22:02 accessible yeah but nobody does like in other words you're gonna watch over the next year lots of different discussions
+01:22:08 of a quantum entanglement or you know the multiverse where are we now right or you know many worlds are they
+01:22:18 all equally real yeah did that right I mean yeah that that's it but you're not gonna hear anything about the hopf
+01:22:23 fibration except if it's from me and I hate that why why can't you be the one but because I'm going a different path I
+01:22:30 think that we've made a huge mistake which is we have things we can show people about the actual models we can
+01:22:36 push out visualizations where they they're not listening my analogy they're watching the same thing that we're
+01:22:42 seeing and as I've said to you before this is like choosing to perform sheet music that hasn't been performed in a
+01:22:49 long time or you know the experts can't afford orchestras so they just trade Beethoven symphonies and as sheet music
+01:22:55 and they oh wow that was beautiful but it's like nobody heard anything they just looked at the score well that's how
+01:23:02 mathematicians and physicists trade papers and ideas is that they they write down the things that represent stuff I
+01:23:10 want to at least close out the thought line that you started yes which is how does the canvas order all of this other
+01:23:22 stuff into being so I at least like I say some incomprehensible things about that and then we'll we'll have that much
+01:23:30 done all right and that just point does it have to be incomprehensible do you know what the Schrodinger equation is
+01:23:36 yes do you know what the Dirac equation is what does know mean well my point is you're gonna have some feeling that you
+01:23:44 know what the Schrodinger equation yes as soon as we get to the Dirac equation your eyes are gonna get a little bit
+01:23:54 glazed right so now why is that well the answer to me this is that you you want to ask me about the theory of everything
+01:24:04 but you haven't even digest the theory of everything as we've had it since 1928 when Dirac came out with his equation
+01:24:15 so for whatever reason and this isn't a hit on you yeah you haven't been motivated enough in all
+01:24:22 the time that you've been on earth to at least get as far as the Dirac equation and this was very interesting to me
+01:24:27 after I gave the talk in Oxford New Scientist who'd done kind of a hatchet job on me to begin with sent a reporter
+01:24:35 to come to the third version of the talk that I gave and that person had never heard of the Dirac equation so you have
+01:24:43 a person who was completely professionally not qualified to ask these questions wanting to know well how
+01:24:53 does how does your theory solve new problems like well in the case of the Dirac equation well tell me about that I
+01:24:58 don't know what that is so then the point is okay I got it you're not even caught up minimally to
+01:25:06 where we are now and that's not a knock on you almost nobody is yeah but how does it become my job to digest what has
+01:25:17 been available for like over 90 years well to me the open question is whether what's been available for over 90 years
+01:25:28 can be there could be a a blueprint of a journey that one takes to understand it not oh I want to do that with you and I
+01:25:35 I one of the things I think I've been relatively successful at for example you know when you ask other people what
+01:25:42 gauge theory is you get these very confusing responses and my response is much simpler it's oh it's a theory of
+01:25:50 differentiation where when you calculate the instantaneous rise over run you measure the rise not from a flat
+01:25:56 horizontal but from a custom endogenous reference level what do you mean by that it's like okay and then I do this thing
+01:26:04 with Mount Everest which is man Everest is how high then they give the height I say above what then they say sea level
+01:26:10 and I say which sea is that in Nepal like oh I guess there isn't a sea cuz it's landlocked it's like okay well what
+01:26:15 do you mean by sea level oh there's this thing called the geoid I'd never heard of oh that's the reference level it's a
+01:26:22 custom reference level that we imported so you all sorts of people have remembered the exact height of Mount
+01:26:29 Everest without ever knowing what it's a height from well in this case in gauge Theory there's a hidden reference level
+01:26:37 where you measure the rise in rise over run to give the slope of the line what if you have different concepts of what
+01:26:47 of where that rise should be measured from that vary within the theory that are endogenous to the theory that's what
+01:26:54 gauge theory is okay we have a video here right yeah okay I'm gonna use my phone if I want to measure my hand and
+01:27:05 its slope this is my attempt to measure it using standard calculus in other words the reference level is apparently
+01:27:12 flat and I measure the rise above that phone using my hand okay if I want to use gauge theory it means I can do this
+01:27:21 or I can do that or I can do this or I can do this or I could do what I did from the beginning okay at some level
+01:27:27 that's what gauge theory is now that is an act no I've never heard anyone describe it that way so while the
+01:27:34 community may say well who is this guy and why does he have the right to talk in public I'm waiting for somebody to
+01:27:39 jump out of the woodwork and say you know Eric's whole shtick about rulers and protractors leading to a derivative
+01:27:46 derivatives are measured as rise over run above a reference level of reference levels don't fit to get like I go
+01:27:50 through this whole shtick in order to make it accessible I've never heard anyone say it I'm trying to make the
+01:27:57 Prometheus would like to discuss fire with everybody else all right I'm gonna just say one thing to close out the
+01:28:04 earlier line which is what I think we should have continued with when you take the naturally occurring spinners the
+01:28:13 unadorned spinners the naked spinners not on this fourteen dimensional manifold but on something very closely
+01:28:19 tied to it which I've called the chimeric tangent bundle that is the the object which stands in for the thing
+01:28:27 that should have had length and angle on Abbott just missed okay when you take that object and you form
+01:28:34 spinners on that and you don't adorn them so you're still in the single origin story you get very large spin
+01:28:42 oriole objects upstairs on this 14 dimensional world y 14 which is part of the observers when you pull that
+01:28:54 information back from y 14 down to X 4 it miraculously looks like the adorned spinners the festooned spinners the
+01:29:06 spinners that we play with in ordinary reality in other words the 14 dimensional world looks like a four
+01:29:13 dimensional world plus a 10 dimensional complement so 10 plus 4 equals 14 that 10 dimensional complement which is
+01:29:22 called a normal bundle generates spin properties internal quantum numbers that look like the things that give our
+01:29:30 particles personality then make let's say up quarks and down quarks charged by negative one-third or plus two thirds
+01:29:38 you know that kind of stuff or whether or not you know some quarks feel the weak force and other quarks do not so
+01:29:51 the x4 generates Y 14 y 14 generates something called the chimeric tangent bundle chimeric tangent bundle generates
+01:29:57 unadorned spinners the unadorned spinners get pulled back from 14 down to 4 where they look like adorned spinners
+01:30:05 and we have the right number of them you thought you needed 3 you only got 2 but then something else that you've never
+01:30:12 seen before broke apart on this journey and it broke into another copy of the thing that you already have two copies
+01:30:19 of one piece of that thing broke off so now you have two generations plus an imposter third generation which is I
+01:30:26 don't know why we never talked about this possibility in regular physics and then you've got a bunch of stuff that we
+01:30:32 haven't seen which has descriptions so people always say does it make any falsifiable predictions yes it does it
+01:30:38 says that the matter that you should be seeing next has particular properties that can be read
+01:30:47 like like we guys to spend weak hypercharge like the responsiveness to the strong force the one I can't tell
+01:30:54 you is what energy scale it would happen it say you would if you can't say if those characteristics can be detected
+01:31:02 with current it may be that somebody else can I'm not a physicist I'm not a quantum field theory I can't I I don't
+01:31:10 know how you would do that the the hope for me is that there's some simple explanations for all of it Lex should we
+01:31:20 have a drink you're having fun no I'm trying to have fun with you you know I had there's a bunch of fun things to
+01:31:29 talk about here anyway that was how I got what I thought you wanted which is if you think about the fermions as the
+01:31:41 artists and the bosons as the brushes and the paint what I told you is that's how we get the artists what are the open
+01:31:51 questions for you in this what were the challenges so you're not done well there's the things that I would like to
+01:31:58 have in better order so a lot of people will say see the reason I hesitated on this is I just have a totally different
+01:32:05 view than the community so for example I believe that general relativity began in 1913 with Einstein and Grossman now that
+01:32:16 was the first of like four major papers in this line of thinking to most physicists general relativity happened
+01:32:30 when Einstein produced a divergence free gradient which turned out to be the gradient of the so-called Hilbert or
+01:32:38 Einstein Hilbert action and from my perspective that wasn't true is is that it began when Einstein said look this is
+01:32:47 about differential geometry and it's the final answer is going to look like a curvature tensor on one side and matter
+01:32:54 and energy on the other side and that was enough and then he published a wrong of it where it was the Ricci tensor not
+01:33:01 the Einstein tensor then he corrected the reach the Ricci tensor to make it into the Einstein tensor then he
+01:33:06 corrected that to add a cosmological constant I can't stand that the community thinks in those terms there's
+01:33:15 some things about which like that there's a question about which contraction do I use there's an Einstein
+01:33:21 contraction there's a Ricci contraction they both go between the same spaces I'm not sure what I should do I'm not sure
+01:33:28 which contraction I should choose this is called a Shia operator for ship-in-a-bottle and my stuff you have
+01:33:38 this big platform in many ways that inspires people's curiosity about physics yeah automatics right now and
+01:33:50 I'm one of those people and great but then you start using a lot of words that I don't understand and like I might know
+01:34:00 them but I don't understand and what's unclear to me if I'm supposed to be listening to those words or if it's just
+01:34:08 if this is one of those technical things that's intended for a very small community or if I'm supposed to actually
+01:34:16 take those words and start you know a multi-year study not not a serious study but a the kind of study when you you're
+01:34:24 interested in learning about machine learning for example or any kind of discipline that's where I'm a little bit
+01:34:31 confused so you you speak beautifully about ideas you often reveal the beauty in Mathematica matauri and I'm unclear
+01:34:40 and what are the steps I should be taking I I'm curious how can I explore how can i play with
+01:34:47 something how can i play with these ideas well and and enjoy the beauty of not necessarily understanding the depth
+01:34:55 of a theory that you're presenting but start to share in the beauty as opposed to sharing in and enjoying the beauty of
+01:35:03 just the way the passion with which you speak which is in itself fun to listen to but also
+01:35:11 starting to be able to understand some aspects of this theory that I can enjoy it too
+01:35:18 and start to build an intuition what the heck we're even talking about because you're basically saying we need to throw
+01:35:26 a lot of our ideas of views of the universe out and I'm trying to find accessible ways in okay long not in this
+01:35:37 conversation no I appreciate that so one of the things that I've done is I've picked on one paragraph from Edward
+01:35:46 Witten and I said this is the paragraph if I could only take one paragraph with me this is the one I'd take and it's
+01:35:53 almost all in prose not an equation and he says look this is this is our knowledge of the universe at its deepest
+01:35:58 level and he was writing this during the 1980s and he has three separate points that constitute our deepest knowledge
+01:36:06 and those three points refer to equations one to the Einstein field equation one to the Dirac equation and
+01:36:13 one to the yang-mills Maxwell equation now one thing I would do is take a look at that paragraph and say okay what do
+01:36:23 these three lines mean like it's a finite amount of verbiage you can write down every word that you don't know you
+01:36:30 can say what do I think done now young man yes there's a beautiful wall in Stoneybrook New York
+01:36:40 built by someone who I know you will interview named Jim silence and Jim silence and he's not the artist but he's
+01:36:48 the guy who funded an world's greatest hedge fund manager and on that wall contained the three equations that
+01:36:56 Witten refers to in that paragraph and so that is the transmission from the paragraph or graph to the wall now that
+01:37:06 wall needs an owner's manual which Roger Penrose has written called the road to reality let's call that the tome so this
+01:37:15 is the subject of the so-called graph wall tome project that is going on in our discord server and our general
+01:37:24 around the portal community which is how do you take something that purports in one paragraph to say what the deepest
+01:37:32 understanding man has of the universe in which he lives it's memorialized on a wall which nobody
+01:37:40 knows about which is an incredibly gorgeous piece of art and that was written up in a book which is has been
+01:37:49 written for no man right maybe if maybe it's for a woman I don't know but no no one should be able to
+01:37:54 read this book because either you're a professional and you know a lot of this book in which case it's kind of a
+01:38:00 refreshers to see how Roger thinks about these things or you don't even know that this book is a self-contained invitation
+01:38:09 to understanding our deepest nature so I would say find yourself in the graph wall tome transmission sequence and join
+01:38:16 the graph wall tome project if that's of interest okay beautiful now just to linger on a little longer what kind of
+01:38:23 journey do you see geometric unity taking I don't know I mean that's the thing is that first of all the
+01:38:28 professional community has to get very angry and outraged and they have to work through their feelings this is nonsense
+01:38:35 this is or like no wait a minute this is really cool actually I need some clarification over here so
+01:38:40 there's going to be some sort of weird coming back together process are you already hearing murmurings of that it
+01:38:49 was very funny officially I've seen very little so it's perhaps happening quietly yeah you often talk about we need to get
+01:39:01 off this planet yep can I try to sneak up on that by asking what in your kind of view is the difference the gap
+01:39:10 between the science of it theory and the actual engineering of building something that leverages the theory to do
+01:39:16 something like how big is that we don't know gap I mean if you have ten extra dimensions to play with that are the
+01:39:23 rulers and protractors of the world themselves can you gain access to those dimensions do you have a hunch so I
+01:39:32 don't know I don't want to get ahead of myself because the you have to appreciate I can have hunches and I can
+01:39:40 I can jaw off but one of the ways that I'm succeeding in this world is to not bow down to my professional communities
+01:39:48 nor to ignore them like I'm actually interested in the criticism I just wanted denature it so
+01:39:54 that it's not personally interpersonal and irrelevant I believe that they don't want me to speculate and I don't need to
+01:40:03 speculate about this I can centrally say I'm open to the idea that it may have engineering prospects and it may be a
+01:40:10 death sentence we may find out that there's not enough new here that even if it were right that there would be
+01:40:16 nothing new to do can't tell you that's what you mean by death sentences there would not be
+01:40:22 exciting breakthrough terrible if you couldn't like you can do new things in an Einsteinian world that you couldn't
+01:40:29 do in a Newtonian world right you know like you have twin paradoxes or Lorentz contraction of length or any one of a
+01:40:35 number of new cool things happen in relativity theory that didn't happen for Newton what if there wasn't new stuff to
+01:40:45 do at the next and final level so that would be quite sad let me ask a silly question but we'll say it with a
+01:40:58 straight face impossible so let me mention Elon Musk what are your thoughts about he's more you're more on the
+01:41:08 physics theory side of things he's more in the physics engineering side of things in terms of SpaceX efforts what
+01:41:17 do you think of his efforts to  get off this planet well I think he's the other guy who's sent me serious about
+01:41:27 getting off this planet I think they're two of us were semi serious about getting off the planet what do you think
+01:41:33 about his methodology and yours when you look at them don't and I don't be against you because like I was so
+01:41:40 excited that like your top video was reycarts file and then I did your podcast and we had some chemistry so
+01:41:45 it's oom DUP yeah and I thought okay I'm gonna betray curse sauce so just as I'm coming up on Ray Kurzweil
+01:41:52 like and now Alex Friedman special Elon Musk and he blew me out of the water so I don't want to be petty about it I want
+01:41:59 to say that I don't could I am yeah okay because the funny part he's not taking enough risk like he's trying to get us
+01:42:07 to Mars imagine that he got us to Mars the moon and we'll throw in Titan and know we're good enough the
+01:42:16 diversification level is too low now there's a compatibility first of all I don't think he Lana's serious is about Mars
+01:42:27 I think Elon is using Mars as a narrative as a stories and to make the moon jealous it makes it I think he's
+01:42:38 using it as a story to organize us to reacquaint ourselves with our need for space our need to get off this planet
+01:42:46 it's a concrete thing he's shown that many people think that he's shown that he's the most brilliant and capable
+01:42:51 person on the planet I don't think that's what he showed I think he showed that the rest of us have forgotten our
+01:42:56 capabilities so he's like the only guy who has still kept the faith and is like what's wrong with you people
+01:43:02 so you think the lesson we should draw from Elon Musk is there's a is a capable person within within a lot of us you on
+01:43:09 make sense to me in what way he's doing what any sensible person should do he's trying incredible
+01:43:17 things and he's partially succeeding partially failing to try to solve the obvious problems before  yeah you know
+01:43:23 but he comes up with things like you know I got it we'll come up with a battery company but batteries aren't
+01:43:29 sexy so well we'll make a car around it like great you know or any one of a number of things
+01:43:38 Elon is behaving like a same person and I view everyone else's insane and my feeling is is that we really have to get
+01:43:46 off this planet we have to get out of this we have to get out of the neighborhood tilling I know a little bit
+01:43:52 do you think that's a physics problem or an engineering problem he's a cowardice problem I think that
+01:43:59 we're afraid that we had 400 hitters of the mind like Einstein in Dirac and that that era is
+01:44:08 done and now we're just sort of copy editors so some of it money like if we become brave enough yeah go outside the
+01:44:17 solar system can we afford to financially well I think that's not really the issue the issue is look what
+01:44:27 Elon did well he amassed a lot of money and then he you know he plowed it back in and he spun
+01:44:33 he spun the wheel and he made more money and now he's got fu money now the problem is is that a lot of the people
+01:44:43 who have fu money are not people whose middle finger you ever want to see I want to see you Long's middle finger I
+01:44:50 want to see what I mean by that or like when you say it I'm gonna do the biggest go see whatever the you
+01:44:56 want Yeah right you anything that gets in his way that he can afford to push out of his way and you're saying
+01:45:01 he's not actually even doing that enough no I mean he's not going please I want to go
+01:45:07 Elon is doing fine with his money I just want him to enjoy himself have the most you know die nice you know but you're
+01:45:16 saying Mars is playing it safe he doesn't know how to do anything else he knows rockets yeah and he might know
+01:45:28 some physics at a fundamental level yeah I guess okay just let me just like go right back to you how much physics do
+01:45:35 you really how much brilliant breakthrough ideas on the physics side do you need to get off this planet I
+01:45:43 don't know and I don't know whether like in my most optimistic dream I don't know whether my stuff gets us off the planet
+01:45:49 but it's hope it's hope that there's a more fundamental theory that we can access that we don't need you know whose
+01:45:58 elegance and beauty will suggest that this is probably the way the universe goes like you have to say this weird
+01:46:06 thing which is this I believe and this I believe is a very dangerous statement but this I believe I believe that my theory
+01:46:16 points the way now Elon might or might not be able to access my theory I don't know I don't know what he knows but keep
+01:46:25 in mind why are we all so focused on you on it's really weird it's kind of creepy to what he's just a
+01:46:31 person who's just asking the the obvious questions and doing whatever he can but he makes sense to me
+01:46:37 you sent craig venter makes sense to me Jim Watson makes sense to me but we're focusing on Elon because he's he somehow
+01:46:45 is rare well that's the weird thing like we've come up with a system that eliminates all Elon from our pipeline
+01:46:55 and Elon somehow snuck through when they were quality adjusting everything you know and this this idea of of disk I
+01:47:04 distributed idea suppression complex yeah is that what's bringing the in-laws of the world down you know so funny it's
+01:47:13 like he's asking Joe Rogan like is that a joint you know it's like well what will happen if I smoke it what will
+01:47:18 happen to the stock price what will happen if I scratch myself in public what will happen if I say what I think
+01:47:26 about Thailand or kovat or who knows what and everybody's like don't say that say this go do this go do that well it's
+01:47:34 crazy-making it's absolutely crazy making and if you think about what we put through people through we need to
+01:47:45 get people who can use fu money the fu money they need to insulate themselves from all of the people who know better
+01:47:54 because the my nightmare is is that why did we only get one ilan what if we were supposed to have thousands and thousands
+01:48:00 of yuan and the weird thing is like this is all that remains you're looking at like obi-wan and Yoda
+01:48:09 and it's like this is the only this is all that's left after X order 66 has been executed and that's the thing
+01:48:16 that's really upsetting to me is we used we used to have Ilan's five deep and then we could talk about Elon in the
+01:48:24 context of his cohort but this is like if you were to see a raph in the Arctic with no trees around
+01:48:30 you'd think why the long neck what a strange sight you know how do we get more lawns how do we change these so I
+01:48:41 think the useful so we know MIT yeah and Harvard so can maybe returning to our previous conversation my sense is that
+01:48:48 the Ilan's of the world are supposed to come from MIT in Harvard right and how do you change let's think of one that
+01:48:58 MIT sort of killed have any names in mind Aaron Schwartz leaps to my mind yeah okay are we MIT supposed to shield
+01:49:12 the Aaron Schwartz's from I don't know journal publishers or are we supposed to help the journal publishers so that we
+01:49:19 can throw 35 year sentences in his face or whatever it is that we did that depressed him okay so here's my point
+01:49:27 yeah I want MIT to go back to being the home of Aaron Schwartz and if you want to send Aaron Schwartz to a state where
+01:49:38 he's looking at 35 years in prison or something like that you are my sworn enemy you are not MIT yeah you are the
+01:49:52 traitorous irresponsible middlebrow pencil-pushing green eyeshade fool that needs to not be in the seat at the
+01:50:00 presidency of MIT period the end get the out of there and let one of our people sit in that chair and think that
+01:50:07 you've articulated is that the people in those chairs are not the way they are because they're evil or somehow morally
+01:50:15 compromised is that it's just that that's the distributed nature is that there's some kind of aspect of the
+01:50:21 system there's people who width emselves to the system they adapt every instinct and the fact is is that they're not
+01:50:30 going to be on Joe Rogan smoking a blunt that let me ask a silly question do you think institutions generally just tend
+01:50:39 to become that no we get some of the institution we get Caltech here's what we're supposed to have we're supposed to have
+01:50:45 Caltech we're supposed to have a read we're supposed to have Deep Springs we're supposed to have MIT we're
+01:50:53 supposed to have a part of Harvard and when the sharp elbow crowd comes after the Scheldt sharp mine crowd we're
+01:51:00 supposed to break those sharp elbows and say don't come around here again so what are the weapons that the sharp mines are
+01:51:07 supposed to use in our modern day so to reclaim MIT what is the what's the future are you kidding me
+01:51:15 first of all assume that this is being seen at MIT hey everybody is OK hey everybody try to
+01:51:23 remember who you are you're the guys who put the police car on top of the great dump you you guys came up with the great
+01:51:29 breasts of knowledge you created a Tetris game in the green building now what is your problem they killed one of
+01:51:38 your own you should make their life a living hell you should be the ones who keep the
+01:51:45 mayor memory of Aaron Schwartz alive and all of those hackers and all of those mutants you know it's like it's either
+01:51:55 our place or it isn't and if we have to throw 12 more pianos off of the roof right if Harold Edgerton is taking those
+01:52:07 photographs you know with slow-mo back in the 40s if Noam Chomsky's on your faculty what
+01:52:16 the hell is wrong with you kids you are the most creative and insightful people and you can't figure out how to defend
+01:52:22 Aaron Schwartz that's on you guys so some of that is giving more power to the young like you said you know it's a
+01:52:28 brazing towel rub taking power from the feeble and the middle Brown yeah but how do you what is the mechanism to me I
+01:52:34 don't know you you have some 9-volt batteries no copper wire I attend to you have a capacitor I tend to believe you
+01:52:46 have to create an alternative and make the alternative so much better that it makes MIT obsolete unless they change
+01:52:55 and that's what forces change so supposed took somehow okay so use projection mapping most projection
+01:53:01 mapping where you take some complicated edifice and you map all of its planes and then you actually project some
+01:53:07 unbelievable graphics rescanning a building let's say at night say okay so you want to do some graffiti art with
+01:53:13 you basically want to hack the system know when I say look listen to me Lee yeah we're smarter than they are and
+01:53:20 they you know what they say they say things like I think we need some geeks get me two PhDs
+01:53:29 right you treat phd's like that that's a bad move PhDs are capable and we act like our job is to peel grapes for our
+01:53:38 betters yeah that this is strange thing and I you speak about it very eloquently is how we treat basically the greatest
+01:53:47 minds in the world which is like at at their prime which is PhD students like that we pay them nothing we I'm done
+01:53:55 with it yeah right we gotta take what's ours so it so yeah take back MIT become uncover
+01:54:07 nerble become uncover noble and by the way when you become uncover nerble don't do it by throwing food don't do it by
+01:54:16 pouring salt on the lawn like a jerk do it through brilliance because what you Caltech and MIT can do and maybe
+01:54:22 Rensselaer Polytechnic or Wooster politic I don't know Lehigh goddamnit what's wrong with you
+01:54:28 technical people you act like you're a servant class it's unclear to me how you reclaim it except with brilliance like
+01:54:37 you said but to me that the way you were claimed it was brilliant Segal system Aaron Schwartz came from the Elon Musk
+01:54:44 class what you guys gonna do about it right if super capable people need to flex need to be individual they need to
+01:54:53 stop giving away all their power to you know is like Geist or a community or this or that you're not you're not
+01:54:59 indoor cats your outdoor cats go be outdoor cat do you think we're gonna see this this kind of asking me you know
+01:55:04 before like what about the World War two generation right when I'm trying to say is that there's a technical revolt coming here's
+01:55:11 you weren't talking about that I'm trying to lead it yeah I'm trying to see no you're not trying a lot you're trying
+01:55:16 to get a blueprint here all right Lex yeah how angry are you about our country pretending that you and I can't actually
+01:55:24 do technical subjects so that they need an army of kids coming in from four countries in Asia it's not about the
+01:55:31 four countries in Asia it's not about those kids it's about lying about us that we don't
+01:55:36 care enough about science and technology that we're incapable of it as if we don't have Chinese and Russians and
+01:55:44 Koreans and Croatians like we've got everybody here the only reason you're looking outside is is that you want to
+01:55:51 hire cheap people from the family business because you don't want to pass the family business on and you know what
+01:55:57 you didn't really build the family business it's not yours to decide you the boomers and you the Silent
+01:56:04 Generation you did your bit but you also followed a lot of stuff up and your custodians you are caretakers you were
+01:56:12 supposed to hand something what you did instead was to gorge yourself on cheap foreign labor but you then held up as
+01:56:19 being much more brilliant than your own children which was never true but I'm trying to understand how we create a
+01:56:26 better system without anger without revolution no not not by kissing and hugs and and but by I mean I don't
+01:56:37 understand within MIT what the mechanism of building a better MIT is we're not gonna pay Elsevier Aaron Schwartz was
+01:56:45 right JSTOR is an abomination but why who would then MIT who within institutions is going to do that when
+01:56:52 just like you said the people who are running the show are more senior and if Frank will check to speak out so year is
+01:57:00 basically individuals that step up I mean one of the surprising things about Elon is that one person can inspire so much
+01:57:08 he's got academic freedom it just comes from money I don't agree with that do you think money okay so yes certainly
+01:57:22 sorry an testicle you yes but those are more important than money right or guts I I think I do agree with you you speak
+01:57:29 about this a lot that because the money in the academic institutions has been so constrained that people are misbehaving
+01:57:38 in in in horrible yes but I don't think that if we reverse that and give a huge amount of money people will also behave
+01:57:43 well I think it also takes guts so you need to give people security security yeah like you need to know there you
+01:57:51 have a job yeah on Monday when on Friday you say I'm not so sure I really love diversity and inclusion and somebody's
+01:57:58 looking wait what you didn't love diverse we had a statement on diversity and you wouldn't sign are you against
+01:58:04 the inclusion part or are you against diverse do you just not like people like you like actually that has nothing to do
+01:58:10 with anything you're making this into something that it isn't I don't want to sign your goddamn stupid statement and
+01:58:17 get out of my lab right get out of my lab it all begins from the middle finger get out of my lab the administrators
+01:58:27 need to find other work yeah listen I agree with you and I I hope to seek your advice and and wisdom as we change this
+01:58:36 because I'd love to see I will visit you in prison if that's what you're asking I have no I think prison is great you
+01:58:44 get a lot of reading done and then when good working out well let me ask the something I brought up before is the
+01:58:53 Nietzsche quote of beware that when fighting monsters you yourself do not become a monster for when you gaze
+01:59:00 long into the abyss the abyss gazes into you are you worried that your focus on the flaws in the system that we've just
+01:59:08 been talking about has damaged your mind or the part of the mind of your mind that's able to see the beauty in the
+01:59:16 world in the system that because you have so sharply been able to see the flaws in the system you can no longer
+01:59:25 step back and appreciate it speeding look I'm the one who's trying to get the institutions to save themselves by
+01:59:32 getting rid of inhabitants believing the institution like a neutron bomb that removes the
+01:59:41 unworkable leadership class but leaves the structures so I equals so the leadership classes really the problem
+01:59:46 the leadership class is that the individual like the professor's Dean video scholar the professor's are gonna
+01:59:52 have to go back into training to remember how to be professors like people are cowards at the moment because
+01:59:58 if they're not cowards they're unemployed yeah that's one of the disappointing things
+02:00:06 I've encountered is to me tenure they don't nobody has tenure now why whether character not the kind of character and
+02:00:22 fortitude that I was hoping to see to me but they'd be gone but see you're dreaming about the people who used to
+02:00:34 live at MIT you're dreaming about the previous inhabitants of your university and if you looked at somebody like you
+02:00:42 know isadora singer is very old I don't know what state he's in but that guy was absolutely the real deal and if you look
+02:00:49 at Noam Chomsky tell me that Noam Chomsky has been muzzled right yeah now what I'm trying to get at is you're
+02:00:57 talking about younger energetic people but those people like when I say something like I'm against I'm for word
+02:01:06 inclusion and I'm for diversity but I'm against diversity and inclusion TM like the movement well I couldn't say that if
+02:01:17 I was a professor oh my god he's against our sacred document okay well in that kind of a world do you want to know how
+02:01:24 many things I don't agree with you on it like we could go on for days and days and days all of the nonsense that you've
+02:01:30 parroted inside of the institution any sane person like has no need for it they have no want or desire do you think you
+02:01:40 have to have some patience for nonsense when many people work together in a system how long a string theory go
+02:01:47 for and how long have I been patient okay so you're talking about a mid two patients I'm talking about like 36 years
+02:01:55 of modern nonsense and string theory say you can do like eight to ten years but not more I can do 40 minutes this is 30
+02:02:03 sleeve stone now over two hours or no but I appreciate it but it's been 36 years of nonsense since the anomaly
+02:02:11 cancellation in in string theory it's like what are you talking about about patients I mean Lex you're not even
+02:02:18 acting like yourself now at what you're trying to stay in the system and I'm not sure I'm not I'm trying to see if
+02:02:27 perhaps so so my hope is that the system just has a few in it which you highlight and the fundamentals of the
+02:02:36 system are broken because if the fundamentals of the systems are broken then I just don't see a way for MIT to
+02:02:45 succeed like I don't see how young people take over MIT I don't see how by inspiring us you know the great part
+02:02:56 about being at MIT like when you saw the the genius in these pranks the heart the irreverence yeah it's like don't do it
+02:03:04 then we were talking about Tom Lehrer the last time Tom Lehrer was as naughty as the day is long
+02:03:11 agreed agreed was he also a genius was he well-spoken was he highly cultured he was so talented so intellectual that he
+02:03:19 could just make fart jokes morning noon and night yeah okay well in part the right to make fart jokes the right to
+02:03:26 for example put a functioning phone booth that was ringing on top of the Great Dome at MIT has to do with we are
+02:03:33 such badasses that we can actually do this stuff well don't tell me about it anymore go break the law go break the
+02:03:41 law in a way that inspires us and makes us not want to prosecute you may break the law in a way that lets us know that
+02:03:47 you're calling us out on our that you're filled with love and that our technical talent has not gone to
+02:03:56 sleep it's not incapable you know and if the idea is that you're gonna dig a moat around the University and
+02:04:03 fill it with tiger sharks that's awesome because I don't know how you're gonna do it but if you actually manage to do that
+02:04:09 I'm not going to prosecute you prosecute you under a reckless endangerment man that's beautifully put
+02:04:17 I hope those first of all they'll listen I hope young people and mighty will take over in this in this kind of way in the
+02:04:24 introduction to your podcast episode on Jeff Epstein you give to me a really moving story but unfortunately for me to
+02:04:36 brief about your experience with a therapist and the lasting terror that permeated your mind can you  can you
+02:04:45 go there can you tell I don't think so I mean I appreciate what you're saying I said it obliquely I said enough there
+02:04:53 are bad people who cross our paths and the current vogue is to say oh I'm a survivor I'm a victim I can do anything I want
+02:05:07 this is a broken person and I don't know why I was sent to a broken person as a kid and to be honest with you I also
+02:05:14 felt like in that story I say that I was able to say no you know and this was like the entire weight of authority and
+02:05:25 he was misusing his position and I was also able to say no what I couldn't say no to was having him reinf lichte Din my
+02:05:35 life I see you were sent back yeah second time I tried to complain about what had happened I tried to do it in a
+02:05:43 way that did not immediately cause horrific consequences to both this person and myself because I didn't we
+02:05:53 don't have the tools to deal with sexual misbehavior we have nuclear weapons we don't have any way of saying this is
+02:06:03 probably not a good place or a role for you at this moment as an authority figure and something needs to be worked
+02:06:10 on so in general when we see somebody who is misbehaving in that way our immediate instinct is to treat the
+02:06:22 person as you know Satan and we understand why we don't want our children to be at risk now I personally
+02:06:32 believe that I fell down on the job and did not call out the Jeffrey Epstein thing early enough because I was
+02:06:37 terrified of what Jeffrey Epstein represents and this recapitulated the old terror trying to tell the world this
+02:06:45 therapist is out of control and when I said that the world responded by saying well you have two appointments booked
+02:06:52 and you have to go for the second one so I got reinfected into this office on this person who was now convinced that I
+02:06:59 was about to tear down his career and his reputation it might have been on the verge of suicide for all I know I don't
+02:07:05 know but he was very very angry and he was furious with me that I had breached a sacred confidence of his office
+02:07:12 what kind of ripple effects does that have has that head to the rest of your life the absurdity and the cruelty of that I
+02:07:24 mean there's no sense to it well see this is the thing people don't really grasp I think there's an academic who I
+02:07:34 got to know many years ago named Jennifer fried who has a theory of betrayal which she calls institutional
+02:07:42 betrayal and her gambit is is that when you were betrayed by an institution that is sort of like a fiduciary or a
+02:07:50 parental obligation to take care of you that you find yourself in a far different situation with respect to
+02:07:58 trauma than if you were betrayed by somebody who's a peer and so I think that my in my situation I kind of repeat
+02:08:13 a particular dynamic with authority I come in not following all the rules trying to do some things not trying to
+02:08:23 do others blah blah blah and then I get into a weird relationship with authority and so I have more
+02:08:27 barians with what I would call institutional betrayal now the funny part about it is that when you don't
+02:08:38 have masks or PPE in a influenza like pandemic and you're missing ICU beds and ventilators that is ubiquitous
+02:08:47 institutional betrayal so I believe that in a weird way I was very early the idea of and this is like tough the really
+02:08:57 hard concept pervasive or otherwise Universal institutional betrayal where all of the institutions you can count on
+02:09:04 any hospital to not charge you properly for what their services are you can count on no pharmaceutical company to
+02:09:11 produce the drug that will be maximally beneficial to the people who take it you know that your financial professionals
+02:09:18 are not simply working in your best interest and that issue had to do with the way in which growth left of our
+02:09:26 system so I think that the weird thing is is that this first institutional betrayal by a therapist left me very
+02:09:33 open to the idea of okay well maybe the schools are bad maybe the hospitals are bad maybe the drug companies are bad
+02:09:39 maybe our food is off maybe our journalists are not serving journalistic ends and that was what allowed me to
+02:09:46 sort of go all the distance and say huh I wonder if our problem is that something is causing all of our sense
+02:09:54 making institutions to be off that was the big insight and that tying that to a single ideology what if it's just about
+02:10:02 growth they were all built on growth and now we've promoted people who are capable of keeping quiet that their
+02:10:09 institutions aren't working so we've the privileged silent aristocracy the people who can be counted upon not to mention a
+02:10:17 fire when a raging fire is tearing through a building but nevertheless it's how big of a psychological burden is
+02:10:26 that it's huge it's terrible I mean rushing it's it's very it's very comforting to be the
+02:10:34 parental I mean I don't know I I treasure I mean we were just talking about MIT we can
+02:10:41 until I can intellectualize and agree with everything you're saying but there's a comfort a warm blanket of
+02:10:47 being within the institution and up until him Aaron Schwartz let's say in other words now if I look at the provost
+02:10:56 and the president as mommy and daddy you did what to my big brother you did what to our family you sold us
+02:11:07 out in which way what secrets left for China you hired which workforce you did what to my wages
+02:11:14 you took this portion of my grant for what purpose you just stole my retirement through a fringe rate what
+02:11:22 did you do but can you still I mean thing is about this view you have is it often turns out to be sadly correct well
+02:11:30 this is the thing and but that let me just in this silly hopeful thing do you still have hope and institutions can you
+02:11:38 win you psycho psychologically yes I'm referring not intellectually because you have to carry
+02:11:45 this burden can you still have a hope like within you Jake that when you sit a home alone and as opposed to seeing the
+02:11:52 darkness within these institutions seeing a hope well but this is the thing I want to confront not for the purpose
+02:12:03 of a dust-up I believe for example if you've heard episode 19 that the best outcome is for Carol Greider to come
+02:12:12 forward as we discussed in episode 19 would your brother Brett honest and say you know what so I screwed up he did
+02:12:20 call he did suggest the experiment I didn't understand that it was his theory that was producing it maybe I was slow
+02:12:30 to grasp it but my bad and I don't want to pay for this bad choice on my part let's say for the rest of my career I
+02:12:41 want to own up and I want to help make sure that we do what's right with what's left and that's one little case within
+02:12:48 the institution they would like to see made I would like to see MIT very clearly come out and
+02:12:54 you know Margo O'Toole was right when produced some stuff that was not reproducible with Teresa and Minnie
+02:13:07 shakarez research I want to see the courageous people I would like to see a the Aaron Schwartz wing of the computer
+02:13:15 science department yeah wouldn't know let's think about it yeah wouldn't that be great if they said you know an
+02:13:21 injustice was done and we're gonna we're gonna write that wrong just as if this was Alan Turing which I don't think
+02:13:29 they've righted that wrong well then let's have the Turing Schwartz way to ensure they're starting a new college of
+02:13:36 computing it wouldn't be wonderful to call it the the toyish why I would like to have the Madame wooing of the physics
+02:13:42 department and I'd love to have the Emmy nerd er statue in front of the math department I mean like you want to get
+02:13:48 excited about actual diversity and inclusion yeah well let's go with our absolute best people who never got
+02:13:53 theirs because there is structural bigotry you know but if we don't actually start celebrating the beautiful
+02:14:01 stuff that we're capable of when we're handed heroes and we fumble them into the trash what the hell I mean Lex this
+02:14:10 is such nonsense we just pulling our head out you know the on everyone's cecum should be
+02:14:20 tattooed if you can read this you're too close beautifully put and I'm a dream or just like you so I don't see as much of the
+02:14:35 darkness genetically or due to my life experience but I do share the hope from my teeth as you should know we care a
+02:14:44 lot about you both do yeah and a harvard institution i don't give a damn about but you do so I love Harvard I'm just
+02:14:51 kidding i yeah i love harvard but rude and i have a very difficult relationship and part of what you know when you love
+02:14:58 a family that isn't working I don't want to trash I I didn't bring up the name of the president of MIT during the Aaron
+02:15:06 Schwartz period it's not vengeance I want the rot cleared out I don't need to go after human beings yeah just like
+02:15:15 you said with the with a disc formulation they individual human beings aren't don't necessarily carry them
+02:15:24 it's those chairs that are so powerful that in which they sit it's the chairs not the human it's not
+02:15:34 the humans without naming names can you tell the story of your struggle during your time at Harvard maybe in a way that
+02:15:43 tells the bigger story of the struggle of young bright minds that are trying to come up with big bold ideas within the
+02:15:53 institutions that we're talking about you can start I mean in part it starts with coffee with a couple of Croatians
+02:16:10 in the math department at MIT and we used to talk about music and dance and math and physics and love and all this
+02:16:21 kind of stuff as Eastern Europeans love to and I ate it up and my friend Gordana who was an instructor in the MIT
+02:16:30 math department when I was a graduate student at Harvard said to me I'm probably gonna do a bad version of her
+02:16:40 accent there we go it will I see you tomorrow at the secret seminar and I said what secret seminar it don't joke I
+02:16:52 said I'm not used to this style of humor Gordon she's getting the secret seminar that your adviser is running I said what
+02:17:03 are you talking about ha ha ha you know your advisor is running a secret seminar on this aspect I think it was like the
+02:17:09 chern-simons invariants I'm not sure what the topic was again but she gave me the room number and the
+02:17:16 time and she was like not cracking a smile I've never known her to make this kind of a joke and I thought this was
+02:17:21 crazy and I was trying to have an advisor I didn't want an advisor but people said you have to have one so I
+02:17:30 took one and I went to this room at like 15 minutes early and there was not a soul inside it it was outside of the
+02:17:37 math department and was still in the same building the Science Center at Harvard and I sat there and let five
+02:17:44 minutes go by hey I let seven minutes go by ten minutes go by there's nobody I thought okay so this was all an
+02:17:51 elaborate joke and then like three minutes to the hour this graduate student walks in and like sees me and
+02:17:59 does a double take and then I start to see the professors in geometry and topology start to file in and
+02:18:08 everybody's like very disconcerted that I'm in this room and finally the person who is supposed to be my advisor walks
+02:18:19 in to the seminar and sees me and goes white as a ghost and I realized that the secret seminar
+02:18:27 is true that the department is conducting a secret seminar on the exact topic that I'm interested in not telling
+02:18:36 me about it and that these are the reindeer games that the Rudolph's of the department are not invited to and so
+02:18:45 then I realize okay I did not understand that became the beginning of an incredible Odyssey in which I came to
+02:19:02 understand that the game that I had been sold about publication about blind refereeing about openness and scientific
+02:19:15 transmission of information was all a lie I came to understand that at the very top there's a second system that's about
+02:19:26 closed closed meetings and private communications and agreements about citation and publication that the rest
+02:19:36 of us don't understand and that in large measure that is the thing that I won't submit to and so when you ask me
+02:19:43 questions like well why wouldn't you feel good about you know talking to your critics or why wouldn't you feel the
+02:19:49 answer is oh you don't know like if you stay in a nice hotel you don't realize that there is an entire second structure
+02:19:57 inside of that hotel where like there's usually a workers cafe in a resort complex that isn't available to the
+02:20:03 people who are staying in the hotel and then there are private hallways inside the same hotel that are parallel
+02:20:13 structures so that's what I found which was in essence just the way you can stay hotels your whole life and not realize
+02:20:19 that inside of every hotel is a second structure that you're not supposed to see is the guest there is a second
+02:20:26 structure inside of academics that behaves totally differently with respect to how people get dinged how people get
+02:20:32 their grants taken away how this person comes to have that thing named after them and by pretending that we're not
+02:20:44 running a parallel structure I have no patience for that way anymore so the I got a chance to see how the game how
+02:20:50 hard ball is really played at Harvard and I'm now eager to play hardball back with the same people who played hardball
+02:21:02 with me let me ask two questions on this so one do you think it's possible so I call those people but that's
+02:21:11 the technical term do you think it's possible that that's just not the entire system but a part of the system
+02:21:19 sort of that there's you can navigate you can swim in the waters and find the groups of people who do aspire to the
+02:21:29 guy who wrestled my PhD was one of the people who filed in - the secret seminar right but are there
+02:21:38 pedestrian side of this right is he an well yes I was as a bad no but I'm trying to make this point which is
+02:21:46 this isn't my failure to correctly map these people it's yours you know who has a simplification that isn't gonna work I
+02:21:55 think okay as I was the wrong term I would say lacking of character and what would you have had these people do why
+02:22:04 did they do this why have a secret seminar I don't understand the exact dynamics of a secret seminar but I think
+02:22:12 the right thing to do is to I mean to see individuals like you there might be a reason to have a secret seminar but
+02:22:20 they should detect that an individual like you a brilliant mind who's thinking about certain ideas could be damaged by
+02:22:26 this I don't think they see it that way the idea is we're going to sneak food to the children we want to survive yeah so
+02:22:35 that that's highly problematic and there should be people within that road I'm trying to say this is the thing the ball
+02:22:41 is thrown back won't be caught the problem is they know that most of their children won't survive and they can't
+02:22:54 say that I see sorry to interrupt you mean that the the fact that the whole system is underfunded that they
+02:23:02 naturally have to pick favorites they live in a world which reached steady state at some level let's say you know
+02:23:13 in the early 70s and in that world before that time you have a professor like Norman's steam rod and you'd have
+02:23:20 20 children that is graduate students and all of them were going to be professors and all of them would want to
+02:23:26 have 20 children right so you start like taking higher and higher powers of 20 and you see that the system could not
+02:23:33 it's not just about money the system couldn't survive so the way it's supposed to work now is that we should
+02:23:40 shut down the vast majority of PhD programs and we should let the small mostly teaching and research departments
+02:23:53 that aren't PhD producing we don't want to do that because we use PhD students as a labor force so the whole thing has
+02:24:02 to do with growth resources dishonesty and in that world you see all of these adaptations to a ruthless world where
+02:24:10 the key question is where are we going to bury this huge number of bodies of people who don't work out so my problem
+02:24:20 was I wasn't interested in dying so you clearly highlight that there's aspects of the system that are broken but as an
+02:24:29 individual is your role to exit the system or just acknowledge it as a game and win it my role is to survive and
+02:24:38 thrive in the public eye in other words when you have an escapee of the system like yourself such as and that person
+02:24:47 says you know I wasn't exactly finished let me show you a bunch of stuff let me show you that the theory of telomeres we
+02:24:55 never got reported properly let me show you that all of marginal economics is supposed to be redone with a different
+02:25:03 version of the differential calculus let me show you that you didn't understand the self dual yang-mills equations
+02:25:09 correctly in topology and physics because they're in fact much more broadly found and it's only the
+02:25:17 mutations that happen in special dimensions there are lots of things to say but this particular group of people
+02:25:26 like if you just take where are all the Gen X and millennial university presidents all right okay they're all
+02:25:36 they're all in a holding pattern now where why in this story you know was it a of telomeres was it an older professor
+02:25:45 and a younger graduate student it's this issue of what would be called interference competition so for example
+02:25:53 orcas try to drown minke whales by covering their blowholes so that they suffocate because the the needed
+02:25:58 resource is air okay well what are the universities do they try to make sure that you can't be
+02:26:06 viable that you need them that you need their grants you need to be zinged with overhead charges or fringe rates or all
+02:26:16 of the games that the locals love to play well my point is ok what's the cost of this how many people died as a result
+02:26:24 of these interference competition games you know when you take somebody like Douglas pressure who did green
+02:26:30 fluorescent protein and he drives a shuttle bus right because he his grant runs out and he has to give away all of
+02:26:36 his research and all of that research gets a Nobel Prize and he gets to drive a shuttle bus for $35,000 a year what do
+02:26:42 you mean by die do you mean their career their dreams their yeah holes are there as an academic
+02:26:48 Doug pressure was dead for a long period of time ok so as a person who's escaped a system yeah can't you at this because
+02:27:00 you also have in your mind a powerful theory that may turn out to be useful maybe not let's hope can't you also play
+02:27:10 the game enough like with the children so like publish and but also if you told me that this would work really what I
+02:27:19 want to do you see is I would love to revolutionize a field with an H index of zero like we have these proxies that
+02:27:31 count how many papers you've written how cited of the papers you've written all this is nonsense it's interesting it
+02:27:38 aside what do you mean by a field with an H index is a totally new H index is counts somehow how many papers have you
+02:27:45 gotten that gets so many citations yeah let's say H index undefined like for example I don't have an advisor for my
+02:27:58 PhD but I have to have an advisor as far as something called the math genealogy project that tracks who advised who who
+02:28:07 advised whom right down the line so I am my own advisor which sets up a loop right how many students do I have an
+02:28:12 infinite number your descendants they don't want to have that story so I have to be I have to
+02:28:20 have formal advisor Rowell Bhatt and my Wikipedia entry for example says that I was advised by Rahul Bhatt which is not
+02:28:28 true so you get fit into a system that says what we have to know what your h-index is we have to know you know
+02:28:34 where are you a professor if you want to apply for a grant it makes all of these assumptions what I'm trying to do is to
+02:28:41 impart to show all of this is nonsense this is proxy BS that came up in the institutional setting and right now it's
+02:28:48 important for those of us who are still vital like Elon it would be great to have you on as a professor of physics
+02:28:54 and engineering Yeah right it seems ridiculous to say but just as Charlotte just as a shot in the arm yeah
+02:29:03 you know like be great to have you on at Cal Tech even one day a week yeah one day a month okay well why can't we be in
+02:29:12 there it's the same reason why can't you be on the view why can't you be on Bill Martin we need to know what you're gonna
+02:29:17 do before we take you on the show on the show well I don't want to tell you what I'm gonna do
+02:29:22 do you think you need to be able to dance the dance a little bit I can't dance the dance floor to be on
+02:29:28 the view oh come on so you can yeah you do yeah I do that fine here's where it's the place that it goes south is there's
+02:29:37 like a set of questions that get you into this more adversarial stuff and you've in fact asks some of those more
+02:29:43 adversarial questions this setting and they're not things that are necessarily aggressive but there are things that are
+02:29:50 making assumptions right right well so when you make it I have a questions like you know Lex are you avoiding your
+02:29:58 critics you know it's just like okay well why did you frame that that way or the next question would be it's like do
+02:30:03 you think that you should have a special exemption and that you should have the right to break rules and everyone else
+02:30:08 should have to follow them like that question I find enervating yeah it doesn't really come out of anything
+02:30:13 meaningful it's just like we feel we're supposed to ask that of the other person to show that we're not captured by their
+02:30:19 madness that's not the real question you want to ask me if you want to get really excited about this you want to ask do
+02:30:25 you think this thing is right yeah weird thing I do do you think that it's going to be immediately seen to be
+02:30:32 right I don't I think it's gonna it's gonna have an interesting fight and it's gonna have an interesting evolution and
+02:30:38 well what do you hope to do with it in non-physical terms my gosh I hope it revolutionizes our relationship of well
+02:30:47 with people outside of the institutional framework and it reinforces into the institutional framework where we can do
+02:30:53 the most good to bring the institution's back to health you know it's like these are positive uplifting questions yeah if
+02:31:00 you had Frank we'll check you wouldn't say Frank let's be honest you have done very little with your life after the
+02:31:08 original huge show that you used to break onto the physics scene like we weirdly ask people different questions
+02:31:15 based on how they sit down yeah that's very strange right but you have to understand that so here's the thing I
+02:31:24 get these days a large number of emails from people with the equivalent of a theory of everything for a GI yeah and I
+02:31:37 use my own radar BFBS radar to detect on unfairly perhaps whether they're full or not right because I love what
+02:31:44 you're where you're going with this by the way and Mike my concern that I often think about is there's elements of
+02:31:54 brilliance and what people write to me and I and I'm trying to right now as you made it clear at the kind of judgments
+02:32:03 and assumptions we make how am I supposed to deal with you who are not an outsider of the system and think about
+02:32:12 what you're doing because my radar saying you're not full of you know what I'm also not completely outside of
+02:32:19 the system that's right you've danced beautifully you've actually get got all the credibility that you're supposed to
+02:32:26 get all the nice little stamps of approval not all but a large enough amount you use I mean it's hard to put
+02:32:38 into words exactly why you sound whether your theory turns out to be good or not you sound like a special
+02:32:48 human being I appreciate that and thank you in a good way all right so but what am I supposed to do with that flood of
+02:32:55 emails for me AJ why do I sound different I don't know and I would like to systemize that I don't know look you
+02:33:06 know when you're talking to people you very quickly consume eyes like am i claiming to be a physicist no I say it
+02:33:13 every turn I'm not a physicist right when I say to you when you say something about bundles you say well can you
+02:33:19 explain it differently I think you know I'm pushing around on this this area that lever over there I'm trying to find
+02:33:28 something that we can play with and engage and you know another thing is is that I'll say something at scale so if I
+02:33:36 was saying completely wrong things about bundles on the Joe Rogan program you don't think that we wouldn't hear a
+02:33:43 crushing chorus yes and it's actually you know same thing with geometric unity so I put up this this video from this
+02:33:51 oxford lecture I understand this not a standard lecture but you haven't heard you know the most brilliant people in
+02:33:59 the field said well this is obviously nonsense they don't know what to make of it yeah I'm gonna hide behind well he
+02:34:06 hasn't said enough to tale where's the paper and where's the paper I've seen the criticism yeah I've gotten the same
+02:34:13 kind of Critias I've published a few things and like especially stuff related to Tesla that we did studies and Tesla
+02:34:21 vehicles and the kind of criticism I've gotten was showed that they're completely oh right like the guy who had
+02:34:28 Elon Musk on his program twice is gonna give us an accurate assessment yeah exactly exactly it's just very low-level
+02:34:34 like without actually ever addressing you know the content you know Lex I think that in part you're trying to
+02:34:45 solve a puzzle that isn't really your puzzle I think you know that I'm sincere you don't know whether the theory is
+02:34:50 going to work or not and you know that it's not coming out of somebody who's coming out of left field
+02:34:56 like the story makes sense there's enough that's new and creative and different in other aspects where you can
+02:35:05 check me that your real concern is are you really telling me that when you start breaking the rules you see the
+02:35:11 system for what it is and it's become really vicious and aggressive and the answer is yes and I had to break the
+02:35:18 rules in part because of learning issues because I came into this field you know with a totally different set of
+02:35:24 attributes my profile just doesn't look like anybody else's remotely but as a result what that did is it showed me
+02:35:31 what is the system true to its own ideals or does it just follow these weird procedures and then when it when
+02:35:38 you take it off the rails it behaves terribly and that's really what my story I think does is it just says well he
+02:35:47 completely takes the system into new territory where it's not expecting to have to deal with somebody with these
+02:35:53 confusing sets of attributes and I think what he's telling us is he believes it behaves terribly now if you take
+02:36:01 somebody with perfect standardized tests and you know a winner of math competitions and you put them in a ph.d
+02:36:08 program they're probably going to be okay I'm not saying that the system you know breaks down for any everybody under
+02:36:18 all circumstances I'm saying when you present the system with a novel situation at the moment it will almost
+02:36:25 certainly break down with probability approaching 100 percent but to me the painful and the tragic thing is it sorry
+02:36:37 to bring out my motherly instinct but it feels like it's too much it could be too much of a burden to exist outside the
+02:36:44 system maybe by psychologically first of all I've got a podcast that I that's kind of like you've got amazing friends
+02:36:53 I have a life which has more interesting people passing through it than I know what to do with and they haven't managed
+02:37:01 to kill me off yet so so far so good speaking of which you host an amazing podcast we've mentioned several times
+02:37:07 but should mention over and over the portal where you somehow manage every single conversation is a surprise you go
+02:37:18 I mean not just the guest but just the the places you take them the the kind of ways they become challenging and how you
+02:37:27 recover from that I mean it's  there's just it's full of genuine human moments so I really appreciate what you're it's
+02:37:36 a fun fun podcast to listen to let me ask some silly questions about it what what have you learned about conversation
+02:37:44 about human to human conversation well I have a problem and I haven't solved on the portal which is that in general when
+02:37:52 I ask people questions they usually find they're deeply grooved answers and I'm not so interested in all of the deeply
+02:37:59 grooved answers and so there's a complaint which I'm very sympathetic to actually that I talk over people that I
+02:38:05 won't sit still for the answer and I think that's weirdly sort of correct it's not that I'm not interested in
+02:38:13 hearing other voices it's that I'm not interested in hearing the same voice on my program that I could have gotten on
+02:38:19 somebody else's and I haven't solved that well so I've learned that I need a new conversational technique where I can
+02:38:25 keep somebody from finding their comfortable place and yet not be the voice talking over that person it's
+02:38:31 funny I didn't sense like your conversation with Brett I can sense you detect that the line he's going under
+02:38:40 down is you know how it's gonna end and you know you think it's a useless line so you'll just stop it right there and
+02:38:46 you take them into the direction that you think you should go but that requires interruption well and it does
+02:38:52 so far I haven't found a better way I'm looking for a better way it's not it's not like I don't hear the problem I do
+02:39:00 hear the problem I just I haven't solved the problem and you know on the on the bread episode I was insufferable it was
+02:39:09 very difficult to listen to it was so overbearing but on the other hand I was right you know it's like funny yeah you keeps
+02:39:17 that but I didn't find that me because I heard brothers like I heard a big brother yeah it was pretty bad
+02:39:23 really I think so I didn't think it was bad well a lot of people found it in subsisting and I think it also has to do
+02:39:30 with the fact that this has become a frequent experience I have several shows where somebody who I very much admire
+02:39:37 and think of as courageous you know I'm talking with them maybe we're friends and they sit down on this show and they
+02:39:44 immediately become this fake person like two seconds in there they're sort of saying why I don't to be too critical or
+02:39:51 too harsh and I want to name any names I wanted this joint here's like okay I'm gonna put my listeners through three
+02:39:57 hours of you being sweetness and light yeah like at least give me some reality and then we can decide to shelve the
+02:40:07 show and never let it here you know that the the call of freedom in the in the bigger world but I saw you break out of
+02:40:13 that a few times I've seen you to be successful that I forgot the guest but she was dressed with you worried at the
+02:40:23 end of the episode you had to nog you honor Bob Brett FMS caller yeah and Magnus color the philosopher at
+02:40:30 the University of Chicago yeah you've continuously broken out of her you guys went you know I didn't seem
+02:40:39 pretty genuine I like her I'm completely ethically opposed to what she's ethically for which she was great and
+02:40:47 she wasn't like that you're both going hard bro no yeah cuz I care about her so that was awesome yeah but you're saying
+02:40:54 that some people are difficult to break up well it's just that you know she was bringing the courage of her conviction
+02:41:01 she was sort of defending the system and I thought wow that's a pretty indefensible system that's great though
+02:41:09 she's doing that isn't it yeah I mean it made for an awesome I think it's very informative for the world yes you just
+02:41:17 hated I just can't stand the idea that somebody says well we don't care who gets paid or who gets the credit as long
+02:41:21 as we get the goodies cuz that seems like insane have you ever garry kasparov really by the way I mean
+02:41:38 I know I'm just a fan taking requests but I started I started the beginning in Russian and in fact I used one word
+02:41:45 incorrectly I was terrible you know it was pretty good it's pretty good Russian what was terrible is I think he
+02:41:50 complimented to you right no did he compliment you use that me D compliment you on your Russian so he said almost
+02:41:57 perfect Russian yeah like he was that was not great Russian but there was not great Russian that was
+02:42:05 good that was hard that was you tried hard which is what matters that is so insulting I hope so
+02:42:12 but I do hope you continue I did felt like I don't know how long and when it might have been like a two-hour
+02:42:17 conversation but it felt I hope it continues like I feel like you have many your conversation with Gary yeah I would
+02:42:24 love to hear there's certain conversation I was just love to hear well you know he's coming from a very
+02:42:30 it's this issue about needing to overpower people in a very dangerous world and so Gary has that need yeah he
+02:42:39 wasn't he was interrupting you there's an interesting dynamic is an interesting dynamic to Weinstein is going into what
+02:42:47 I mean to powerhouse egos brilliant no don't say egos Minds my spirits my you don't have any good you're the most
+02:42:56 humble person I know so true no that's a complete lie do you think about your own mortality death sure are you afraid
+02:43:05 Wow death I released the theory during something that can kill door people sure I was there of course little bit of a
+02:43:13 parallel that of course of course I don't want it to die with me what do you hope your legacy is oh I hope my legacy
+02:43:30 I'd like to ride on my accomplishments rather than how my community decided to ding me while I was alive that would be great
+02:43:36 what about if it was significantly exaggerated I don't want it you wanted to be accurate I'm I've got some pretty
+02:43:46 terrific stuff and then whether it works out or doesn't that I would like it to reflect what I actually was I'll settle
+02:43:58 for accurate what would you say what is the greatest element of Eric Weinstein accomplishment in life terms of being
+02:44:09 accurate like what what are you most proud of trying the idea that we were stalled out in it in the hardest field
+02:44:27 at the most difficult juncture and then I didn't listen to that voice ever it said stop you're hurting yourself you're
+02:44:37 hurting your family hurting everybody you're embarrassing yourself you're screwing up you can't do this you're a
+02:44:42 failure you're a fraud turn back save yourself like that voice I didn't ultimately listen to it and it
+02:45:01 was going for 35 37 years very hard and I hope you never listen to that voice well it's why you're an inspiration
+02:45:11 thank you appreciate it you're the eye and just infinitely honored that you would spend time with me you've been a
+02:45:21 mentor to me almost a friend I can't imagine a better person to talk to in this world so thank you so much for
+02:45:25 talking it I can't wait till we do it again Lex thanks for sticking with me and thanks for being the most singular
+02:45:33 guy in the podcasting space in terms of all of my interviews I would say that the last one I did with you many people
+02:45:40 feel was my best and it was a non-conventional one so whatever it is that you're bringing to
+02:45:46 the game I think everyone's noticing and keep at it thank you
+02:45:50 thanks for listening to this conversation with Eric Weinstein and thank you to our presenting sponsor cash
+02:45:56 app please consider supporting the podcast by downloading cash app and using code
+02:46:02 let's podcast if you enjoy this podcast subscribe on youtube review it with five stars an apple podcast supported on
+02:46:08 patreon or simply connect with me on Twitter and lex friedman and now let me leave you with some words of wisdom from
+02:46:16 eric Weinstein's first appearance in this podcast everything is great about war except all the destruction thank you

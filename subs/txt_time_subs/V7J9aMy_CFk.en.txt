@@ -1,0 +1,482 @@
+00:00:03 so every year like clockwork a new iphone comes out
+00:00:09 that's a little better a little faster a little stronger than the last one and as we know apple is the master of
+00:00:15 messaging so they give an incredible onstage presentation with unreal video production they paint the
+00:00:21 simplest prettiest picture of how this is the greatest iphone they've ever made the most powerful
+00:00:27 fastest iphone we've ever made but they also do something else very important standard practice but
+00:00:32 they give the phone to reviewers and they don't have to do this but they do
+00:00:37 and everyone involved will have essentially some date that they are first allowed to talk
+00:00:42 about their experience with this new phone now i've been a reviewer for years we're professionals our job is to take
+00:00:47 that week and do all of our testing and take all of our findings and
+00:00:52 find all the things we like and all the things we don't like and all the new features and test all of the new claims
+00:01:00 and distill them all down into one piece and that is a review and if you time it all right you can publish that review
+00:01:06 right when the contract we signed says we're allowed to you might have heard of this it's called an embargo so that's what
+00:01:11 you're seeing when you see all this first wave of reviews and impressions videos about a product drop at the same time
+00:01:17 the thing is every single one of these reviews is fundamentally a balancing act because there's limited time there is no
+00:01:25 possible way to meaningfully test every single new thing about every incredible new phone that comes out
+00:01:31 and even if you do how much time does that leave for writing down all these tests and then analyzing the
+00:01:37 results of these tests and that doesn't even leave time for the production of shooting the video of
+00:01:42 editing the video the color correction the music all the creative choices you want to make there's just too much
+00:01:49 being a video reviewer on youtube today is like nine different jobs in one so how do you decide what gets included
+00:01:57 in that review and how much has to hit the cutting room floor so every review has its own style
+00:02:02 some reviews you'll see are 5 minutes long super dense some might be 10 minutes long even my
+00:02:07 own videos reviews over the years have gotten somewhere in the 15 to 20 minute range but that's in an effort to give you as
+00:02:13 much information as possible in as short as time as possible i'm not trying to waste anybody's time
+00:02:18 and don't forget on youtube we also have audience metrics and retention to think about it's a balancing act so a review is basically
+00:02:27 the art of compressing and distilling as much useful information as possible into one piece but because it's an art
+00:02:35 everyone's going to cut different things from different places and make different pieces but not this video
+00:02:43 in this video there is no time limit this is everything you could possibly want to know about my last
+00:02:49 five months with the iphone 12 pro and what i really think all right so now that the limits are off
+00:03:15 i'm definitely going to be getting into the weeds a pretty good amount and multiple pieces of this video you
+00:03:20 know when it's happening but i still think it'll be pretty fun when we do it now if you're the madman
+00:03:24 or mad woman who's just going to watch this whole video straight through to the end well you can see how long this video is
+00:03:30 it's a good one buckle up grab a snack but if your attention span isn't quite that long
+00:03:36 well you can see there are chapters below for all these different topics so if you want to get into the weeds
+00:03:41 on a certain topic you're curious about you can do that too feel free to click around also this
+00:03:45 video is mainly based on the iphone 12 pro that i've spent most of my last five months with
+00:03:52 but anytime i reference other pieces of the iphone lineup the 12 mini or the 12 or the 12 pro max i'll mention
+00:03:57 that too so the iphone 12 series has a refreshed design this year which is always a big deal
+00:04:11 in the phone world and the iphone design just doesn't change as much as it used to and i think that's pretty
+00:04:16 important design is really what most people look forward to and what seems to identify the iphone forever i mean think about it
+00:04:23 most of the time when you see new iphone leaks or headlines or rumors it's mostly design stuff right you're looking at
+00:04:31 new case designs or new dimensions or what is the camera bump on the back of this year's rectangle going to look like
+00:04:34 mostly because we already know the next year's iphone is going to be pretty similar to this
+00:04:39 year's iphone but we just want to know what it's going to look like the look and feel
+00:04:45 in the hand is always the last most exciting unknown i happen to love the new modern super
+00:04:50 flat design of the iphone 12 series it's still a rectangle with rounded corners in a few
+00:04:54 different colors but the sides are flat straight up 90 degrees stand up on the edges flat so
+00:05:02 the flatness has become this identifying characteristic of the phone just like it was for the iphone 4
+00:05:08 4s 5 and 5s but it's actually even flatter than most other flat phones because instead of 2.5 d
+00:05:13 glass that's flat for most of the surface and then curves over at the very edges this is just straight flat glass on the
+00:05:19 front and the back and the flat stainless steel band around the edges so this has a couple of effects
+00:05:25 first it gave apple slightly more internal volume in the same shape second it made the edges a bit sharper
+00:05:32 so i happen to like the flatter edges just because i feel like it gives me something to hold when i'm picking up
+00:05:35 the phone gripping it some people though dislike it for the same reason because it can
+00:05:40 feel a little sharp like it's sort of bumping into the corners of your hand i haven't felt that
+00:05:45 with this phone the thing i like and dislike the most about this design though is the finishes
+00:05:52 so all the new iphone 12 pros have this sort of matte finish on the back which is nice it's actually a satin that
+00:05:57 doesn't show many fingerprints in any light which is awesome it doesn't change much as it wears over
+00:06:01 time but then you've got a glassy finish on the apple logo the camera bump
+00:06:07 and the stainless steel band around the outside so the logo that's fine i get it but we know they
+00:06:13 could have made the camera bump matte because that's what they did on the regular iphone 12 yet they went with
+00:06:18 a glossy finish just on this piece and then combined with the raised sharp camera rings
+00:06:23 this has the tendency to collect a lot of dust every iphone 12 pro you see that's been outside of a case
+00:06:28 for more than a few minutes or put into a pocket is going to have dust around the camera modules
+00:06:32 this doesn't actually change the performance of the camera so it's actually not a big deal but the dust is
+00:06:36 pretty much always going to be there because of the rings the most annoying part of the finish on
+00:06:41 these phones for me though is the fingerprints on the stainless steel rails they are constant so much so that it's not even worth
+00:06:48 cleaning in the moment when you notice there's fingerprints on it like they've nailed everything else
+00:06:52 about this rail the power button is slightly bigger and still very clicky love that the mute switch is a staple
+00:06:58 that still works exactly as you'd expect it to i'll talk more about the rest of the button behavior later but
+00:07:04 basically my ideal iphone 12 would actually be a hybrid between the matte back of the pro and
+00:07:09 the matte camera bump and aluminum rails of the regular 12. but guess what
+00:07:16 most people put their phone in case and so none of that stuff about the finishes about the grippiness about the corners
+00:07:23 will really actually matter to you that much if you cover up all of this engineering in a plastic shell of your choice the
+00:07:29 size of the iphone has always been pretty reasonable although it's slowly crept up in size
+00:07:33 over the years and this is my favorite size iphone ever because it feels just about as big as it
+00:07:38 can get before i start to have to do hand gymnastics to reach
+00:07:43 the notification shade and the stuff in the top corner of the screen for whatever reason apple just refuses to
+00:07:48 adjust the software on the gigantic iphone 12 pro max to really take advantage of that bigger screen
+00:07:54 in a meaningful way so i found the trade-off in cameras and battery for how annoying it is
+00:07:59 to use just isn't worth it so the iphone 12 pro is a great size the iphone 12 is an identical size and
+00:08:04 the 12 mini if you can deal with the battery shortcomings is the best compact
+00:08:09 flagship phone out there right now i'll link my entire video about that below a couple other things about the
+00:08:13 design though this is a thousand dollar phone let's not forget that it's a thousand dollars
+00:08:19 and so there's a lot of these premium design industrial design features and this would be the perfect
+00:08:24 video to shout out a lot of those things that we typically skip and take for granted so the whole
+00:08:30 body is sealed and ip68 certified i'm not the type to put it under water and test that but it is able to
+00:08:35 withstand dust and dirt and is resistant to liquid submersion up to a max depth of
+00:08:40 six meters underwater for up to 30 minutes so it's always nice to see premium phones that would survive a
+00:08:44 quick drop in the pool or a toilet or something like that and actually i also used to do a lot more
+00:08:49 tests if you go back far enough in videos where i would literally try to bend the phone and see if you
+00:08:55 could hear any flexing or creaking or anything like that phones these days just don't do that
+00:09:00 anymore and this is no exception so overall just in terms of raw industrial design the iphone is exactly
+00:09:06 what we'd expected it's great it works great it looks great and it still has the widest
+00:09:12 most vibrant ecosystem of accessories the worst part about it is technically that lightning port in a world of usb
+00:09:19 type-c but to most iphone users that's just a default and we already know apple's trying to get rid of that
+00:09:24 anyway i'll link a video below the like button or right up here in the corner to an entire video i made just about
+00:09:30 that topic the best part though i still think is actually the most underrated the haptics so i'm putting
+00:09:35 this in the design section because this is a consideration from the very beginning when apple's
+00:09:40 laying out the internals of the iphone there is a massive space set aside inside for a very large taptic engine as
+00:09:47 apple calls it and it's really good so instead of the previously typical
+00:09:53 rotational vibration motor that taptic engine is a linear oscillating vibrator and it can
+00:09:58 deliver incredibly precise convincing vibrations that literally feel like taps
+00:10:03 almost like you're pressing a real button or your phone is tapping you in your pocket
+00:10:07 and it's better than any other phone's haptics i've felt right now this one in the iphone 12 pro isn't necessarily
+00:10:12 better than last year but it's just one of those things that we skip because we take it for granted but
+00:10:18 it's really good apple's gotten so good at haptics that they're comfortable replacing typical buttons like a track pad on a macbook
+00:10:25 with just a flat piece of glass and a taptic engine underneath it's just it's that good also do i think that this
+00:10:31 triple camera array looks kind of like a stovetop yes do i think apple knew that when they were making this phone
+00:10:39 yes but do i think they just went ahead with it anyway because the memes are inevitable and
+00:10:46 it's kind of also extra press yes ah the screen of the iphone always an area of great debate
+00:11:02 just because how much do people actually care about the display this has always been one of the most controversial areas
+00:11:07 of the iphone you remember the iphone 10r this is a phone that launched at
+00:11:14 749 dollars and had a notably low resolution slightly above 720p lcd screen right and part of the
+00:11:21 internet went nuts at this like how could apple of all companies be shipping such a garbage screen on
+00:11:27 paper in a 750 phone when pretty much every other android phone at that price even some
+00:11:31 cheaper ones were 1080p at least and even i was one of them just holding that phone
+00:11:38 watching a video on youtube that i knew was 4k max out at 720p just felt borderline
+00:11:45 unacceptable but it turned out it was fine it was fine people bought the phone they enjoyed it
+00:11:51 there were blind tests it passed so it felt like all those articles and headlines about this screen
+00:11:56 were for nothing because apple knew that people didn't really care about this sort of thing
+00:12:00 as much as we thought they should but this is the same apple that turns around and ships the iphone 12 pro
+00:12:05 with an incredible screen on paper with dolby vision a slightly higher 1200 nit max brightness and a
+00:12:11 world-class color accuracy that i guarantee those same people don't notice so the question
+00:12:18 might not be how good this iphone 12 pro screen is as much as it's how much do people really care about its most controversial traits
+00:12:28 and to me that's a more fun angle so on paper the iphone 12 pro rocks a flat 6.1 inch diagonal display like i said
+00:12:34 it's not too huge it's a 2532 by 1170 resolution which puts you at an
+00:12:41 awesome 460 pixels per inch it's an oled display that maxes out at 1200 nits max brightness which gives it hdr certification and a 2
+00:12:48 million to 1 contrast ratio it supports the wide p3 color gamut true tone automatic white balance adjustments
+00:12:53 and it's coated in a fingerprint resistant oleophobic coating so here's where it gets interesting there's
+00:12:59 a huge notch at the top so this gigantic cutout stolen from the top of the screen by
+00:13:05 the biggest notch in any new phone out right now do you care like functionally we all
+00:13:10 know why the notch is there it's for face id which hasn't really improved over the
+00:13:13 years as much as i was hoping but it uses an infrared dot projector a receiver and there's an ambient light sensor
+00:13:20 along with a seven megapixel selfie camera and an earpiece speaker and a mic it feels like this huge notch has sort of
+00:13:27 faded into our peripheral vision like other phones added notches around the same time as the iphone 10
+00:13:32 and then over the years they've all shrunk in their notches doing everything they can to minimize the interruption
+00:13:38 to a smaller notch than to an even smaller notch and then to a hole punch and then even to developing tech to put
+00:13:44 the selfie camera behind the display itself so the iphone's notch is still exactly the same it's massive this is
+00:13:51 one of those things that personally i hate it every time i'm looking at it
+00:13:56 but i've gotten used to it and apple's done the calculus clearly that most people have gotten used to it and
+00:14:01 don't mind it and it's just part of the way the iphone is and rumors point to it getting
+00:14:05 slightly smaller next year but it's not going away anytime soon even if we do get touch id
+00:14:12 behind the glass in the next iphone we're going to continue to have face id so my take is
+00:14:17 fine i get it but i would really like face id to start working better specifically at more angles so
+00:14:23 like when my phone is in front of me on a table or on a desk i wish you could recognize me from that
+00:14:30 angle and unlock without me moving it or leaning over it because other phones with the fingerprint reader on the front
+00:14:36 let me do that alright so then there is the refresh rate it's 60 hertz this is as far as i know the
+00:14:44 most expensive new phone that doesn't have a high refresh rate display yet do you care so my take and you might
+00:14:50 have seen this coming is i love me some 120 hertz absolutely it's the best thing about
+00:14:56 a lot of the newest phones coming out makes everything feel smoother and more responsive and once you go 120 hertz it is really
+00:15:02 hard to go back to 60. except for the iphone the iphone is the smoothest 60 hertz phone
+00:15:12 so i can kind of feel like the best of the worst or the worst of the best depending on how you look at it so a lot
+00:15:16 of this has to do with the overall performance of the phone which is great but i'll get into that later
+00:15:20 but most of this has to do with the 120 hertz touch sample rate meaning the layer beneath the display that
+00:15:25 tracks the touch input from your finger and tells the display to respond is refreshing twice as many times per
+00:15:32 second as a normal 60hz display so it feels very responsive and really tight to the way your finger moves on
+00:15:37 the screen and this is what iphone users are used to so that being said
+00:15:43 the iphone can still benefit massively from 120hz display and i know this because the ipad pro has had 120hz display
+00:15:52 since 2017 and it's incredible so i'm bummed that the iphone 12 pro doesn't have a higher frustrated screen
+00:15:58 and i would be even more bummed if next year it also doesn't but something to note is that ipad pro is an lcd display
+00:16:05 and one of the main reasons cited by iphone defenders for why this phone doesn't have 120hz display
+00:16:11 is because they wanted to go oled too and apple couldn't find a supplier that could make as many high quality
+00:16:17 120 hertz oleds as they'd need to satisfy their high quality control requirements and
+00:16:21 millions and millions of units for the iphone so maybe next year i'm really hoping but you know what else they made some
+00:16:29 pretty big claims about for this iphone screen this new thing called ceramic shield so the front of this new iphone has a layer
+00:16:34 on top apple's calling ceramic shield which isn't ceramic but it is kinda shield
+00:16:40 it's actually still glass but with a sort of crystallized reinforcement and apple's big on stage claim for this
+00:16:46 was four times better drop performance so like i said in my original review
+00:16:51 video i'm not the one who's gonna go out and drop the phone over and over to try to see if it somehow hits that 4x number
+00:16:57 but what we did find out is it still scratches out of level six with deeper grooves at a level seven and
+00:17:02 it will still shatter when dropped it's not some magical next level solution glass is glass
+00:17:08 and you know the rest thanks zack but if there is any observable improvement in drop performance of the iphone 12 it's
+00:17:14 most likely result of the new flat design since these phones are so flat the rails are much more likely to take some of
+00:17:19 that impact damage when you drop it unless the phone lands completely flat on the face which is unlikely
+00:17:25 so with that stainless steel rail it's gonna absorb a lot of the impact or it could just be whatever
+00:17:29 screen protector or case you have on your phone not the magic of some ceramic shield so while i do appreciate the effort to
+00:17:35 trying to make better more resilient glass on the front of the iphone
+00:17:40 it's not magic oh and speaking of screen protectors this is officially unofficially but officially the easiest
+00:17:46 new phone to apply a screen protector to because of how perfectly flat it is
+00:17:53 in case you're into that fun fact so the iphone's display incredible on paper great color accuracy
+00:18:00 flat plenty bright and sharp but also still has a huge notch at the top still stuck at 60 hertz and still
+00:18:06 scratches as easily as ever it's glass par for the court there is a lot that goes into the
+00:18:18 testing of a set of new smartphone cameras and it usually ends up being the longest
+00:18:23 section of the review just because so many phones have gotten so good that it feels like the camera is one of
+00:18:29 the last things that really differentiates them but here we are with the iphone 12 pro
+00:18:33 and its triple camera system so these are all top of the line cameras but you probably already knew that and
+00:18:38 honestly i could probably have just ended it there like you know you're getting good
+00:18:42 consistent point and shoot photos high quality videos and a good mic you're set but that's not
+00:18:46 what you came here for is it so there's a lot more to say about these cameras so first of all the
+00:18:50 iphone's cameras haven't really changed all that much since they started getting really good
+00:18:56 a few years ago if it ain't broke they definitely don't fix it here which is funny because the headphone jacks also weren't broken
+00:19:01 but i guess they didn't feel the same way about that but the point is there's not going to be
+00:19:05 some huge year-over-year difference with the iphone cameras because they don't have much to change the
+00:19:09 sensor size is going to stay about the same it's a 12 megapixel optically stabilized sensor
+00:19:15 this one has an f 1.6 aperture letting in plenty of light and it's flanked by a 120 degree 12 megapixel ultra wide at
+00:19:20 f 2.4 and a 2.5 x optical telephoto at f 2.0 a lidar scanner a mic
+00:19:29 and a flash to finish off that stovetop the thing about the iphone camera though that we sometimes forget when we get
+00:19:34 super into the technical weeds is it's designed to be as simple as possible as easy as possible to use while still
+00:19:42 achieving results that are very difficult to get any other way so when steve jobs
+00:19:47 unveiled the original iphone back in 2007 stay with me this was one of the slides he showed on
+00:19:53 stage it's a graph of ease of use versus how smart something is and of course he absolutely trashes
+00:19:58 all the competition talking about how they're not very smart or they're not very easy to use and the
+00:20:03 iphone is going to be way up in the corner just a classic extremely scientific apple chart on stage so while the rest
+00:20:09 of the competition is definitely caught up on those axes when you just look at the camera just
+00:20:14 the camera the iphone still squeezes further up into that corner
+00:20:20 than any other phone out there right now this camera app is dead simple and it has been forever
+00:20:26 everyone knows how to point and shoot tap to focus if you really need to and if you need any extra controls they're
+00:20:31 typically hidden away maybe one swipe and a tap away and when you point and shoot the software does a
+00:20:37 lot of heavy lifting thanks to smart hdr thanks to multiple exposures thanks to computational photography
+00:20:42 and thanks to a great image signal processor that makes it all happen very quickly it would be really hard to get the
+00:20:47 results that the iphone gets from any other camera system with just plain point and shoot
+00:20:53 and that is what the iphone is so good at so i give it all the credit in the world for point and shoot
+00:20:58 but what about the few times when you actually do want to get a little more custom what
+00:21:02 about the times when you do want a little bit more manual control that is when
+00:21:09 the apple way can sort of bite you because there isn't a whole lot of that in the stock iphone
+00:21:14 camera app there actually isn't a pro mode in the iphone 12 pro's camera now fortunately they have
+00:21:19 gone ahead and added pro raw which can give you a lot more flexibility in the editing process
+00:21:25 and there are some apps in the app store that can help the shooting process for you but i guess what i'm trying to
+00:21:30 say is there's a lot of really good smartphone cameras and i think if you were to do
+00:21:34 some sort of blind smartphone camera test with a bunch of different phones
+00:21:40 all in manual mode to dial in the exact perfect photo you might be surprised which one comes
+00:21:45 out on top they'd all be really good but where the iphone separates itself is delivering consistent
+00:21:51 great results with minimal effort so every year i describe iphone photos in the review
+00:21:55 and every year it's pretty similar they've got this crunchy processed look but not too over sharpened or over
+00:22:01 processed plenty of dynamic range and detail for such a small file and the iphone is notorious for
+00:22:07 flattening out pictures with faces making sure it always brightens up any faces that might be in the shadows or
+00:22:11 not exposed too well it will always sacrifice the rest of the image if it has to
+00:22:16 in favor of the subject or the face which most would argue is the smart thing to do in full auto but when you
+00:22:21 spend a thousand plus dollars on a smartphone there's going to be a lot of people who want to do more than just
+00:22:24 point and shoot and so that's where there's some edge cases where the iphone camera
+00:22:30 does get beat out by the competition zoom is a big one the iphone 12 pro maxes out at 12 times digital zoom
+00:22:36 there's a few phones out right now with 10 times optical zoom lenses that max out in the triple digits
+00:22:43 for digital zoom so you know then there's other winners with even wider ultra wides
+00:22:48 or winners with laser autofocus but again as far as point and shoot goes which is what most people want out of most of their photos
+00:22:59 most of the time the iphone nails that now videos this is where to me the iphone separates itself
+00:23:05 as the best overall camera system in a smartphone because there's another layer to this which is app support so you've probably
+00:23:12 seen by now some of the memes about how a video from an android phone will look like a blurry pixelated mess on
+00:23:17 instagram while the one from the iphone looks great and there's a hint of truth behind that
+00:23:22 and there's a reason for that the truth is a video shot on a high-end android phone and the iphone 12 pro would be very similar
+00:23:32 comparable either one could win but a video shot inside of the instagram app on high-end android phone versus the
+00:23:40 iphone 12 pro will have a massive difference and that's because for years
+00:23:45 many of the most popular apps with camera functions were simply screen shotting the viewfinder in android
+00:23:50 phones instead of actually plugging directly into the camera feed like they do with iphones there was an
+00:23:55 android police article just the other day about how the galaxy s21 is the only android phone that doesn't
+00:24:01 suck at snapchat because they actually plug straight into the camera feed on this phone and that may seem like a step
+00:24:04 forward for android and maybe that's a new future direction but fundamentally it still
+00:24:09 comes down to development if i am a new app making something camera related and i can develop
+00:24:17 one version of my app for as many users as possible i'm going to make an iphone version
+00:24:21 because that's one version of the app for many millions of people and trying to make a bunch of different optimized
+00:24:26 new versions for a bunch of different android phones will just be a process of diminishing returns
+00:24:31 so it's cool to see a version once in a while for like the s21 ultra or back when the pixel had the visual
+00:24:37 core that would be cool once in a while but the iphone seems like it'll always have this development advantage at least
+00:24:44 for the near future which is actually the main reason why i carry an iphone so that being said if you want all the
+00:24:49 in-depth info on the new cameras plus the differences i found between the 12 pro and the 12 pro max with the larger
+00:24:56 sensor better stabilization and improved zoom yes i did make a video about all those things but
+00:25:02 bottom line here is it isn't much of a difference in most shots until you get to the edge cases
+00:25:06 which is where that stuff can produce less noisy photos on the max also you remember dolby vision but how there
+00:25:13 is this huge deal made about the fact that the iphone 12 series is the first set of dolby vision certified cameras and
+00:25:19 suddenly it was about to become a huge deal and everyone would start shooting hdr all the time well that hasn't really
+00:25:25 played out yet  don't get me wrong the video files look great
+00:25:31 dolby vision hdr video from an iphone looks amazing on an iphone and if you send it to other
+00:25:36 iphones it'll look phenomenal on those displays but the second you have to export it and send it somewhere else
+00:25:42 that's where the experience starts to fall apart iphone's dolby vision video is using
+00:25:48 hlg which stands for hybrid log gamma and without getting super into the weeds on file formats and nits
+00:25:55 it's just not compatible everywhere so if i shoot adobe vision hdr video on my iphone and i want to share it
+00:26:01 somewhere like twitter instagram or even an apple tv where it's not supported
+00:26:05 well then the video gets converted and mapped to an sdr image fitting all of that hdr information back
+00:26:12 into a standard dynamic range screen and to me that sdr image doesn't look great so dolby vision hdr video looks
+00:26:20 super good when it works and i've seen some awesome examples even on youtube of iphone 12 pro hdr videos and if you
+00:26:26 have the right monitor or the right phone then these videos look awesome but i'm still waiting for
+00:26:35 the best most reliable hdr pipeline for getting a video shot here to hit your eyeballs compatibly
+00:26:41 beautifully every time but in summary overall the iphone cameras pretty good
+00:26:54 24 7. i think it would be foolish to overlook magsafe magsafe is one of the most interesting new features
+00:27:00 on the iphone 12 series not because of anything amazing physically i mean it's just a wireless charging puck
+00:27:05 with some magnets in it that align with the back of the iphone simple but the extra layer on top is there's
+00:27:10 rumors apple's eventually going to be getting rid of the charging port as early as this year so that means we
+00:27:15 could be looking at the future of charging on all iphones and then the fun part is also brings the potential of
+00:27:20 a whole ecosystem of magnetic iphone accessories enabled through magsafe so first of all
+00:27:26 on the name i get why they called it magsafe it's beloved branding but
+00:27:31 it doesn't quite serve the same utility as the original magsafe so if you rely on this magsafe puck to charge your
+00:27:37 phone and you accidentally bump the wire the phone is absolutely coming with it it's hardly any more safe
+00:27:43 than a normal wire but that being said it works slaps on the back just like that charges
+00:27:48 at 15 watts and that's fine  there are a number of pretty decent magsafe accessories kind
+00:27:53 of like this that are just cases that are compatible with magsafe meaning
+00:27:59  if you slap the charger on the back it will also magnetize and work through it this happens to be
+00:28:04 one of nomad's leather cases for the iphone 12 pro max here but other than that
+00:28:11 i was kind of hoping there would also be separate ecosystem of just magnetic accessories that slap onto the back of
+00:28:18 the iphone so i got this car mount from belkin which has a somewhat tacky rubber on top of metal
+00:28:23 that's supposed to hold the iphone in place without any clamps which would be super cool just with the
+00:28:28 magsafe magnet inside and this to me was going to open up this whole new world of things sticking to the back of
+00:28:33 the iphone with magnets and it's barely good sometimes it might depend on your car's
+00:28:41 suspension at this point but for me it slowly sinks down while i'm driving until it eventually falls off the
+00:28:47 magnets so it feels like this magnetic charging puck is the best magsafe accessory out
+00:28:53 still five months later although there is some stuff in the pipeline by moment that i'm
+00:28:57 hoping to get my hands on that looks pretty cool they make some big claims about also having a proprietary
+00:29:02 magnet array that's a little stronger i'll believe it when i see it but long story short i'm calling it an
+00:29:07 accessory now but it may be a necessity in the very near future because if the next iphone
+00:29:13 truly doesn't have any ports then you will have to wirelessly charge your phone every single time
+00:29:20 so i guess this magsafe puck would be the best way to do that the biggest bummer for me
+00:29:24 would really just be the charging speed so wireless charging is already pretty inefficient but there's a lot of
+00:29:29 innovation going on with companies pushing super fast wireless charging speeds 40 50 60 watt wireless charging apple
+00:29:39 not doing that at all magsafe is 15 watts period actually it's 12 watts on the iphone 12 mini
+00:29:44 and even if you plug into a faster brick it's going to limit that charge to that 15 watts long term it is true
+00:29:50 that this is better for your battery health than if you want your phone to last a number of years then that's
+00:29:55 what you're getting here but sometimes you just want to charge it fast you know
+00:29:59 i guess that's why they're calling it magsafe because for your battery it is safe
+00:30:13 the iphone 12 pro has a 3 687 milliamp hour battery on paper that's actually pretty small we're very
+00:30:20 used to flagship smartphones nowadays having anywhere from four thousand to five thousand milliamp hours sometimes more
+00:30:27 rarely less but thanks to the iphone's efficiency their vertical integration their optimization all the classic stuff we've
+00:30:33 talked about for years that number doesn't really mean nearly as much as
+00:30:40 the actual day-to-day performance which is great on the iphone 12 pro i can consistently get
+00:30:45 six to seven hours of screen on time which is really good for a phone of this size on heavier days though with a lot more
+00:30:51 navigation or just more taxing use maybe i'm pulling a lot of data or playing games or using the camera a lot
+00:30:57 then it'll drop faster the a14 bionic chip inside is very powerful so it can move through battery quickly enough to
+00:31:02 kill it in a day with less than five hours of screen on time but for me anyway
+00:31:06 that's a pretty uncommon day so the only thing you really start to think about more and more after the phone comes out
+00:31:12 is longer term battery health and to be honest five months later still is a pretty short amount of time in the relative
+00:31:18 grand scheme of things as far as batteries go but you want this thing to last three
+00:31:22 four maybe even five plus years and iphones have a good history here and this iphone 12 pro that i've been
+00:31:28 using still shows 100 battery health and that's just kind of it for battery apple's kind of a bit boring in the battery
+00:31:35 department i was just talking about in the magsafe section but apple has never led the industry
+00:31:42 in charging speed they have never led the industry in battery size and there are android
+00:31:46 phones left and right doing split battery cells across foldable form factors even doing split battery cells to do
+00:31:53 faster charging in parallel there are phones doing 50 60 even 100 or 120 watts
+00:32:00 which is absolutely unreal and can get you from dead to full sometimes in half an hour the iphone
+00:32:07 has never done any of that it's just a simple modest sized cell that lasts a the iphone isn't just a piece of hardware
+00:32:23 it's the software that runs on it and it's the ecosystem that surrounds it now there isn't really
+00:32:29 a whole lot of extra stuff to say about ios on the iphone 12 pro specifically that's new here
+00:32:34 in fact that's actually one of the things people like the most about it is it is incredibly consistent they don't
+00:32:39 change too much year over year they never have and older iphones will have literally the exact same software
+00:32:45 experience as the new iphone as soon as the new iphones come out so all i really have to say about ios this time around
+00:32:52 is the stuff that was supposed to be new widgets so widgets finally came to ios after having them on android for the past
+00:32:59 12 years or so so when apple comes late to the party on something usually there's some reason they're
+00:33:04 gonna do it the apple way or they're going to do it better even though they weren't first
+00:33:09 and now that i've had them for about five months on the iphone 12 pro they're actually kind of better and
+00:33:15 worse at the same time so ios 14's widgets are really good i actually think their implementation in ios
+00:33:22 while it's a little less custom does feel a little more polished and controlled as you'd expect
+00:33:27 from ios but when i first went over all of ios 14's new features in that video we saw a few widgets apple built in that
+00:33:34 demonstrated huge potential there's widgets smart stacks and some really informative widgets to give you live
+00:33:39 updating information they were all fairly clean and consistent visually you still can't quite put it
+00:33:44 exactly where you want on every home screen but this felt like the ios way and so now it
+00:33:49 was up to all our favorite apps and developers to update their apps to make great widgets like they did on android so
+00:33:55 where they ended up worse is there's actually not as many and they're still not quite as customizable
+00:34:01 as they are on android now maybe it's a bit unfair to expect all my favorite apps to have updated with widget support
+00:34:06 like they've had a decade to do on android but just in the apps i use five months later there's a waze widget
+00:34:12 on android but not on ios there's a soundcloud widget on android really useful playback controls
+00:34:18 not on ios there's an asana widget on android but not on ios so there are less widgets and overall
+00:34:24 less customization within the widgets themselves but overall the quality of the widgets feels a bit better
+00:34:30 so sounds about right for apple that being said i was really curious how many people really use widgets and so i did a poll
+00:34:37 on twitter asking you guys you know how many of you guys use widgets on your home screen how many
+00:34:41 don't and it turns out about 75 percent of you do whether you're on android or on ios which i found very interesting
+00:34:49 so then we've got the new app library all the way to the right now this isn't quite the app drawer that so many of us
+00:34:54 love on android but it's getting there and it's definitely useful for finding everything in one place and not needing to have
+00:35:00 every single app on a home screen or in some folders so the iphone's home screen situation will continue developing over time
+00:35:07 and speaking of developing over time so will the ecosystem you can't talk about the iphone without at least
+00:35:15 touching on the ecosystem around it so apple's ecosystem gets a little more complete surrounding the iphone every year just
+00:35:20 this year they added the homepod mini they added airpods max and the long rumored air tags are probably coming
+00:35:26 soon and in the walled garden analogy that can either be the inside of that garden getting
+00:35:34 even more lush and beautiful or it can be the walls of the garden getting a little bit higher
+00:35:40 either way i think they're kind of both true the point is it's making it harder to leave i really
+00:35:45 don't have any fundamental problem with the way ios works it's mature enough now that at this point
+00:35:51 any change they make is a small little added feature or a little experiment you know widgets were easily the biggest
+00:35:56 new thing but they've pretty much locked in stuff like their swipe up gesture and the timing and responsiveness of animations
+00:36:03 even if it is a little jarring coming from a square edge instead of a rounded edge and they've locked up the camera ui
+00:36:09 fundamentals for so long pretty much everyone on earth knows how they work by now i don't like
+00:36:14 the power button for example how it doesn't just turn off the phone it also triggers siri with a long press remember when
+00:36:19 power buttons just turned phones on and off but the most consistently frustrating thing
+00:36:24 in ios to me that i wish they would evolve is not notifications although that could
+00:36:29 also use some work too but settings just the fact that there are so many settings
+00:36:35 separated from the app and moved into the settings app it's just been annoying for a long time
+00:36:40 but guess what the iphone is still a ridiculously popular phone for a reason
+00:36:44 it doesn't change too much year over year there's nothing too dramatic happening versus the last one people
+00:36:48 understand it they're used to it both my parents use an iphone at this point
+00:36:55 and it would be really hard to recommend they switch to another phone even if that phone
+00:37:02 is technically better the cost of switching is high and that's on purpose okay so the arrival of 5g on the iphone finally
+00:37:19 5g has been a topic we've hyped up and talked about for a long time and there were a lot of big promises
+00:37:24 made when 5g finally arrived on the iphone they opened their whole keynote with verizon ceo on stage talking about
+00:37:31 5g for a while so it had a lot of promise to it most notably 5g just got real well we
+00:37:37 have the benefit of hindsight now were they right did 5g just get real by adding it to the 12 series
+00:37:45 no i mean mostly no 5g rolling out to the world is an infrastructure thing it is going
+00:37:49 to be a slow literal building process for that to happen so that won't suddenly happen
+00:37:54 quickly because of any one individual phone that being said yes there are now many millions more
+00:38:03 5g customers out in the world because of this new iphone but here's a more interesting question
+00:38:07 do you even want or need 5g in the first place because here's the thing we've seen tons
+00:38:14 of promises of this wild awesome 5g enabled future with robo taxis and remote robot surgeries and insanely
+00:38:22 fast internet speeds everywhere you go but as you saw in my 5g explained video we're not there yet i mean realistically
+00:38:28 5g speeds are not actually that much dramatically better than 4g speeds sometimes they're a little better
+00:38:35 sometimes they're actually worse the rare exception to that is when you're in a stone's throw range of a millimeter
+00:38:40 wave tower in which case you might get incredible speeds until you walk away i actually
+00:38:46 demonstrated pretty clearly in my video that if you're within eyesight of that millimeter wave tower
+00:38:51 you get fantastic speeds but as soon as there's an obstacle between you and the tower or if you literally even go behind a
+00:38:57 window or turn your back to the tower then you're gonna lose some of that signal so 5g is cool 5g has a lot of
+00:39:02 promise for the future but it is not going to suddenly get real because of one phone
+00:39:07 or any one technology the one thing you can say about the iphone which is why they're using these terms
+00:39:13 is there are now millions of people out there who are walking around with their first 5g phone some of these
+00:39:19 people will live in an area with 5g coverage and will benefit right away some of these people will live in an
+00:39:24 area that doesn't have it but that's about to get 5g coverage in the next few years and they'll see
+00:39:28 that benefits soon and some of these people will live in an area with no 5g
+00:39:33 and they won't benefit at all those people can just turn 5g off and use the iphone just like their last one also one of the
+00:39:39 fun facts is if you didn't upgrade to a 5g phone the millions of people who just left the
+00:39:43 4g network with their 5g iphones may actually make your 4g speeds a little bit better to apple's credit
+00:39:49 they've managed to minimize 5g's effect on battery life pretty well some early 5g phones and this happened
+00:39:54 with 4g 2 had worse battery life because of how inefficient it is to constantly hunt for
+00:39:59 a 5g signal and you might have even seen that now deleted tweet of verizon account asking people to turn
+00:40:05 off 5g to improve their battery life but i actually found that the iphone does a really good job with power management
+00:40:09 it's well known now that it doesn't actually connect to 5g all the time it really just switches it
+00:40:17 on when you're downloading something or using a lot of data when you really need it if you're not it
+00:40:22 might show you the 5g logo but it won't actually be connected to 5g and it'll save you some battery and
+00:40:26 honestly you'll probably never notice so the effect on battery life has been minimal and a step has been taken forward
+00:40:33 towards getting the world's internet users onto 5g but it definitely didn't suddenly get real
+00:40:47 okay so you know how every year as soon as a new iphone comes out there is a rapid and dramatic search for
+00:40:51 literally anything that could be possibly wrong with this new phone and if there is anything then that
+00:40:57 becomes a headline and we're all just trying to find the latest the newest gate signal
+00:41:02 strength drops when i hold the phone in a vice grip antenna gate some iphones have charging problems
+00:41:08 charge gate maybe the iphone can be bent in half that's bend gate i did an entire video called iphone gates explained
+00:41:14 you can watch that but this year it's been pretty quiet right there's not that much
+00:41:19 controversial stuff about this iphone but i don't know it just doesn't feel right i feel like there's always got to be
+00:41:24 something there's got to be something for the youtube channels to feast on for views there's got to be some sort of gate
+00:41:31 that we can talk about right what is the gate oh maybe maybe it's the display again right
+00:41:35 there's always some sort of element of controversy with the screen and this screen is nice but it is a thousand
+00:41:41 dollar phone with a comically big notch and it's somehow still 60 hertz and apple's getting away with it so surely
+00:41:47 that's worth the gate maybe there's also been some occasional bubbling up of  oled tint issues so
+00:41:52 i've seen a couple forums and youtube videos talk about green tint on the iphone's display
+00:41:58 hasn't really been enough of that happening for apple to respond to it yet but it's kind of out there or oh actually
+00:42:03 maybe it's just the fact that it still uses lightning actually no what's the iphone it uses
+00:42:08 lightning every year i mean we knew they were never going to go to usbc for the iphone that's not really a gate
+00:42:13 actually you know what i think i know what it is i think the bar for a gate is something that gets a response
+00:42:24 from apple it's got it's got to crush that threshold like you have to find something that's so
+00:42:29 major that apple's engineers didn't find and their testers didn't find but it's such a big admission
+00:42:35 that apple has to go then respond to you that would be a gate and maybe the only thing that qualifies for that
+00:42:48 so there is no charger in the box of the iphone 12 series and so this it was pretty significant of
+00:42:53 course it didn't get a reaction from apple but it was so big that it needed a sort of pre-reaction
+00:42:59 which was an explanation by apple in their keynote about why they were doing it so we saw them take the environmental
+00:43:05 angle you know less charges in the box means less e-waste when people would throw them away less wasted space with packaging
+00:43:13 and more iphones shipped per truck per train per plane per pallet efficiency saving the world now when you
+00:43:18 actually break this down yes you are saving some e-waste by not shipping charging bricks that people
+00:43:23 could potentially throw away if they don't need them but on the other hand the cable that
+00:43:30 ships with the iphone is a usbc to lightning cable and most people who own iphones don't
+00:43:36 have a usbc charger so they have to buy that usbc charging brick anyway which is more packaging
+00:43:42 and more money and now they're throwing away their old bricks and it's kind of not really making any difference
+00:43:47 so as much as we all hate this and we can kind of see through the environmental angle
+00:43:53 we can also sort of see how this is already starting to become normal so since this iphone shipped in a
+00:43:59 small box with no charger the xiaomi mi 11 has also shipped in a small charger-less box but they'll
+00:44:05 still give you a charger if you ask for it and then the galaxy s21 series did the same
+00:44:09 but they're not trying to give you a free charger at all when apple does something the rest of the industry takes notice
+00:44:15 they're all watching and they often react and so just like we saw with the headphone jack where there
+00:44:20 felt like there's about a one year buffer time where you could make fun of what apple was doing with the headphone
+00:44:25 jack before you delete all your ads making fun of them and copied them in your next phone
+00:44:31 i feel like the buffer time is even shorter with this one but the difference in the danger with this trend
+00:44:36 is all the innovation we've been seeing over the past few years in battery tech and charging tech and
+00:44:42 this like race to the fastest charging phone does that just end i really hope not so that's what really makes this
+00:44:50 a gate to me at least is it's not just the okay apple's not shipping a charger with the phone anymore and oh look how greedy
+00:44:56 this seems like they're being but the ripple effect that this inevitably has
+00:45:01 on the rest of the industry and at the end of the day i think that's what makes the iphone
+00:45:06 such a fascinating product to begin with is it you know it started off by changing the world in 2007
+00:45:12 but every time they update it after that it has these second and third order effects on the
+00:45:17 rest of the smartphone world around it that's what's so crazy about the iphone there are companies that make
+00:45:25 entire phones based on rumors of what apple might do in a future iphone just so they can beat
+00:45:29 apple to the punch that is wild all right that's i think that's it i
+00:45:39 think that's everything that i've wanted to say about the iphone that i haven't in some way in some video somewhere i'm
+00:45:44 glad we did this this is  if you made it straight through to the end of this video
+00:45:50 watch the whole thing well we've been through a lot together so i appreciate you also you might notice it's a different
+00:45:55 shirt this time that's what happens when it's a long video it takes more than one day to shoot but if you skipped
+00:46:02 directly to the end this conclusion here well you missed the most exciting part but either way yeah i'm super curious
+00:46:06 what you guys think to me it's it's not just about making a longer video just to make a long video
+00:46:13 it's about being able to cover all of a topic instead of just a narrow slice of it like we normally are compelled to but
+00:46:19 hey if you guys watch the video and you enjoyed it we can do more of this type of stuff so
+00:46:23 let me know in the comment section below also down below right below like button are all the references and all the links
+00:46:28 of all the stuff i talked about during this video as promised cool that's it
+00:46:34 thanks for watching now a word from the only sponsor brave enough to tack at the end of
+00:46:39 this gigantic video expressvpn shout out to the sponsor of this video expressvpn so quick question how did you
+00:46:45 choose which internet provider that you use actually i'll probably just answer that for you you likely didn't have a choice
+00:46:50 or if you did you're pretty lucky because in most areas you don't have a choice and so
+00:46:55 because these isps essentially have a monopoly over the areas that they serve if they start
+00:47:00 doing things you disagree with or if they start to track all the websites you visit even when you're in incognito mode
+00:47:06 what are you going to do switch you can't so using expressvpn stops this by rerouting your connection through a secure
+00:47:13 encrypted server so your isps can't see a thing and also rerouting your connection
+00:47:17 through a different server can actually be kind of fun for example if i want to watch modern family
+00:47:23 it's not on us netflix no problem i just connect to a server that's in the uk refresh and i can watch it and it's not
+00:47:29 just modern family you can get thousands of other shows on netflix basically unlocked just by
+00:47:33 switching your location when you use expressvpn so if you don't want your isp to have complete control
+00:47:38 and knowledge over every website you visit and you want to unlock more shows it's kind of a no-brainer you can grab expressvpn

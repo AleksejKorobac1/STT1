@@ -1,0 +1,299 @@
+00:00:02 you've studied the human mind cognition language vision evolution psychology from child to adult from the level of
+00:00:10 individual to the level of our entire civilization so I feel like I can start with a simple multiple-choice question
+00:00:20 what is the meaning of life is it a to attain knowledge as Plato said B to attain power as Nietzsche said C to
+00:00:29 escape death as Ernest Becker said d to propagate our genes as Darwin and others have said e there is no meaning as the
+00:00:38 nihilists have said F knowing the meaning of life is beyond our cognitive capabilities as Steven Pinker said based
+00:00:44 on my interpretation twenty years ago and G none of the above I'd say aid comes closest but I would
+00:00:52 amend that to attaining not only knowledge but fulfillment more generally that is life health stimulation access
+00:01:05 to the living cultural and social world now this is our meaning of life it's not the meaning of life if you were to ask
+00:01:14 our genes their meaning is to propagate copies of themselves but that is distinct from the meaning that the brain
+00:01:23 that they lead to sets for itself so to you knowledge is a small subset or a large subset it's a large subset but
+00:01:31 it's not the entirety of human striding because we also want to interact with people we want to experience beauty we
+00:01:39 want to experience the the richness of the natural world but understanding the what makes the universe tick is his way
+00:01:49 up there for some of us more than others certainly for me that's that's one of the top five so is that a fundamental
+00:01:58 aspect are you just describing your own preference or is this a fundamental aspect of human nature is to seek
+00:02:05 knowledge just in your latest book you talk about the the the power the usefulness of rationality and reason so
+00:02:12 on is that a fundamental nature human beings or is it something we should just strive for it's both it is
+00:02:20 we're capable of striving for it because it is one of the things that make us what we are Homo sapiens wise men we are
+00:02:31 unusual among animals in the degree to which we acquire knowledge and use it to survive we we make tools we strike
+00:02:41 agreements via language we extract poisons we predict the behavior of animals we try to get at the workings of
+00:02:49 plants and when I say we I don't just mean we in the modern West but we as a species everywhere which is how we've
+00:02:56 managed to occupy every niche on the planet and how we've managed to drive other animals to extinction and the
+00:03:03 refinement of Reason in pursuit of human well-being of health happiness social richness cultural richness is our our
+00:03:13 main challenge in the present that is using our intellect using our knowledge to figure out how the world works how we
+00:03:21 work in order to make discoveries and strike agreements that make us all better off in the long run right and you
+00:03:30 do that almost undeniably and in a data-driven way in a recent book but I'd like to focus on the artificial
+00:03:36 intelligence aspect of things and not just artificial intelligence but natural intelligence too so twenty years ago in
+00:03:42 the book you've written on how the mind works you conjecture again my right to interpret things you could you can
+00:03:50 correct me if I'm wrong but you conjecture that human thought in the brain may be a result of and now we're a
+00:03:56 massive network of highly interconnected neurons so from this interconnectivity emerges thought compared to artificial
+00:04:05 neural networks we use for machine learning today is there something fundamentally more complex mysterious
+00:04:13 even magical about the biological neural networks versus the ones we've been starting to use over the past 60 years
+00:04:21 and it becomes a success in the past 10 there is something a little bit mysterious about the human
+00:04:29 neural networks which is that each one of us who is a neural network knows that we ourselves are conscious conscious not
+00:04:36 of a sense of registering our surroundings or even registering our internal state but in having subjective
+00:04:42 first-person present-tense experience that is when I see red it's not just different from green but it just there's
+00:04:50 there's a redness to it I feel whether an artificial system would experience that or not I don't know and I don't
+00:04:56 think I can know that's why it's mysterious if we had a perfectly lifelike robot that was behaviorally
+00:05:03 indistinguishable from a human would we attribute consciousness to it or ought we to attribute consciousness to it and
+00:05:10 that's something that it's very hard to know but putting that aside put inside that that largely philosophical question
+00:05:18 the question is is there some difference between the human neural network and the ones that we were building in artificial
+00:05:24 intelligence will mean that we're on the current trajectory not going to reach the point where we've got a lifelike
+00:05:31 robot indistinguishable from a human because the way their neural so-called neural networks were organized are
+00:05:36 different from the way ours are organized having there's overlap but I think there are some some big
+00:05:44 differences that they're the current neural networks current so called deep learning systems are in reality not all
+00:05:51 that deep that is they are very good at extracting high order statistical regularities but most of the systems
+00:05:58 don't have a semantic level a level of actual understanding of who did what to who why where how things work what
+00:06:07 causes what else do you think that kind of thing can emerge as it does so artificial you know so much smaller the
+00:06:13 number of connections and so on in the current human biological networks but do you think sort of go to go to
+00:06:20 consciousness or to go to this higher level semantic reasoning about things do you think that can emerge with just a
+00:06:27 larger network with a more richly weirdly interconnected network separating consciousness because
+00:06:32 consciousness is even a matter of complex a really good one yeah you could have you could sensibly
+00:06:37 ask the question of whether shrimp are conscious for example they're not terribly complex but maybe they feel
+00:06:43 pain so let's just put that one that part of it aside yet but I think sheer size of a neural network is not enough
+00:06:52 to give it structure and knowledge but if it's suitably engineered then then why not
+00:06:58 that is where neural networks natural selection did a kind of equivalent of engineering of our brains so I don't
+00:07:05 know there's anything mysterious in the sense that no no system made out of silicon could ever do what a human brain
+00:07:12 can do I think it's possible in principle whether it'll ever happen depends not only on how clever we are in
+00:07:19 engineering these systems but whether even we even want to whether that's even a sensible goal that is you can ask the
+00:07:26 question is there any locomotion system that is as as good as a human well we kind of want to do better than a human
+00:07:34 ultimately in terms of legged locomotion there's no reason that humans should be our benchmark they're their tools that
+00:07:40 might be better in some ways it may just be not as maybe that we can't duplicate a natural system because at some point
+00:07:50 it's so much cheaper to use a natural system that we're not going to invest more brainpower and resources so for
+00:07:57 example we don't really have a subsidy and exact substitute for wood we still build houses out of would we still go
+00:08:03 furniture out of wood we like the look we like the feel it's wood has certain properties that synthetics don't there's
+00:08:09 not that there's any magical or mysterious about wood it's just that the extra steps of duplicating everything
+00:08:17 about wood is something we just haven't bothered because we have wood likewise a cotton I mean I'm wearing cotton
+00:08:22 clothing now feels much better than the polyester it's not that cotton has something magic in it and it's not that
+00:08:30 if there was that we couldn't ever synthesize something exactly like cotton but at some point it just it's just not
+00:08:36 worth it we've got cotton and likewise in the case of human intelligence the goal of making an artificial system that
+00:08:44 is exactly like the human brain is a goal that we no one's gonna pursue to the bitter end
+00:08:51 I suspect because if you want tools that do things better than humans you're not going to care whether it does something
+00:08:55 like humans so for example you're diagnosing cancer or particularly whether why set humans as your benchmark
+00:09:04 but in in general I suspect you also believe that even if the human should not be a benchmark on women's don't want
+00:09:10 to imitate humans in their system there's a lot to be learned about how to create an artificial intelligence system
+00:09:17 by studying the human yeah III think that's right there in in the same way that to build
+00:09:23 flying machines we want understand the laws of aerodynamics and including birds but not mimic the birds right but the
+00:09:33 same laws you have a view on AI artificial intelligence and safety that from my perspective is refreshingly
+00:09:46 rational or perhaps more importantly has elements of positivity to it which I think can be inspiring and empowering as
+00:09:55 opposed to paralyzing for many people including AI researchers the eventual existential threat of AI is obvious not
+00:10:03 only possible but obvious and for many others including a researchers the threat is not obvious so Elon Musk is is
+00:10:14 famously in the highly concerned about AI camp saying things like AI is far more dangerous and nuclear weapons and
+00:10:21 that AI will likely destroy human civilization so in February you said that if Elon was really serious about AI
+00:10:31 they the threat of AI he would stop building self-driving cars that he's doing very successfully as part of Tesla
+00:10:39 then he said Wow if even Pinker doesn't understand the difference between arrow AI like a car in general AI when the
+00:10:45 latter literally has a million times more compute power and an open-ended utility function humanity is in deep
+00:10:54 trouble so first what did you mean by the statement about Elon Musk should stop Bill ourselves driving cars if he's
+00:10:59 deeply concerned not last time that Elon Musk has fired off an intemperate tweet well we live in
+00:11:09 a world where Twitter has power yes yeah I think the the that there are two kinds of existential threat that have been
+00:11:17 discussed in connection with artificial intelligence and I think that they're both incoherent one of them is vague
+00:11:26 fear of AI takeover that it just as we subjugated animals and less technologically advanced people's so if
+00:11:32 we build something that's more advanced than us it will inevitably turn us into pets or slaves or or domesticated animal equivalents
+00:11:42 I think this confuses intelligence with a will to power that it so happens that in the intelligence system we are most
+00:11:51 familiar with namely Homo sapiens we are products of natural selection which is a competitive process and so bundled
+00:11:56 together with our problem-solving capacity are a number of nasty traits like dominance and exploitation and
+00:12:06 maximization of power and glory and resources and influence there's no reason to think that sheer
+00:12:12 problem-solving capability will set that as one of its goals its goals will be whatever we set it its goals as and as
+00:12:18 long as someone isn't building a megalomaniacal artificial intelligence and there's no reason to think that it
+00:12:25 would naturally evolve in that direction now you might say well what if we gave it the goal of maximizing its own power
+00:12:32 source well that's a pretty stupid goal to give a an autonomous system you don't give it that goal I mean that's just
+00:12:39 self-evident we idiotic so if you look at the history of the world there's been a lot of opportunities where engineers
+00:12:45 could instill in a system destructive power and they choose not to because that's the natural process of
+00:12:50 Engineering well weapons I mean if you're building a weapon its goal is to destroy people and so I think they're
+00:12:57 good reasons to not not build certain kinds of weapons I think the building nuclear weapons was a massive mistake
+00:13:04 but probably do you think so maybe pause on that because that is one of the serious threats do you think that
+00:13:12 it was a mistake in a sense that it was should have been stopped early on or do you think it's just an
+00:13:18 unfortunate event of invention that this was invented we think it's possible to stop I guess is the question it's hard
+00:13:24 to rewind the clock because of course it was invented in the context of World War two and the fear that the Nazis might
+00:13:32 develop one first then once was initiated for that reason it was it it was hard to turn off especially since
+00:13:39 winning the war against the Japanese and the Nazis was such an overwhelming goal of every responsible person that there's
+00:13:46 just nothing that people wouldn't have done then to ensure victory it's quite possible if World War two hadn't
+00:13:52 happened that nuclear weapons wouldn't have been invented we can't know but I don't think it was by any means a
+00:13:58 necessity any more than some of the other weapon systems that were envisioned but never implemented like
+00:14:06 planes that would disperse poison gas over cities like crop dusters or systems to try to do to create earthquakes and
+00:14:15 tsunamis in enemy countries to weaponize the weather weaponize solar flares all kinds of crazy schemes that that we
+00:14:22 thought the better off I think analogies between nuclear weapons and artificial intelligence are fundamentally misguided
+00:14:28 because the whole point of nuclear weapons is to destroy things the point of artificial intelligence is not to
+00:14:35 destroy things so the analogy is is misleading so there's two artificial intelligence you mentioned the first one
+00:14:42 was the intelligence all know hungry yeah the system that we design ourselves where we give it the goals goals are
+00:14:49 external to the means to attain the goals I if we don't design an artificial intelligence system to maximize
+00:14:58 dominance then it won't maximize dominance it just that we're so familiar with Homo sapiens when these two traits
+00:15:05 come bundled together particularly in men that we are apt to confuse high intelligence with a will to power but
+00:15:16 that's just an error the other fear is that we'll be collateral damage that will give artificial intelligence a goal
+00:15:24 like make paperclips and it will pursue that goal so brilliantly that before we can stop it it turns us into
+00:15:30 paperclips we'll give it the goal of curing cancer and it will turn us into guinea pigs for lethal experiments or
+00:15:37 give it the goal of world peace and its conception of world pieces no people therefore no fighting and so it'll kill
+00:15:43 us all now I think these are utterly fanciful in fact I think they're actually self-defeating they first of
+00:15:49 all assume that we're going to be so brilliant that we can design an artificial intelligence that can cure
+00:15:55 cancer but so stupid that we don't specify what we mean by curing cancer in enough detail that it won't kill us in
+00:16:02 the process and it assumes that the system will be so smart that it can cure cancer but so idiotic that it doesn't
+00:16:09 can't figure out that what we mean by curing cancer is not killing everyone so I think that the the collateral damage
+00:16:16 scenario the value alignment problem is is also based on a misconception so one of the challenges of course we don't
+00:16:23 know how to build either system currently or are we even close to knowing of course those things can
+00:16:28 change overnight but at this time theorizing about it is very challenging in either direction so that that's
+00:16:35 probably at the core the problem is without that ability to reason about the real engineering things here at hand is
+00:16:43 your imagination runs away with things exactly but let me sort of ask what do you think was the motivation the thought
+00:16:51 process of elam Wasco i build autonomous vehicles I study autonomous vehicles I studied Tesla autopilot I think it is
+00:16:58 one of the greatest currently application large scale application of artificial intelligence in the world it
+00:17:05 has a potentially a very positive impact on society so how does a person who's creating this very good quote/unquote
+00:17:14 narrow AI system also seem to be so concerned about this other general AI what do you think is the motivation
+00:17:21 there what do you think is the thing really you probably have to ask him but there and and he is notoriously
+00:17:31 flamboyant impulsive to the as we have just seen to the detriment of his own goals of the health of a company so I
+00:17:38 don't know what's going on on his mind you probably have to ask him but I don't think the and I don't think
+00:17:44 the distinction between special-purpose a and so-called general is relevant that in the same way that special-purpose AI
+00:17:53 is not going to do anything conceivable in order to attain a goal all engineering systems have to are designed
+00:18:00 to trade off across multiple goals well we build cars in the first place we didn't forget to install brakes because
+00:18:07 the goal of a car is to go fast it occurred to people yes you want to go fast but not always so you build an
+00:18:15 brakes too likewise if a car is going to be autonomous that doesn't and program it to take the shortest route to the
+00:18:21 airport it's not going to take the diagonal and mow down people and trees and fences because that's the shortest
+00:18:26 route that's not what we mean by the shortest route when we program it and that's just what and an intelligent
+00:18:34 system is by definition it takes into account multiple constraints the same is true in fact even more true of so-called
+00:18:41 general intelligence that is if it's genuinely intelligent it's not going to pursue some goal single-mindedly
+00:18:50 omitting every other consideration and collateral effect that's not artificial in general intelligence that's that's
+00:18:58 artificial stupidity I agree with you by the way on the promise of autonomous vehicles for improving human welfare
+00:19:03 I think it's spectacular and I'm surprised at how little press coverage notes that in the United States alone
+00:19:10 something like 40,000 people die every year on the highways vastly more than are killed by terrorists and we spend we
+00:19:17 spent a trillion dollars on a war to combat deaths by terrorism but half a dozen a year whereas if you're an year
+00:19:24 out 40,000 people are massacred on the highways which could be brought down to very close to zero so I'm with you on
+00:19:32 the humanitarian benefit let me just mention that it's as a person who's building these cars it is it a little
+00:19:36 bit offensive to me to say that engineers would be clueless enough not to engineer safety into systems I often
+00:19:43 stay up at night thinking about those 40,000 people that are dying and everything I tried to engineer is to
+00:19:50 save those people's lives so every new invention that I'm super excited about every new and the in all
+00:19:57 the deep learning literature and cvpr conferences and nips everything I'm super excited about is all grounded in
+00:20:07 making it safe and help people so I just don't see how that trajectory can all a sudden slip into a situation where
+00:20:14 intelligence will be highly negative you know you and I certainly agree on that and I think that's only the beginning of
+00:20:19 the potential humanitarian benefits of artificial intelligence there's been enormous attention to what are we going
+00:20:26 to do with the people whose jobs are made obsolete by artificial intelligence but very little attention given to the
+00:20:31 fact that the jobs that hooni made obsolete are horrible jobs the fact that people aren't going to be picking crops
+00:20:39 and making beds and driving trucks and mining coal these are you know soul deadening jobs and we have a whole
+00:20:46 literature sympathizing with the people stuck in these menial mind deadening dangerous jobs if we can eliminate them
+00:20:55 this is a fantastic boon to humanity now granted we you solve one problem and there's another one namely how do we get
+00:21:03 these people a a decent income but if we're smart enough to invent machines that can make beds and put away dishes
+00:21:11 and and handle hospital patients well I think we're smart enough to figure out how to redistribute income to apportion
+00:21:18 some of the vast economic savings to the human beings who will no longer be needed to to make beds okay Sam Harris
+00:21:26 says that it's obvious that eventually AI will be in existential risk he's one of the people says it's obvious we don't
+00:21:36 know when the claim goes but eventually it's obvious and because we don't know when we should worry about it now this
+00:21:42 is a very interesting argument in my eyes so how do you how do we think about time scale how do we think about
+00:21:50 existential threats when we don't really know so little about the threat unlike nuclear weapons perhaps about this
+00:21:58 particular threat that it could happen tomorrow right so but very likely won't yeah they're likely to be a hundred years
+00:22:05 away so how do do we ignore it do how do we talk about it do we worry about it what how do we
+00:22:14 think about those what is it a threat that we can imagine it's within the limits of our imagination but not within
+00:22:22 our limits of understanding - sufficient to accurately predict it but but what what is what is the ether asre AI xai
+00:22:30 being the existential threat AI can always know like enslaving us or turning us into paperclips I think the most
+00:22:37 compelling from the Sam Harris was fact it would be the paperclip situation yeah I mean I just think it's totally
+00:22:43 fanciful I just don't build a system don't give it a don't first of all the code of engineering is you don't
+00:22:50 implement a system with massive control before testing it now perhaps the culture of engineering will radically
+00:22:56 change then I would worry I don't see any signs that engineers will suddenly do idiotic things like put a electrical
+00:23:04 power plant in control of a system that they haven't tested first or all of these scenarios not only imagine a
+00:23:14 almost a magically powered intelligence you know including things like cure cancer which is probably an incoherent
+00:23:20 goal because there's so many different kinds of cancer or bring about world peace I mean how do you even specify
+00:23:27 that as a goal but the scenarios also imagine some degree of control of every molecule in the universe which not only
+00:23:36 is itself unlikely but we would not start to connect these systems to infrastructure without without testing
+00:23:45 as we would any kind of engineering system now maybe some engineers will be irresponsible and we need legal and
+00:23:54 regulatory and legal responsibilities implemented so that engineers don't do things that are stupid by their own
+00:24:02 standards but the ii-i've never seen enough of a plausible scenario of existential threat to devote large
+00:24:10 amounts of brain power to to forestall it so you believe in the sort of the power and mass of the engineering of
+00:24:17 reason as the argue this book of Reason science and sort of be the very thing that puts the
+00:24:25 development of new technology so it's safe and also keeps us safe it's the same and you know granted the same
+00:24:32 culture of safety that currently is part of the engineering mindset for airplanes for example so yeah I don't think that
+00:24:39 that that should be thrown out the window and that untested all-powerful system should be suddenly implemented
+00:24:46 but there's no reason to think they are and in fact if you look at the progress of artificial intelligence it's been you
+00:24:51 know it's been impressive especially in the last ten years or so but the idea that suddenly there'll be a step
+00:24:57 function that all of a sudden before we know it it will be all powerful that there'll be some kind of recursive
+00:25:05 self-improvement some kind of Foom is also fanciful we certainly by the technology that we that were now
+00:25:13 impresses us such as deep learning when you train something on hundreds of thousands or millions of examples
+00:25:20 they're not hundreds of thousands of problems of which curing cancer is a typical example and so the kind of
+00:25:29 techniques that have allowed AI to increase in the last five years are not the claim that are going to lead to this
+00:25:37 fantasy of of exponential sudden self-improvement so it's may I think it's it's kind of a magical thinking
+00:25:43 it's not based on our understanding of how AI actually works now give me a chance here so you said fanciful magical
+00:25:51 thinking in his TED talk Sam Harris says that thinking about AI killing all human civilization is somehow fun
+00:25:58 intellectually now I have to say as a scientist engineer I don't find it fun but when I'm having beer with my non-ai
+00:26:07 friends there is indeed something fun and appealing about it like talking about an episode of black mirror
+00:26:14 considering if a large meteor is headed towards Earth we were just told a large meteors headed towards Earth something
+00:26:19 like this and can you relate to this sense of fun and do you understand the psychology of
+00:26:26 it yeah that's a good question III personally don't find it fun I find it kind of actually a waste of
+00:26:34 time because there are genuine threats that we ought to be thinking about like like pandemics like like a cyber
+00:26:43 security vulnerabilities like the possibility of nuclear war and certainly climate change this is enough to film it
+00:26:52 many conversations without and I think there I think Sam did put his finger on something namely that there is a
+00:26:59 community us sometimes called the rationality community that delights in using its brain power to come up with
+00:27:08 scenarios that would not occur to mere mortals to less cerebral people so there is a kind of intellectual thrill in
+00:27:15 finding new things to worry about that no one has worried about yet I actually think though that it's not
+00:27:21 only is it is a kind of fun that doesn't give me particular pleasure but I think there is there can be a pernicious side
+00:27:28 to it namely that you overcome people with such dread such fatalism that there's so many ways to die to
+00:27:38 annihilate our civilization that we may as well enjoy life while we can there's nothing we can do about it if climate
+00:27:42 change doesn't do us in then runaway robots will so let's enjoy ourselves now we've got to prioritize we have to look
+00:27:54 at threats that are close to certainty such as climate change and distinguish those from ones that are merely
+00:28:00 imaginable but with infinitesimal probabilities and we have to take into account people's worry budget you can't
+00:28:08 worry about everything and if you so dread and fear and terror and numb and fatalism it can lead to a kind of
+00:28:14 numbness well they're just these problems are overwhelming and the engineers are just gonna kill us all so
+00:28:22 let's either destroy the entire infrastructure of science technology or let's just enjoy life while we can so
+00:28:31 there's a certain line of worry which I'm worried about a lot of things engineering there's a certain line of
+00:28:38 worry when you cross a lot across that it becomes paralyzing fear as opposed to productive fear and that's
+00:28:45 kind of what they're highlighting there exactly right and we've seen some we know that human effort is not well
+00:28:54 calibrated against risk in that because a basic tenet of cognitive psychology is that perception of risk and hence
+00:29:03 perception of fear is driven by imagined ability not by data and so we miss allocate vast amounts of resources to
+00:29:11 avoiding terrorism which kills on average about six Americans a year with a one exception of 9/11 we invade
+00:29:19 countries we invent entire new departments of government with massive massive expenditure of resources and
+00:29:26 lives to defend ourselves against a trivial risk whereas guaranteed risks and you mentioned as one of them you
+00:29:35 mentioned traffic fatalities and even risks that are not here but are plausible enough to worry about
+00:29:47 like pandemics like nuclear war receive far too little attention the in presidential debates there's no
+00:29:53 discussion of how to minimize the risk of nuclear war lots of discussion of terrorism for example and and so we I
+00:30:01 think it's essential to calibrate our budget of fear worry concern planning to the actual probability of harm yep so
+00:30:12 let me ask this then this question so speaking of imagined ability you said it's important to think about reason and
+00:30:21 one of my favorite people who who likes to dip into the outskirts of reason through fascinating exploration of his
+00:30:30 imagination is Joe Rogan oh yes you so who has through reason used to believe a lot of conspiracies and through a reason
+00:30:37 has stripped away a lot of his beliefs in that way so it's fascinating actually to watch him through rationality kind of
+00:30:46 throw away that ideas of Bigfoot and 9/11 I'm not sure exactly trails I don't know what the leaves in yet
+00:30:52 but you no longer know believed in that's right no either he's become a real force for for good yeah so you were
+00:30:58 on the Joe Rogan podcast in February and had a fascinating conversation but as far as I remember didn't talk much about
+00:31:05 artificial intelligence I will be on his podcast in a couple weeks Joe is very much concerned about
+00:31:11 existential threat away I am not sure if you're this is why I was I was hoping that you would get into that topic and
+00:31:18 in this way he represents quite a lot of people who look at the topic of AI from 10,000 foot level so as an exercise of
+00:31:27 communication he said it's important to be rational and reason about these things let me ask if you were to coach
+00:31:34 me as AI researcher about how to speak to Joe and the general public about AI what would you advise well I'd the short
+00:31:41 answer would be to read the sections that I wrote an Enlightenment I know about AI but a longer reason would be I
+00:31:47 think to emphasize and I think you're very well positioned as an engineer to remind people about the culture of
+00:31:53 engineering that it really is safety oriented that another discussion in enlightenment now I plot rates an
+00:32:02 accidental death from various causes plane crashes car crashes Occupational accidents even death by lightning
+00:32:12 strikes and they all plummet because the culture of engineering is how do you squeeze out the the lethal risks death
+00:32:20 by fire death by drowning death by asphyxiation all of them drastically declined because of advances in
+00:32:26 engineering then I gotta say I did not appreciate until I saw those graphs and it is because exactly people like you
+00:32:34 who stamp at night thing oh my god it is what a mime is what I mean what I'm inventing likely to hurt people and to
+00:32:41 deploy ingenuity to prevent that from happening now I'm not an engineer although I spent 22 years at MIT so I
+00:32:47 know something about the culture of engineering my understanding is that this is the way this is what you think
+00:32:51 if you're an engineer and it's essential that that culture not be suddenly switched off when come start
+00:32:59 official intelligence so I mean fact that could be a problem but is there any reason to think it would be switched off
+00:33:04 I don't think so and one there's not enough engineers speaking up for this way for this the excitement for the
+00:33:12 positive view of human nature what you're trying to create is the positivity like everything we try to
+00:33:17 invent is trying to do good for the world but let me ask you about the psychology of negativity it seems just
+00:33:25 objectively not considering the topic it seems that being negative about the future makes you sound smarter than me
+00:33:31 positive about the future irregardless of topic am I correct in the observation and if you if so why do you think that
+00:33:37 is yeah I think that I think there is that that phenomenon that as Tom Lehrer the satirist said always predict the
+00:33:44 worst and you'll be hailed as a prophet it may be part of our overall negativity bias we are as a species more attuned to
+00:33:53 their negative than the positive we dread losses more than we enjoy gains prophets to remind us of harms and risks
+00:34:06 and losses that we may have overlooked so I think there there there is that asymmetry so you've written some of my
+00:34:17 favorite books all over the place so starting from enlightenment now to the better angels of our nature
+00:34:24 blank slate how the mind works the the one about language language instinct bill gates big fan to set of your most
+00:34:34 recent book that it's my new favorite book of all time so for you as an author what was the book early on in your life
+00:34:44 that had a profound impact on the way you saw the world certainly this book enlightenment now is influenced by David
+00:34:51 Deutsch as the beginning of infinity a rather deep reflection on knowledge and the power of knowledge to improve the
+00:35:00 human condition the and with bits of wisdom such as that problems are inevitable but problems are solvable
+00:35:05 given the knowledge and that solutions create new problems have to be solved in their turn
+00:35:11 that's I think a kind of wisdom about the human condition that influenced the writing of this book there's some books
+00:35:17 that are excellent but obscure some of which I have on my page of my website I read a book called the history of force
+00:35:24 self-published by a political scientist named James Payne on the historical decline of violence and that was one of
+00:35:30 the inspirations for the better angels of our nature the what about early on if we look back
+00:35:38 when you're maybe a teenager loved a book called one two three infinity when I was a young adult I read that book by
+00:35:45 George gamma the physicist very accessible in humorous explanations of dimensionality high multiple dimensional
+00:35:59 spaces in a way that I think is still delightful seventy years after it was published I like that the time life
+00:36:06 science series these were books that would arrive every month my mother subscribed to each one on a different
+00:36:14 topic one would be on electricity what would be on forests want to be learned may evolution and then one was on the
+00:36:21 mind and I was just intrigued that there could be a science of mind and that that book I would cite as an influence as
+00:36:28 well then later on you fell in love with the idea of studying the mind that's one thing that grabbed you it was one of the
+00:36:35 things I would say the I read as a college student the book reflections on language by Noam Chomsky spent most of
+00:36:44 his career here at MIT Richard Dawkins two books the blind watchmaker and The Selfish Gene or enormous Li influential
+00:36:52 partly for mainly for the content but also for the writing style the ability to explain abstract concepts in lively
+00:37:02 prose Stephen Jay Gould first collection ever since Darwin also excellent example of lively writing George Miller
+00:37:11 psychologist that most psychologists are familiar with came up with the idea that human memory has a capacity of seven
+00:37:18 plus or minus two chunks and then Sophia's biggest claim to fame but he wrote a couple of books on language and
+00:37:23 communication that I've read it's an undergraduate again beautifully written and intellectually deep wonderful Steven

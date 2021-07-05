@@ -1,0 +1,308 @@
+00:00:02 hi in this tutorial I'm going to show you how to use Ajax with the.net MVC framework so what you'll see is
+00:00:09 something like this I will have a bunch of radio buttons with a user associated when I click them the updates are
+00:00:17 displayed at the bottom you notice the timestamp here shows that every time I click there is maybe a second or two of
+00:00:25 elapsed time however the main part of the page here is not updated and so that's the magic of Ajax is that you can
+00:00:32 do partial page updates and so that's what we're going to see right ahead you
+00:00:44 so in this tutorial we're going to create two different versions of this application we're going to create the
+00:00:49 version where you have to create the button that says display results and the entire page will refresh and then in the
+00:00:56 second part of the tutorial will create the Ajax version and so you can see the distinction between the two so let's get
+00:01:02 started coding so I'm working with Visual Studio 2019 I'm going to choose a dotnet framework ASP web application so
+00:01:10 I'm going to name my project something like customers with Ajax in it so you can see what the demo is about the
+00:01:18 dotnet framework is for 72 for my project I'm going to choose empty select the MVC folder no authentication and
+00:01:26 click create the first part of the application is to create an object or a model so let's go into the models folder
+00:01:33 right-click and add a new one so the object I'm going to work with is called customer so we'll choose code class and
+00:01:40 name it customer each customer is going to have three properties we'll give it an ID number a name and their age so an
+00:01:48 INT a string and an integer next let's create a constructor so I'll right click and choose the quick shortcuts and then
+00:01:55 create a constructor with all of the properties so we're done with the customers model for now let's go ahead
+00:02:01 and close it and save it the next part of this process is to create a controller so let's go into the
+00:02:07 controllers and add a new one so right click add a new controller let's choose empty and add I will call
+00:02:18 it customer controller so in this controller I'm going to get some data that we can display on the app usually
+00:02:24 we would get it from a database and insert it here but to cut the tutorial down to size let's just do hard coding
+00:02:32 so in this controller I want to open up a view called customer so I'll put inside of the view parentheses the word
+00:02:40 customer now let's go ahead and create that customer view so we'll right click inside the code and choose add view so
+00:02:47 I'm going to name it customer and not associate any model with it yet and then we'll uncheck the layout page now in
+00:02:55 this application I'm going to use a layout and have a header a body and the customer details so let's create a new
+00:03:03 layout so in order to do that I'm going into the views folder and I'm going to add a new folder let's call the folder
+00:03:11 named shared in the shared folder I'm going to right click and choose add a view I'm going to name it underscore
+00:03:18 layout and so this will be the defining page for all of the parts of our app so I'm going to change three things about
+00:03:26 this layout first of all we'll change the title so it'll get the page title value so at page title then inside of
+00:03:33 the body we're going to render two things we will render the header of the page which hasn't been created yet but
+00:03:39 we will soon make it and then we will render the body so the next piece I want to create is that header so let's
+00:03:46 right-click on the shared folder choose the new view well choose a partial page and we'll name an underscore header when
+00:03:56 we click OK we will get a blank page so for the header we're going to need a welcome message so put something on
+00:04:01 there that says welcome to the customer Ajax example or something similar and then in the second line I want to
+00:04:08 display the current time when this page was rendered and so I'll just simply say the current time is and I'm going to use
+00:04:16 a razor syntax here to say at date/time dot now and so that will change every time the browser is refreshed the next
+00:04:25 part of my application is going to be the customers details section so this is the part of the page that shows as the
+00:04:33 gray box so I'm going to create this page and call it customers detail using the underscore since it's a partial page
+00:04:40 I'm going to include the model for the customer and make sure that's just in an empty data format now I'm going to also
+00:04:47 select that I'm going to create it as a partial view and I'm going to use the script libraries and so this is the part
+00:04:55 that will happen in the Ajax routine this will be updated only this partial page so what I want to display in the
+00:05:03 customer details is the name of the person and their age so the helper that I'm going to search for is
+00:05:12 HTML dot display name for so we're going to get the name and then that's that's going to be the the display name plus
+00:05:19 I'm going to show the actual value so display for and then use the arrow function to show the actual value of the
+00:05:26 name and I'll put in a line break the other part of the person's identity I would like to show is their age so we'll
+00:05:32 copy and paste the line and then change name to age for each of them lastly I would like to show that this is updated
+00:05:39 at a specific time because this partial page will be updated while the main page is not updated and so comparing the two
+00:05:46 timestamps will be instructive in just a few minutes so that should be enough information to display the details of
+00:05:52 the customer let's move back to the controller now so next I'm going to define some data for my application
+00:05:59 first of all I need to get the customer object in the customer models so I'll type in the word customer which is the
+00:06:05 name of my model and then the word customer in lower case I have to include the using statement so that I can get to
+00:06:12 the models now the customer model we define just a few minutes ago in this file here called customer so I'm going
+00:06:19 to keep track of two pieces of data not only a single customer but also an entire list of them so I will name the
+00:06:25 second variable as customers with a plural so now down in the index function let's define the customers list so we'll
+00:06:34 create it as a new list of type customer it's an empty list next I would like to add a customer to the list so remember
+00:06:41 this would usually come from a database here we're going to code them individually so inside the add function
+00:06:48 let's put in a new customer so I'll just define a new customer with a constructor so this customer is ID 0 her name is
+00:06:57 Sheri and she's 37 years old so let's copy and paste the first line and then duplicate it maybe six times then for
+00:07:05 each of those let's change the ID number to something unique so I'll just go one through six and then let's make up a new
+00:07:11 name for each person so you can choose any name you like I'm going to pick Sheri Tim Charlene Dan
+00:07:18 and dayne I guess it is and Elijah Howard and Dave and then make up an age for each of them so we just need some
+00:07:24 data that's somewhat unique for each person so I apologize but I'm gonna change my mind I'm going to take all
+00:07:31 this data and instantiate it inside a constructor so let's right-click in the code here and create a new constructor
+00:07:38 with no parameters so just a basic constructor and then I'm going to copy or cut and paste all of the data that I
+00:07:43 just created into the controller next I'm going to save two pieces of data together I want
+00:07:50 to save the entire list and I want to save a single customer so a good data structure for this is called a tuple so
+00:07:57 a temple might be new to you it's basically just a pair of items so like an ordered pair so I want to define my
+00:08:06 tuple as a list followed by a single item so it's a list of customers and then I want to make a single customer so
+00:08:14 that will be my tuple the reason why I'm creating this is I want to send this to my form or to my view as two separate
+00:08:22 pieces of data so to define this specific tuple I'm going to create a new tuple and the same format when the list
+00:08:29 is the first item and then the single customer is the second item so for the first time I display the items I want to
+00:08:37 display the entire list and then I'm going to select the first one or item 0 as the selected item so this tuple will
+00:08:45 contain two items a full list and a single customer so now when I get to line 42 in my code I'm going to add
+00:08:53 tuple as the parameter that's being sent to the view so the first thing you do in a view is define what kind of data is on
+00:09:00 it that's the model statement and so I will define the group that's it's being expected so it's a tupple which is the
+00:09:06 list of customers and then followed by a single customer that's what I just defined in the controller just a minute
+00:09:12 ago now you notice it does not allow me just to use the word customer here it is not included yet in this file so on the
+00:09:20 first line I'm going to include the statement at using and then the project name which has customers Ajax dot and
+00:09:28 select models and so now the customer object resolves itself here in the code let's also define this
+00:09:36 layout so inside of the predefined @ symbol area layout equals and will point to the folder called shared and layout
+00:09:43 is the file the first thing I want to define on my page is a form so I'll use at using and then HTML dot begin form
+00:09:52 will fill in the details of what kind of action is related to the form in a few minutes if you've looked at other forms
+00:09:59 that are generated in dotnet MVC you'll see this item called the anti forgery token and so this is a security measure
+00:10:06 that you should include on every one of your forms and it automatically ensures that no codes are intercepted between an
+00:10:14 code input from a form and that and the controller behind it now we're going to display every item of our user list on
+00:10:21 the page and the button is either going to be selected or not selected by default we will set a variable called
+00:10:28 selected to be equal to false so next I want to cycle through each item in my model so I'll use a for each loop and
+00:10:35 I'll save our customer in model when I put a dot you can see that there are two different items item one and item two
+00:10:42 that's because up on line two we defined our model as a tuple that has two things in it so the first item is a list so
+00:10:51 I'll use for each item in item one so for the items that we're going to display I'm going to show a radio button
+00:10:58 so we'll use dot HTML dot radio button the value of the radio button will call it as customer number and we will
+00:11:05 associate the customers ID with it this will come important again when we process the form we're gonna need to
+00:11:11 know this field name and for default I'm going to have this not selected so that's what the false means not selected
+00:11:17 so the second thing I want to display after the radio button is the customers name so we'll create a label and we'll
+00:11:26 print customer name now I want to conditionally set this form to have this button selected or not selected so we'll
+00:11:33 check to see if the index of this customer item is equal to zero we'll change it to select it equals true
+00:11:39 finally we need to create a submit button at the bottom of the page so we'll do an input type equals submit
+00:11:46 give it an ID such as submit button and the value will be what's displayed on the button so we'll call it display
+00:11:53 details so it's now time to test this out let's run the app now any application errors that you see were
+00:11:59 totally planned we wanted to make sure that you have the opportunity to troubleshoot if we create some errors so
+00:12:05 I launched the application and I navigate to where my route is expected to be so that's the word slash customer
+00:12:12 after the address and let's see what happens so we've got some errors just as I promised let's take a look here and it
+00:12:20 says I could not find the layout called shared layout and I went and I looked in this path called till the views customer
+00:12:28 okay so we can see right now that I named the layout incorrectly so let's go fix that so the view that I'm looking at
+00:12:35 here is in the customer view let's go check out the cut of the code here so the layout could not be found well I
+00:12:41 made two mistakes here first of all I need to tell it which directory it's in so let's do a tilde slash views I think
+00:12:50 it's called views with an S shared and I think I have to put in the file extension as well so Sh HTML we'll save
+00:12:57 that so this time when I run the application it looks like I have displayed the items correctly so I have
+00:13:03 the header and I have this item here which is all the people in the list so congratulations now the next part that
+00:13:11 we have to put in is the details item down here we have not included that yet and so the details will show the item
+00:13:17 that is selected so for instance if I select Tim I should see Tim's name and age printed at the bottom of the form so
+00:13:25 but this video is getting a little long so we'll take care of the details at the bottom of the page in the next video hey
+00:13:33 welcome back to another video for our Ajax example in this next video we're going to add some functionality to part
+00:13:40 two of our application so if you haven't seen part one check it out otherwise we'll continue on to add a
+00:13:47 ajax element to this page you so the Ajax element that we're going to put is at the bottom here below the
+00:14:01 button called display results so down here at the bottom we're going to update some of the user information so we'll
+00:14:07 show the user name and we will also show their age so let's jump right in here to the customer file and we're going to add
+00:14:14 some stuff at the bottom so what we're about to add here is a partial view down at the bottom we want to include the
+00:14:21 customer information and so it will be a customer details section now we also need to pass some data to this and as
+00:14:29 you recall our model has two parts to it part one is the list of customers and part two is the currently selected
+00:14:35 customer so we're going to pass to part two to it so for the HTML code I'm going to enclose this in a div tag because we
+00:14:43 want to reference this specifically on the page as a separate item then inside of there I'm going to tell the HTML
+00:14:50 helper to create a partial insert so we'll create a partial view and then the last part is going to be the two
+00:14:56 different parameters so the first parameter will be the view name and then the second part will be the data that we
+00:15:02 want to display on that view and since we want to have one single customer displayed here the second part of our
+00:15:09 model is what we'll select now for the first parameter I'm going to put in the name of the view the partial view is
+00:15:15 called customer details and I put in the file extension also I would want to make sure that I put in the pathway so that
+00:15:22 way the layout can find this file so let's put in views slash shared as our previous parts of the pathway lastly I
+00:15:29 want to make sure that the div has a class name this will be for two purposes first of all we can use some CSS
+00:15:36 formatting to make this thing stand out as a different part of the page and just as important Ajax is going to require
+00:15:44 that this section of the page be identified with a unique number this time when we run the page you notice the
+00:15:51 customer details at the bottom so the first item in the list is sherry and her age is 37 also it tells me when this
+00:15:59 part of the page was updated so we've got ourselves the partial view and we've got the header and the main body now all
+00:16:05 we have to do is create some click events to make this happen and update the detail
+00:16:10 at the bottom of the page now if you're very astute viewer you will see there's an error on my page you can see that
+00:16:17 sherry is the selected customer but in my list sherry does not have this selected
+00:16:23 bullet item for her radio so why doesn't my code display what I said was selected let's go find out so let's begin back in
+00:16:30 the controller and you can see that I am sending to my view two items I am sending the list of customers and that
+00:16:38 I'm telling it that I want customer zero to be the selected item so why doesn't it display that way well let's go look
+00:16:44 in the customer item here and see this loop so the selection process happens here on lines 15 through 19 it says if
+00:16:55 the first item is item zero then set the selected to true well the first item is selected and it is zero however the
+00:17:03 second time through the loop selected is still true and so I forgot to put in an else statement
+00:17:09 so the first fix for my error is I'm going to put an else selected equals false let's see what that does and now
+00:17:15 when I run the application you can see that sherry is selected here with a radio button that's very good I'm going
+00:17:21 to make another change and you will see that we'll even have a better program let's go back to the controller now this
+00:17:27 time let's say I want Adam to to be selected so that would actually be the third item in the list which should be
+00:17:33 Charlene okay let's see if Charlene shows up a selected item so I run the application and you can see that the
+00:17:40 customer details shows Charlene 98 she is selected however sherry is still the one with the
+00:17:45 red or the bullet item on it so why didn't Charlene get it well let's go fix that so the problem now lies in
+00:17:53 this line here in line 16 it says I will always select item zero to be the first one with a bullet on the radio button so
+00:18:00 let's delete the line that I just said with a problem and let's recode it so I'm going to now ask if item two in the
+00:18:06 list is the same one that's in the current loop called customer if those match then we'll set the bullet or the
+00:18:15 radio button to be true so now you can see I finally got it right so Charlene is selected and the
+00:18:21 controller said well it's light up the button for Charlene and let's display her details now in the next part here I
+00:18:27 want to be able to click this item and it will bring us to a new updated form as you can see right now it goes back to
+00:18:35 the customer controller and the controller then resets the selected item to Charlene every time and keeps showing
+00:18:43 Charlene down here so we want to return a number to the controller when we choose display details and then that
+00:18:49 will update the display but let's save that for the next video coming right up hey welcome we're in the middle of an
+00:18:57 AJAX demonstration and we're about ready to create this display details button right now if I click my project and I
+00:19:05 choose display details nothing changes however that will all change in just a minute you
+00:19:18 so to accomplish the goals for this video we are going to have to create a method that will respond to the display
+00:19:26 details so let's go fix that now to control where a method goes after the click is done we need to go to the first
+00:19:33 line of the form called begin form and this is where we will change the direction of the form input so there are
+00:19:40 two parameters that we need to add to the begin form idea so the first parameter is the action that will be
+00:19:46 called at the controller and so I'll invent a name it's called unselect customer the second parameter is the
+00:19:53 actual name of the controller and so we have a customer controller and I only need to put the word customer here now
+00:19:59 when I run this this will probably break because we don't have an actual event for unselect customer so I have the
+00:20:09 customer items listed again now let's select somebody like you Liza and then display details and sure enough the
+00:20:16 application broke and it says here I could not get to this link here on select customer so we haven't created it
+00:20:22 yet so that's why it didn't work let's go fix that so to respond to a form insert or form submit event we need to
+00:20:30 come back into the controller so the controller has an action that we can just copy and paste so let's do that and
+00:20:38 rename it so from the customer form I told it was expecting to see on select customer as the name of an action and so
+00:20:45 we'll just rename it as that the rest of the code is identical as you can see the same data is sent back to the form so
+00:20:53 this would actually give you the exact same result as the original action what's going to be different well we are
+00:20:59 going to expect to find out which item was selected and then changed that in the return so the key item here is on
+00:21:09 line 45 so when we do unselect customer we are expecting to get some data back from the forum and the item that we're
+00:21:15 looking for is called customer number now where did that come from well the word customer number comes from the
+00:21:22 customer forum or the view and you can see that the radio button has the ID number of the guy that or the girl
+00:21:28 that's selected and has the label that goes with it or the value name so customer number is what
+00:21:35 I'm thinking about so I'm gonna copy this and I'm going back into the controller and replace this one here
+00:21:41 because I had forgotten to put in a capital C so that's very important that you match those names exactly so now I
+00:21:48 have a customer number and it comes in the form of a string we need to change this so now instead of selecting item
+00:21:56 two each time I'm going to send it back the customer number so I'll just put customer number inside the square
+00:22:04 brackets and everything will work fine right it doesn't look like it there's a problem what's it say there it says I'm
+00:22:12 expecting an integer for an index of a list item well of course we need an integer and customer number is really a
+00:22:19 string well it comes in the form of a string but let's convert it into an integer so in c-sharp one of the methods
+00:22:27 that you can use to convert from a string to an integer is the int 32 dot parse so if you indeed send a number in
+00:22:36 the form of a string this will work if you send something besides a number of course this will crash the program but
+00:22:41 this should work because of our well-formed view that we just created so it looks like the application still runs
+00:22:49 now let's go ahead and select somebody like Tim and choose display results so now the entire form is updated you can
+00:22:55 see that they time down here at the bottom is different than it was just a second ago every time I click somebody
+00:23:02 and choose display results the form refreshes and we get Howard in age 64 at the bottom so that takes us to a non
+00:23:09 Ajax example we haven't gotten to the partial page updates yet but we at least have our form working so that we can
+00:23:16 select somebody and then we get a return value that comes back to the details of the customer so in the next part we're
+00:23:23 going to change this so that this date time stamp up at the beginning will always remain the same in other words
+00:23:30 the page will not refresh but every time we update we will see the bottom section will indeed refresh because we are only
+00:23:37 displaying the differences that need to be rendered not the entire page so that's the magic of Ajax so
+00:23:43 let's come up with that just in a moment here hey welcome we're in the middle of an AJAX demonstration and we're about
+00:23:50 ready to create this display details button you so before we start programming in Ajax
+00:24:04 we need to make sure that we have the right files installed on our system so let's go check out our dependencies
+00:24:17 using new get so the keyword that we're looking for is called jQuery unobtrusive so I'm going to search for the word
+00:24:23 unobtrusive and make sure that it's installed so it does say here that it is installed just in case it's not working
+00:24:31 I'm going to uninstall it and then reinstall it so I'm just verifying that this is here so let's select the Ajax
+00:24:40 jQuery unobtrusive and choose install using the latest okay so that seems to be verified I can close NuGet so next
+00:24:49 let's switch over into the layout file and add some dependencies or some scripts at the top of our page so let's
+00:24:55 jump into the scripts folder as well and expand to see what we have installed well you can see that the unobtrusive
+00:25:03 Ajax is here so I'm gonna just drag this into the header area and it will automatically include a script we are
+00:25:10 also going to need the jQuery plug-in as well so let's go to the latest that I have installed so just dragging them in
+00:25:18 gives us these two imports now let's go back into the customer view and let's make some modifications so this is the
+00:25:26 non Ajax view I'm going to modify this so let's make a copy of what I have created so far and keep it for backups
+00:25:33 so I'll right-click copy and then paste so that I have a backup so I'll rename my project file here as customer no Ajax
+00:25:43 so it's obvious of what this thing does at the very top of the page I'm going to add a new reference to something called Ajax
+00:25:52 options and so Ajax options is a class that's built in here and we're going to put some references in here to allow us
+00:25:59 to figure out what we want to do with it so the first option for Ajax is to handle the form request is it going to
+00:26:07 be a get or a post well I'm just going to choose post and then the next item is called the insertion mode so what is an insert
+00:26:15 should mode well we are going to update a partial page and we can do several things with it we can add to the page or
+00:26:22 we can replace what's already there and so what I'm looking for for my option is called the replace the last option for
+00:26:30 Ajax options is going to be to tell it which part of the page is going to be partially replaced and so at the very
+00:26:35 bottom of the page where we have customer info this is why I created a div with an ID tag on it so the item
+00:26:44 that we're looking for is called update target ID and we have to have letter for letter exactness to make sure that this
+00:26:52 is working so customer info is the name of my ID at the bottom of the page now the next item that I'm going to upgrade
+00:27:01 here is line 14 so instead of doing an HTML for begin form we're going to say Ajax begin form and so this will look
+00:27:08 for an ajax request instead of a full form submit now you can see that it's expecting me to do something else in
+00:27:15 this form now and the third thing that it's missing are the ajax options so the the object that I just defined and the
+00:27:23 previous lines will include here on the Ajax method okay so you think the application is ready to go not quite
+00:27:31 it's pretty close but I've made several errors and I'm going to show you each one of them and how to diagnose them so
+00:27:37 first of all let's go ahead and pick somebody so I'm going to select Elijah and display the results well we've got
+00:27:44 kind of what we wanted we have a partial page update but I get the entire page again so what happens if I choose Howard
+00:27:52 and display well I get Howard selected below but obviously this isn't quite what I want so let's return and fix a
+00:27:59 few things so the problem is probably occurring here in the custom controller customer controller so what I want to
+00:28:06 return now in this method is not a full view I want to return a partial view so I'm gonna put in the word partial and
+00:28:13 sure enough partial view is an option so the word customer is now the wrong thing I'm not in updating the entire page
+00:28:21 which as you can see what I was getting earlier I want to just do part of the page so the part that I'm looking for is
+00:28:26 this section here called customer details well let's go ahead and update the this item here so let's go
+00:28:35 underscore customer details and now this is gonna break something so we'll be careful about that also you notice here
+00:28:43 that the the method type up here is should be the word post so let's put an HTTP POST and that's what the action
+00:28:51 should be expecting all right well let's check this out now so now I'm going to return a partial view and it's not going
+00:28:57 to display the whole page this still won't work but we'll find out another error in a second all right the
+00:29:02 applications up and running again let's pick somebody and choose display results I get nothing what's wrong
+00:29:11 there's no errors on the page or are there let's check it out inside of the inspection so right-click choose inspect
+00:29:19 and then in your console over here you're looking for something called network okay so network tells you what's
+00:29:27 going on inside of your code let's go ahead and try this again so I'm going to select Howard this time and display
+00:29:33 results now you can see that the network tells me that the on select customer has a status of 500 so 500 error and web
+00:29:42 language means the programmer did something wrong well that's you so let's fix it we can see the error if I select
+00:29:49 here and click it aha now I see some information that I can work with so it says we have the wrong
+00:29:59 model passed into the this view it says you sent me this tuple and the partial view is only expecting a customer now
+00:30:11 so let's come back down and do here and notice instead of sending the entire tuple we want to send just this section
+00:30:20 right here which is the last or it's the customer that's selected so that might be a lot helpful more helpful so let's
+00:30:30 see if that works now so we're going to head and run it again okay the application is running here it is drum
+00:30:36 roll please let's go with the pic pane and choose display details hooray we've got ourselves Dain and the age 24
+00:30:44 down at the bottom now is it actually doing the partial updates so you can see it at the time that I loaded the page
+00:30:53 was 11 to 11 58 seconds and every time I click display results the time at the bottom changes but the time at the top
+00:31:01 remains the same so that means that this page down here is partially updated whenever I click display details and
+00:31:08 then the part at the top of the page is left static what's the advantage well a smaller page refresh obviously takes
+00:31:17 less time and less server traffic and so that's a great way to make your pages more efficient if I choose the refresh
+00:31:24 for the entire page the time here now matches the time at the bottom and so the partial pages here are only working
+00:31:34 for this section here so congratulations you've got ajax working we're going to do one more video to fix up some things
+00:31:40 what I want to do next is that when I select a dane or Elijah this section down here automatically updates and the
+00:31:48 display details button then becomes irrelevant also let's do some CSS work to make this look a lot better that's
+00:31:56 coming up in the next video hey welcome back to the fourth part of our ajax series with asp.net so far we've got an
+00:32:03 application that will update partial pages in this video I'm going to automate this so that when I click a
+00:32:09 radio button the entire update will happen without clicking display details and then we'll go and do some CSS work
+00:32:16 to make it look a lot better you so to accomplish our goal I'm going to
+00:32:28 have to create some JavaScript so that when I select a button like I like Elijah it will automatically trigger the
+00:32:35 event that was associated with this button and so we'll go in and fix that right now so I'm here in the customer
+00:32:42 views and I want to create a new item so that way we can reference the action of this forum so I'm going to put in
+00:32:48 something kind of cryptic here I'm going to add a new parameter to the forum and say new with curly brackets what that
+00:32:56 means is that it's a new element that will be displayed on the webpage now all I need to do is give this thing an ID
+00:33:03 and it'll be clear in a minute why I'm giving it an ID so you can invent the name I'm going to call mine customer for
+00:33:09 now just the same down here in the radio button I'm going to add another parameter and call it new curly brackets
+00:33:16 and I'm going to insert some JavaScript in here that will cause the form to be submitted automatically so the
+00:33:22 JavaScript that I'm looking for is the event called unchanged so unchanged means whenever this value is changed now
+00:33:31 notice it has a lowercase C so don't use a capital C it just won't do anything if you make it wrong so the JavaScript code
+00:33:37 that I'm putting in here is actually from jQuery so dollar sign parenthesis is a way to reference an item on the
+00:33:45 page following that I'm going to say what event is associated with this so I'm going to trigger a submit event so
+00:33:52 one button will act as the form submit now almost forgot that I need to put in a pound sign because the ID of customer
+00:34:01 form is what I'm referencing up here and in jQuery a pound sign will give you the ID item all right here we go let's see
+00:34:10 what happens now when I clicked Alijah you notice that Elijah 51 automatically is updated and so every time I click one
+00:34:19 of these guys the update form is triggered and the partial page of update is done so this display details button
+00:34:26 now becomes irrelevant and we can so we'll comment it out and say this is not required since we are using the
+00:34:40 unchanged event on the radio button so since that seems to work let's go and fix the CSS part so the customer layout
+00:34:47 here is what I want to do next so let's click and shared and layout at the top of the screen we already included some
+00:34:53 JavaScript now let's go ahead and add some CSS so I'm looking for the folder called content over here and I do not
+00:35:01 see it so we need to add the bootstrap CSS for us so let's go into NuGet so right click on the customer project and
+00:35:11 then choose manage new get objects then inside of here we will browse search for bootstrap and I'm going to select the
+00:35:17 most current version which shows that it's four for one right now and we will install it after it installs we can
+00:35:25 close the new get manager and come back into our code now I have this folder that I mentioned earlier that was not
+00:35:32 there earlier called content so what I'm looking for is bootstrap min and the CSS version and let's drag it up into our
+00:35:40 header and so we automatically have a link reference and a style sheet we run the application again and you can see
+00:35:47 right away that all the fonts have changed now there's a few more things that will make this look better but we
+00:35:52 can see that bootstrap is working let's go back into the layout item and I'm going to add a class to the div here
+00:36:00 around our body so the word class here is of course a CSS thing and now I need to know exactly what I'm looking for in
+00:36:06 bootstrap so I'm looking for the word container and I think it's called container - body which will give us two
+00:36:13 different class names that will format this correctly so sure enough once I get the container item around this thing you
+00:36:22 can see that it's indented and so the CSS now shows that it's all done in bootstrap with the Arial font one more
+00:36:29 thing I'd like to set off is that the customer details section since it is a special case needs to have maybe a
+00:36:36 rectangle around it so let's come back into layout and I'm going to add one extra custom style thing so I can either
+00:36:43 do an inline like this or I could add a separate file but I'll do it right here so inside the style let's go ahead and
+00:36:50 add the ID number for this customer info area so pound sign customer info and then inside we can tell it what we want
+00:36:58 this to be so the style I'd like to have a border let's do it black and solid and let's create a smite a slight radius
+00:37:05 around the edge so that's a rounded corner and then give it a background color of light gray let's say okay let's
+00:37:11 get to this style on the screen and see how it looks hey there it is we've cut ourselves a
+00:37:18 black at the bottom of the page and so customer details now stands out as somewhat distinct one more detail maybe
+00:37:23 it would be good to is to put some padding in here and then our apps done so I'll slip in a line called padding
+00:37:32 and five pixels should do and there it is we've got a complete app we've got ourselves a Jack's happening in real
+00:37:39 time so I put the gray box around here to emphasize two things one it's good design so the user can see it but maybe
+00:37:47 more important is the emphasis on this lesson here is that Ajax is meant for partial page updates and it requires
+00:37:55 special handling in your controller so take a look here and study this because when you create other applications
+00:38:00 you'll be using the exact same process to update a partial page with Ajax so thanks for sticking with me for four

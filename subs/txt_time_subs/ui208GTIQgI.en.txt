@@ -1,0 +1,49 @@
+00:00:13 The question of what we should believe and what we shouldn’t can be somewhat arbitrary. And even though we might have a spontaneous gut feeling of whether something is believable
+00:00:23 or not, can we really explain our reasoning for it? If you go on Google Maps in Japan, the region between South Korea and Japan is shown as
+00:00:33 the “Sea of Japan”. However if you’re using Google Maps inside South Korea, it will instead appear by the name “East Sea”.
+00:00:42 Two names for the same body of water on the same site. Which name is displayed depends on the location that you're browsing from.
+00:00:50 For the past two decades Japan and South Korea have been in a dispute over what the sea should be called. While South Koreans refer to the waters that surround their country as the West Sea, South
+00:01:03 Sea and East Sea; in Japan this body of water is traditionally called the Sea of Japan, a name that also is more internationally accepted.
+00:01:13 The arguments on both sides are complex - South Korea argues that the name “Sea of Japan” was pushed during the time Korea was under Japanese occupation, meaning South Korea couldn't
+00:01:24 internationally dispute it. Japan on the other hand argues that the name has been used long before the occupation and has been the historical internationally recognised
+00:01:30 name. In international politics, there are many disputes over naming things. But when there are arguments about names of
+00:01:39 regions or entire seas, things that are essential to normal communication, how can we neutrally talk about it? Cartographers have had the challenging job
+00:01:49 of handling naming disputes like this for centuries. And there are a few ways to deal with this.
+00:01:56 Either by choosing one of the names, by printing both versions next to each other, as two equal alternatives or as a mainly accepted one and an alternative name, or by simply leaving
+00:02:09 the disputed area completely blank. Google however chooses a different approach. Google Maps avoids such conflict by showing different maps to different people.
+00:02:20 An approach only possible for an online map service. A similar situation exists in the middle east, between Arab countries and Iran.
+00:02:32 On the international version of Google Maps you will find the “Persian Gulf”. However if you zoom in more, you will also see the name “Arabian Gulf”.
+00:02:53 Whereas Iran argues that the sea has consistently been called Persian Gulf throughout history. Conflicts like these may seem absurd, but between two rivalling countries like Iran
+00:03:05 and Saudi Arabia, both claiming a leading role in the region, the name has a tremendous cultural and political significance.
+00:03:14 In many countries it is against the law to publish maps that contradict the official government maps. Therefore Google has the choice of either adapting to these laws or to not offer Google
+00:03:25 Maps in those countries. The fact that some countries regulate maps by law is an indicator of how politically significant they can be, as they can either
+00:03:31 confirm or put to question geographical claims. Another example of this is China and India. Both countries claim this area which is designated as "Arunachal Pradesh" by India, which governs
+00:03:46 it. And as long as you are using the site from an Indian domain, Google Maps will show it as an Indian state.
+00:03:53 China, on the other hand calls the area southern Tibet and Chinese Google users will see the area as a part of China. In both countries Google doesn’t show the users that there is a border conflict.
+00:04:06 Only when using the site outside of both nations the map indicates the controversy by rendering dotted border lines.
+00:04:13 The same applies to Kashmir, an area which is in parts claimed by India, China as well as Pakistan. When Google is used in China and India the official maps of their respective governments
+00:04:25 are shown. Rendering the border as a continuous line conceals the dispute and makes the borderline seem internationally recognised.
+00:04:34 While Google has to obey the countries laws, they also don't want to anger customers in those countries. Leaving out growth markets like China or India would be a huge economic disadvantage.
+00:04:45 Now, the fact that Google even offers a map in China is a bit surprising, considering that the company is in a long disagreement with the authorities.
+00:04:53 In 2010, Google decided to relocate its services from mainland China to Hong Kong, in order to avoid the Chinese firewall, which required them to censor search results.
+00:05:04 Ever since, Google has become rather insignificant in China, but the company still keeps offering their map service.
+00:05:12 Both in the conflict with India, as well as with Taiwan, Google Maps in China corresponds with the official government viewpoint. And the map even shows the 10-Dash Line.
+00:05:22 A line that originates from a Chinese map from 1947 and is used by the country to justify its claim on several islands in the South Chinese Sea.
+00:05:31 This area is disputed by many countries. The cause of the conflicts are the rich fishing grounds, ressources in the sea as well as the military importance of controlling the
+00:05:38 area. If countries convincingly argue a claim over a sea, they can use that to justify exclusive rights.
+00:05:52 The crimean peninsula is disputed between Ukraine and Russia. The conflict broke out in 2014 and ever since a controversial referendum, Russia regards
+00:06:02 Crimea as its territory. A large part of the international community however considers this a violation of international law.
+00:06:10 While the international version of google shows a dotted line, the Ukrainian version doesn’t immediately show this. Only when zooming in much closer we see the line.
+00:06:22 Russian Google Maps however shows Crimea as part of Russia. Google is in the difficult position where there is not really any approach to draw a
+00:06:30 map that would not offend somebody. And even though it may be a power that Google doesn’t want, it has to deal with the responsibilities that come with it.
+00:06:39 If Google draws a straight border in an area that is disputed - Google is creating facts that do have strong impact on the real situation on the ground.
+00:06:49 Now let’s take a look at how another website handles this. The collaborative Wikipedia project also struggles to neutrally portray border conflicts.
+00:06:58 There are long-lasting discussions between the authors on the correct way of dealing with disputes. In the Crimean conflict, this has even led to the peninsula being shown as Russian territory
+00:07:09 on the Russian language wikipedia, while the Ukrainian site claims it as part of Ukraine. In both countries, there is information available about the dispute, yet how the borders are
+00:07:18 rendered changes from time to time. In both countries the articles are available and Wikipedia wasn't blocked. The fact that Wikipedia would show disputes,
+00:07:27 even if that puts the site at risk of being blocked can be seen by them switching their web protocol. In the past, countries were able to censor
+00:07:34 individual articles from the site. For example, sexually explicit content was blocked in Turkey and an article about Marijruhanna was blocked in Russia.
+00:07:47 But since Wikipedia changed to the new encrypted protocol, the only censorship option countries have is to block Wikipedia in int’s entirety, not just single articles.
+00:07:57 And Wikipedia is currently blocked in China. Whether Google wants it or not, since they are the main player in online maps, they have enormous power and responsibility.
+00:08:09 Because the map that Google shows will be the map that a lot of people believe. Maps should always be viewed critically. Not only since Google.
+00:08:18 It is important to recognise that even things which at first glance seem to be objective truths may be more subjective. Behind every map, also Google Maps, there is an approach.

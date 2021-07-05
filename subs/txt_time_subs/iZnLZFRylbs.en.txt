@@ -1,0 +1,44 @@
+00:00:00 Whether you’re copying files, loading a level in a game, or installing an app on a phone: it is 2021, and progress bars and loading time estimates still suck
+00:00:08 just as much as they did back when they looked like this. Why can’t computers just tell you how long something’s going to take?
+00:00:20 Progress bars exist in all sorts of places all over the real world, from countdown lights on pedestrian crossings
+00:00:25 to the floor indicator on an elevator. Even a line of people queueing for something
+00:00:29 is a sort of progress bar. You know how far you’ve got to go, you know how fast the line’s moving,
+00:00:33 you can get an idea of how long it’ll take. More importantly, though, you can tell that the line is moving. There’s a big, obvious, physical sign
+00:00:41 that Things Are Happening and Progress Is Being Made, which means you’re more likely to be okay with the wait.
+00:00:47 Particularly if you can actually get an estimate of how long it’ll take or even just how many people are in front of you.
+00:00:53 But as for computers: well, they’re mysterious boxes. Without a progress bar, it’s impossible to tell whether
+00:00:59 a task is barely started, about to finish, or stuck in a loop it’ll never recover from. Or whether you’ve forgotten to hit the start button.
+00:01:06 Hence: the Progress Bar, and its slightly fancier cousin, the Loading Time Estimate. The simplest possible progress bar
+00:01:11 takes the number of things to do, and shows how many of those are done. This video has a progress bar like that: there’s five minutes and ten seconds of video,
+00:01:21 and we’ve got through one minute and twenty-four seconds. That’s a pretty accurate progress bar right there.
+00:01:27 Of course, the video player has one job: display the frames of this video at a steady pace. Barring you pausing or rewinding,
+00:01:33 it’ll probably just carry on at this speed. But something like installing a program is a lot more complex and unpredictable. An installer might have to
+00:01:40 download files off the internet, then decompress those files, then save those files, along with reading or deleting stuff
+00:01:46 that’s already there, and maybe make some changes to system settings. Now, in theory, a programmer could
+00:01:51 work out roughly how long each of those processes will take, and bias the progress bar accordingly. But each one of those steps
+00:01:59 will take different amounts of time on different machines. Downloading will depend on internet speed. Decompression will depend on how fast the processor is.
+00:02:07 Saving, reading, deleting will depend on how fast the device’s disk is, and the states of the files on it.
+00:02:12 And on some physical spinning disks, it’ll even depend on where exactly the 1s and 0s are stored. And as for the making changes to system settings,
+00:02:20 well, that’s up to the operating system. It’s basically impossible to get a smooth progress bar for something like that.
+00:02:26 But let’s say you’ve got a progress bar that should be fairly steady. Like: copying 20,000 files from one place to another.
+00:02:32 Surely you can just… count the files as they go? Well, that’ll go wrong if one file’s much bigger than all the others.
+00:02:38 Okay, so maybe it should count the amount of data that’s been transferred. Sure: but that can also go wrong, because copying lots of small files
+00:02:44 takes longer than a few large ones. It takes a little bit of extra time to switch from copying one file to the next. So even for something that
+00:02:50 seems like a simple task, the bar could speed up and slow down. Fine. Maybe you work out all of that in advance,
+00:02:58 you program it really carefully so that the progress bar can be as smooth as possible. Very few programmers think that’s
+00:03:01 really worth the effort, but let’s say you try. And then you add a “time remaining” display,
+00:03:07 based on how long it’s taken so far, and how much there is still to do. That will still go wrong.
+00:03:13 Because the speed of your transfer, or your download, or your complicated video render, all of those speeds could change at any time
+00:03:19 because of what the device is doing, or what the user’s doing. Maybe a desktop user switched to another window because they were bored,
+00:03:25 and now the computer’s got to deal with playing a game as well as rendering video. Maybe a phone user got a notification, and now the device is struggling to download
+00:03:32 a video clip that someone’s sent in a group chat in the background. Maybe the computer is starting to get too hot,
+00:03:38 so it slows down its processor to avoid being damaged by overheating. Or maybe the device just decided that now would be a really good time to do some maintenance in the background
+00:03:46 because… well, who knows why, apparently it just decides that sometimes. One option is to take a “rolling average”:
+00:03:53 rather than just naively estimating based on the time it’s taken for everything so far, you look at how much has been done in the last ten seconds, or twenty seconds,
+00:04:00 and extrapolate from just that bit. It’ll still probably be wrong, but it’ll be differently wrong. Or, and I think this is why most programmers
+00:04:05 don’t spend too much time on this, you could accept that it doesn’t actually matter all that much. Progress bars don’t have
+00:04:12 to be perfectly accurate. Actually, a perfectly smooth progress bar does kinda imply there’s some trickery
+00:04:18 going on behind the scenes, like scammy web sites that make you artificially wait ten seconds for something to load, just so they can show you an ad in the meantime?
+00:04:26 I reckon progress bars should be just a little bit janky, because they reflect something that’s really happening.
+00:04:32 And besides, the most important job of a progress bar is not to give an exact, precise estimate of how long is left.
+00:04:39 It's great if they can, but the most important job is just to reassure the user that, yes, things are happening,

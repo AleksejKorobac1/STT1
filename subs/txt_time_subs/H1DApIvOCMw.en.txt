@@ -1,0 +1,152 @@
+00:00:07 with no parts markup and only a 75 build fee redux gaming pcs are the obvious choice for gamers who demand the
+00:00:12 best without paying extra with as little as a few clicks you'll get a pc optimized for you and the games you play
+00:00:17 at a price that fits your budget and all redux pcs are backed by two year warranty to see all that redux has to offer and
+00:00:23 to start configuring your next pc head to the link in the description below alright so obviously i am late to this
+00:00:28 video if you haven't watch i am still recovering from covid and i wasn't going to come back
+00:00:35 to work and go right into  the amount of testing that it takes to you know bring you guys a graphics card
+00:00:40 review on day one in fact i'm still taking it slow and i'm gonna give you more of an opinion piece about the 3060
+00:00:43 because by the time this video has come out you guys will have probably already seen 5
+00:00:49 10 15 who knows how many videos about everyone regurgitating the same specs and the same marketing spiel that nvidia
+00:00:54 wants you to repeat so i'm going to give you an opinion piece about this card instead which
+00:00:59 admittedly might be a little bit more valuable than talking about the specs so first things first the rtx 3060 not
+00:01:06 to be confused with the 3060 ti has the most ram available out of any 30 series card
+00:01:12 short of the 90. so there's already a weird thing happening there as everyone already knows that is
+00:01:17 nothing more than a bunch of marketing circle jerk so everyone can start competing over the
+00:01:23 low end cards and who has the most ram because we all know amd comes out with 16 gigabytes on pretty much
+00:01:28 all of their cards again a big marketing circle jerk on amd's side because none of that ram matters on the
+00:01:33 lower end cards because they can't push the resolutions at the frame rates they would need to push them to have that size
+00:01:39 frame buffer even matter the rtx 3060 may have 12 gigabytes of vram which is more than
+00:01:44 360 ti however has a narrower bus which means it's still not going to be able to benefit 12 gigs of vram
+00:01:52 not even 1440p sure maybe a few titles might push it up to 10 or 11 gigabytes but the 12 gigabytes honestly is nothing more
+00:01:59 than a marketing pitch to try and make you think you're getting more for your money which you're not second of all the 3060
+00:02:05 i'm gonna go ahead and give him video a little bit of a support in this area in that when it was announced amd
+00:02:13 also announced their new 6000 series card or whatever that's coming that's going to also be a
+00:02:19 probably a 6700 or something like that it's going to have probably 16 gigabytes of vram and a lot of people
+00:02:23 are just like stunning all over both nvidia and amd saying why the hell are you bringing out
+00:02:28 new cards when you know they're not going to be available anyway well if you understand the manufacturing process
+00:02:32 then you would know that these lower tiered cards that shared the exact same gpu die number whether it be t104 or tu102
+00:02:40 or tu-106 the lower end cards are made from the leftovers of the higher end cards of
+00:02:46 the the wafers and the silicon that didn't meet the cut to be a higher tiered skew so what they do is they shave them
+00:02:51 down even more they make these lower end cards so do i fault them for making it and bringing it out during a world pandemic
+00:02:56 right now which has also led to the shorted the biggest shortage of silicon that we've
+00:03:01 ever seen in our history no because they already have it so they might as well at least
+00:03:07 divvy that up amongst their aibs to come out with these aftermarket cards which is also probably why you're not seeing a
+00:03:12 founder's edition card because of the fact that all of the silicon went to the aibs
+00:03:18 so that's why i'm not faulting either of these brands for actually bringing out new gpus that you admittedly
+00:03:23 are not going to be able to buy speaking of buying them let's go ahead and talk about what the experience was of watching
+00:03:29 the 9 a.m roll over happen when things went live big surprise just like everyone else best buy went right from
+00:03:34 coming soon to out of stock nvidia's own website when you say check availability just links you back to newegg which then
+00:03:41 just has nothing but the newegg shuffle which is where your name gets tossed in a hat and you have to hope your name
+00:03:45 gets picked to be able to buy a card rather than actually having a first come first serve
+00:03:50 service no the guy who signs up last could end up beating the guy who signed up first because
+00:03:55 of the shuffle which of all the different ways you could go about purchasing a graphics card i think
+00:04:00 it's the stupidest one out there unfortunately i also looked at micro center
+00:04:05 which is a in-store purchase only which is where you're going to have the best bet to actually buy one
+00:04:10 granny to live close enough to one to go wait in line two or three hours ahead of the store opening in the
+00:04:15 morning to hope that you end up getting one of those cards before they're sold out in terms of
+00:04:19 stock check at nine o'clock in the morning at tustin the tustin california store
+00:04:26 many of the sku said 20 plus available some said 10 some said five however that store doesn't open until 10 am which
+00:04:32 hasn't happened yet so i don't know how fast that number is going to go down however if we look at the pricing it's a
+00:04:38 little bit disturbing because it's more obvious now than ever that the aibs themselves well i'm mostly
+00:04:46 all the aibs and we do have an evga card here that was sent to us by nvidia not evga
+00:04:51 this is the only card that seems to be coming in anywhere near msrp this one is the evga xc so this is 389
+00:05:01 msrp showing at both micro center and i think best buy had one in newegg or whatever it was the only one under 400 bucks
+00:05:08 the other ones are showing in the 500 and the 629 dollar for the pny 3060.
+00:05:16 absolutely ridiculous now here's the problem if you go to nvidia's website and you check availability on the sku
+00:05:20 for 30 60s rather than nvidia selling them through their own store they're just linking directly
+00:05:26 back to newegg i wonder how much newegg paid for that so that according to nvidia the only place to buy it is new
+00:05:31 egg but that's a whole nother problem to talk about newegg then shows those cards available under the newegg shuffle
+00:05:41 at the msrp 329 for all of those skus however if you then go to micro center best buy at the other rick rick and rick
+00:05:46 and morty stores brick and mortar stores you'll find that those same manufacturers
+00:05:53 and the same cards with slightly tiered differences like you've got the ventus card right you get the twin frozen card
+00:05:57 or whatever they're calling it these days from like msi you'll find that they're 329 when linked
+00:06:04 through nvidia but then over 500 when directly going to the brick and mortar stores so
+00:06:10 the question is now who's actually scalping them is it the aib or is it the store
+00:06:17 i think there's probably a little bit of guilt on both parties you probably have the aibs i'm holding up the evga card
+00:06:23 unfairly because again this is the only card that seems to be coming in anywhere near its msrp when you've got the stores
+00:06:28 raising or the aibs raising the msrp of their own card and then the store raising it again because again
+00:06:34 capitalism free market the thing is worth whatever anyone's going to pay for it in a shortage people will pay stupid
+00:06:39 amounts for stupid products that is what it is so yeah if i sound a little salty about that i'm sharing in
+00:06:45 your guys distaste i'm sharing your guys frustration when it comes to buying these cards and i'm sorry i don't
+00:06:52 actually give a flying freak about the 30 60. i very rarely care about the 30 60 cards but knowing the fact that the
+00:06:58 the 60 series models now are deep in the 300 msrp price range and the realistic retail price being almost 600
+00:07:07 make these the worst buy of the year but i still have to show you guys how some of the performances what i'm going to do
+00:07:11 is i'm going to just do some spot check of the 3060 versus the 3060 ti because i want to see how close
+00:07:17 it gets to it and i'm going to compare it to the 2016 i mean i might in a couple of things we have some numbers
+00:07:21 for the 2060. just to show what that  price jump to performance jump is i think we're
+00:07:27 going to find that the lowest effort card is just a terrible value right now
+00:08:38 all right so i know i probably seem like i'm being a little bit hard on the 30
+00:08:47 60. i mean there's no surprise it was coming there's been a 60 series card for as
+00:08:52 long as the nvidia cards have basically been around well ever since i ditched the four digit
+00:08:57 moniker in terms of pricing and value we have to speak in these in these ridiculous hypotheticals because we know
+00:09:04 the msrp is not what the cards are going to cost again the evga xc black
+00:09:11 is basically their their closest to msrp card and everywhere i've looked so far i found this for 389
+00:09:18 nvidia basically swore and promised that there would be cards available at 329 but we already talked about the problem
+00:09:23 with that when they link back to newegg all of the  the cards that had the whole 329
+00:09:29 price tag with them have the stupid little randomized purchasing option and then one of them i think was the ventus
+00:09:36 was sold out and then newegg had other cards available at exorbitant prices so it's kind of
+00:09:41 like they basically scratched in videos back by agreeing to that because of course
+00:09:46 nvidia is going to do what it can on its store which is just a redirect to control the pricing but there's so many other
+00:09:54 players in this in terms of the stores the aib setting their own ridiculous pricing
+00:09:58 that at 329 this would have been a really good card especially when you compare it to the
+00:10:03 charts that we just showed versus the 2060 not the 2060 super but the 2060. i don't know if there's gonna
+00:10:10 be a 3060 super i doubt it in fact one of the reasons why we probably only 
+00:10:16 saw 3080s 3090s and 3070s and only a 360 ti and not ti's of the other models is the best analogy that
+00:10:23 phil kind of put it as is they don't have the inventory to do it themselves he said
+00:10:26 nvidia basically can print their own money the problem is they've run out of paper and i think that makes the most sense
+00:10:32 here at 329 dollars i think it would have been a fantastic buy the 12 gigabytes of vram is a is a
+00:10:38 marketing gimmick it is not necessary on this card 12 gigabytes of vram with the memory bus that's
+00:10:44 available on the 3080 would have made more sense why they limited the 30 80 to 11 gigs is still beyond me
+00:10:49 and then the 30 90 jumping all the way to 24 gigs we know is for workstation loads but remember they also didn't
+00:10:55 classify that as a true workstation card because they still shaved a lot of the floating point
+00:11:00  performance out of it and the titan rtx is still a better card for various workflows  depending on you know
+00:11:06 they continue to shave down their workstation cards right and the 3090 is just really this true in between card making
+00:11:13 it a really ridiculously overpriced over v-rammed gaming card and not a good enough true
+00:11:19 workstation card those that are doing like blender and stuff yeah you're not going to be doing much mining
+00:11:25 on this card those that are in the know on the mining when they talked about the specs were
+00:11:29 basically saying this card would be a terrible mining card it would not really pay for itself especially at the
+00:11:34 inflated pricing 30 60 pricing now being that of you know what's funny
+00:11:39 if you go and look at the prices of some of these these these brick and mortar stores the price of the 360 is actually higher
+00:11:45 than that of the 360 ti because you can't buy a 360 ti but because you can buy a 360 or at least could when we
+00:11:51 started the video and can't now by the time we got to this point because all the micro center options that i showed
+00:11:55 here where we had in stock the second the store opened it's basically
+00:12:00 out of out of stock now best buy also out of stock nvidia's link's out of stock newegg out of stock where it was
+00:12:05 in stock for those few moments the price was already artificially inflated to a ridiculous price so
+00:12:12 what i'm basically trying to say here is i don't really care i'm so burnt out on graphics cards just
+00:12:18 like you guys i've justified so many times saying we review the variance
+00:12:23 of the cards that way when you guys can find one you can at least say hey i know which one i want to buy and if
+00:12:28 it's worth it for the price that you're able to find it for we only have one 360 to look at i doubt
+00:12:33 we're going to get any more to take a look at especially after this video and you know at the end of the day with
+00:12:41 the scalping and when i say scalping i'm referring to the aibs themselves because so many of them truly are being their
+00:12:45 own scalpers and we're caught at it and then they come up with some stupid story trying to defend themselves that your
+00:12:50 boldface lies to the point to where if you can find one in stock you got to start asking
+00:12:54 yourself now is the 3060 worth what you would have paid for a 1080 ti when it first launched
+00:13:00 pascal being quite honestly one of the best periods for nvidia as far as i'm concerned ampier when we first saw it come out was
+00:13:07 supposed to be this saving grace for pc gamers more performance per dollar than we've ever seen i think
+00:13:15 until pascal actually and then it they beat pascal in that performance per dollar which turned out to just come
+00:13:21 be a complete farce i think that's a word because of the fact that it's just simply not available
+00:13:28 the availability draws or it drills all the way down to just the fact that with everything being
+00:13:33 computerized these days and even the autumn did you know a lot of automotive manufacturing here in the
+00:13:37 united states and in detroit where we technically are still manufacturing some cars has halted
+00:13:43 for many brands because of the fact that the ecu's that are needed to complete the assembly of these
+00:13:49 vehicles are also unavailable because they're all made in these same factories that are creating these
+00:13:56 socs and the wafers and the chips and the the raw materials that are needed to build
+00:14:00 the parts for the cars are also unavailable so not just gamers and it's one of those things where right
+00:14:05 now all manufacturing is being prioritized to the automotive market so that you know it's considered much more
+00:14:11 essential than gaming computers it's gotten to the point to where obviously when you drill down to a lot
+00:14:15 of these sub markets that's why the availability is as poor as it is
+00:14:21 so just like you guys i'm fatigued i'm i'm really tired of talking about stuff that i know you can't go out and
+00:14:27 buy as a product reviewer i still feel it's my job to talk about it and show you the performance where we can
+00:14:33 and give you some information to arm yourself with once you finally can go and buy it to make an informed decision
+00:14:38 but i'm not going to fill your inbox with a bunch of 30-60 content it's it's stupid to do that there's a lot of
+00:14:43 videos out there that you can get information from and i recommend you go and watch those
+00:14:47 videos if you're interested in learning more about the card and less about my opinion about why i'm just
+00:14:53 not feeling it alright guys thanks for watching sound off with your  comments about the 3060 and this
+00:14:59 whole launch fiasco and right now my gpu giveaway is probably your best chance
+00:15:04 at actually getting a graphics card right now and i'll tell you about that right here and by the way i know you
+00:15:08 guys are probably sick about seeing this at the end of our videos it's only a few days left so if you've
+00:15:12 been holding off now's the time to sign up hey you before you click off this video you may or may
+00:15:17 not be aware i'm actually doing a worldwide graphics card giveaway where one winner will get to choose either a
+00:15:22 6800 xt merc 319 card from xfx or a 2080 ti msi gaming x trio
+00:15:30 from team nvidia so if you're sitting there right now going i didn't know about this how do i enter
+00:15:33 follow the description down below you guys will find a link to the giveaway video that will give you all the details

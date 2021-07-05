@@ -1,0 +1,135 @@
+00:00:06 hello it's scott manley here it has been a week since the perseverance rover landed on mars
+00:00:11 and sent back its first images from its hazard cams to which many people responded by saying
+00:00:17 this is a two billion dollar spacecraft why is it only sending black and white images and of course yes
+00:00:24 those first images were black and white but for the first time those hazard cameras on a mars rover
+00:00:30 are in fact color so this is a bit of a step forward i want to talk about like how color cameras and imaging
+00:00:36 technology actually works in spacecraft because strangely enough perseverance is one of the first
+00:00:43  spacecraft to actually have color sensors in such quantity because you know what there's
+00:00:49 really good engineering reasons to use monochrome sensors and you to understand this
+00:00:57  you we got to compare cameras to what we carry around with us every day right many of us have something like this this
+00:01:02 is an iphone x it has a pair of cameras in it and they have 12 megapixel sensors on them
+00:01:10 now imaging sensors you are basically little microchips that are you're created in fabrication facilities
+00:01:16 and what they'll do is they'll have a layer which when it gets hit by a photon it knocks
+00:01:22 an electron out and then that electron builds up with its buddies in a little capacitor to create a small amount of
+00:01:27 electric charge and then at some point you can read out that electrical charge
+00:01:33 as a value and convert that into an image now these photodiodes are not color sensitive so what you'll then do is you'll have
+00:01:43 filters that sit on top that mean that say only red gets through so you'll get red pixels
+00:01:50 blue or green right and for consumer cameras what they do is they have a an array of filters called a
+00:01:57 bare mask it's named after the person invented them so if you imagine your sensor is covered by
+00:02:03 lots of tiny little filters and typically you'll find them in blocks of four so you'll have like red green and blue
+00:02:10 and maybe the fourth one could either be another green or a white or there's many different kinds but the
+00:02:16 point is your image sensor now has color applied to all these pixels and to be clear
+00:02:22 12 megapixel sensor doesn't mean you have 36 megapixels of color of actual sensors
+00:02:30 because the color data is at a different resolution from the actual luminance data because your eyes
+00:02:34 are actually not that good at detecting detail in color and i could make a great comparison but
+00:02:42 you know what it would probably be ruined by the fact that video codecs and image codecs just simply account for the
+00:02:50 fact that your vision is really bad at seeing color resolution so yeah these
+00:02:55 all these pixels they go into something called a d mosaicing process which renders out and collects the color
+00:03:02 and creates these nice images that we can then share on our favorite social media so anyway that is the sort of consumer
+00:03:10 level sensor but on a spacecraft there might be cases where you don't want to have this this
+00:03:17 color support because think about it you're putting little color filters over all your pixels that means you're
+00:03:22 throwing away photons that would otherwise create imagery if you want to have
+00:03:29 the most sensitive imager then getting rid of that filter means you can have shorter shutter rates or better
+00:03:35 signal to noise ratio depending upon where you're going and actually also say you're working on something like a
+00:03:40 hazard camera system that's going to be doing stereographic imaging then you might not need that color in fact that color
+00:03:49 might make your algorithms harder so you would go with monochrome imagers truthfully though the reason why curiosity
+00:03:58 had mainly monochrome cameras was because most of the cameras were designed for the mars exploration rovers and they just
+00:04:05 copied those designs over whereas perseverance they had to pretty much redesign all the cameras because
+00:04:12 getting the parts to build these old camera designs was getting harder and harder so they went with
+00:04:17 new engineering cameras using off-the-shelf parts and they decided finally color was something
+00:04:24 they could go for in this case so yeah perseverance most of the engineering cameras are off the shelf
+00:04:31 color you know sensors with bare masks and your custom lenses but the science cameras those use a completely
+00:04:39 different system you see yeah if you're taking images of stuff maybe you want to have that high
+00:04:45 signal to noise but yeah for their size cameras what they do is they use
+00:04:52 global filters so they have a wheel that lets them select different color filters and apply that
+00:04:57 to the whole sensor so they will select the reds filter take a picture green
+00:05:03 take a picture blue take a picture and then merge those all together into one higher quality image this is great
+00:05:11 because it means you can no longer no longer get any weird issues with color resolution being different from
+00:05:18 luminance resolution but also having a filter wheel with only three filters is kind of lousy isn't
+00:05:24 like it's a wasted opportunity you could fit so many more filters on there and of course science cameras do this
+00:05:29 you'll get filters that cover the infrared range filters that cover ultraviolet you'll get
+00:05:35 narrow band filters that look for specific elements and so you can build up images of these scientifically interesting
+00:05:42 things and of course then construct false color images using this data so that's the way that most astronomical
+00:05:52 or spacecraft images have been taken in deep space if you look at galileo cassini voyager
+00:05:58 all of these cul the color images taken by these spacecraft have used filter wheels now there is a slight problem with this
+00:06:04 in that because you're taking three images in sequence if anything changes between that's
+00:06:11 that then you will get false color and that's generally not a problem on say mars because
+00:06:16 it's very easy to get a rock to sit still to you know take its portrait in deep space is a little harder because
+00:06:21 you're moving and you might have slightly different viewpoints between targets
+00:06:27 so since i'm mentioning voyager i should also point out that voyager was from the old era where they didn't
+00:06:33 have solid-state image detectors for the cameras instead they used vidicon tubes so these are the way old
+00:06:39 tv cameras used to operate they have  obviously have an image plane where the photons knock electrons out
+00:06:47 they accumulate as a charge but instead of reading out with wires you're reading it out with an electron
+00:06:53 beam that scans across this and i guess they read out the signal that way so that's how
+00:06:59 old cameras used to operate and they were really hard to calibrate and they were fragile and
+00:07:05 everything else but nasa moved over to solid state imagers in the 80s and never looked back and i guess i
+00:07:12 should also point out that there's two main types of solid state sensors there's ccds and cmos
+00:07:20 and perseverance is one of the first nasa spacecraft in deep space to really heavily use cmos sensors for its
+00:07:27 engineering cameras the names really don't tell you very much one's called one ccd means charge
+00:07:32 coupled device cmos means complementary metal oxide semiconductors which is actually just the way they
+00:07:39 manufacture it not the way it's done i prefer the term active pixel
+00:07:47  sensors and so what you have again is these little image photodiodes that collect
+00:07:54 charge but in a cmos sensor you read it out by having the electronics that sits
+00:07:59 next to the pixel there's a little amplifier there on the wire that goes to the edge
+00:08:05 and so you can ask each of these things to read out its value just like you'd be reading out
+00:08:09 memory except you're reading out an analog value right with ccds they don't have the electronics right
+00:08:17 next to the sensors instead they have the amplifiers readout along the very edge of the chip
+00:08:25 but they have the ability to copy the charge from one pixel to the next pixel so what they
+00:08:29 can do is read out a pixel at the edge and then step all the pixels along
+00:08:35 and then read out the next pixel so they stack these along push them off and then read those out and i guess the
+00:08:42 advantage of ccd in this case is that you don't have to spend space on your image plane
+00:08:49 for all these like extra electronics those are all out of the plane so you can get
+00:08:53 better imaging sensitivity you know more of your sensor is sensors there are other advantages in
+00:08:59 that like if you want to cool your sensor way down for say getting really good infrared then that might actually break certain
+00:09:07 electronics there so it's better to so that that makes that impossible but really these days
+00:09:14 cmos is everywhere almost all the advantages in terms of signal to noise that ccd once enjoyed have faded faded away
+00:09:22 because the consumer market is so powerful for developing good high-tech stuff however
+00:09:30 there is a class of color imager which are imager in general which really benefits from and their ability to move
+00:09:40 image you know data around while they're taking their photo so there's a type of imager called a
+00:09:46 push broom imager and what this is is like a scanner or a fax machine or a photocopier
+00:09:54 instead of snapping a full frame in one shot what it does is it scans the sensor across the target
+00:10:01 and builds up an image that way and that works really well if you have a spacecraft flying over the
+00:10:07 surface or orbiting the surface of a planet and you're just wanting to take a scan of the terrain as it moves underneath you
+00:10:15 so that's how a push broom imager works now you might think then there's like a single one pixel wide
+00:10:21 sensor there that's taking these images but that has a problem and that because you're
+00:10:27 moving say at five kilometers per second over mars and you're wanting maybe half meter resolution
+00:10:33 that means your shutter rate would be 1 10 000 of a second otherwise you would get
+00:10:38 motion blur so you can solve this using a ccd where you have a much wider sensor
+00:10:46 and as you move across the surface you use the ccd's capability to step the image across there's tip the recorded image
+00:10:54 across the sensor matching the speed of the vehicle right and this is how you'll get see these
+00:11:01 working there's one that's on mars reconnaissance orbiter in the high-rise camera you'll have see this on lunar
+00:11:07 reconnaissance orbiter same thing and i think it's telling to look at the high-rise image plane because you can
+00:11:14 see these slightly staggered sensors like that and they're all reading out their own
+00:11:17 individual strips which are then converted to image but in the middle you have three of these in parallel
+00:11:23 because of course you want to get color so you're getting your red green and blue although
+00:11:29 in this case it's not actually red green and blue they're like they're i can't remember but they're
+00:11:33 different but you've got three colors so they can build up these sort of true color images
+00:11:41 and that's been very successful although again because these are slightly different places they're taking images
+00:11:49 at slightly different times and that means there are actually a few cases where you can see this and there's
+00:11:54 one that was discovered by doug ellison again where there were little puffs of smoke or dust being
+00:12:00 thrown up by rocks falling off a cliff and when they hit the red green and blue
+00:12:09 channels on the images were slightly different times so you could actually see the animation
+00:12:16 of these expanding clouds of dust yes i mean that's that's one example another example actually
+00:12:23 is the juno cam on the juno spacecraft now this was a much much smaller camera that was added
+00:12:30 and it was supposed to be for science outreach and it's produced very beautiful images but it had to be small
+00:12:34 and simple so instead of having three separate ccds for different wavelengths what they did was
+00:12:41 they got a monochrome ccd and they just put different filter bands over it so there's one section
+00:12:47 that's green one that's red one that's blue and there's one for like infrared methane bands and because
+00:12:54 they can move the data around while they're taking the photo they can read this out they can get good images
+00:13:01 and this is it's it's great because of course it made a very simple camera and it operates by this sort of cool method
+00:13:08 so i guess there's one final thing i want to mention is that while we use filters to get red green
+00:13:15 and blue there are theoretically ways to make image sensors where the entire pixel can respond to
+00:13:21 red green and blue and can differentiate and this is the technology that sigma use
+00:13:31 in their digital slrs they use something called the foveon sensor and
+00:13:37 the way it works is you have multiple layers of photodiodes in it and certain basically the way in which or
+00:13:46 the depth to which the photons go before they hit one of these depends upon its color
+00:13:53 so you're gonna get slightly more blue light at the top and then the blue light gets filtered out and you get more red
+00:13:58 light in the bottom so you have you can look at the ratios and try to guess what the colors are and
+00:14:05 many people love these cameras they produce colors are much more true for some people
+00:14:12 however the downside right now is that they have very very narrow operating shutter speeds if you
+00:14:17 overexpose or underexpose you get very bad colors and the other thing is that if the color differentiation between the
+00:14:25 three layers is pretty weak as i understand it so you have to sort of turn the saturation up
+00:14:32 and that means you get more signal to noise or more noise rather than less signal and that that's
+00:14:38 why these cameras haven't really caught on and we're still living with you know things
+00:14:43 like this which have really great cameras but they're using all sorts of optical tricks to hide the
+00:14:48 fact that they're not taking full resolution color and image and illuminance at the same time so yeah

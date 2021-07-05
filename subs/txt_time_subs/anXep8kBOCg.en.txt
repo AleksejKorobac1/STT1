@@ -1,0 +1,539 @@
+00:00:01 the following is a conversation with keoki Jackson he's the CTO of Lockheed Martin a company that through his long
+00:00:09 history has created some of the most incredible engineering Marvel's human beings have ever built including planes
+00:00:17 that fly fast and undetected defense systems that intersect nuclear threats that can take the lives of millions and
+00:00:25 systems the venture out into space the moon Mars and beyond in these days more and more artificial intelligence has an
+00:00:33 assistive role to play in these systems I've read several books reparation for this conversation is a difficult one
+00:00:42 because in part Lockheed Martin builds military systems that operate in a complicated world that often does not
+00:00:48 have easy solutions in the grey area between good and evil I hope one day this world will rid itself of war in all
+00:00:57 its forms but two paths to achieving that in a world that does have evil is not obvious
+00:01:05 what is obvious is good engineering and artificial intelligence research has a role to play on the side of good
+00:01:13 Lockheed Martin and the rest of our community are hard at work at exactly this task we talk about these and other
+00:01:20 important topics in this conversation also most certainly both keoki and I have a passion for space us humans
+00:01:32 venturing out toward the Stars we talk about this exciting future as well this is the artificial intelligence podcast
+00:01:40 if you enjoy it subscribe on YouTube give it five stars on iTunes supported on patreon or simply connect with me on
+00:01:49 Twitter at Lux Friedman spelled Fri D M am and now here's my conversation with K okie Jackson
+00:01:57 I read several books on Lockheed Martin recently my favorite in particulars by Ben rich called skunkworks
+00:02:04 personal memoir it gets a little edgy at times but from that I was reminded that the engineers of Lockheed Martin have
+00:02:12 created some of the most incredible engineering Marvel's human beings have ever built throughout the centuries
+00:02:17 throughout the 20th century and the 21st do you remember a particular project or system and Lockheed or before that at
+00:02:26 the space shuttle Columbia that you were just in awe at the fact that us humans could create something like this you
+00:02:34 know that's a that's a great question there's a lot of things that I could draw in there when you look at the skunk
+00:02:40 works and Ben Rich's book in particular of course it starts off with basically the start of the jet age and the p80
+00:02:48 I had the opportunity to sit next to one of the Apollo astronauts Charlie Duke recently at dinner and I said hey what's
+00:02:56 your favorite aircraft and he said well was by far the f-104 starfighter which was another aircraft that came out of
+00:03:06 Lockheed there what was the first Mach 2 jet fighter aircraft they called it the missile with a man in it
+00:03:12 and so those are the kinds of things I grew up hearing stories about you know of course the sr-71 is incomparable as
+00:03:23 you know kind of the epitome of speed altitude and just the coolest looking aircraft ever so so there's a
+00:03:29 connoisseur that's a flame that's a yeah intelligence surveillance and reconnaissance aircraft that was
+00:03:35 designed to be able to outrun basically go faster than any air defense system but you know I'll tell you I'm a space
+00:03:44 junkie junkie that's why I came to MIT that's really what took me ultimately to Lockheed Martin and I grew up in so
+00:03:51 Lockheed Martin for example has been essentially at the heart of every planetary mission like all the Mars
+00:04:00 missions we've had a part in and we've talked a lot about the 50th anniversary of Apollo here in the last couple of
+00:04:05 weeks right but remember 1976 July 20th again national space days the landing of the Viking the
+00:04:15 Viking Lander on the surface of Mars just a huge accomplishment and when I was a young engineer at Lockheed Martin
+00:04:23 I got to meet engineers who had designed you know various pieces of that mission as well so that's what I grew up on is
+00:04:30 these planetary missions the start of the Space Shuttle era and ultimately had the opportunity to see Lockheed Martin's
+00:04:40 part and we can maybe talk about some of these here but Lockheed Martin's part in all of these space journeys over the
+00:04:46 years do you dream and I apologize for getting philosophical at times or sentimental I do romanticize the notion
+00:04:52 of space exploration so do you dream of the day when us humans colonize another planet like Mars
+00:05:01 or a man a woman a human being steps on Mars absolutely and that's a personal dream of mine I haven't given up yet on
+00:05:10 my own opportunity to fly into space but but as you know from the Lockheed Martin perspective this is something that we're
+00:05:17 working towards every day and of course you know we're we're building the Orion spacecraft which is the most
+00:05:22 sophisticated human-rated spacecraft ever built and it's really designed for these deep-space journeys you know
+00:05:28 starting with the moon but ultimately going to Mars and being the platform you know from a design perspective we call
+00:05:36 the Mars base camp to be able to take humans to the surface and then after a mission of a couple of weeks bring him
+00:05:42 back up safely and so that is something I want to see happen during my time at Lockheed Martin so I'm pretty excited
+00:05:48 about that and I think you know once we prove that's possible you know colonization
+00:05:57 might be a little bit further out but it's something that I'd hoped to see so maybe you can give a little bit an
+00:06:04 overview of the Lockheed Martin's partner with a few years ago with Boeing to work with the DoD and NASA to build
+00:06:12 launch systems and rockets with the ula what's beyond that what's lakis mission timeline and
+00:06:19 long-term dream in terms of space you mentioned the moon I've heard you talk about asteroids as Mars what's the timeline
+00:06:29 what's the engineering challenges and what's the dream long term yeah I think the dream long term is to have a
+00:06:36 permanent presence in space beyond low-earth orbit ultimately with a long-term presence on the moon and then
+00:06:44 to the planets to Mars and rage interrupt and that's a long term presence means sustained and sustainable
+00:06:51 presence and an economy a space economy that really goes alongside with human beings being and being able to launch
+00:07:02 perhaps from those so like hop you know it says that there's a lot of energy that goes in those hops right so I think
+00:07:09 the first step is being able to get there and to be able to establish sustained basis right and and build from
+00:07:18 there and a lot of that means getting as you know things like the cost of launch down and you mentioned United Launch
+00:07:25 Alliance and so I don't want to speak for ula but obviously they're they're working really hard to on their next
+00:07:35 generation of space launch vehicles to you know maintain that incredible mission success record that ula has but
+00:07:42 ultimately continue to drive down the cost and make the flexibility the speed and the access ever greater so what's
+00:07:50 the missions that are in the horizon that you could talk to so I hope to get to the moon absolutely absolutely I mean
+00:07:57 I think you know this or you may know this you know there's a lot of ways to accomplish some of these goals and so
+00:08:02 that's a lot of what's in discussion today but ultimately the the goal is to be able to establish a base essentially
+00:08:12 insist lunar space that would allow for ready transfer from orbit to the lunar surface and back again and so that's
+00:08:22 sort of that near-term and I say near-term in the next decade or so vision starting off with you know stated
+00:08:30 objective by this administration to get back to the moon in the nineteen or the 2024 2025 timeframe which is is right
+00:08:37 around the corner here so how big of an engineering challenge is that I think the big challenge is not so much to go
+00:08:46 but to stay right and so we demonstrated in the 60s that you could send somebody up to a couple
+00:08:53 of days of mission and bring them home again successfully now we're talking about doing that I'd say more time I was
+00:09:00 saying adust real scale but a sustained scale right so permanent habitation you know regular reuse of vehicles the
+00:09:12 infrastructure to get things like fuel air consumables replacement parts all the things that you need to sustain that
+00:09:21 kind of infrastructure so those are certainly engineering challenges there are budgetary challenges and those are
+00:09:30 all things that we're gonna have to work through you know the other thing and I shouldn't I don't want to minimize this
+00:09:36 I mean I'm excited about human exploration but the reality is our technology and where we've come over the
+00:09:44 last you know forty years essentially has changed what we can do with robotic exploration as well and you know to me
+00:09:52 it's incredibly thrilling this seems like old news now but the fact that we have Rovers driving around the surface
+00:10:00 of Mars and sending back data is just incredible the fact that we have satellites in orbit around Mars that are
+00:10:06 collecting weather you know they're looking at the terrain they're mapping all these kinds of things on a
+00:10:12 continuous basis that's incredible and the fact that you know it's you got the time lag of course going to the going to
+00:10:19 the planets but you can effectively have virtual human presence there in a way that we have never been able to do before
+00:10:28 and now with the advent of even greater processing power better AI systems better cognitive systems and decision
+00:10:36 systems you know you put that together with the human Keith and we really opened up the solar
+00:10:42 system in a whole different way and I'll give you an example we've got osiris-rex which is a mission
+00:10:49 to the asteroid Bennu so the spacecraft is out there right now I'm basically a year mapping activity to map the entire
+00:10:58 surface of that asteroid in great detail you know all autonomously piloted right with the idea then that this is not too
+00:11:06 far away it's gonna go in it's got a sort of fancy vacuum cleaner with a bucket it's gonna collect the sample off
+00:11:13 the asteroid and then send it back here to earth and so you know we have gone from sort of those tentative steps in
+00:11:23 the 70s you know early landings video of the solar system so now we've sent spacecraft the Pluto we have gone to
+00:11:31 comets and brought and an intercept at comets we've brought stardust date you know you know material back
+00:11:41 so that's we've gone far and there's incredible opportunity to go even farther so it seems quite crazy that this is
+00:11:47 even possible that can you talk a little bit about what it means to orbit an asteroid and
+00:11:56 with a bucket to try to keep pick up some soil samples yeah so part of it is just kind of the you know these are the
+00:12:05 kinds of techniques we use here on earth for high speed high speed high accuracy imagery stitching these scenes together
+00:12:15 and creating essentially high accuracy world maps right and so that's what we're doing obviously on a much smaller
+00:12:23 scale with an asteroid but the other thing that's really interesting you put together sort of that neat control and
+00:12:33 you know data and imagery problem but the stories around how we design the collection I mean as essentially you
+00:12:39 know this is the sort of the human ingenuity element right that essentially you know had an engineer who had a
+00:12:48 one-day cycle starts messing around with parts vacuum cleaner bucket you know maybe we could do something like this
+00:12:55 and that was what led to what we call the pogo stick collection right we're basically I think comes down it's only
+00:13:02 there for seconds does that collection grabs the essentially blows them the regolith material into the collection
+00:13:10 hopper and off it goes it doesn't really land almost it's it's a very short landing Wow that's that's
+00:13:19 incredible so what is  in those talk a little bit more about space eh what's the role of the human in all of this
+00:13:26 what are the challenges what are the opportunities for humans as they pilot these these vehicles in space and for
+00:13:39 humans that may step foot and on either the Moon or Mars yeah it's a great question because you know I just have
+00:13:46 been extolling the virtues of robotic and you know Rovers autonomous systems and those absolutely have a role I think
+00:13:55 the thing that we don't know how to replace today is the ability to adapt on the fly to new information
+00:14:06 and I believe that will come but we're not there yet there's a ways to go and so you know you think back to Apollo 13
+00:14:15 and the ingenuity of the folks on the ground and on the spacecraft essentially cobbled together a way to get the carbon
+00:14:24 dioxide scrubbers to work those are the kinds of things that ultimately young and I'd say not just from dealing with
+00:14:32 anomalies but you know dealing with new information you see something and rather than waiting twenty minutes or half an
+00:14:40 hour an hour to try to get information back and forth but be able to essentially Ravech there on the fly
+00:14:47 collect you know different samples take a different approach choose different areas to explore those are the kinds of
+00:14:56 things that that human presence enables that is still a ways ahead of us on the AI side yeah there's some interesting
+00:15:03 stuff we'll talk about on the teaming side here on earth that's that's pretty cool to explore and it's okay so let's
+00:15:09 not leave the space piece out so what is teaming what does AI and humans working together in space look like yeah one of
+00:15:16 the things we're working on is a system called Maya which is you can think of it it's what's an AI assistant and in space
+00:15:26 exactly and you think of it as the Alexa in space right but this goes hand-in-hand with a lot of other
+00:15:33 developments and so today's world everything is essentially model-based model-based systems engineering to the
+00:15:41 actual digital tapestry that goes through the design the bill the manufacturer the testing and ultimately
+00:15:48 the sustainment of the system and so our vision is really that you know when our astronauts are there around Mars you're
+00:15:56 going to have that entire digital library of the spacecraft of its operations all the test data all the test data and
+00:16:08 flight data from previous missions to be able to look and see if there are anomalous conditions until the humans
+00:16:16 and potentially deal with that before it becomes a bad situation and help the astronauts work through those kinds of
+00:16:25 things and it's not just you know dealing with problems as they come up but also offering up opportunities for
+00:16:31 additional exploration capability for examples so so that's the vision is that you know these are going to take the
+00:16:38 best of the human to respond to to changing circumstances and rely on the best of AI capabilities to monitor these
+00:16:48 you know this almost infinite number of data points and correlations and data points that humans frankly aren't that
+00:16:55 good at it's how do you develop systems in space like this whether it's a alexa in space or in general any kind of
+00:17:04 control systems any kind of intelligent systems when you can't really test stuff too much out in space it's very
+00:17:11 expensive to test stuff here so how do you develop such systems yeah that's that that's the beauty of this digital
+00:17:20 twin if you will and of course with Lockheed Martin we've over the past you know five plus decades been refining our
+00:17:28 knowledge of the space environment of how materials behave dynamics that controls the you know radiation
+00:17:36 environments all of these kinds of things so we're able to create very sophisticated models they're not perfect
+00:17:44 but they're they're very good and so you can actually do a lot I spent part of my career you know simulating communication spacecraft
+00:17:55 you know missile warning spacecraft GPS spacecraft in all kinds of scenarios and all kinds of environments so this is
+00:18:00 really just taking that to the next level the interesting thing is that now you're bringing into that loop a system
+00:18:08 depending on how its developed that may be non-deterministic it may be learned as it goes in fact we anticipate that it
+00:18:17 will be learning as it goes and so that brings a whole new level of interest I guess into how do you do verification
+00:18:25 and validation of these non-deterministic learning systems in scenarios that may go out of the bounds
+00:18:33 or the envelope that you have initially designed to so had this system in its intelligence has the same complexity
+00:18:40 some of the same complex as a human does than the it learns over time it's unpredictable in certain kinds of ways
+00:18:47 in the so you still you also have to model that when you're thinking about saying you're in your thoughts as
+00:18:56 possible to model the the majority of situations the the important aspects of situations here on earth and in space
+00:19:03 enough to test stuff yeah that's this is really an active area of research and we're actually funding University
+00:19:08 Research in a variety of places including MIT this is in the realm of trust and verification and validation of
+00:19:17 I'd say autonomous systems in general and then as a subset of that autonomous systems that incorporate artificial
+00:19:25 intelligence capabilities and this is not an easy problem we're working with startup companies we've got internal R&D
+00:19:35 but our conviction is the autonomy in more and more AI enabled autonomy is going to be in everything that Lockheed
+00:19:44 Martin develops and fields and it's going to be retrofit autonomy and Nai are gonna be retrofit into existing
+00:19:51 systems they're going to be part of the design for all of our future systems and so maybe I should take a step back and
+00:19:58 say the way we define autonomy so we talk we talk about autonomy essentially system that composes selects and then
+00:20:09 executes decisions with varying levels of human intervention and so you could think of no autonomy so this is
+00:20:18 essentially human doing the task you can think of effectively partial autonomy where the human is in the loop
+00:20:29 so making decisions in every case about what the autonomous system can do either in the cockpit or remotely or remotely
+00:20:35 exactly but still in that control loop and then there's what you'd call supervisory autonomy the autonomous
+00:20:42 system is doing most of the work the human can intervene to stop it or to change the direction and then ultimately
+00:20:48 fall at full autonomy where the human is off the loop altogether and for different types of missions want to have
+00:20:56 different levels of autonomy so now take that spectrum and this conviction that autonomy and more and more AI are in
+00:21:05 everything that we develop I the kinds of things that Lockheed Martin does you know a lot of times our safety of life
+00:21:12 critical kinds of missions you think about aircraft for example and so we require and our customers require an
+00:21:23 extremely high level of confidence one that you know we're going to protect life to that we're going to have that
+00:21:31 these systems will behave in ways that their operators can understand and so this gets into that whole field again
+00:21:38 you know they're being able to verify and validate that the systems have been and that they will operate the way
+00:21:46 they're design and the way they're expected and furthermore that they will do that in ways that can be explained
+00:21:57 and understood and that is an extremely difficult challenge yes so here's a difficult question I don't mean to bring
+00:22:05 this up but I think it's a good case study that people are familiar with the Boeing 737 max commercial airplane has
+00:22:13 had two recent crashes where their flight control software system failed and it's software so I don't mean to
+00:22:19 speak of all Boeing but broadly speaking we have this than the autonomous vehicle space - semi autonomous we have millions
+00:22:28 of lines of code software making decisions there is a little bit of a clash of cultures because software
+00:22:37 engineers don't have the same culture of safety often that people who build systems like at
+00:22:45 Lockheed Martin  do where it has to be exceptionally safe you have to test this on so how do we get this right when
+00:22:52 software is making so many decisions yeah and this there's a lot of things that have to happen and by and large I
+00:23:01 think it starts with the culture right which is not necessarily something that a is taught in school or B is something
+00:23:08 that would come here depending on what kind of software you're developing it may not be relevant right if you're
+00:23:16 targeting ads or something like that so and by and large say not just Lockheed Martin but certainly the aerospace
+00:23:24 industry of the whole has developed a culture that does focus on safety safety of life operational safety mission
+00:23:33 success but as you know these systems have gotten incredibly complex and so they're to the point where it's almost
+00:23:41 impossible you know state space has become so huge that it's impossible to or very difficult to do a systematic
+00:23:50 verification across the entire set of potential ways that an aircraft could be flown all the conditions that could
+00:23:57 happen all the potential failure failure scenarios now maybe that's soluble one day maybe when we have our quantum
+00:24:04 computers at our fingertips we'll be able to actually simulate across an entire you know almost infinite state
+00:24:13 space but today you know there's a there's a lot of work to really try to bound the system to understand
+00:24:25 predictable ways and then have this culture of continuous inquiry and skepticism and questioning to say did we
+00:24:36 really consider the right realm of possibilities have we done the right range of testing do we really understand
+00:24:43 you know in this case you know human and machine interactions the human decision process alongside the machine processes
+00:24:51 and so that's that culture that we call it the culture of success in lockheed-martin that really
+00:24:57 needs to be established and it's not something you know that it's something that people learn by living in it and
+00:25:03 it's something that has to be promulgated you know and it's done you know from the highest levels at a
+00:25:09 company of Lockheed Martin like Lockheed Martin yeah and the same as being faced at certain on his vehicle companies
+00:25:16 where that culture is not there because it started mostly by software engineers so that's what they're struggling with
+00:25:24 is there lessons that you think we should learn as an industry in a society from the Boeing 737 max questions these
+00:25:33 crashes obviously are their tremendous tragedies their tragedies for all of the people the the crew the families the
+00:25:42 passengers the people on the ground involved and you know it's also a huge business and economic setback as well I
+00:25:50 mean you know we've seen that it's impacting essentially the trade balance of the US so these are these are
+00:25:59 important questions and these are the kinds that you know we've seen similar kinds of questioning at times you go
+00:26:07 back to the Challenger accident and it is I think always important to remind ourselves the humans are fallible the
+00:26:14 systems we create as perfect as we strive to make them we can always make them better and so another element of
+00:26:21 that culture of mission success is really that commitment to continuous improvement if there's something that
+00:26:29 goes wrong a real commitment to root cause and true root cause understanding to taking the corrective actions and to
+00:26:37 making the system future systems better and certainly we want we strive for you know you know no accidents and if you
+00:26:48 look at the record of the commercial airline industry as a whole and the commercial aircraft industry as a whole
+00:26:56 you know there's a very nice decaying exponential two years now where we have no commercial aircraft accidents at all
+00:27:04 right and our fatal accidents and all so that didn't happen by accident it was through the regulatory agencies FAA the
+00:27:15 airframe manufacturers really working on a system to identify root causes and driving them out so maybe we can take a
+00:27:25 step back and many people are familiar but Lockheed Martin broadly what kind of categories of systems are you involved
+00:27:35 in building you know Lockheed Martin we think of ourselves as a company that solves hard mission problems and the
+00:27:42 output of that might be an airplane or spacecraft or a helicopter or a radar or something like that but ultimately we're
+00:27:49 driven by these you know like what what is our customer what is that mission that they need to achieve and so that's
+00:27:55 what drove the sr-71 right how do you get pictures of a place where you got sophisticated air defense systems that
+00:28:05 are capable of handling any aircraft that was out there at the time right so that you know that's what you'll did an
+00:28:12 sr-71 was build a nice flying camera exactly and make sure it gets out and it gets back right and that led ultimately
+00:28:18 to really the start of the space program in the u.s. as well so now take a step back to Lockheed Martin of today and we
+00:28:27 are you know on the order of 105 years old now between Lockheed and Martin the two big heritage companies of course
+00:28:33 were made up with a whole bunch of other companies that came in as well General Dynamics yeah kind of go down the list
+00:28:43 today were you can think of us in this space of solving mission problems so obviously on the aircraft side tactical
+00:28:51 aircraft building the most advanced fighter aircraft that the world has ever seen you know we're up to now several
+00:28:58 hundred of those delivered building almost a hundred a year and of course working on the things that come after
+00:29:06 that on the space side we are engaged in pretty much every venue of space utilization and exploration you can
+00:29:15 imagine so I mentioned things like navigation timing GP communication satellites missile warning
+00:29:23 satellites we've built commercial surveillance satellites we've built commercial communication satellites we
+00:29:31 do civil space so everything from human exploration to the robotic exploration in the outer planets and keep keep going
+00:29:39 on the space front but I don't you know a couple other areas I'd like to put out we're heavily engaged in building
+00:29:48 critical defensive systems and so a couple that I'll mention the aegis combat system this is basically the
+00:29:54 integrated air and missile defense system for the u.s. and allied fleets and so protects you know Carrier Strike
+00:30:04 groups for example from incoming ballistic missile threats aircraft threats cruise missile threats and kind
+00:30:11 of go down the list of the the carriers the fleet that itself is the thing that is being protected the carriers aren't
+00:30:18 serving as a protection for something else well that's that's a little bit of a different application we've actually
+00:30:23 built the version called Aegis ashore which is now deployed in a couple of places around the world so that same
+00:30:31 technology I mean basically it can be used to protect either an ocean-going fleet or a land-based
+00:30:40 activity another one the Thad program so Thad this is the theater high altitude area defense this is to protect
+00:30:50 you know relatively broad areas against sophisticated ballistic missile threats and so now you know it's deployed with a
+00:31:01 lot of us capabilities and now we have international customers that are looking to buy that capability as well and so
+00:31:08 these are systems that defend not just defend militaries and military capabilities but defend population areas
+00:31:16 we saw you know maybe the first public use of these back in the in the first Gulf War with the Patriot systems and
+00:31:24 these are these are the kinds of things that Lockheed Martin delivers and there's a lot of stuff that goes with it
+00:31:31 so think about the radar systems and the sensing systems that cue these the command and control systems that decide
+00:31:39 how you pair a weapon against an incoming threat and then all the human and machine interfaces to make sure that
+00:31:48 they can be operated successfully in very strenuous environments yeah there's a there's some incredible engineering
+00:31:56 that I never find like you but like you said so maybe if we just take a look at Lockheed history broadly maybe even
+00:32:07 looking at skunk works what are the biggest most impressive milestones of innovations if you look at stealth I
+00:32:15 would have called you crazy if you said that's possible at the time and supersonic and hypersonic so traveling
+00:32:24 it first of all traveling at the speed of sound is pretty damn fast and the supersonic and hypersonic three four or
+00:32:31 five times the speed of sound that seems I would also call you crazy if you say you can do that so can you
+00:32:38 tell me how it's possible to do these kinds of things and is there other milestones and an innovation that's
+00:32:46 going on you can talk about yeah well let me start you know on the skunkworks saga and you kind of alluded to it in
+00:32:53 the beginning and skunk works is as much idea as a place and so it's driven really by Kelly Johnson's 14 principles
+00:33:01 and I'm not gonna list all 14 of them off but the idea and this I'm sure will resonate with any engineer who's worked
+00:33:08 on a highly motivated small team before the idea that if you can essentially have a small team of very capable
+00:33:17 capable people who want to work on really hard problems you can do almost anything especially if you kind of
+00:33:26 shield them from bureaucratic influences if you create very tight relationships with your customers so that you have
+00:33:34 that team and shared vision with the customer those are the kinds of things that enable the skunkworks to do these
+00:33:43 these incredible things and you know we listed off a number that you can you brought up stuff and I mean this this
+00:33:49 whole you know I wish I could have seen been rich with a ball-bearing you know rolling across the desk to a general
+00:33:56 officer and saying would you like to have an aircraft that has the radar cross-section of this ball bearing
+00:34:02 probably one of the great you know the least expensive and most effective marketing campaigns in the history of
+00:34:10 the industry so just for people the not familiar I mean the way you detect aircraft does I mean I'm sure there's a
+00:34:16 lot of ways but radar for a longest time yeah there's a big blob they peers in the radar how do you make a plane
+00:34:25 disappear so it looks as big as a ball bearing what's involved in technology wise there what's the broadly sort of it
+00:34:32 the stuff you speak about I'll stick to what's in been Rich's but obviously the geometry of how radar gets reflected and
+00:34:40 the kinds of materials that either reflect or absorb arcum kind of a couple of the critical elements there I mean
+00:34:48 it's a cat-and-mouse game right I mean you know radars get better stealth capabilities kids better and so it's a
+00:34:56 it's a really game of continuous improvement and innovation there I'll leave it at that
+00:35:02 yeah so the idea that something is essentially invisible it says quite fascinating but the other one is flying
+00:35:12 fast so speed of sound is 750 60 miles an hour with this little SuperSonics 3 you know Mach 3 something like that yeah
+00:35:21 we talked about the supersonic obviously and we kind of talked about that is that realm from Mach 1 up through about Mach
+00:35:30 5 and then hypersonic so you know high supersonic speeds would be past Mach 5 and you got to remember I know
+00:35:37 Lockheed Martin and actually other companies have been involved in hypersonic development since the late
+00:35:43 60s you know you think of everything from the x-15 to the Space Shuttle as examples of that I think the difference
+00:35:53 now is if you look around the world particularly the threat environment that we're in today you're starting to see
+00:36:02 you know publicly folks like the Russians and the Chinese saying they have hypersonic weapons capability that
+00:36:13 could threaten us and allied capabilities and also basically you know the claims are these could get around
+00:36:20 defensive systems that are out there today and so there's a real sense of urgency you hear it from folks like the
+00:36:28 Undersecretary of defense for research and engineering dr. Mike Griffin and others in the department of defense that
+00:36:36 hypersonics is is something that's really important to the nation in terms of both parody but also
+00:36:44 defensive capabilities and so that's something that you know we're pleased it's something Lockheed Martin's you
+00:36:50 know had a heritage in we've invested Hardie dollars on our side for many years and we have a number of things
+00:36:57 going on with various US government customers in that field today that we're very excited about so I I would
+00:37:03 anticipate we'll be hearing more about that in the future from our customers and I've actually haven't read much
+00:37:10 about this probably you can't talk about much of it at all but on the defensive side it's the fascinating problem of
+00:37:16 perception of trying to detect things that are really hard to see can you comment on how hard that problem is and
+00:37:27 how how hard is it to stay ahead even if we go back a few decades stay ahead of the competition well maybe I again you
+00:37:34 got to think of these as ongoing the capability development and so think back to the early days of missile defense so
+00:37:42 this would be in the 80s the SDI program and in that timeframe we proved in Lockheed Martin proof that you could hit
+00:37:50 a bullet with a bullet essentially and which is something that had never been done before to take out an incoming
+00:37:57 ballistic missile and so that's led to these incredible hit-to-kill kinds of capabilities pac-3 that's the Patriot
+00:38:07 advanced capability model 3 the Lockheed Martin builds the THAAD system that I that I talked about
+00:38:15 so now hypersonics you know they're different from ballistic systems and so we got to take the next step in
+00:38:23 defensive capability I can leave that there but I can only imagine you know let me just comment sort of Resident
+00:38:32 Engineer it's sad to know that so much that Lockheed has done in the past is classified or today you know and it's
+00:38:42 shrouded in secrecy it has to be by the nature of the application so like what I do so we what we do here at MIT would
+00:38:50 like to inspire young years young scientists and yet in a lucky case some of that engineering has
+00:39:00 to stay quiet how do you think about that how does that make you feel is there a future where more can be shown
+00:39:10 or is it just the nature the nature of this world that has to remain secret it's a good question I think the public
+00:39:23 can see enough of including students who may be in grade school high school college today to understand the kinds of
+00:39:33 really hard problems that we work on and I mean look at the f-35 right and you know obviously a lot of the detailed
+00:39:42 performance levels are sensitive and control but you know we can talk about what an incredible aircraft this is you
+00:39:50 know supersonic super cruise kind of a fighter a a you know stealth capabilities it's a flying information
+00:39:59 you know system in the sky with data fusion sensor fusion capabilities that have never been seen before
+00:40:05 so these are the kinds of things that I believe you know there was these are kinds of things that got me excited when
+00:40:09 I was a student I think these still inspire students today and the other thing and say I mean you know people are
+00:40:18 inspired by space people are inspired by aircraft our employees are also inspired by that sense of mission and I will just
+00:40:29 give you an example I had the privilege to work and lead our GPS programs for some time and that was a case where he
+00:40:39 actually worked on a program that touches billions of people every day and so when I said I worked on GPS everybody
+00:40:45 knew what I was talking about even though they didn't maybe appreciate the technical challenges that went into that
+00:40:54 but I'll tell you I got a briefing one time from a major in the Air Force and he said I go by callsign GPS is
+00:41:05 my passion yeah I love GPS and he was involved in the operational test of the system he said when I was out in Iraq
+00:41:15 and I was on a helicopter Black Hawk helicopter and it was bringing back you know sergeant and handful of troops from
+00:41:25 a deployed location and I you know I said my job is GPS I asked that sergeant he's you know beaten down and kind of
+00:41:33 half asleep and I said what do you think about GPS and he brightened up his eyes lit up and he said well GPS that brings
+00:41:39 me and my troops home every day I love GPS and that's the kind of story where it's like okay I'm really making a
+00:41:46 difference here in the kind of work so that that mission piece is really important the last thing I'll say is
+00:41:53 that and this gets to some of these questions around advanced technologies it's not you know they're not just
+00:42:00 airplanes and spacecraft anymore for people who are excited about advanced software capabilities about AI about
+00:42:07 bringing machine learn the things that we're doing to you know exponentially increase the mission capabilities that
+00:42:14 go on those platforms and those are the kinds of things I think are more and more visible to the public yeah I think
+00:42:22 autonomy especially in flight is super exciting do you do you see if a day here we go back into philosophy future when
+00:42:34 most fighter jets will be highly autonomous to a degree where a human doesn't need to be in the cockpit in
+00:42:41 almost all cases well I mean that's a world that to a certain extent we're in today now these are remotely piloted
+00:42:49 aircraft to be sure but but we have hundreds of thousands of flight hours a year now in remotely piloted aircraft
+00:43:00 and then if you take the f-35 there I mean there are huge layers I guess in levels of autonomy built into that aircraft
+00:43:10 so that the pilot is essentially more of a mission manager rather than doing the data you know the second second elements
+00:43:18 of flying the aircrafts on in some ways it's the easiest aircraft in the world to fly and kind of funny story on that
+00:43:25 so I don't know if you know how aircraft carrier landings work but basically there's what's called a tail hook and it
+00:43:33 catches wires on the deck of the carrier and that's what brings the the aircraft to a screeching halt Britain and there's
+00:43:42 typically three of these wires so if you miss the first the second one you catch the the next one right and you know we
+00:43:50 got a little criticism I don't know how true this story is what we got a little criticism the f-35 is so perfect it
+00:43:56 always gets the second wires we're wearing out the wire I guess it always hits that one so that but that's the
+00:44:03 kind of autonomy that just makes these that essentially up levels what the human is doing two more that mission
+00:44:09 managers so much of that landing by that thirty-five is autonomous well it's just you know the control systems are such
+00:44:16 that you really have dialed out the variability and what that comes with all the environmental condition wearing it
+00:44:24 out so my point is to certain extent that world is here today do I think that we're gonna see a day anytime soon when
+00:44:31 there are no humans in the cockpit I don't believe that but I do think we're gonna see much more human machine
+00:44:38 teaming and we're gonna see that much more at the tactical edge and we did a demo you asked about what the skunkworks
+00:44:44 is doing these days and so this is what something I can talk about but we did a demo with the Air Force Research
+00:44:51 Laboratory or laboratory we called it have Rader and so using an f-16 as an autonomous wingman and we
+00:45:02 demonstrated all kinds of maneuvers and verus mission scenarios with the autonomous f-16 being that so-called
+00:45:10 loyal or trusted wingman and so those are the kinds of things that you know we've shown what is possible now given
+00:45:18 that you've up leveled that pilot to be a mission manager now they can control multiple other aircraft they can almost
+00:45:24 as extensions of your own aircraft flying alongside with you so that's that's another example of how this is
+00:45:33 really coming to fruition and then yeah I mentioned the the landings but think about just the implications for humans
+00:45:40 and flight safety and this goes a little bit back to the discussion we were having about how do you continuously
+00:45:48 improve the level of safety through automation while working through the complexities that Automation introduces
+00:45:54 so one of the challenges that you have in high-performance fighter aircraft is what's called G lock so this is G
+00:46:00 induced loss of consciousness so you pull 9 G's you're wearing a pressure suit that's not enough to keep the blood
+00:46:06 going to your brain you have a blackout right right and of course that's bad if you happen to be flying low you know
+00:46:14 near the deck and you know earng obstacle or terrain environment and so we developed the system and our
+00:46:23 Aeronautics division called Auto G caso autonomous ground collision avoidance system and we built that into the f-16
+00:46:31 it's actually saved seven aircraft eight pilots already and a relatively short time it's been deployed it was so
+00:46:39 successful that the Air Force said hey we need to have this in the f-35 right away so we've actually gone done testing
+00:46:46 and that now on the f-35 and we've also integrated an autonomous air collision avoidance system so I think the
+00:46:53 air-to-air problem so now it's the integrated collision avoidance system but these are the kinds of capabilities
+00:46:59 you know I wouldn't call them a high I mean they're very sophisticated models you know of the aircraft dynamics
+00:47:08 coupled with the terrain models to be able to predict when essentially the pilot is doing something that is going
+00:47:15 to take the aircraft into or the pilots not doing something in this case but those it just gives you an example of
+00:47:23 how autonomy can be really a lifesaver in today's world it's like a autonomous emerges automated emergency braking in
+00:47:33 cars but is there any exploration of perception of for example detecting G lock that the pilot has is out so as
+00:47:42 opposed to perceiving the external environment to infer that the pilot is out but actually perceiving the Pala
+00:47:48 directly yeah this is one of those cases where you'd like to you know not take action if you think the pilots there and
+00:47:54 it's almost like systems that try to detect if a drivers falling asleep on the road right with limited success so I
+00:48:02 mean this is what I call the system of last resort right where if the if the aircraft has determined that it's going
+00:48:09 into the terrain get it out of there and and this is not something that we're just doing in the
+00:48:16 in the aircraft world and I wanted to highlight we have a technology we call matrix but this is developed at sikorsky
+00:48:23 innovations the whole idea there is what we call optimal piloting so not optional piloting or unpiloted but optimal
+00:48:35 piloting so an FAA certified system so you have a high degree of confidence it's generally pretty deterministic so
+00:48:42 if we know that I'll do in different situations but effectively be able to fly mission with two pilots one pilot no
+00:48:54 pilots and and have if you can think of it almost as like a dial of the level of autonomy that you want but able so it's
+00:49:01 running in the background at all times and able to pick up tasks whether it's you know sort of autopilot kinds of
+00:49:10 tasks or more sophisticated path planning kinds of activities to be able to do things like for example land on an
+00:49:15 oil rig you know in the North Sea in bad weather zero zero conditions and you can imagine
+00:49:21 of course there's a lot of military utility to capability like that you know you could have an aircraft that you want
+00:49:28 to send out for a crewed mission but then in the at night if you want to use it to deliver supplies in an unmanned
+00:49:35 mode that that could be done as well and so there's there's there's clear advantages there but think about on the
+00:49:42 commercial side you know if you're an aircraft taking you're gonna fly out to this oil rig if you get out there and
+00:49:49 you can't land then you gotta bring all those people back reschedule another flight pay the overtime for the crew
+00:49:54 that you just brought back because they didn't get where they're gonna pay for the or for the folks that are out there
+00:50:00 and the oil rig this is real economic you know these are dollars and cents kinds of advantages we're bringing in
+00:50:06 the commercial world as well so this is a difficult question from the a space that I would love it if we're able to
+00:50:13 comment so a lot of this autonomy in AI you've mentioned just now as this empowering effect that one is the last
+00:50:20 resort it keeps you safe the other is there's a with the teaming and in general assistive assistive AI and I
+00:50:33 think there's a there's always a race so the world is full of the world is complex it's full of bad actors so
+00:50:43 there's there's often a race to make sure that we keep this this country safe right but with AI there is a concern as
+00:50:55 a slightly different race there's a lot of people in the eye space they're concerned about the AI arms race that as
+00:51:02 opposed to you the United States becoming you know having the best technology and therefore keeping us safe
+00:51:10 we even we loose ability to keep control of it so this the AI arms race getting away from all of us humans so do you
+00:51:19 share this worry do you share this concern when we're talking about military applications that too much
+00:51:27 control and decision-making capabilities giving too after AI well I don't see it happening
+00:51:35 today and in fact this is something from a policy perspective you know it's obviously a very dynamic space but the
+00:51:42 Department of Defense has put quite a bit of thought into that and maybe before talking about the policy I'll
+00:51:49 just talk about some of the why and you alluded to it being a sort of a complicated and a little bit scary world
+00:51:56 out there but there's some big things happening today you hear a lot of talk now about a return to great powers
+00:52:02 competition particularly around China and Russia with the US but there are some other big players out there as well
+00:52:13 and what we've seen is the deployment of some very I'd say concerning new weapon systems you know particularly with
+00:52:24 Russia and breaching some of the irbm intermediate range ballistic missile treaties that's been in the news a lot
+00:52:31 you know the building of Islands artificial islands in the South China Sea by the Chinese and then arming those
+00:52:42 Islands the annexation of Crimea by Russia and the invasion of Ukraine and so there's there's some pretty scary
+00:52:48 things and then you add on top of that the North Korean threat has certainly not gone away there's a lot going on in
+00:52:55 the Middle East with Iran in particular and we see this global terrorism threat has not abated right so there are a lot
+00:53:06 of reasons to look for technology to assist with those problems whether it's AI or other technologies like hypersonic
+00:53:14 search which we discussed so now let me give just a couple of hypotheticals so people react sort of in the second
+00:53:25 timeframe right you know your photon hitting your eye - you know movement is you know on the order of a few tenths of
+00:53:33 a second kinds of processing times roughly speaking you know computers are operating in the Nano
+00:53:42 second timescale right so just to bring home what that means a nanosecond to a second is like a second to 32 years so
+00:53:53 seconds on the battlefield in that sense literally our lifetimes and so if you can bring in autonomous or AI enabled
+00:54:04 capability that will enable the human to shrink maybe you've heard the term the Gouda loop so this whole idea that a
+00:54:12 typical battlefield decision is characterized by observe so information comes in orient how does that what does
+00:54:22 that mean in the context decide what do I do about it and then act take that action if you can use these capabilities
+00:54:30 to compress that Oda loop to stay inside what your adversary is doing that's an incredible powerful force on the
+00:54:38 battlefield that's a really nice way to put it at the role of AI and competing in general has a lot to benefit from
+00:54:46 just decreasing from thirty two years to one second as opposed to on the scale of seconds and minutes and hours making
+00:54:52 decisions that humans are better at thinking and it actually goes the other way too so that's on the short timescale
+00:54:58 so humans kind of work in the you know one second two seconds to eight hours after eight hours you get tired you know
+00:55:05 you gotta go to the bathroom whatever the case might be so there's this whole range of other things think about you
+00:55:15 know surveillance and guarding you know facilities think about moving material logistics sustainment a lot of these
+00:55:22 what they called old dirty and dangerous things that you need to have sustained activity but it's sort of beyond the
+00:55:28 length of time that a human can practically do as well so there's this this range of things that are critical
+00:55:38 in military and defense applications that AI and autonomy are particularly well suited to now the interesting
+00:55:46 question that you brought up is okay how do you make sure that stays within human control net so that was the context for
+00:55:53 now the policy and so there is a DoD directive called 3009 because that's the way we name stuff in this world and and
+00:56:03 but it you know and I'd say it's well worth reading it's only a couple pages long but it makes some key points and
+00:56:09 it's really around you know making sure there's human agency and control over use of semi autonomous and autonomous
+00:56:21 weapon systems making sure that these systems are tested verified and evaluated in realistic real world type
+00:56:29 scenarios making sure that the people are actually trained on how to use them making sure the systems have
+00:56:36 human-machine interfaces that can show what state they're in and what kinds of decisions they're making making sure
+00:56:43 that you establish doctrine and tactics and techniques and procedures for the use of these kinds of systems and so
+00:56:51 right and by the way I mean the this none of this is easy but it I'm just trying to lay kind of the picture of how
+00:56:59 the US has said this is the way we're going to treat AI and autonomous systems that it's not a free-for-all and like
+00:57:07 there are rules of war and rules of engagement with other kinds of systems think chemical weapons biological
+00:57:13 weapons we need to think about the same sorts of implications and this is something that's really important for
+00:57:20 Lockheed Martin I obviously we are 100% complying with our customer and the policies and regulations but I mean AI
+00:57:31 is an incredible enabler say within the walls of Lockheed Martin in terms of improving production efficiency and
+00:57:37 doing helping engineers doing generative design improving logistics driving down energy costs I mean there's so many application
+00:57:46 but we're you know we had we're also very interested in so many elements of ethical application you know within
+00:57:52 Lockheed Martin so we need to make sure that things like privacy is is taken care of that we do everything we can to
+00:58:02 drive out bias in AI enabled kinds of systems that we make sure that humans are involved in decisions that were not
+00:58:09 just delegating accountability to algorithms and so it for us you know it all comes back I talked about culture
+00:58:15 before and it comes back to sort of the Lockheed Martin culture and our core values and so it's pretty simple for us
+00:58:22 and do what's right respect others perform with excellence and now how do we tie that back to the ethical
+00:58:30 principles of will govern how AI is used within Lockheed Martin and we actually have a world so you might not know this
+00:58:37 but they're actually awards for ethics programs Lockheed Martin's had a recognized ethics program for many years
+00:58:43 and this is one of the things that our ethics team is working with our engineering team on
+00:58:49 one of the miracles to me perhaps a layman again I was born in the Soviet Union so that I have echoes at least in
+00:58:58 my family history of World War two and the Cold War give a sense of why human civilization has not destroyed itself
+00:59:08 their nuclear war so nuclear deterrence and the thinking about the future there's this technology of a role to
+00:59:16 play here and what is the long-term future of nuclear deterrence look like yeah it's you know this is one of those
+00:59:26 hard hard questions and I should note that Lockheed Martin is you know both proud and privileged to play a part in
+00:59:33 multiple legs of our nuclear and strategic deterrent systems like the Trident submarine launched ballistic
+00:59:45 missiles you know you talk about you know is there still a possibility the human race could destroy itself I'd say
+00:59:51 that possibility is real but interestingly in some sense I think the strategic deterrence have prevented the
+01:00:02 kinds of you know incredibly destruct the world wars that we saw in the first half of the 20th century now things have
+01:00:10 gotten more complicated since that time and since the Cold War is more of a multipolar great powers world today just
+01:00:18 to give you an example back then you know there were you know in the in the Cold War timeframe just a handful of
+01:00:24 nations that had ballistic missile capability by last count and this is a few years old there's over 70 nations
+01:00:32 today that have that similar kinds of numbers in terms of space-based capabilities so so the world has gotten
+01:00:42 more complex and more challenging and the threats I think have proliferated in you know the the nation today is in the
+01:00:53 middle of a recapitalization of our strategic deterrent I look at that as one of the most important things that
+01:01:01 our nation can do what is involved in deterrence is it is it being ready to attack or is it the defensive systems
+01:01:12 that catch attacks a little bit of both and so it's a complicated game theoretical kind of program but
+01:01:22 ultimately we are trying to prevent the use of any of these weapons and the theory behind prevention is that even if
+01:01:32 an adversary uses a weapon against you you have the capability to essentially strike back and do harm to them that's unacceptable
+01:01:43 and so that will deter them from you know making use of these weapon systems the deterrence calculus has changed of
+01:01:53 course with you know more nations now having these kinds of weapons but I think you know from my perspective it's
+01:02:02 very important you know to maintain a strategic deterrent you have to have systems that you will know you know will
+01:02:11 work when they're required to work you know that they have to be adaptable to a variety of different scenarios in
+01:02:18 today's world and so that's what this recapitalization of systems that were built over in previous decades making
+01:02:25 sure that they are appropriate not just for today but for the decades to come so the other thing I'd really like to note
+01:02:34 is strategic deterrence has a very different character today you know we used to think of weapons of mass
+01:02:43 destruction in terms of nuclear chemical biological and today we have a cyber threat we've seen examples of the use of
+01:02:56 cyber weaponry and if you think about the possibilities of using cyber capabilities or an adverse
+01:03:05 attacking the us to take out things like critical infrastructure electrical grids water systems those are scenarios that
+01:03:17 are strategic in nature to the survival of a nation as well so that is the kind of world that we live in today and you
+01:03:26 know part of my hope on this is one that we can also develop technical or technological systems perhaps enabled by
+01:03:35 a and athon imme that will allow us to contain and to fight back against these kinds of new threats that were not
+01:03:44 conceived when we first developed our strategic deterrence yeah I know that Lockheed is involved in cyber I saw I
+01:03:52 studied that you mentioned that it's an incredibly a nuclear almost seems easier than cyber because there's so many
+01:04:00 attack by there's so many ways that cyber can evolve it's such an uncertain future but talking about engineering
+01:04:07 with the mission I mean in this case that you're engineering systems that basically saved the world
+01:04:16 well like like I said we were privileged to deuce to work on some very challenging problems for for very
+01:04:23 critical customers here in the US and with our allies abroad as well Lockheed bills both military and
+01:04:32 non-military systems and perhaps the future of Lockheed may be more in non-military applications if you talk
+01:04:39 about space and beyond I see that as a preface to a difficult question so President Eisenhower in 1961 in his
+01:04:46 farewell address talked about the military-industrial complex and that it shouldn't grow beyond what is needed so
+01:04:55 what are your thoughts on those words on the military-industrial complex on the concern of growth of their developments
+01:05:07 beyond what may be needed that what where it may be needed is a critical phrase of course
+01:05:14 and and I think it is worth pointing out as you noted that Lockheed Martin we are in a number of commercial businesses
+01:05:22 from energy to space to commercial aircraft and so I wouldn't and I wouldn't neglect the importance of those
+01:05:32 parts of our business as well I think the world is dynamic and you know there was a time it doesn't seem that long ago
+01:05:40 to me it was I was a graduate student here at MIT and we were talking about the peace dividend at the end of the
+01:05:47 Cold War if you look at expenditure on military systems as a fraction of GDP were far below peak levels of the past
+01:05:58 and to me at least it looks like a time where you're seeing global threats changing in a way that would warrant
+01:06:06 you know relevant relevant investments in defense defensive capabilities the other thing I'd note for military and
+01:06:20 defensive systems it's it's not quite a free market right we don't sell to you know people on the street and that
+01:06:28 warrants a very close partnership between I'd say the customers and the people that design build and maintain
+01:06:40 these systems because of the very unique nature the the very difficult requirements the very great importance
+01:06:50 on you know safety and then you know operating the way they're intended every time and so that does create and it's
+01:06:58 frankly it's one of Lockheed Martin's great strengths is that we have this expertise built up over many years in
+01:07:05 partnership with our customers to be able to design and build these systems that meet these very unique mission needs
+01:07:13 yeah because building those system is very costly it's very little room for mistake I mean it's yeah just been
+01:07:19 Rich's book and so on just tells the story it's never I can just reading it if you're an engineer it's reads like a
+01:07:25 thriller okay let me let's go back to space for say I guess I'm always happy to go back to
+01:07:36 space so a few quick may be out there a fun questions maybe a little provocative what are your thoughts on the efforts of
+01:07:48 the new folks SpaceX and you know musk what are your thoughts about what Elon is doing you see Miss competition
+01:07:55 do you enjoy a competition Oh what are your thoughts yeah first of all certainly you on
+01:08:02 I'd say SpaceX and some of the and some of those other ventures are definitely a competitive force in the in the space
+01:08:10 industry and do we like competition yeah we do and we think we're very strong
+01:08:17 competitors I think it's yeah competition is what the US is founded on and in a lot of ways and always coming
+01:08:26 up with a better way and I I think it's really important to continue you know have fresh eyes coming in new innovation
+01:08:34 I do think it's important to have level playing fields and so you want to make sure that that you're not giving
+01:08:41 different requirements to different players but you know I tell people you know I spent a lot of time he places
+01:08:48 like MIT I'm going to be at the MIT beaver work Summer Institute over the weekend here and I tell people this is
+01:08:55 the most exciting time to be in the space business in my entire life and it is this explosion of new capabilities
+01:09:05 that have been driven by things like the you know the massive increase in computing power things like the massive
+01:09:13 increase in comms capabilities advanced and additive manufacturing are are really bringing down the barriers to
+01:09:20 entry in this field and it's driving just incredible innovation and it's happening at startups but it's also
+01:09:25 happening at Lockheed Martin may not realize this but Lockheed Martin working with Stanford actually built the first
+01:09:32 cubes that was launched here out of the u.s. that was called quakes and we did that with stellar solutions this
+01:09:41 right around just after 2000 I guess and so we've been in that you know from the very beginning and you know I I talked
+01:09:49 about some of these like you know Maya and Orion but you know we're in the middle of what we call smart sets and
+01:09:56 software-defined satellites that can essentially restructure and re map their purpose their mission on orbit to give
+01:10:05 you almost unlimited flexibility for these satellites over their lifetimes so those are just a couple of examples but
+01:10:12 yeah this this is a great time to be in space absolutely so Wright brothers flew for the first
+01:10:20 time 116 years ago so now we have supersonic stealth planes and all the technology we've talked about what
+01:10:28 innovations obviously you can't predict the future but do you see Lockheed in the next hundred years if you take that
+01:10:36 same leap how will the world of technology engineering change I know it's an impossible question but nobody
+01:10:42 could have predicted that we could even fly a hundred and twenty years ago so what do you think is the edge of
+01:10:51 possibility that we're going to be exploring the next I don't know that there is an edge I you know we've been
+01:11:03 the Lockheed brothers and Glenn L Martin starting their companies you know basement of a church and a old you know
+01:11:12 service station we're very different companies today than we were back then right and that's because we've
+01:11:19 continuously reinvented ourselves over the all of those decades I think it's fair to say yeah I know this for sure
+01:11:26 the world of the future it's going to move faster it's going to be more connected it's going to be more
+01:11:33 autonomous and it's going to be more complex than it is today and so this is the world you know as a
+01:11:40 CTL Lockheed Martin that I think about what are the technologies that we have to invest in whether it's things like AI
+01:11:46 and autonomy you know you can think about quantum computing which is an area that we've invested in to try to stay
+01:11:53 of these technological changes and frankly some of the threats that are out there I mean I believe that we're going
+01:11:59 to be out there in the solar system that we're gonna be defending and defending well against probably you know military
+01:12:06 threats that nobody has even thought about today we are going to be we're going to use these capabilities to have
+01:12:15 far greater knowledge of our own planet the depths of the oceans you know all the way to the upper reaches the
+01:12:21 atmosphere and everything out to the Sun into the edge of the solar system so so that's what I look forward to and I I'm
+01:12:30 excited I mean just looking ahead in the next decade or so to the steps that I see ahead of us in that time I don't
+01:12:38 think there's a better place to end K okay thank you so much Lexus been a real pleasure and sorry it
